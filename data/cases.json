@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "name": "Awesome Opus Gallery · 帧选",
+  "name": "Awesome AI Motion",
   "cases": [
     {
       "id": "2102787937482252537",
@@ -42,7 +42,8 @@
         "sourceUrl": "https://x.com/deedydas/status/2102787937482252537",
         "checkedAt": "2026-09-27T04:57:11.919352+00:00",
         "translationZh": "为一家从事推理服务的现代创业公司，制作一支现代、精致、节奏鲜明的视频。",
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 4697,
@@ -71,7 +72,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A one-line prompt for an inference startup launch"
+      "titleEn": "A one-line prompt for an inference startup launch",
+      "summaryEn": "A concise launch film that makes an abstract inference service easier to explain."
     },
     {
       "id": "2103315922098470926",
@@ -113,7 +115,8 @@
         "sourceUrl": "https://x.com/stephanlivera/status/2103315922098470926",
         "checkedAt": "2026-09-27T04:57:12.834518+00:00",
         "translationZh": "制作一支充满动感的 15 秒动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集短片。全力发挥。",
-        "noteZh": "作者标明使用 Max effort。"
+        "noteZh": "作者标明使用 Max effort。",
+        "noteEn": "The creator reports using Max effort."
       },
       "metrics": {
         "bookmarks": 11692,
@@ -142,7 +145,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A 15-second motion design showreel"
+      "titleEn": "A 15-second motion design showreel",
+      "summaryEn": "A short brief gives the model freedom to choose scenes, materials and transitions."
     },
     {
       "id": "2103273003555402193",
@@ -184,7 +188,8 @@
         "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
         "checkedAt": "2026-09-27T04:57:12.834748+00:00",
         "translationZh": null,
-        "noteZh": "作者公开的模板；需要回答 UI 状态、配色和歌曲等输入问题。保留完整原文，中文简介不替代模板。"
+        "noteZh": "作者公开的模板；需要回答 UI 状态、配色和歌曲等输入问题。保留完整原文，中文简介不替代模板。",
+        "noteEn": "A reusable template: supply UI states, colors and music. The full original is preserved."
       },
       "metrics": {
         "bookmarks": 19303,
@@ -213,7 +218,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "One shape, a seamless UI morph loop"
+      "titleEn": "One shape, a seamless UI morph loop",
+      "summaryEn": "Buttons, loaders, players and charts morph continuously in time with music."
     },
     {
       "id": "2102583898865873225",
@@ -255,7 +261,8 @@
         "sourceUrl": "https://x.com/akokoi1/status/2102584165220962502",
         "checkedAt": "2026-09-27T04:57:13.801631+00:00",
         "translationZh": null,
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 762,
@@ -284,7 +291,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "Five thousand years of Chinese history"
+      "titleEn": "Five thousand years of Chinese history",
+      "summaryEn": "A one-sentence Chinese prompt turns a historical topic into a line-art explainer."
     },
     {
       "id": "2102606609574941028",
@@ -326,7 +334,8 @@
         "sourceUrl": "https://x.com/akokoi1/status/2102606609574941028",
         "checkedAt": "2026-09-27T04:57:14.252302+00:00",
         "translationZh": null,
-        "noteZh": "作者流程另外准备 TTS.md 与语音服务配置；原文中的配置名称不是仓库提供的凭据。"
+        "noteZh": "作者流程另外准备 TTS.md 与语音服务配置；原文中的配置名称不是仓库提供的凭据。",
+        "noteEn": "Requires TTS.md and a configured voice service. Configuration names in the prompt are not credentials supplied by this repository."
       },
       "metrics": {
         "bookmarks": 810,
@@ -355,7 +364,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "Atmospheric circulation explained"
+      "titleEn": "Atmospheric circulation explained",
+      "summaryEn": "Geography, bilingual captions and narration are combined in an educational animation."
     },
     {
       "id": "2102853258582880547",
@@ -397,7 +407,8 @@
         "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
         "checkedAt": "2026-09-27T04:57:14.252018+00:00",
         "translationZh": "我们来做个小测试。你能用 JavaScript 或 HTML（选择你认为效果最好的方式）渲染一段配方动态图形动画，完整展示从空杯到调好鸡尾酒的过程吗？采用讲解视频风格，在原料加入杯中时显示原料和用量。时长应为 30 秒。",
-        "noteZh": "作者提供了一张参考图，使用时需自行准备对应配方或参考图。"
+        "noteZh": "作者提供了一张参考图，使用时需自行准备对应配方或参考图。",
+        "noteEn": "The creator supplied a reference image. Bring your own recipe or reference."
       },
       "metrics": {
         "bookmarks": 1442,
@@ -426,7 +437,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "An animated cocktail recipe"
+      "titleEn": "An animated cocktail recipe",
+      "summaryEn": "Ingredients, names and quantities appear as a cocktail is built step by step."
     },
     {
       "id": "2103116235009347650",
@@ -468,7 +480,8 @@
         "sourceUrl": "https://x.com/WinterArc2125/status/2103116689944502720",
         "checkedAt": "2026-09-27T04:57:14.710759+00:00",
         "translationZh": null,
-        "noteZh": "原文要求参考随附绘画，属于有参考素材的长片任务；作者记录的制作与渲染时间较长。"
+        "noteZh": "原文要求参考随附绘画，属于有参考素材的长片任务；作者记录的制作与渲染时间较长。",
+        "noteEn": "Requires reference paintings. The creator describes a long production and rendering process."
       },
       "metrics": {
         "bookmarks": 272,
@@ -497,7 +510,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "The Battle of Austerlitz in code"
+      "titleEn": "The Battle of Austerlitz in code",
+      "summaryEn": "A long-form historical film with terrain, camera work and publicly shared source code."
     },
     {
       "id": "2102827887732932956",
@@ -539,7 +553,8 @@
         "sourceUrl": "https://x.com/AxtonLiu/status/2102827887732932956",
         "checkedAt": "2026-09-27T04:57:15.123183+00:00",
         "translationZh": null,
-        "noteZh": "需要自己的 short-1.mp4。提示词中的人物指原视频讲述者。"
+        "noteZh": "需要自己的 short-1.mp4。提示词中的人物指原视频讲述者。",
+        "noteEn": "Requires your own short-1.mp4. The person named in the prompt is the speaker in the source footage."
       },
       "metrics": {
         "bookmarks": 411,
@@ -568,7 +583,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "Turn a talking-head video into a line-art explainer"
+      "titleEn": "Turn a talking-head video into a line-art explainer",
+      "summaryEn": "The original voice, captions and duration are retained while the main footage becomes animation."
     },
     {
       "id": "2103511590884815282",
@@ -610,7 +626,8 @@
         "sourceUrl": "https://x.com/sonnylazuardi/status/2103660301132685418",
         "checkedAt": "2026-09-27T04:57:15.560942+00:00",
         "translationZh": "制作一支动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集。全力发挥。\n\n生成一支讲述精彩故事的短片：印度尼西亚的历史，从第一任总统到现在，用有趣的故事板给我惊喜。",
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 102,
@@ -639,7 +656,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "81 years of Indonesian history"
+      "titleEn": "81 years of Indonesian history",
+      "summaryEn": "Presidents and maps connect a historical narrative with regionally inspired music."
     },
     {
       "id": "2102476258948927543",
@@ -681,7 +699,8 @@
         "sourceUrl": "https://x.com/majidmanzarpour/status/2102476499387383834",
         "checkedAt": "2026-09-27T04:57:15.970428+00:00",
         "translationZh": null,
-        "noteZh": "纯 HTML / Canvas 2D 的规格型提示词；无需外部素材。"
+        "noteZh": "纯 HTML / Canvas 2D 的规格型提示词；无需外部素材。",
+        "noteEn": "A standalone HTML / Canvas 2D specification with no external assets required."
       },
       "metrics": {
         "bookmarks": 2639,
@@ -710,7 +729,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A pixel wizard casting spells"
+      "titleEn": "A pixel wizard casting spells",
+      "summaryEn": "A detailed specification covers pixel dimensions, palette, character motion and looping."
     },
     {
       "id": "2102515055116063144",
@@ -752,7 +772,8 @@
         "sourceUrl": "https://x.com/riku720720/status/2102515058010132554",
         "checkedAt": "2026-09-27T04:57:18.274317+00:00",
         "translationZh": null,
-        "noteZh": "日文完整规格，包含角色、攻击预警、速度感与循环要求；以下原文保持日文，不将本站简介冒充全文翻译。"
+        "noteZh": "日文完整规格，包含角色、攻击预警、速度感与循环要求；以下原文保持日文，不将本站简介冒充全文翻译。",
+        "noteEn": "The full specification is in Japanese. It covers characters, warnings, speed and looping."
       },
       "metrics": {
         "bookmarks": 842,
@@ -781,7 +802,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A pixel race on a rainbow road"
+      "titleEn": "A pixel race on a rainbow road",
+      "summaryEn": "Running, attack warnings and dodging form a continuous pixel-art action sequence."
     },
     {
       "id": "2102801274173587569",
@@ -823,6 +845,7 @@
         "sourceUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
         "checkedAt": "2026-09-27T04:57:19.515511+00:00",
         "noteZh": "作者原文依赖参考 MP4、音轨及外部生成服务，并提到较高服务预算。它不是无素材、零成本的一句话案例。",
+        "noteEn": "Requires reference video, audio and external generation services; the original mentions a substantial service budget.",
         "display": "source_link"
       },
       "metrics": {
@@ -852,7 +875,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "Claude Pop: a mixed-workflow music video"
+      "titleEn": "Claude Pop: a mixed-workflow music video",
+      "summaryEn": "A music video combines references, character assets, external generation and coded animation."
     },
     {
       "id": "2103381720410333314",
@@ -894,7 +918,8 @@
         "sourceUrl": "https://x.com/VincentWei93/status/2103494376118985207",
         "checkedAt": "2026-09-27T04:57:20.040550+00:00",
         "translationZh": null,
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 1207,
@@ -923,7 +948,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "The rise of Anthropic"
+      "titleEn": "The rise of Anthropic",
+      "summaryEn": "A short Chinese instruction asks for a company story, music and sound effects."
     },
     {
       "id": "2103918792845963545",
@@ -965,7 +991,8 @@
         "sourceUrl": "https://x.com/achxvi/status/2103938227786654016",
         "checkedAt": "2026-09-27T04:57:21.359892+00:00",
         "translationZh": null,
-        "noteZh": "作者原文包含 ElevenLabs 密钥的玩笑占位符，不是真实密钥；实际使用需自行配置配音服务。"
+        "noteZh": "作者原文包含 ElevenLabs 密钥的玩笑占位符，不是真实密钥；实际使用需自行配置配音服务。",
+        "noteEn": "The original contains a joke placeholder for an ElevenLabs key, not a working credential. Configure your own voice service."
       },
       "metrics": {
         "bookmarks": 2005,
@@ -994,7 +1021,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A character-led Pocketsflow product explainer"
+      "titleEn": "A character-led Pocketsflow product explainer",
+      "summaryEn": "Portfolio-style motion graphics and a speaking character introduce a product."
     },
     {
       "id": "2103099194693271874",
@@ -1036,6 +1064,7 @@
         "sourceUrl": "https://x.com/pradeepXkapoor/status/2103176289482154373",
         "checkedAt": "2026-09-27T04:57:21.737901+00:00",
         "noteZh": "长篇制作规格，含角色、骨骼、十二种世界风格、声音和交付检查；原文开头的拼写保持不改。",
+        "noteEn": "A long production specification covering character rigging, twelve world styles, sound and delivery checks. The opening typo is preserved.",
         "display": "source_link"
       },
       "metrics": {
@@ -1065,7 +1094,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "Pip travels through twelve visual styles"
+      "titleEn": "Pip travels through twelve visual styles",
+      "summaryEn": "A detailed character and scene brief keeps a robot consistent across visual styles."
     },
     {
       "id": "2103499977632997524",
@@ -1107,7 +1137,8 @@
         "sourceUrl": "https://x.com/alex_prompter/status/2103499977632997524",
         "checkedAt": "2026-09-27T04:57:21.794930+00:00",
         "translationZh": "扮演专业动态设计师。用单个 HTML 页面，为我的业务制作一支 30 秒动画讲解。包含五个场景：客户的问题、我做什么、如何用三步实现、一个证明点，以及结尾的我的名字。使用醒目文字、流畅转场和我的品牌配色。我的业务：[描述你卖什么、面向谁以及品牌颜色]。",
-        "noteZh": "方括号内容需要换成自己的业务信息。"
+        "noteZh": "方括号内容需要换成自己的业务信息。",
+        "noteEn": "Replace bracketed placeholders with your own business information."
       },
       "metrics": {
         "bookmarks": 659,
@@ -1124,7 +1155,8 @@
       },
       "discoveredVia": "https://github.com/joeseesun/opus-video-prompts",
       "codeUrl": null,
-      "titleEn": "Explain a business in five scenes"
+      "titleEn": "Explain a business in five scenes",
+      "summaryEn": "Problem, solution, steps, evidence and branding form a 30-second business explainer."
     },
     {
       "id": "2103576084499358051",
@@ -1166,7 +1198,8 @@
         "sourceUrl": "https://x.com/leonabboud/status/2103576084499358051",
         "checkedAt": "2026-09-27T04:57:22.131509+00:00",
         "translationZh": "制作一支充满动感的 15 秒动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集短片。全力发挥。",
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 642,
@@ -1183,7 +1216,8 @@
       },
       "discoveredVia": "Frame Select local collection",
       "codeUrl": null,
-      "titleEn": "Leon’s 15-second motion design reel"
+      "titleEn": "Leon’s 15-second motion design reel",
+      "summaryEn": "The same short prompt as another showreel produces different camera and material choices."
     },
     {
       "id": "2104044910769016888",
@@ -1225,7 +1259,8 @@
         "sourceUrl": "https://x.com/Yunn260414/status/2104044910769016888",
         "checkedAt": "2026-09-27T04:57:52.681788+00:00",
         "translationZh": null,
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 2,
@@ -1242,7 +1277,8 @@
       },
       "discoveredVia": "Grok search 2026-09-27",
       "codeUrl": null,
-      "titleEn": "Git explained for beginners"
+      "titleEn": "Git explained for beginners",
+      "summaryEn": "A beginner audience and specific commands guide a narrated Chinese Git tutorial."
     },
     {
       "id": "2103683057689522564",
@@ -1284,7 +1320,8 @@
         "sourceUrl": "https://x.com/dotey/status/2103683057689522564",
         "checkedAt": "2026-09-27T04:57:53.594715+00:00",
         "translationZh": null,
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 1457,
@@ -1301,7 +1338,8 @@
       },
       "discoveredVia": "Grok search 2026-09-27",
       "codeUrl": null,
-      "titleEn": "Transformers: from intuition to mathematics"
+      "titleEn": "Transformers: from intuition to mathematics",
+      "summaryEn": "A technical explainer starts with intuition before covering attention and mathematical details."
     },
     {
       "id": "2104039666093572362",
@@ -1343,7 +1381,8 @@
         "sourceUrl": "https://x.com/feiflow/status/2104039666093572362",
         "checkedAt": "2026-09-27T04:57:54.066837+00:00",
         "translationZh": null,
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 0,
@@ -1360,7 +1399,8 @@
       },
       "discoveredVia": "Grok search 2026-09-27",
       "codeUrl": "https://github.com/deckflow/deckuse",
-      "titleEn": "A promotional animation for deckuse"
+      "titleEn": "A promotional animation for deckuse",
+      "summaryEn": "A concise prompt asks for motion, music and sound effects around an open-source product."
     },
     {
       "id": "2103557735086428547",
@@ -1402,7 +1442,8 @@
         "sourceUrl": "https://x.com/kloss_xyz/status/2103560107921723834",
         "checkedAt": "2026-09-27T04:57:54.506678+00:00",
         "translationZh": "制作一支 16:9、90 秒的动态图形视频，展示你作为动态设计师的实力与创意极限，就像用于简历的作品集。使用顶级声音设计，不要合成器音色。全力发挥，创作原创且易传播的钢琴配乐。导出适合社交媒体的 1080p MP4。",
-        "noteZh": null
+        "noteZh": null,
+        "noteEn": null
       },
       "metrics": {
         "bookmarks": 70,
@@ -1431,7 +1472,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "90 seconds of motion design and original piano"
+      "titleEn": "90 seconds of motion design and original piano",
+      "summaryEn": "A showreel brief adds an audio direction, original piano and export specifications."
     },
     {
       "id": "2103483957266268381",
@@ -1473,7 +1515,8 @@
         "sourceUrl": "https://x.com/verbove/status/2103483957266268381",
         "checkedAt": "2026-09-27T04:59:25.095860+00:00",
         "translationZh": null,
-        "noteZh": "这是作者公开的可复用模板结构，另外提到曾提供参考动效。需要填写产品、URL、真实数据与品牌信息。"
+        "noteZh": "这是作者公开的可复用模板结构，另外提到曾提供参考动效。需要填写产品、URL、真实数据与品牌信息。",
+        "noteEn": "A reusable prompt structure. The creator also supplied motion references. Fill in the product, URL, real data and brand."
       },
       "metrics": {
         "bookmarks": 334,
@@ -1490,7 +1533,8 @@
       },
       "discoveredVia": "https://youmind.com/zh-CN/video-prompts/kinetic-product-promo-motion-design-11358",
       "codeUrl": null,
-      "titleEn": "MakerMap: a continuous product journey"
+      "titleEn": "MakerMap: a continuous product journey",
+      "summaryEn": "Signup, maps, matching and events form one continuous product journey."
     },
     {
       "id": "2103761658745335993",
@@ -1532,7 +1576,8 @@
         "sourceUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
         "checkedAt": "2026-09-27T04:59:25.344317+00:00",
         "translationZh": "为（你的产品）制作出色的动态图形讲解，使用好的脚本、设计配色和音乐。让视频精彩、有趣，让人想反复观看；时长为 30 秒。（产品链接）",
-        "noteZh": "中文为本站译文，合并了原文反复强调的形容词；英文原文完整保留。"
+        "noteZh": "中文为本站译文，合并了原文反复强调的形容词；英文原文完整保留。",
+        "noteEn": "The Chinese translation condenses repeated adjectives; the English original is preserved in full."
       },
       "metrics": {
         "bookmarks": 11,
@@ -1549,7 +1594,8 @@
       },
       "discoveredVia": "https://youmind.com/zh-CN/video-prompts/product-demo-motion-explainer-11368",
       "codeUrl": null,
-      "titleEn": "A 30-second product motion brief"
+      "titleEn": "A 30-second product motion brief",
+      "summaryEn": "A short product brief leaves the script, color palette and music to the model."
     },
     {
       "id": "2103757767727255661",
@@ -1591,7 +1637,8 @@
         "sourceUrl": "https://x.com/zhu185178/status/2103757767727255661",
         "checkedAt": "2026-09-27T04:59:25.539274+00:00",
         "translationZh": null,
-        "noteZh": "混合制作：原文包含 GPT Image 2.5 原画、超分、深度估计、配音与代码合成，不是纯代码生成所有素材。"
+        "noteZh": "混合制作：原文包含 GPT Image 2.5 原画、超分、深度估计、配音与代码合成，不是纯代码生成所有素材。",
+        "noteEn": "A mixed workflow using GPT Image 2.5 illustrations, upscaling, depth estimation, voice and coded compositing."
       },
       "metrics": {
         "bookmarks": 100,
@@ -1608,7 +1655,8 @@
       },
       "discoveredVia": "https://youmind.com/zh-CN/video-prompts/rain-station-animated-short-11378",
       "codeUrl": null,
-      "titleEn": "RainStation: a mixed image-and-code workflow"
+      "titleEn": "RainStation: a mixed image-and-code workflow",
+      "summaryEn": "A timed shot list specifies action, eyelines and sound for a narrative short."
     },
     {
       "id": "2103742861971726495",
@@ -1650,7 +1698,8 @@
         "sourceUrl": "https://x.com/lukasersil/status/2103742861971726495",
         "checkedAt": "2026-09-27T04:59:26.074931+00:00",
         "translationZh": null,
-        "noteZh": "原帖有两条视频：第一条无作者品牌，第二条使用其品牌素材包。封面对应第一条。"
+        "noteZh": "原帖有两条视频：第一条无作者品牌，第二条使用其品牌素材包。封面对应第一条。",
+        "noteEn": "The original post contains two videos. The first has no personal branding; the second uses the creator’s brand kit. The cover shows the first."
       },
       "metrics": {
         "bookmarks": 98,
@@ -1667,7 +1716,8 @@
       },
       "discoveredVia": "https://youmind.com/zh-CN/video-prompts/advanced-motion-showreel-prompt-11373",
       "codeUrl": null,
-      "titleEn": "Unbranded and branded motion design variants"
+      "titleEn": "Unbranded and branded motion design variants",
+      "summaryEn": "Two versions show how supplying a brand asset kit changes the result."
     },
     {
       "id": "2102450239923720440",
@@ -1709,6 +1759,7 @@
         "sourceUrl": "https://x.com/vib3coded/status/2102450842070569099",
         "checkedAt": "2026-09-27T04:57:20.496973+00:00",
         "noteZh": "原帖是模型对比：左侧 Opus 5，右侧 Opus 5.5。本条记录的是右侧的 Opus 5.5 场景；这是交互场景演示录像。",
+        "noteEn": "A side-by-side comparison: Opus 5 on the left, Opus 5.5 on the right. This entry concerns the right-hand interactive scene.",
         "display": "source_link"
       },
       "metrics": {
@@ -1738,7 +1789,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A prehistoric island: Opus 5 vs. Opus 5.5"
+      "titleEn": "A prehistoric island: Opus 5 vs. Opus 5.5",
+      "summaryEn": "A complete interactive island includes an underwater cutaway and animated animals."
     },
     {
       "id": "2103746671591256286",
@@ -1780,7 +1832,8 @@
         "sourceUrl": "https://x.com/zigapoto/status/2103746698660942208",
         "checkedAt": "2026-09-27T04:59:25.780628+00:00",
         "translationZh": "为一家做智能体分析的创业公司制作现代、精致、节奏鲜明的视频。只使用 JavaScript、Playwright 和 FFmpeg，编写动画并录成视频。从网站下载素材，或用 Playwright 截图；加入与视频配合的音乐。",
-        "noteZh": "需要提供自己的产品网站；作者原帖说明之后做过一次纠正。"
+        "noteZh": "需要提供自己的产品网站；作者原帖说明之后做过一次纠正。",
+        "noteEn": "Requires your own product website. The creator reports one subsequent correction."
       },
       "metrics": {
         "bookmarks": 0,
@@ -1797,7 +1850,8 @@
       },
       "discoveredVia": "https://youmind.com/zh-CN/video-prompts/agentic-analytics-video-prompt-11387",
       "codeUrl": null,
-      "titleEn": "An analytics product made from real web assets"
+      "titleEn": "An analytics product made from real web assets",
+      "summaryEn": "Real website assets or screenshots form the basis of a coded product animation."
     },
     {
       "id": "2103741636635496583",
@@ -1839,7 +1893,8 @@
         "sourceUrl": "https://x.com/kurahu_capten/status/2103742110747054506",
         "checkedAt": "2026-09-27T04:59:26.060795+00:00",
         "translationZh": "用歌曲和歌词制作一支以歌词为主角的竖屏歌词视频。让歌词与演唱准确同步，采用 EVA 标题卡风格。制作前先向我展示演出方案。",
-        "noteZh": "作者先准备歌曲和歌词；原片音乐使用 Suno 制作，后续还进行了逐段修改。"
+        "noteZh": "作者先准备歌曲和歌词；原片音乐使用 Suno 制作，后续还进行了逐段修改。",
+        "noteEn": "Requires a song and lyrics. The creator used Suno for music and made further edits section by section."
       },
       "metrics": {
         "bookmarks": 2,
@@ -1856,7 +1911,8 @@
       },
       "discoveredVia": "https://youmind.com/zh-CN/video-prompts/evangelion-style-lyric-video-11398",
       "codeUrl": null,
-      "titleEn": "An animated lyric video"
+      "titleEn": "An animated lyric video",
+      "summaryEn": "A lyric video develops a visual treatment, then aligns typography to an existing song."
     },
     {
       "id": "2102591147927654847",
@@ -1898,7 +1954,8 @@
         "sourceUrl": "https://x.com/RyanSael/status/2102591147927654847",
         "checkedAt": "2026-09-27T04:57:13.273262+00:00",
         "translationZh": "我让 Opus 5.5 通过构建一个交互式镜头实验室来解释相机对焦。",
-        "noteZh": "作者任务描述，不是完整提示词；作品为交互演示录像。"
+        "noteZh": "作者任务描述，不是完整提示词；作品为交互演示录像。",
+        "noteEn": "An author brief, not the complete prompt. The video records an interactive demonstration."
       },
       "metrics": {
         "bookmarks": 9188,
@@ -1927,7 +1984,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "An interactive camera lens lab"
+      "titleEn": "An interactive camera lens lab",
+      "summaryEn": "An interactive lens scene explains focus through hands-on controls."
     },
     {
       "id": "2102495989194236158",
@@ -1969,7 +2027,8 @@
         "sourceUrl": "https://x.com/shfred0/status/2102495989194236158",
         "checkedAt": "2026-09-27T04:57:16.398747+00:00",
         "translationZh": "让 Claude Opus 5.5 把自己从诞生到现在的一生做成动画。",
-        "noteZh": "作者公开的是任务转述，未核实完整原始提示词。"
+        "noteZh": "作者公开的是任务转述，未核实完整原始提示词。",
+        "noteEn": "The creator shared a task description, not a verified complete prompt."
       },
       "metrics": {
         "bookmarks": 1732,
@@ -1998,7 +2057,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "Claude animates its own life"
+      "titleEn": "Claude animates its own life",
+      "summaryEn": "An open-ended story asks the model to animate its own history."
     },
     {
       "id": "2102573127192727704",
@@ -2040,7 +2100,8 @@
         "sourceUrl": "https://x.com/ann_nnng/status/2102573127192727704",
         "checkedAt": "2026-09-27T04:57:18.383163+00:00",
         "translationZh": "让 Claude Opus 5.5 用丙烯画风格描绘我的新西兰旅行照片。",
-        "noteZh": "作者任务转述，且依赖其旅行照片；未公开完整原始提示词。"
+        "noteZh": "作者任务转述，且依赖其旅行照片；未公开完整原始提示词。",
+        "noteEn": "Requires the creator’s travel photos; the full original prompt has not been published."
       },
       "metrics": {
         "bookmarks": 1250,
@@ -2069,7 +2130,8 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "New Zealand through acrylic brushstrokes"
+      "titleEn": "New Zealand through acrylic brushstrokes",
+      "summaryEn": "Personal travel photographs become an acrylic-style animation."
     },
     {
       "id": "2103304514329854102",
@@ -2111,7 +2173,8 @@
         "sourceUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
         "checkedAt": "2026-09-27T04:57:19.627529+00:00",
         "translationZh": "一部面向普通观众、讲解超级智能的高端 Netflix 风格纪录片。",
-        "noteZh": "作者只引用了任务短语，完整上下文未公开；流程接入 Runway MCP。"
+        "noteZh": "作者只引用了任务短语，完整上下文未公开；流程接入 Runway MCP。",
+        "noteEn": "Only a short task phrase is public. The workflow uses Runway MCP."
       },
       "metrics": {
         "bookmarks": 3120,
@@ -2140,7 +2203,9 @@
         "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
         "reuploadPermission": "not_verified"
       },
-      "titleEn": "A documentary about superintelligence"
+      "titleEn": "A documentary about superintelligence",
+      "summaryEn": "External video tools support a documentary aimed at a general audience."
     }
-  ]
+  ],
+  "repository": "guanmo-ai/awesome-ai-motion"
 }

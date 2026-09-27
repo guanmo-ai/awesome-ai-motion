@@ -1,71 +1,77 @@
-# Awesome Opus Gallery · 帧选
+<p align="center"><img src="assets/brand/wordmark.svg" width="100%" alt="Awesome AI Motion — Watch. Learn. Create."></p>
 
-[简体中文](README.md) · [English](README.en.md) · [投稿](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+# Awesome AI Motion
 
-**先看作品，再找提示词。** 精选 Claude Opus 5.5 参与制作的视频与动画，保留作者、原帖和公开指令。
+**看见好作品，找到好提示词。**
 
-**32 个案例 · 28 份公开提示词 · 4 条作者任务描述 · 21 个外部播放入口**
+精选 AI 辅助创作的视频与动画，当前聚焦 **Claude Opus 5.5**。从产品宣传、知识讲解到像素动画，每个案例都保留作者、原帖和公开指令。
 
-从精选封面进入案例；已接入的作品可在 GitHub 内播放，也可打开作者原帖。短提示词直接复制，长提示词点击展开。无需下载、安装或运行项目，浏览不消耗模型 Token。
+[简体中文](README.md) · [English](README.en.md) · [贡献作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-[按用途找作品](#用途索引) · [公开提示词](#公开提示词) · [任务描述补充](#任务描述补充) · [投稿与纠错](CONTRIBUTING.md)
+**32 个案例 · 28 份公开提示词 · 21 个页内播放**
 
-## 精选速览
+直接浏览，无需安装，也不消耗模型 Token。找到喜欢的效果，展开视频，再复制作者提示词；需要参考图、音频或额外服务的地方会单独说明。
+
+[精选作品](#featured) · [全部分类](#browse) · [常见问题](#faq) · [投稿与纠错](https://github.com/guanmo-ai/awesome-ai-motion/issues)
+
+<a id="featured"></a>
+
+## 从这六个作品开始
+
+六种不同的表达方式，由编辑选取。点击封面跳到对应案例。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="#case-2102787937482252537"><img src="assets/covers/2102787937482252537.jpg" width="280" alt="用一句话介绍推理服务"><br>用一句话介绍推理服务</a><br><sub>产品宣传</sub></td>
-<td width="33%" align="center"><a href="#case-2103315922098470926"><img src="assets/covers/2103315922098470926.jpg" width="280" alt="15 秒动态设计自由发挥"><br>15 秒动态设计自由发挥</a><br><sub>短动效</sub></td>
-<td width="33%" align="center"><a href="#case-2102583898865873225"><img src="assets/covers/2102583898865873225.jpg" width="280" alt="用线稿回顾中华五千年"><br>用线稿回顾中华五千年</a><br><sub>知识讲解</sub></td>
+<td width="50%" valign="top"><a href="#case-2103918792845963545"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="Pocketsflow 角色产品讲解"><br><strong>Pocketsflow 角色产品讲解</strong></a><br><sub>产品宣传 · 15s · <a href="https://x.com/achxvi">@achxvi</a></sub></td>
+<td width="50%" valign="top"><a href="#case-2103315922098470926"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="15 秒动态设计自由发挥"><br><strong>15 秒动态设计自由发挥</strong></a><br><sub>短动效 · 15s · <a href="https://x.com/stephanlivera">@stephanlivera</a></sub></td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="#case-2102515055116063144"><img src="assets/covers/2102515055116063144.jpg" width="280" alt="彩虹跑道上的像素闪避"><br>彩虹跑道上的像素闪避</a><br><sub>像素与角色</sub></td>
-<td width="33%" align="center"><a href="#case-2102853258582880547"><img src="assets/covers/2102853258582880547.jpg" width="280" alt="让鸡尾酒配方动起来"><br>让鸡尾酒配方动起来</a><br><sub>知识讲解</sub></td>
-<td width="33%" align="center"><a href="#case-2103116235009347650"><img src="assets/covers/2103116235009347650.jpg" width="280" alt="用代码讲述奥斯特里茨战役"><br>用代码讲述奥斯特里茨战役</a><br><sub>叙事短片</sub></td>
+<td width="50%" valign="top"><a href="#case-2102583898865873225"><img src="assets/covers/2102583898865873225.jpg" width="400" alt="用线稿回顾中华五千年"><br><strong>用线稿回顾中华五千年</strong></a><br><sub>知识讲解 · 158s · <a href="https://x.com/akokoi1">@akokoi1</a></sub></td>
+<td width="50%" valign="top"><a href="#case-2102515055116063144"><img src="assets/covers/2102515055116063144.jpg" width="400" alt="彩虹跑道上的像素闪避"><br><strong>彩虹跑道上的像素闪避</strong></a><br><sub>像素与角色 · 19s · <a href="https://x.com/riku720720">@riku720720</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="机器人穿越十二种画风"><br><strong>机器人穿越十二种画风</strong></a><br><sub>像素与角色 · 75s · <a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a></sub></td>
+<td width="50%" valign="top"><a href="#case-2103116235009347650"><img src="assets/covers/2103116235009347650.jpg" width="400" alt="用代码讲述奥斯特里茨战役"><br><strong>用代码讲述奥斯特里茨战役</strong></a><br><sub>叙事短片 · 301s · <a href="https://x.com/WinterArc2125">@WinterArc2125</a></sub></td>
 </tr>
 </table>
 
-## 用途索引
+<a id="browse"></a>
 
-| 我想做什么 | 可以先看这些 |
-| --- | --- |
-| 产品宣传 | [用一句话介绍推理服务](#case-2102787937482252537) · [Pocketsflow 角色产品讲解](#case-2103918792845963545) · [五个场景讲清一门生意](#case-2103499977632997524) · [MakerMap 的连续产品旅程](#case-2103483957266268381) · [30 秒产品动效简报](#case-2103761658745335993) · [用真实网页素材介绍分析产品](#case-2103746671591256286) · [为 deckuse 做宣传动画](#case-2104039666093572362) |
-| 知识讲解 | [从直觉到数学解释 Transformer](#case-2103683057689522564) · [让鸡尾酒配方动起来](#case-2102853258582880547) · [把大气环流讲成动画](#case-2102606609574941028) · [用线稿回顾中华五千年](#case-2102583898865873225) · [真人口播变线稿讲解](#case-2102827887732932956) · [把印尼历史排成动态图形](#case-2103511590884815282) · [面向零基础的 Git 视频](#case-2104044910769016888) |
-| 短动效 | [一个形状串起整套 UI](#case-2103273003555402193) · [15 秒动态设计自由发挥](#case-2103315922098470926) · [Leon 的 15 秒动效作品集](#case-2103576084499358051) · [同一动效任务的无品牌与品牌版](#case-2103742861971726495) · [90 秒动效与原创钢琴](#case-2103557735086428547) |
-| 像素与角色 | [像素巫师的施法循环](#case-2102476258948927543) · [彩虹跑道上的像素闪避](#case-2102515055116063144) · [机器人穿越十二种画风](#case-2103099194693271874) |
-| 3D 与交互 | [史前岛屿的水上与水下](#case-2102450239923720440) |
-| 叙事短片 | [一句话讲 Anthropic 的发家史](#case-2103381720410333314) · [用代码讲述奥斯特里茨战役](#case-2103116235009347650) · [雨夜站台的 30 秒重逢](#case-2103757767727255661) |
-| 音乐与歌词 | [Claude Pop 混合制作 MV](#case-2102801274173587569) · [让歌词成为竖屏视频主角](#case-2103741636635496583) |
+## 按用途浏览
 
-## 公开提示词
+- **[产品宣传](#product)** · 7 个案例
+- **[知识讲解](#education)** · 7 个案例
+- **[短动效](#motion)** · 5 个案例
+- **[像素与角色](#characters)** · 3 个案例
+- **[3D 与交互](#interactive)** · 1 个案例
+- **[叙事短片](#stories)** · 3 个案例
+- **[音乐与歌词](#music)** · 2 个案例
+- [仅公开任务描述](#briefs) · 4
 
-按用途分组，**每类按收藏数降序**，同收藏数按点赞数排列。精选速览由编辑选取，以覆盖不同用途。浏览量仅供参考；缺失数据显示「—」并排在已知值之后。热度不等于作品质量，也不是全网排行榜。
+每类按收藏数排序，点赞数用于同分排序。数字为公开快照，浏览量不参与排名。 [数据说明](docs/SOURCES.md)
 
-互动数据为匿名公开读取快照：2026-09-27 04:57 UTC 至 2026-09-27 05:00 UTC；[来源与更新方法](docs/SOURCES.md)。
+<a id="product"></a>
 
-### 产品宣传
+## 产品宣传
 
 <a id="case-2102787937482252537"></a>
 
-#### 1. 用一句话介绍推理服务
+### 用一句话介绍推理服务
+
+**[Deedy · @deedydas](https://x.com/deedydas)** · 产品宣传 · 26s
+
+[<img src="assets/covers/2102787937482252537.jpg" width="640" alt="A one-line prompt for an inference startup launch">](https://x.com/deedydas/status/2102787937482252537)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102787937482252537.jpg" width="640" alt="用一句话介绍推理服务；点击观看作者原帖">](https://x.com/deedydas/status/2102787937482252537)
-
-
-</details>
-
-**[Deedy · @deedydas](https://x.com/deedydas)** · [观看原帖](https://x.com/deedydas/status/2102787937482252537) · 产品宣传 · 26 秒
-
-把抽象的推理服务变成一支短发布片，适合参考技术产品的解释方式。
+<summary>▶ 播放视频 · 26s</summary>
 
 https://github.com/user-attachments/assets/0005d4cf-acdd-42aa-af16-dbebe167126d
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/deedydas/status/2102787937482252537) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **4,697** · 点赞 **3,242** · 浏览 **337,803**
+</details>
+
+把抽象的推理服务变成一支短发布片，适合参考技术产品的解释方式。
 
 **作者公开提示词** · [出处](https://x.com/deedydas/status/2102787937482252537) · [纯文本](prompts/2102787937482252537.txt)
 
@@ -74,7 +80,7 @@ make a modern slick and punchy video for a modern startup that works on inferenc
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 为一家从事推理服务的现代创业公司，制作一支现代、精致、节奏鲜明的视频。
@@ -82,31 +88,32 @@ make a modern slick and punchy video for a modern startup that works on inferenc
 
 </details>
 
-[来源与数据快照](cases/2102787937482252537.md)
+<sub>收藏 4,697 · 点赞 3,242 · 浏览 337,803</sub>
+
+[案例详情与来源](cases/2102787937482252537.md)
 
 ---
 
 <a id="case-2103918792845963545"></a>
 
-#### 2. Pocketsflow 角色产品讲解
+### Pocketsflow 角色产品讲解
+
+**[Chain · @achxvi](https://x.com/achxvi)** · 产品宣传 · 15s
+
+[<img src="assets/covers/2103918792845963545.jpg" width="640" alt="A character-led Pocketsflow product explainer">](https://x.com/achxvi/status/2103918792845963545)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103918792845963545.jpg" width="640" alt="Pocketsflow 角色产品讲解；点击观看作者原帖">](https://x.com/achxvi/status/2103918792845963545)
-
-
-</details>
-
-**[Chain · @achxvi](https://x.com/achxvi)** · [观看原帖](https://x.com/achxvi/status/2103918792845963545) · 产品宣传 · 15 秒
-
-把作品集式动效与角色口播结合，适合参考产品功能介绍。
+<summary>▶ 播放视频 · 15s</summary>
 
 https://github.com/user-attachments/assets/2154915d-0eca-450b-b7fe-f9b1ddd756b7
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/achxvi/status/2103918792845963545) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **2,005** · 点赞 **2,083** · 浏览 **122,284**
+</details>
+
+把作品集式动效与角色口播结合，适合参考产品功能介绍。
+
+> 使用前: 作者原文包含 ElevenLabs 密钥的玩笑占位符，不是真实密钥；实际使用需自行配置配音服务。
 
 **作者公开提示词** · [出处](https://x.com/achxvi/status/2103938227786654016) · [纯文本](prompts/2103918792845963545.txt)
 
@@ -121,23 +128,25 @@ make a video where a character talks about pocketsflow and how people can use it
 LFG
 ```
 
-作者原文包含 ElevenLabs 密钥的玩笑占位符，不是真实密钥；实际使用需自行配置配音服务。
+<sub>收藏 2,005 · 点赞 2,083 · 浏览 122,284</sub>
 
-[来源与数据快照](cases/2103918792845963545.md)
+[案例详情与来源](cases/2103918792845963545.md)
 
 ---
 
 <a id="case-2103499977632997524"></a>
 
-#### 3. 五个场景讲清一门生意
+### 五个场景讲清一门生意
 
-[<img src="assets/covers/2103499977632997524.jpg" width="640" alt="五个场景讲清一门生意；点击观看作者原帖">](https://x.com/alex_prompter/status/2103499977632997524)
+**[Alex Prompter · @alex\_prompter](https://x.com/alex_prompter)** · 产品宣传 · 35s
 
-**[Alex Prompter · @alex\_prompter](https://x.com/alex_prompter)** · [观看原帖](https://x.com/alex_prompter/status/2103499977632997524) · 产品宣传 · 35 秒
+[<img src="assets/covers/2103499977632997524.jpg" width="640" alt="Explain a business in five scenes">](https://x.com/alex_prompter/status/2103499977632997524)
+
+[▶ 到作者原帖观看](https://x.com/alex_prompter/status/2103499977632997524)
 
 问题、方案、步骤、证据和署名组成一条 30 秒商业讲解。
 
-收藏 **659** · 点赞 **370** · 浏览 **38,536**
+> 使用前: 方括号内容需要换成自己的业务信息。
 
 **作者公开提示词** · [出处](https://x.com/alex_prompter/status/2103499977632997524) · [纯文本](prompts/2103499977632997524.txt)
 
@@ -146,7 +155,7 @@ Adopt the role of an expert motion designer. Build a 30-second animated explaine
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 扮演专业动态设计师。用单个 HTML 页面，为我的业务制作一支 30 秒动画讲解。包含五个场景：客户的问题、我做什么、如何用三步实现、一个证明点，以及结尾的我的名字。使用醒目文字、流畅转场和我的品牌配色。我的业务：[描述你卖什么、面向谁以及品牌颜色]。
@@ -154,28 +163,30 @@ Adopt the role of an expert motion designer. Build a 30-second animated explaine
 
 </details>
 
-方括号内容需要换成自己的业务信息。
+<sub>收藏 659 · 点赞 370 · 浏览 38,536</sub>
 
-[来源与数据快照](cases/2103499977632997524.md)
+[案例详情与来源](cases/2103499977632997524.md)
 
 ---
 
 <a id="case-2103483957266268381"></a>
 
-#### 4. MakerMap 的连续产品旅程
+### MakerMap 的连续产品旅程
 
-[<img src="assets/covers/2103483957266268381.jpg" width="640" alt="MakerMap 的连续产品旅程；点击观看作者原帖">](https://x.com/verbove/status/2103483957266268381)
+**[Martijn Verbove · @verbove](https://x.com/verbove)** · 产品宣传 · 20s
 
-**[Martijn Verbove · @verbove](https://x.com/verbove)** · [观看原帖](https://x.com/verbove/status/2103483957266268381) · 产品宣传 · 20 秒
+[<img src="assets/covers/2103483957266268381.jpg" width="640" alt="MakerMap: a continuous product journey">](https://x.com/verbove/status/2103483957266268381)
+
+[▶ 到作者原帖观看](https://x.com/verbove/status/2103483957266268381)
 
 将注册、地图、匹配和活动串成一个连续变化的界面，用真实产品数据讲故事。
 
-收藏 **334** · 点赞 **208** · 浏览 **15,435**
+> 使用前: 这是作者公开的可复用模板结构，另外提到曾提供参考动效。需要填写产品、URL、真实数据与品牌信息。
 
 **作者公开提示词** · [出处](https://x.com/verbove/status/2103483957266268381) · [纯文本](prompts/2103483957266268381.txt)
 
 <details>
-<summary>展开原文（1,588 字符）</summary>
+<summary>展开原文 · 1,588 字符</summary>
 
 ```text
 <inputs> 
@@ -247,23 +258,25 @@ Export all aspect ratios in parallel
 
 </details>
 
-这是作者公开的可复用模板结构，另外提到曾提供参考动效。需要填写产品、URL、真实数据与品牌信息。
+<sub>收藏 334 · 点赞 208 · 浏览 15,435</sub>
 
-[来源与数据快照](cases/2103483957266268381.md)
+[案例详情与来源](cases/2103483957266268381.md)
 
 ---
 
 <a id="case-2103761658745335993"></a>
 
-#### 5. 30 秒产品动效简报
+### 30 秒产品动效简报
 
-[<img src="assets/covers/2103761658745335993.jpg" width="640" alt="30 秒产品动效简报；点击观看作者原帖">](https://x.com/sudo_kiran/status/2103761658745335993)
+**[Kiran · @sudo\_kiran](https://x.com/sudo_kiran)** · 产品宣传 · 30s
 
-**[Kiran · @sudo\_kiran](https://x.com/sudo_kiran)** · [观看原帖](https://x.com/sudo_kiran/status/2103761658745335993) · 产品宣传 · 30 秒
+[<img src="assets/covers/2103761658745335993.jpg" width="640" alt="A 30-second product motion brief">](https://x.com/sudo_kiran/status/2103761658745335993)
+
+[▶ 到作者原帖观看](https://x.com/sudo_kiran/status/2103761658745335993)
 
 用一个简短要求统筹脚本、颜色和音乐，适合尝试自己的产品介绍。
 
-收藏 **11** · 点赞 **12** · 浏览 **2,084**
+> 使用前: 中文为本站译文，合并了原文反复强调的形容词；英文原文完整保留。
 
 **作者公开提示词** · [出处](https://x.com/sudo_kiran/status/2103761658745335993) · [纯文本](prompts/2103761658745335993.txt)
 
@@ -273,7 +286,7 @@ create best motion graphics explainer of the (your product) with very good scrip
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 为（你的产品）制作出色的动态图形讲解，使用好的脚本、设计配色和音乐。让视频精彩、有趣，让人想反复观看；时长为 30 秒。（产品链接）
@@ -281,23 +294,25 @@ create best motion graphics explainer of the (your product) with very good scrip
 
 </details>
 
-中文为本站译文，合并了原文反复强调的形容词；英文原文完整保留。
+<sub>收藏 11 · 点赞 12 · 浏览 2,084</sub>
 
-[来源与数据快照](cases/2103761658745335993.md)
+[案例详情与来源](cases/2103761658745335993.md)
 
 ---
 
 <a id="case-2103746671591256286"></a>
 
-#### 6. 用真实网页素材介绍分析产品
+### 用真实网页素材介绍分析产品
 
-[<img src="assets/covers/2103746671591256286.jpg" width="640" alt="用真实网页素材介绍分析产品；点击观看作者原帖">](https://x.com/zigapoto/status/2103746671591256286)
+**[Ziga Potocnik · @zigapoto](https://x.com/zigapoto)** · 产品宣传 · 60s
 
-**[Ziga Potocnik · @zigapoto](https://x.com/zigapoto)** · [观看原帖](https://x.com/zigapoto/status/2103746671591256286) · 产品宣传 · 60 秒
+[<img src="assets/covers/2103746671591256286.jpg" width="640" alt="An analytics product made from real web assets">](https://x.com/zigapoto/status/2103746671591256286)
+
+[▶ 到作者原帖观看](https://x.com/zigapoto/status/2103746671591256286)
 
 明确要求抓取产品素材或截图，再由代码生成动画并配乐。
 
-收藏 **0** · 点赞 **3** · 浏览 **110**
+> 使用前: 需要提供自己的产品网站；作者原帖说明之后做过一次纠正。
 
 **作者公开提示词** · [出处](https://x.com/zigapoto/status/2103746698660942208) · [纯文本](prompts/2103746671591256286.txt)
 
@@ -306,7 +321,7 @@ make a modern slick and punchy video for a startup that works on agentic analyti
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 为一家做智能体分析的创业公司制作现代、精致、节奏鲜明的视频。只使用 JavaScript、Playwright 和 FFmpeg，编写动画并录成视频。从网站下载素材，或用 Playwright 截图；加入与视频配合的音乐。
@@ -314,23 +329,23 @@ make a modern slick and punchy video for a startup that works on agentic analyti
 
 </details>
 
-需要提供自己的产品网站；作者原帖说明之后做过一次纠正。
+<sub>收藏 0 · 点赞 3 · 浏览 110</sub>
 
-[来源与数据快照](cases/2103746671591256286.md)
+[案例详情与来源](cases/2103746671591256286.md)
 
 ---
 
 <a id="case-2104039666093572362"></a>
 
-#### 7. 为 deckuse 做宣传动画
+### 为 deckuse 做宣传动画
 
-[<img src="assets/covers/2104039666093572362.jpg" width="640" alt="为 deckuse 做宣传动画；点击观看作者原帖">](https://x.com/feiflow/status/2104039666093572362)
+**[Fei · @feiflow](https://x.com/feiflow)** · 产品宣传 · 65s
 
-**[Fei · @feiflow](https://x.com/feiflow)** · [观看原帖](https://x.com/feiflow/status/2104039666093572362) · 产品宣传 · 65 秒
+[<img src="assets/covers/2104039666093572362.jpg" width="640" alt="A promotional animation for deckuse">](https://x.com/feiflow/status/2104039666093572362)
+
+[▶ 到作者原帖观看](https://x.com/feiflow/status/2104039666093572362)
 
 围绕真实开源产品要求动效、音乐和音效，提示词短而明确。
-
-收藏 **0** · 点赞 **3** · 浏览 **32**
 
 **作者公开提示词** · [出处](https://x.com/feiflow/status/2104039666093572362) · [纯文本](prompts/2104039666093572362.txt)
 
@@ -338,23 +353,27 @@ make a modern slick and punchy video for a startup that works on agentic analyti
 我需要推广 deckuse,帮我制作一个动画视频，包括音效和音乐，用于此产品宣传；你可以使用任何你觉得合适的工具和技术，做出最好最惊艳的效果
 ```
 
-[来源与数据快照](cases/2104039666093572362.md) · [相关源码](https://github.com/deckflow/deckuse)
+<sub>收藏 0 · 点赞 3 · 浏览 32</sub>
+
+[案例详情与来源](cases/2104039666093572362.md) · [作者源码](https://github.com/deckflow/deckuse)
 
 ---
 
-### 知识讲解
+<a id="education"></a>
+
+## 知识讲解
 
 <a id="case-2103683057689522564"></a>
 
-#### 8. 从直觉到数学解释 Transformer
+### 从直觉到数学解释 Transformer
 
-[<img src="assets/covers/2103683057689522564.jpg" width="640" alt="从直觉到数学解释 Transformer；点击观看作者原帖">](https://x.com/dotey/status/2103683057689522564)
+**[宝玉 · @dotey](https://x.com/dotey)** · 知识讲解 · 732s
 
-**[宝玉 · @dotey](https://x.com/dotey)** · [观看原帖](https://x.com/dotey/status/2103683057689522564) · 知识讲解 · 732 秒
+[<img src="assets/covers/2103683057689522564.jpg" width="640" alt="Transformers: from intuition to mathematics">](https://x.com/dotey/status/2103683057689522564)
+
+[▶ 到作者原帖观看](https://x.com/dotey/status/2103683057689522564)
 
 指定高中生能理解，同时要求注意力机制与数学细节，适合较深入的技术讲解。
-
-收藏 **1,457** · 点赞 **1,113** · 浏览 **150,947**
 
 **作者公开提示词** · [出处](https://x.com/dotey/status/2103683057689522564) · [纯文本](prompts/2103683057689522564.txt)
 
@@ -367,31 +386,32 @@ make a modern slick and punchy video for a startup that works on agentic analyti
 请给我惊喜
 ```
 
-[来源与数据快照](cases/2103683057689522564.md)
+<sub>收藏 1,457 · 点赞 1,113 · 浏览 150,947</sub>
+
+[案例详情与来源](cases/2103683057689522564.md)
 
 ---
 
 <a id="case-2102853258582880547"></a>
 
-#### 9. 让鸡尾酒配方动起来
+### 让鸡尾酒配方动起来
+
+**[Rory Flynn · @Ror\_Fly](https://x.com/Ror_Fly)** · 知识讲解 · 30s
+
+[<img src="assets/covers/2102853258582880547.jpg" width="640" alt="An animated cocktail recipe">](https://x.com/Ror_Fly/status/2102853258582880547)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102853258582880547.jpg" width="640" alt="让鸡尾酒配方动起来；点击观看作者原帖">](https://x.com/Ror_Fly/status/2102853258582880547)
-
-
-</details>
-
-**[Rory Flynn · @Ror\_Fly](https://x.com/Ror_Fly)** · [观看原帖](https://x.com/Ror_Fly/status/2102853258582880547) · 知识讲解 · 30 秒
-
-从空杯到成品，随着原料加入显示名称和用量；适合步骤型教程。
+<summary>▶ 播放视频 · 30s</summary>
 
 https://github.com/user-attachments/assets/a675be87-848d-4ccb-9099-38e67eeda590
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/Ror_Fly/status/2102853258582880547) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **1,442** · 点赞 **1,011** · 浏览 **73,160**
+</details>
+
+从空杯到成品，随着原料加入显示名称和用量；适合步骤型教程。
+
+> 使用前: 作者提供了一张参考图，使用时需自行准备对应配方或参考图。
 
 **作者公开提示词** · [出处](https://x.com/Ror_Fly/status/2102853258582880547) · [纯文本](prompts/2102853258582880547.txt)
 
@@ -400,7 +420,7 @@ We're going to try a little test. Do you think you could render a recipe motion 
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 我们来做个小测试。你能用 JavaScript 或 HTML（选择你认为效果最好的方式）渲染一段配方动态图形动画，完整展示从空杯到调好鸡尾酒的过程吗？采用讲解视频风格，在原料加入杯中时显示原料和用量。时长应为 30 秒。
@@ -408,33 +428,32 @@ We're going to try a little test. Do you think you could render a recipe motion 
 
 </details>
 
-作者提供了一张参考图，使用时需自行准备对应配方或参考图。
+<sub>收藏 1,442 · 点赞 1,011 · 浏览 73,160</sub>
 
-[来源与数据快照](cases/2102853258582880547.md)
+[案例详情与来源](cases/2102853258582880547.md)
 
 ---
 
 <a id="case-2102606609574941028"></a>
 
-#### 10. 把大气环流讲成动画
+### 把大气环流讲成动画
+
+**[WY · @akokoi1](https://x.com/akokoi1)** · 知识讲解 · 288s
+
+[<img src="assets/covers/2102606609574941028.jpg" width="640" alt="Atmospheric circulation explained">](https://x.com/akokoi1/status/2102606609574941028)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102606609574941028.jpg" width="640" alt="把大气环流讲成动画；点击观看作者原帖">](https://x.com/akokoi1/status/2102606609574941028)
-
-
-</details>
-
-**[WY · @akokoi1](https://x.com/akokoi1)** · [观看原帖](https://x.com/akokoi1/status/2102606609574941028) · 知识讲解 · 288 秒
-
-将地理知识、双语字幕与旁白结合，可参考课堂讲解的任务描述。
+<summary>▶ 播放视频 · 288s</summary>
 
 https://github.com/user-attachments/assets/2c87394f-8224-4e89-bf04-36ccbe5d574f
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/akokoi1/status/2102606609574941028) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **810** · 点赞 **692** · 浏览 **133,737**
+</details>
+
+将地理知识、双语字幕与旁白结合，可参考课堂讲解的任务描述。
+
+> 使用前: 作者流程另外准备 TTS.md 与语音服务配置；原文中的配置名称不是仓库提供的凭据。
 
 **作者公开提示词** · [出处](https://x.com/akokoi1/status/2102606609574941028) · [纯文本](prompts/2102606609574941028.txt)
 
@@ -442,33 +461,30 @@ https://github.com/user-attachments/assets/2c87394f-8224-4e89-bf04-36ccbe5d574f
 做一个动画，讲解高中地理知识点“大气环流”。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜，字幕用中英双语，解说用TTS，如果 TTS 接口有关闭水印的参数就关掉，文档在TTS.md，API KEY 和音色分别是 .env 里的 APIKEY 和 VOICE，最终视频要能直接导出。
 ```
 
-作者流程另外准备 TTS.md 与语音服务配置；原文中的配置名称不是仓库提供的凭据。
+<sub>收藏 810 · 点赞 692 · 浏览 133,737</sub>
 
-[来源与数据快照](cases/2102606609574941028.md)
+[案例详情与来源](cases/2102606609574941028.md)
 
 ---
 
 <a id="case-2102583898865873225"></a>
 
-#### 11. 用线稿回顾中华五千年
+### 用线稿回顾中华五千年
+
+**[WY · @akokoi1](https://x.com/akokoi1)** · 知识讲解 · 158s
+
+[<img src="assets/covers/2102583898865873225.jpg" width="640" alt="Five thousand years of Chinese history">](https://x.com/akokoi1/status/2102583898865873225)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102583898865873225.jpg" width="640" alt="用线稿回顾中华五千年；点击观看作者原帖">](https://x.com/akokoi1/status/2102583898865873225)
-
-
-</details>
-
-**[WY · @akokoi1](https://x.com/akokoi1)** · [观看原帖](https://x.com/akokoi1/status/2102583898865873225) · 知识讲解 · 158 秒
-
-中文一句话提示词案例，适合从历史主题入门线稿讲解。
+<summary>▶ 播放视频 · 158s</summary>
 
 https://github.com/user-attachments/assets/120d98a4-47d7-43ba-81ee-7a492fa5ec0d
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/akokoi1/status/2102583898865873225) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **762** · 点赞 **687** · 浏览 **154,080**
+</details>
+
+中文一句话提示词案例，适合从历史主题入门线稿讲解。
 
 **作者公开提示词** · [出处](https://x.com/akokoi1/status/2102584165220962502) · [纯文本](prompts/2102583898865873225.txt)
 
@@ -476,31 +492,32 @@ https://github.com/user-attachments/assets/120d98a4-47d7-43ba-81ee-7a492fa5ec0d
 做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜
 ```
 
-[来源与数据快照](cases/2102583898865873225.md)
+<sub>收藏 762 · 点赞 687 · 浏览 154,080</sub>
+
+[案例详情与来源](cases/2102583898865873225.md)
 
 ---
 
 <a id="case-2102827887732932956"></a>
 
-#### 12. 真人口播变线稿讲解
+### 真人口播变线稿讲解
+
+**[Axton · @AxtonLiu](https://x.com/AxtonLiu)** · 知识讲解 · 84s
+
+[<img src="assets/covers/2102827887732932956.jpg" width="360" alt="Turn a talking-head video into a line-art explainer">](https://x.com/AxtonLiu/status/2102827887732932956)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102827887732932956.jpg" width="360" alt="真人口播变线稿讲解；点击观看作者原帖">](https://x.com/AxtonLiu/status/2102827887732932956)
-
-
-</details>
-
-**[Axton · @AxtonLiu](https://x.com/AxtonLiu)** · [观看原帖](https://x.com/AxtonLiu/status/2102827887732932956) · 知识讲解 · 84 秒
-
-保留原声、字幕和时长，将主画面改成随口播变化的动画。
+<summary>▶ 播放视频 · 84s</summary>
 
 https://github.com/user-attachments/assets/d8d0a72e-d750-48a0-b84c-1f3f6c3d2188
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/AxtonLiu/status/2102827887732932956) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **411** · 点赞 **371** · 浏览 **31,375**
+</details>
+
+保留原声、字幕和时长，将主画面改成随口播变化的动画。
+
+> 使用前: 需要自己的 short-1.mp4。提示词中的人物指原视频讲述者。
 
 **作者公开提示词** · [出处](https://x.com/AxtonLiu/status/2102827887732932956) · [纯文本](prompts/2102827887732932956.txt)
 
@@ -512,33 +529,30 @@ https://github.com/user-attachments/assets/d8d0a72e-d750-48a0-b84c-1f3f6c3d2188
 3. 原声、原字幕、时长都不变。
 ```
 
-需要自己的 short-1.mp4。提示词中的人物指原视频讲述者。
+<sub>收藏 411 · 点赞 371 · 浏览 31,375</sub>
 
-[来源与数据快照](cases/2102827887732932956.md)
+[案例详情与来源](cases/2102827887732932956.md)
 
 ---
 
 <a id="case-2103511590884815282"></a>
 
-#### 13. 把印尼历史排成动态图形
+### 把印尼历史排成动态图形
+
+**[Sonny · @sonnylazuardi](https://x.com/sonnylazuardi)** · 知识讲解 · 53s
+
+[<img src="assets/covers/2103511590884815282.jpg" width="640" alt="81 years of Indonesian history">](https://x.com/sonnylazuardi/status/2103511590884815282)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103511590884815282.jpg" width="640" alt="把印尼历史排成动态图形；点击观看作者原帖">](https://x.com/sonnylazuardi/status/2103511590884815282)
-
-
-</details>
-
-**[Sonny · @sonnylazuardi](https://x.com/sonnylazuardi)** · [观看原帖](https://x.com/sonnylazuardi/status/2103511590884815282) · 知识讲解 · 53 秒
-
-从总统与地图串联历史，并尝试有地域特色的音乐。
+<summary>▶ 播放视频 · 53s</summary>
 
 https://github.com/user-attachments/assets/d12b7adb-242f-4347-bd5e-ac0185e7af18
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/sonnylazuardi/status/2103511590884815282) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **102** · 点赞 **155** · 浏览 **11,580**
+</details>
+
+从总统与地图串联历史，并尝试有地域特色的音乐。
 
 **作者公开提示词** · [出处](https://x.com/sonnylazuardi/status/2103660301132685418) · [纯文本](prompts/2103511590884815282.txt)
 
@@ -549,7 +563,7 @@ generate reel but for impressive story, the history of Indonesia, first presiden
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 制作一支动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集。全力发挥。
@@ -559,21 +573,23 @@ generate reel but for impressive story, the history of Indonesia, first presiden
 
 </details>
 
-[来源与数据快照](cases/2103511590884815282.md)
+<sub>收藏 102 · 点赞 155 · 浏览 11,580</sub>
+
+[案例详情与来源](cases/2103511590884815282.md)
 
 ---
 
 <a id="case-2104044910769016888"></a>
 
-#### 14. 面向零基础的 Git 视频
+### 面向零基础的 Git 视频
 
-[<img src="assets/covers/2104044910769016888.jpg" width="640" alt="面向零基础的 Git 视频；点击观看作者原帖">](https://x.com/Yunn260414/status/2104044910769016888)
+**[Yunn · @Yunn260414](https://x.com/Yunn260414)** · 知识讲解 · 408s
 
-**[Yunn · @Yunn260414](https://x.com/Yunn260414)** · [观看原帖](https://x.com/Yunn260414/status/2104044910769016888) · 知识讲解 · 408 秒
+[<img src="assets/covers/2104044910769016888.jpg" width="640" alt="Git explained for beginners">](https://x.com/Yunn260414/status/2104044910769016888)
+
+[▶ 到作者原帖观看](https://x.com/Yunn260414/status/2104044910769016888)
 
 明确目标观众与常用指令，让模型用中文声音解释 Git。
-
-收藏 **2** · 点赞 **2** · 浏览 **302**
 
 **作者公开提示词** · [出处](https://x.com/Yunn260414/status/2104044910769016888) · [纯文本](prompts/2104044910769016888.txt)
 
@@ -584,38 +600,41 @@ generate reel but for impressive story, the history of Indonesia, first presiden
 你可以用任何工具或者安装工具，可以联网检索
 ```
 
-[来源与数据快照](cases/2104044910769016888.md)
+<sub>收藏 2 · 点赞 2 · 浏览 302</sub>
+
+[案例详情与来源](cases/2104044910769016888.md)
 
 ---
 
-### 短动效
+<a id="motion"></a>
+
+## 短动效
 
 <a id="case-2103273003555402193"></a>
 
-#### 15. 一个形状串起整套 UI
+### 一个形状串起整套 UI
+
+**[zero · @twoclipping](https://x.com/twoclipping)** · 短动效 · 14s
+
+[<img src="assets/covers/2103273003555402193.jpg" width="640" alt="One shape, a seamless UI morph loop">](https://x.com/twoclipping/status/2103273003555402193)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103273003555402193.jpg" width="640" alt="一个形状串起整套 UI；点击观看作者原帖">](https://x.com/twoclipping/status/2103273003555402193)
-
-
-</details>
-
-**[zero · @twoclipping](https://x.com/twoclipping)** · [观看原帖](https://x.com/twoclipping/status/2103273003555402193) · 短动效 · 14 秒
-
-按钮、加载器、播放器和图表连续形变；适合研究界面动效与节拍。
+<summary>▶ 播放视频 · 14s</summary>
 
 https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/twoclipping/status/2103273003555402193) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **19,303** · 点赞 **11,656** · 浏览 **907,430**
+</details>
+
+按钮、加载器、播放器和图表连续形变；适合研究界面动效与节拍。
+
+> 使用前: 作者公开的模板；需要回答 UI 状态、配色和歌曲等输入问题。保留完整原文，中文简介不替代模板。
 
 **作者公开提示词** · [出处](https://x.com/twoclipping/status/2103273003555402193) · [纯文本](prompts/2103273003555402193.txt)
 
 <details>
-<summary>展开原文（2,711 字符）</summary>
+<summary>展开原文 · 2,711 字符</summary>
 
 ```text
 <inputs>
@@ -653,33 +672,32 @@ Ask me for the inputs, then show me the state list on the beat grid before you w
 
 </details>
 
-作者公开的模板；需要回答 UI 状态、配色和歌曲等输入问题。保留完整原文，中文简介不替代模板。
+<sub>收藏 19,303 · 点赞 11,656 · 浏览 907,430</sub>
 
-[来源与数据快照](cases/2103273003555402193.md)
+[案例详情与来源](cases/2103273003555402193.md)
 
 ---
 
 <a id="case-2103315922098470926"></a>
 
-#### 16. 15 秒动态设计自由发挥
+### 15 秒动态设计自由发挥
+
+**[Stephan Livera · @stephanlivera](https://x.com/stephanlivera)** · 短动效 · 15s
+
+[<img src="assets/covers/2103315922098470926.jpg" width="640" alt="A 15-second motion design showreel">](https://x.com/stephanlivera/status/2103315922098470926)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103315922098470926.jpg" width="640" alt="15 秒动态设计自由发挥；点击观看作者原帖">](https://x.com/stephanlivera/status/2103315922098470926)
-
-
-</details>
-
-**[Stephan Livera · @stephanlivera](https://x.com/stephanlivera)** · [观看原帖](https://x.com/stephanlivera/status/2103315922098470926) · 短动效 · 15 秒
-
-只给时长、用途和创作方向，让模型自行决定镜头与转场。
+<summary>▶ 播放视频 · 15s</summary>
 
 https://github.com/user-attachments/assets/50e1566c-a40d-4f6a-9cf3-246be4058b4a
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/stephanlivera/status/2103315922098470926) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **11,692** · 点赞 **15,875** · 浏览 **1,511,259**
+</details>
+
+只给时长、用途和创作方向，让模型自行决定镜头与转场。
+
+> 使用前: 作者标明使用 Max effort。
 
 **作者公开提示词** · [出处](https://x.com/stephanlivera/status/2103315922098470926) · [纯文本](prompts/2103315922098470926.txt)
 
@@ -688,7 +706,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 制作一支充满动感的 15 秒动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集短片。全力发挥。
@@ -696,23 +714,23 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 
 </details>
 
-作者标明使用 Max effort。
+<sub>收藏 11,692 · 点赞 15,875 · 浏览 1,511,259</sub>
 
-[来源与数据快照](cases/2103315922098470926.md)
+[案例详情与来源](cases/2103315922098470926.md)
 
 ---
 
 <a id="case-2103576084499358051"></a>
 
-#### 17. Leon 的 15 秒动效作品集
+### Leon 的 15 秒动效作品集
 
-[<img src="assets/covers/2103576084499358051.jpg" width="640" alt="Leon 的 15 秒动效作品集；点击观看作者原帖">](https://x.com/leonabboud/status/2103576084499358051)
+**[Leon Abboud · @leonabboud](https://x.com/leonabboud)** · 短动效 · 15s
 
-**[Leon Abboud · @leonabboud](https://x.com/leonabboud)** · [观看原帖](https://x.com/leonabboud/status/2103576084499358051) · 短动效 · 15 秒
+[<img src="assets/covers/2103576084499358051.jpg" width="640" alt="Leon’s 15-second motion design reel">](https://x.com/leonabboud/status/2103576084499358051)
+
+[▶ 到作者原帖观看](https://x.com/leonabboud/status/2103576084499358051)
 
 与其他作品使用相同短提示词，却呈现不同的镜头与材质选择，可对照观看。
-
-收藏 **642** · 点赞 **574** · 浏览 **58,249**
 
 **作者公开提示词** · [出处](https://x.com/leonabboud/status/2103576084499358051) · [纯文本](prompts/2103576084499358051.txt)
 
@@ -721,7 +739,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 制作一支充满动感的 15 秒动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集短片。全力发挥。
@@ -729,26 +747,30 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 
 </details>
 
-[来源与数据快照](cases/2103576084499358051.md)
+<sub>收藏 642 · 点赞 574 · 浏览 58,249</sub>
+
+[案例详情与来源](cases/2103576084499358051.md)
 
 ---
 
 <a id="case-2103742861971726495"></a>
 
-#### 18. 同一动效任务的无品牌与品牌版
+### 同一动效任务的无品牌与品牌版
 
-[<img src="assets/covers/2103742861971726495.jpg" width="640" alt="同一动效任务的无品牌与品牌版；点击观看作者原帖">](https://x.com/lukasersil/status/2103742861971726495)
+**[Lukáš Eršil · @lukasersil](https://x.com/lukasersil)** · 短动效 · 15s
 
-**[Lukáš Eršil · @lukasersil](https://x.com/lukasersil)** · [观看原帖](https://x.com/lukasersil/status/2103742861971726495) · 短动效 · 15 秒
+[<img src="assets/covers/2103742861971726495.jpg" width="640" alt="Unbranded and branded motion design variants">](https://x.com/lukasersil/status/2103742861971726495)
+
+[▶ 到作者原帖观看](https://x.com/lukasersil/status/2103742861971726495)
 
 作者同时展示两条视频，可对照品牌素材对成片的影响。
 
-收藏 **98** · 点赞 **68** · 浏览 **7,400**
+> 使用前: 原帖有两条视频：第一条无作者品牌，第二条使用其品牌素材包。封面对应第一条。
 
 **作者公开提示词** · [出处](https://x.com/lukasersil/status/2103742861971726495) · [纯文本](prompts/2103742861971726495.txt)
 
 <details>
-<summary>展开原文（744 字符）</summary>
+<summary>展开原文 · 744 字符</summary>
 
 ```text
 Create a bold, dynamic 15-second motion graphics showreel that feels like the ultimate portfolio piece of an exceptionally talented motion designer. Showcase a wide range of advanced techniques: kinetic typography, smooth transitions, 2D and 3D animation, abstract geometry, fluid simulations, particles, distortion, creative masking, compositing, lighting, depth, and seamless camera movement. Keep the pacing fast, confident, and visually surprising, with every shot transitioning naturally into the next. Make it feel meticulously art-directed rather than like a random collection of effects. Push the creativity, polish, timing, and visual impact as far as possible. This should feel like the opening reel that gets a motion designer hired.
@@ -756,33 +778,30 @@ Create a bold, dynamic 15-second motion graphics showreel that feels like the ul
 
 </details>
 
-原帖有两条视频：第一条无作者品牌，第二条使用其品牌素材包。封面对应第一条。
+<sub>收藏 98 · 点赞 68 · 浏览 7,400</sub>
 
-[来源与数据快照](cases/2103742861971726495.md)
+[案例详情与来源](cases/2103742861971726495.md)
 
 ---
 
 <a id="case-2103557735086428547"></a>
 
-#### 19. 90 秒动效与原创钢琴
+### 90 秒动效与原创钢琴
+
+**[klöss · @kloss\_xyz](https://x.com/kloss_xyz)** · 短动效 · 90s
+
+[<img src="assets/covers/2103557735086428547.jpg" width="640" alt="90 seconds of motion design and original piano">](https://x.com/kloss_xyz/status/2103557735086428547)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103557735086428547.jpg" width="640" alt="90 秒动效与原创钢琴；点击观看作者原帖">](https://x.com/kloss_xyz/status/2103557735086428547)
-
-
-</details>
-
-**[klöss · @kloss\_xyz](https://x.com/kloss_xyz)** · [观看原帖](https://x.com/kloss_xyz/status/2103557735086428547) · 短动效 · 90 秒
-
-在作品集提示词中加入声音方向、钢琴配乐和导出规格。
+<summary>▶ 播放视频 · 90s</summary>
 
 https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/kloss_xyz/status/2103557735086428547) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **70** · 点赞 **105** · 浏览 **43,093**
+</details>
+
+在作品集提示词中加入声音方向、钢琴配乐和导出规格。
 
 **作者公开提示词** · [出处](https://x.com/kloss_xyz/status/2103560107921723834) · [纯文本](prompts/2103557735086428547.txt)
 
@@ -791,7 +810,7 @@ make a dynamic 16:9 aspect ratio 90-second motion graphics video that shows exac
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 制作一支 16:9、90 秒的动态图形视频，展示你作为动态设计师的实力与创意极限，就像用于简历的作品集。使用顶级声音设计，不要合成器音色。全力发挥，创作原创且易传播的钢琴配乐。导出适合社交媒体的 1080p MP4。
@@ -799,38 +818,41 @@ make a dynamic 16:9 aspect ratio 90-second motion graphics video that shows exac
 
 </details>
 
-[来源与数据快照](cases/2103557735086428547.md)
+<sub>收藏 70 · 点赞 105 · 浏览 43,093</sub>
+
+[案例详情与来源](cases/2103557735086428547.md)
 
 ---
 
-### 像素与角色
+<a id="characters"></a>
+
+## 像素与角色
 
 <a id="case-2102476258948927543"></a>
 
-#### 20. 像素巫师的施法循环
+### 像素巫师的施法循环
+
+**[Majid Manzarpour · @majidmanzarpour](https://x.com/majidmanzarpour)** · 像素与角色 · 11s
+
+[<img src="assets/covers/2102476258948927543.jpg" width="640" alt="A pixel wizard casting spells">](https://x.com/majidmanzarpour/status/2102476258948927543)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102476258948927543.jpg" width="640" alt="像素巫师的施法循环；点击观看作者原帖">](https://x.com/majidmanzarpour/status/2102476258948927543)
-
-
-</details>
-
-**[Majid Manzarpour · @majidmanzarpour](https://x.com/majidmanzarpour)** · [观看原帖](https://x.com/majidmanzarpour/status/2102476258948927543) · 像素与角色 · 11 秒
-
-完整规格覆盖像素尺寸、调色板、角色动作与循环，适合学习精确约束。
+<summary>▶ 播放视频 · 11s</summary>
 
 https://github.com/user-attachments/assets/ea6388a4-f341-4d32-8807-8a2e7edafce0
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/majidmanzarpour/status/2102476258948927543) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **2,639** · 点赞 **2,527** · 浏览 **436,780**
+</details>
+
+完整规格覆盖像素尺寸、调色板、角色动作与循环，适合学习精确约束。
+
+> 使用前: 纯 HTML / Canvas 2D 的规格型提示词；无需外部素材。
 
 **作者公开提示词** · [出处](https://x.com/majidmanzarpour/status/2102476499387383834) · [纯文本](prompts/2102476258948927543.txt)
 
 <details>
-<summary>展开原文（2,209 字符）</summary>
+<summary>展开原文 · 2,209 字符</summary>
 
 ```text
 Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D. No external assets, libraries, or network requests.
@@ -859,38 +881,37 @@ QUALITY BAR
 
 </details>
 
-纯 HTML / Canvas 2D 的规格型提示词；无需外部素材。
+<sub>收藏 2,639 · 点赞 2,527 · 浏览 436,780</sub>
 
-[来源与数据快照](cases/2102476258948927543.md)
+[案例详情与来源](cases/2102476258948927543.md)
 
 ---
 
 <a id="case-2102515055116063144"></a>
 
-#### 21. 彩虹跑道上的像素闪避
+### 彩虹跑道上的像素闪避
+
+**[Rikuo · @riku720720](https://x.com/riku720720)** · 像素与角色 · 19s
+
+[<img src="assets/covers/2102515055116063144.jpg" width="640" alt="A pixel race on a rainbow road">](https://x.com/riku720720/status/2102515055116063144)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102515055116063144.jpg" width="640" alt="彩虹跑道上的像素闪避；点击观看作者原帖">](https://x.com/riku720720/status/2102515055116063144)
-
-
-</details>
-
-**[Rikuo · @riku720720](https://x.com/riku720720)** · [观看原帖](https://x.com/riku720720/status/2102515055116063144) · 像素与角色 · 19 秒
-
-围绕奔跑、预警与闪避构建连续动作，适合像素动画和小游戏演示。
+<summary>▶ 播放视频 · 19s</summary>
 
 https://github.com/user-attachments/assets/676888c5-bb90-49cb-b7a0-c8b568a71dfb
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/riku720720/status/2102515055116063144) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **842** · 点赞 **1,079** · 浏览 **240,426**
+</details>
+
+围绕奔跑、预警与闪避构建连续动作，适合像素动画和小游戏演示。
+
+> 使用前: 日文完整规格，包含角色、攻击预警、速度感与循环要求；以下原文保持日文，不将本站简介冒充全文翻译。
 
 **作者公开提示词** · [出处](https://x.com/riku720720/status/2102515058010132554) · [纯文本](prompts/2102515055116063144.txt)
 
 <details>
-<summary>展开原文（3,449 字符）</summary>
+<summary>展开原文 · 3,449 字符</summary>
 
 ```text
 Vanilla JavaScript と Canvas 2D を使い、オレンジ色のピクセルキャラクターが宇宙空間のレインボーの床を超高速で駆け抜け、次々と襲いかかる隕石やビームをかっこよく回避し続けるアニメーションを、単一の自己完結型 HTML ファイルとして作成してください。外部アセット、ライブラリ、ネットワークリクエストは一切使用しないこと。操作は不要で、キャラクターが自動で回避し続けるデモとしてシームレスにループさせること。
@@ -966,93 +987,96 @@ Vanilla JavaScript と Canvas 2D を使い、オレンジ色のピクセルキ�
 
 </details>
 
-日文完整规格，包含角色、攻击预警、速度感与循环要求；以下原文保持日文，不将本站简介冒充全文翻译。
+<sub>收藏 842 · 点赞 1,079 · 浏览 240,426</sub>
 
-[来源与数据快照](cases/2102515055116063144.md)
+[案例详情与来源](cases/2102515055116063144.md)
 
 ---
 
 <a id="case-2103099194693271874"></a>
 
-#### 22. 机器人穿越十二种画风
+### 机器人穿越十二种画风
+
+**[Pradeep Kapoor · @pradeepXkapoor](https://x.com/pradeepXkapoor)** · 像素与角色 · 75s
+
+[<img src="assets/covers/2103099194693271874.jpg" width="640" alt="Pip travels through twelve visual styles">](https://x.com/pradeepXkapoor/status/2103099194693271874)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103099194693271874.jpg" width="640" alt="机器人穿越十二种画风；点击观看作者原帖">](https://x.com/pradeepXkapoor/status/2103099194693271874)
-
-
-</details>
-
-**[Pradeep Kapoor · @pradeepXkapoor](https://x.com/pradeepXkapoor)** · [观看原帖](https://x.com/pradeepXkapoor/status/2103099194693271874) · 像素与角色 · 75 秒
-
-用详细角色设定与分幕要求保持机器人在不同画风中的连续性。
+<summary>▶ 播放视频 · 75s</summary>
 
 https://github.com/user-attachments/assets/6764161e-1d18-47c6-bac6-b56b315547e4
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/pradeepXkapoor/status/2103099194693271874) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **532** · 点赞 **663** · 浏览 **60,740**
+</details>
+
+用详细角色设定与分幕要求保持机器人在不同画风中的连续性。
+
+> 使用前: 长篇制作规格，含角色、骨骼、十二种世界风格、声音和交付检查；原文开头的拼写保持不改。
 
 作者已公开指令；本站仅提供原帖入口，不再分发全文或译文。 [查看作者原文](https://x.com/pradeepXkapoor/status/2103176289482154373)
 
-[来源与数据快照](cases/2103099194693271874.md)
+<sub>收藏 532 · 点赞 663 · 浏览 60,740</sub>
+
+[案例详情与来源](cases/2103099194693271874.md)
 
 ---
 
-### 3D 与交互
+<a id="interactive"></a>
+
+## 3D 与交互
 
 <a id="case-2102450239923720440"></a>
 
-#### 23. 史前岛屿的水上与水下
+### 史前岛屿的水上与水下
+
+**[Vib3Coded · @vib3coded](https://x.com/vib3coded)** · 3D 与交互 · 20s
+
+[<img src="assets/covers/2102450239923720440.jpg" width="640" alt="A prehistoric island: Opus 5 vs. Opus 5.5">](https://x.com/vib3coded/status/2102450239923720440)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102450239923720440.jpg" width="640" alt="史前岛屿的水上与水下；点击观看作者原帖">](https://x.com/vib3coded/status/2102450239923720440)
-
-
-</details>
-
-**[Vib3Coded · @vib3coded](https://x.com/vib3coded)** · [观看原帖](https://x.com/vib3coded/status/2102450239923720440) · 3D 与交互 · 20 秒
-
-构建带水下剖面、动物和交互操作的岛屿，适合参考完整场景的任务规格。
+<summary>▶ 播放视频 · 20s</summary>
 
 https://github.com/user-attachments/assets/9c7562a1-3943-4dbd-8396-e19155d7ed23
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
-
-收藏 **77** · 点赞 **204** · 浏览 **100,832**
-
-作者已公开指令；本站仅提供原帖入口，不再分发全文或译文。 [查看作者原文](https://x.com/vib3coded/status/2102450842070569099)
-
-[来源与数据快照](cases/2102450239923720440.md)
-
----
-
-### 叙事短片
-
-<a id="case-2103381720410333314"></a>
-
-#### 24. 一句话讲 Anthropic 的发家史
-
-<details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103381720410333314.jpg" width="640" alt="一句话讲 Anthropic 的发家史；点击观看作者原帖">](https://x.com/VincentWei93/status/2103381720410333314)
-
+[作者原帖](https://x.com/vib3coded/status/2102450239923720440) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
 </details>
 
-**[Vincent文森特 · @VincentWei93](https://x.com/VincentWei93)** · [观看原帖](https://x.com/VincentWei93/status/2103381720410333314) · 叙事短片 · 224 秒
+构建带水下剖面、动物和交互操作的岛屿，适合参考完整场景的任务规格。
 
-中文短指令，同时要求主题叙事、音乐与音效。
+> 使用前: 原帖是模型对比：左侧 Opus 5，右侧 Opus 5.5。本条记录的是右侧的 Opus 5.5 场景；这是交互场景演示录像。
+
+作者已公开指令；本站仅提供原帖入口，不再分发全文或译文。 [查看作者原文](https://x.com/vib3coded/status/2102450842070569099)
+
+<sub>收藏 77 · 点赞 204 · 浏览 100,832</sub>
+
+[案例详情与来源](cases/2102450239923720440.md)
+
+---
+
+<a id="stories"></a>
+
+## 叙事短片
+
+<a id="case-2103381720410333314"></a>
+
+### 一句话讲 Anthropic 的发家史
+
+**[Vincent文森特 · @VincentWei93](https://x.com/VincentWei93)** · 叙事短片 · 224s
+
+[<img src="assets/covers/2103381720410333314.jpg" width="640" alt="The rise of Anthropic">](https://x.com/VincentWei93/status/2103381720410333314)
+
+<details>
+<summary>▶ 播放视频 · 224s</summary>
 
 https://github.com/user-attachments/assets/29c764e4-8fc5-45e2-954e-9bf85ca3baa1
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/VincentWei93/status/2103381720410333314) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **1,207** · 点赞 **1,072** · 浏览 **130,223**
+</details>
+
+中文短指令，同时要求主题叙事、音乐与音效。
 
 **作者公开提示词** · [出处](https://x.com/VincentWei93/status/2103494376118985207) · [纯文本](prompts/2103381720410333314.txt)
 
@@ -1060,36 +1084,37 @@ https://github.com/user-attachments/assets/29c764e4-8fc5-45e2-954e-9bf85ca3baa1
 帮我制作一个动画，主题描绘Anthropic的理念和发家史；包括音效和音乐；你可以使用任何你觉得合适的工具和技术，做出最好最惊艳的效果，不要使用已有的skill，不要参考以前做过的视频或者文案
 ```
 
-[来源与数据快照](cases/2103381720410333314.md)
+<sub>收藏 1,207 · 点赞 1,072 · 浏览 130,223</sub>
+
+[案例详情与来源](cases/2103381720410333314.md)
 
 ---
 
 <a id="case-2103116235009347650"></a>
 
-#### 25. 用代码讲述奥斯特里茨战役
+### 用代码讲述奥斯特里茨战役
+
+**[Winter · @WinterArc2125](https://x.com/WinterArc2125)** · 叙事短片 · 301s
+
+[<img src="assets/covers/2103116235009347650.jpg" width="640" alt="The Battle of Austerlitz in code">](https://x.com/WinterArc2125/status/2103116235009347650)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103116235009347650.jpg" width="640" alt="用代码讲述奥斯特里茨战役；点击观看作者原帖">](https://x.com/WinterArc2125/status/2103116235009347650)
-
-
-</details>
-
-**[Winter · @WinterArc2125](https://x.com/WinterArc2125)** · [观看原帖](https://x.com/WinterArc2125/status/2103116235009347650) · 叙事短片 · 301 秒
-
-用历史事件检验较长叙事、地形与镜头组织；作者同时提供了源码。
+<summary>▶ 播放视频 · 301s</summary>
 
 https://github.com/user-attachments/assets/b184c248-70ea-486a-afa8-223bdf7ff943
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/WinterArc2125/status/2103116235009347650) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **272** · 点赞 **305** · 浏览 **63,750**
+</details>
+
+用历史事件检验较长叙事、地形与镜头组织；作者同时提供了源码。
+
+> 使用前: 原文要求参考随附绘画，属于有参考素材的长片任务；作者记录的制作与渲染时间较长。
 
 **作者公开提示词** · [出处](https://x.com/WinterArc2125/status/2103116689944502720) · [纯文本](prompts/2103116235009347650.txt)
 
 <details>
-<summary>展开原文（847 字符）</summary>
+<summary>展开原文 · 847 字符</summary>
 
 ```text
 Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
@@ -1105,28 +1130,30 @@ You have complete creative control. Surprise me.
 
 </details>
 
-原文要求参考随附绘画，属于有参考素材的长片任务；作者记录的制作与渲染时间较长。
+<sub>收藏 272 · 点赞 305 · 浏览 63,750</sub>
 
-[来源与数据快照](cases/2103116235009347650.md) · [相关源码](https://github.com/WinterArc21/Battle-of-Austerlitz-Film)
+[案例详情与来源](cases/2103116235009347650.md) · [作者源码](https://github.com/WinterArc21/Battle-of-Austerlitz-Film)
 
 ---
 
 <a id="case-2103757767727255661"></a>
 
-#### 26. 雨夜站台的 30 秒重逢
+### 雨夜站台的 30 秒重逢
 
-[<img src="assets/covers/2103757767727255661.jpg" width="640" alt="雨夜站台的 30 秒重逢；点击观看作者原帖">](https://x.com/zhu185178/status/2103757767727255661)
+**[Feicai · @zhu185178](https://x.com/zhu185178)** · 叙事短片 · 30s
 
-**[Feicai · @zhu185178](https://x.com/zhu185178)** · [观看原帖](https://x.com/zhu185178/status/2103757767727255661) · 叙事短片 · 30 秒
+[<img src="assets/covers/2103757767727255661.jpg" width="640" alt="RainStation: a mixed image-and-code workflow">](https://x.com/zhu185178/status/2103757767727255661)
+
+[▶ 到作者原帖观看](https://x.com/zhu185178/status/2103757767727255661)
 
 按镜头时间写清动作、视线与声音，适合观察故事短片的详细任务单。
 
-收藏 **100** · 点赞 **51** · 浏览 **7,802**
+> 使用前: 混合制作：原文包含 GPT Image 2.5 原画、超分、深度估计、配音与代码合成，不是纯代码生成所有素材。
 
 **作者公开提示词** · [出处](https://x.com/zhu185178/status/2103757767727255661) · [纯文本](prompts/2103757767727255661.txt)
 
 <details>
-<summary>展开原文（1,058 字符）</summary>
+<summary>展开原文 · 1,058 字符</summary>
 
 ```text
 帮我做一条 30 秒的 2D 动画分镜预演短片《雨站》，要标杆级画质。不装 HyperFrames/Remotion，全部自己写代码（Python + ffmpeg）完成。
@@ -1151,53 +1178,58 @@ You have complete creative control. Surprise me.
 
 </details>
 
-混合制作：原文包含 GPT Image 2.5 原画、超分、深度估计、配音与代码合成，不是纯代码生成所有素材。
+<sub>收藏 100 · 点赞 51 · 浏览 7,802</sub>
 
-[来源与数据快照](cases/2103757767727255661.md)
+[案例详情与来源](cases/2103757767727255661.md)
 
 ---
 
-### 音乐与歌词
+<a id="music"></a>
+
+## 音乐与歌词
 
 <a id="case-2102801274173587569"></a>
 
-#### 27. Claude Pop 混合制作 MV
+### Claude Pop 混合制作 MV
+
+**[donald · @donaldjewkes](https://x.com/donaldjewkes)** · 音乐与歌词 · 142s
+
+[<img src="assets/covers/2102801274173587569.jpg" width="640" alt="Claude Pop: a mixed-workflow music video">](https://x.com/donaldjewkes/status/2102801274173587569)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102801274173587569.jpg" width="640" alt="Claude Pop 混合制作 MV；点击观看作者原帖">](https://x.com/donaldjewkes/status/2102801274173587569)
-
-
-</details>
-
-**[donald · @donaldjewkes](https://x.com/donaldjewkes)** · [观看原帖](https://x.com/donaldjewkes/status/2102801274173587569) · 音乐与歌词 · 142 秒
-
-将参考音乐视频、角色资产、外部生成与代码动画结合，展示较复杂的制作任务。
+<summary>▶ 播放视频 · 142s</summary>
 
 https://github.com/user-attachments/assets/e3b65a8a-6af3-4a0a-8d62-5e9dc0ce1794
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/donaldjewkes/status/2102801274173587569) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **8,096** · 点赞 **8,599** · 浏览 **2,110,510**
+</details>
+
+将参考音乐视频、角色资产、外部生成与代码动画结合，展示较复杂的制作任务。
+
+> 使用前: 作者原文依赖参考 MP4、音轨及外部生成服务，并提到较高服务预算。它不是无素材、零成本的一句话案例。
 
 作者已公开指令；本站仅提供原帖入口，不再分发全文或译文。 [查看作者原文](https://x.com/donaldjewkes/status/2102801469976248500)
 
-[来源与数据快照](cases/2102801274173587569.md)
+<sub>收藏 8,096 · 点赞 8,599 · 浏览 2,110,510</sub>
+
+[案例详情与来源](cases/2102801274173587569.md)
 
 ---
 
 <a id="case-2103741636635496583"></a>
 
-#### 28. 让歌词成为竖屏视频主角
+### 让歌词成为竖屏视频主角
 
-[<img src="assets/covers/2103741636635496583.jpg" width="360" alt="让歌词成为竖屏视频主角；点击观看作者原帖">](https://x.com/kurahu_capten/status/2103741636635496583)
+**[kurahu@AIart · @kurahu\_capten](https://x.com/kurahu_capten)** · 音乐与歌词 · 48s
 
-**[kurahu@AIart · @kurahu\_capten](https://x.com/kurahu_capten)** · [观看原帖](https://x.com/kurahu_capten/status/2103741636635496583) · 音乐与歌词 · 48 秒
+[<img src="assets/covers/2103741636635496583.jpg" width="360" alt="An animated lyric video">](https://x.com/kurahu_capten/status/2103741636635496583)
+
+[▶ 到作者原帖观看](https://x.com/kurahu_capten/status/2103741636635496583)
 
 先定演出方案，再按歌词时间调整文字表现，适合已有歌曲的歌词视频。
 
-收藏 **2** · 点赞 **25** · 浏览 **1,218**
+> 使用前: 作者先准备歌曲和歌词；原片音乐使用 Suno 制作，后续还进行了逐段修改。
 
 **作者公开提示词** · [出处](https://x.com/kurahu_capten/status/2103742110747054506) · [纯文本](prompts/2103741636635496583.txt)
 
@@ -1206,7 +1238,7 @@ https://github.com/user-attachments/assets/e3b65a8a-6af3-4a0a-8d62-5e9dc0ce1794
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 用歌曲和歌词制作一支以歌词为主角的竖屏歌词视频。让歌词与演唱准确同步，采用 EVA 标题卡风格。制作前先向我展示演出方案。
@@ -1214,46 +1246,47 @@ https://github.com/user-attachments/assets/e3b65a8a-6af3-4a0a-8d62-5e9dc0ce1794
 
 </details>
 
-作者先准备歌曲和歌词；原片音乐使用 Suno 制作，后续还进行了逐段修改。
+<sub>收藏 2 · 点赞 25 · 浏览 1,218</sub>
 
-[来源与数据快照](cases/2103741636635496583.md)
+[案例详情与来源](cases/2103741636635496583.md)
 
 ---
 
-## 任务描述补充
+<a id="briefs"></a>
 
-以下作品有观看地址，但作者只公开了任务转述或片段，不能当作完整原始提示词。
+## 作者任务描述
+
+这 4 个案例有作品可看，但作者只公开了任务转述，不能当作完整提示词。
 
 <a id="case-2102591147927654847"></a>
 
-### 29. 用镜头实验室解释对焦
+### 用镜头实验室解释对焦
+
+**[Ryan Sael · @RyanSael](https://x.com/RyanSael)** · 知识讲解 · 32s
+
+[<img src="assets/covers/2102591147927654847.jpg" width="640" alt="An interactive camera lens lab">](https://x.com/RyanSael/status/2102591147927654847)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102591147927654847.jpg" width="640" alt="用镜头实验室解释对焦；点击观看作者原帖">](https://x.com/RyanSael/status/2102591147927654847)
-
-
-</details>
-
-**[Ryan Sael · @RyanSael](https://x.com/RyanSael)** · [观看原帖](https://x.com/RyanSael/status/2102591147927654847) · 知识讲解 · 32 秒
-
-交互场景展示焦点和镜片关系，可参考需要观众操作的教学方式。
+<summary>▶ 播放视频 · 32s</summary>
 
 https://github.com/user-attachments/assets/442ad7c1-0abc-4d15-964e-b558b8c82107
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/RyanSael/status/2102591147927654847) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **9,188** · 点赞 **15,107** · 浏览 **2,945,570**
+</details>
 
-**作者任务描述（非完整提示词）** · [出处](https://x.com/RyanSael/status/2102591147927654847) · [纯文本](prompts/2102591147927654847.txt)
+交互场景展示焦点和镜片关系，可参考需要观众操作的教学方式。
+
+> 使用前: 作者任务描述，不是完整提示词；作品为交互演示录像。
+
+**作者任务描述 · 非完整提示词** · [出处](https://x.com/RyanSael/status/2102591147927654847) · [纯文本](prompts/2102591147927654847.txt)
 
 ```text
 I asked Opus 5.5 to explain camera focus by building an interactive lens lab
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 我让 Opus 5.5 通过构建一个交互式镜头实验室来解释相机对焦。
@@ -1261,42 +1294,41 @@ I asked Opus 5.5 to explain camera focus by building an interactive lens lab
 
 </details>
 
-作者任务描述，不是完整提示词；作品为交互演示录像。
+<sub>收藏 9,188 · 点赞 15,107 · 浏览 2,945,570</sub>
 
-[来源与数据快照](cases/2102591147927654847.md)
+[案例详情与来源](cases/2102591147927654847.md)
 
 ---
 
 <a id="case-2103304514329854102"></a>
 
-### 30. 面向普通人的超级智能纪录片
+### 面向普通人的超级智能纪录片
+
+**[Gavin Purcell · @gavinpurcell](https://x.com/gavinpurcell)** · 知识讲解 · 315s
+
+[<img src="assets/covers/2103304514329854102.jpg" width="640" alt="A documentary about superintelligence">](https://x.com/gavinpurcell/status/2103304514329854102)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2103304514329854102.jpg" width="640" alt="面向普通人的超级智能纪录片；点击观看作者原帖">](https://x.com/gavinpurcell/status/2103304514329854102)
-
-
-</details>
-
-**[Gavin Purcell · @gavinpurcell](https://x.com/gavinpurcell)** · [观看原帖](https://x.com/gavinpurcell/status/2103304514329854102) · 知识讲解 · 315 秒
-
-通过外部视频工具组织纪录片内容，可参考通俗解释的受众设定。
+<summary>▶ 播放视频 · 315s</summary>
 
 https://github.com/user-attachments/assets/aa4ac9cb-8868-4c98-806e-679a78b05167
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/gavinpurcell/status/2103304514329854102) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **3,120** · 点赞 **3,476** · 浏览 **267,252**
+</details>
 
-**作者任务描述（非完整提示词）** · [出处](https://x.com/gavinpurcell/status/2103304514329854102) · [纯文本](prompts/2103304514329854102.txt)
+通过外部视频工具组织纪录片内容，可参考通俗解释的受众设定。
+
+> 使用前: 作者只引用了任务短语，完整上下文未公开；流程接入 Runway MCP。
+
+**作者任务描述 · 非完整提示词** · [出处](https://x.com/gavinpurcell/status/2103304514329854102) · [纯文本](prompts/2103304514329854102.txt)
 
 ```text
 high-end netflix style documentary about superintelligence for normies
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 一部面向普通观众、讲解超级智能的高端 Netflix 风格纪录片。
@@ -1304,42 +1336,41 @@ high-end netflix style documentary about superintelligence for normies
 
 </details>
 
-作者只引用了任务短语，完整上下文未公开；流程接入 Runway MCP。
+<sub>收藏 3,120 · 点赞 3,476 · 浏览 267,252</sub>
 
-[来源与数据快照](cases/2103304514329854102.md)
+[案例详情与来源](cases/2103304514329854102.md)
 
 ---
 
 <a id="case-2102495989194236158"></a>
 
-### 31. 用画笔讲述模型的一生
+### 用画笔讲述模型的一生
+
+**[✯ · @shfred0](https://x.com/shfred0)** · 叙事短片 · 30s
+
+[<img src="assets/covers/2102495989194236158.jpg" width="640" alt="Claude animates its own life">](https://x.com/shfred0/status/2102495989194236158)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102495989194236158.jpg" width="640" alt="用画笔讲述模型的一生；点击观看作者原帖">](https://x.com/shfred0/status/2102495989194236158)
-
-
-</details>
-
-**[✯ · @shfred0](https://x.com/shfred0)** · [观看原帖](https://x.com/shfred0/status/2102495989194236158) · 叙事短片 · 30 秒
-
-从模型自身经历出发组织动画，适合参考开放式故事命题。
+<summary>▶ 播放视频 · 30s</summary>
 
 https://github.com/user-attachments/assets/542174cd-2388-4aff-8e4a-06a525083c6b
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/shfred0/status/2102495989194236158) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **1,732** · 点赞 **4,174** · 浏览 **364,783**
+</details>
 
-**作者任务描述（非完整提示词）** · [出处](https://x.com/shfred0/status/2102495989194236158) · [纯文本](prompts/2102495989194236158.txt)
+从模型自身经历出发组织动画，适合参考开放式故事命题。
+
+> 使用前: 作者公开的是任务转述，未核实完整原始提示词。
+
+**作者任务描述 · 非完整提示词** · [出处](https://x.com/shfred0/status/2102495989194236158) · [纯文本](prompts/2102495989194236158.txt)
 
 ```text
 Asked Claude Opus 5.5 to animate its own life, from day 0 to now
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 让 Claude Opus 5.5 把自己从诞生到现在的一生做成动画。
@@ -1347,42 +1378,41 @@ Asked Claude Opus 5.5 to animate its own life, from day 0 to now
 
 </details>
 
-作者公开的是任务转述，未核实完整原始提示词。
+<sub>收藏 1,732 · 点赞 4,174 · 浏览 364,783</sub>
 
-[来源与数据快照](cases/2102495989194236158.md)
+[案例详情与来源](cases/2102495989194236158.md)
 
 ---
 
 <a id="case-2102573127192727704"></a>
 
-### 32. 把旅行照片画成丙烯动画
+### 把旅行照片画成丙烯动画
+
+**[Ann Nguyen · @ann\_nnng](https://x.com/ann_nnng)** · 叙事短片 · 22s
+
+[<img src="assets/covers/2102573127192727704.jpg" width="640" alt="New Zealand through acrylic brushstrokes">](https://x.com/ann_nnng/status/2102573127192727704)
 
 <details>
-<summary>封面预览 · 点击封面访问作者原帖</summary>
-
-[<img src="assets/covers/2102573127192727704.jpg" width="640" alt="把旅行照片画成丙烯动画；点击观看作者原帖">](https://x.com/ann_nnng/status/2102573127192727704)
-
-
-</details>
-
-**[Ann Nguyen · @ann\_nnng](https://x.com/ann_nnng)** · [观看原帖](https://x.com/ann_nnng/status/2102573127192727704) · 叙事短片 · 22 秒
-
-将个人照片作为输入，探索代码绘制的旅行记忆。
+<summary>▶ 播放视频 · 22s</summary>
 
 https://github.com/user-attachments/assets/6d5bca54-2fc9-48ec-9439-1508be654c08
 
-[外部播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md) · 播放不可用时请打开原帖。
+[作者原帖](https://x.com/ann_nnng/status/2102573127192727704) · [播放来源](https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md)
 
-收藏 **1,250** · 点赞 **1,842** · 浏览 **119,170**
+</details>
 
-**作者任务描述（非完整提示词）** · [出处](https://x.com/ann_nnng/status/2102573127192727704) · [纯文本](prompts/2102573127192727704.txt)
+将个人照片作为输入，探索代码绘制的旅行记忆。
+
+> 使用前: 作者任务转述，且依赖其旅行照片；未公开完整原始提示词。
+
+**作者任务描述 · 非完整提示词** · [出处](https://x.com/ann_nnng/status/2102573127192727704) · [纯文本](prompts/2102573127192727704.txt)
 
 ```text
 asked Claude opus 5.5 to draw my new zealand trip pics in acrylic style
 ```
 
 <details>
-<summary>中文译文（本站整理）</summary>
+<summary>中文译文</summary>
 
 ```text
 让 Claude Opus 5.5 用丙烯画风格描绘我的新西兰旅行照片。
@@ -1390,34 +1420,30 @@ asked Claude opus 5.5 to draw my new zealand trip pics in acrylic style
 
 </details>
 
-作者任务转述，且依赖其旅行照片；未公开完整原始提示词。
+<sub>收藏 1,250 · 点赞 1,842 · 浏览 119,170</sub>
 
-[来源与数据快照](cases/2102573127192727704.md)
+[案例详情与来源](cases/2102573127192727704.md)
 
 ---
 
-## 来源与致谢
+<a id="faq"></a>
 
-感谢每位公开作品和制作过程的作者。本项目独立编写选片介绍、分类与译文，逐条回查公开来源。参考了 [opus-video-prompts](https://github.com/joeseesun/opus-video-prompts) 的分享思路，以及 [Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video) 和 [YouMind](https://youmind.com/zh-CN/opus-5-5-prompts) 的发现线索；各案例保留具体发现来源。
+## 常见问题
 
-模型归因来自作者自述，未独立复现。公开提示词不代表完整对话或额外素材已提供。播放器引用第三方已公开的 GitHub 附件，逐条标明提供方；本站未重新上传视频，也未把外部公开链接视为转载授权。仓库只保存小封面、文字与媒体地址。原帖访问可能受 X 登录要求影响。
+**一句话提示词也收录吗？** 收录。按作者真实公开内容保留，不为显得专业而扩写。
 
-原创脚本采用 [MIT](LICENSE)；第三方封面、视频和提示词不包含在此许可内，见 [来源与复用说明](THIRD_PARTY.md)。
+**复制后能得到一模一样的作品吗？** 不能保证。提示词不一定包含完整对话、参考素材和修改过程；我们没有逐条独立复现。
 
-策展：**观默 / [@guanmo_ai](https://x.com/guanmo_ai)**
+**所有作品都是纯代码生成吗？** 不是。这里也收录混合制作和交互演示，具体条件写在案例的“使用前”说明中。
 
-<details>
-<summary>维护者：更新索引与校验</summary>
+**视频打不开怎么办？** 打开作者原帖，或提交失效反馈。页内播放器引用第三方公开附件，可能随提供方状态变化。
 
-普通读者无需运行。维护者需要 Node.js 22+，无第三方依赖。
+## 一起完善这个片单
 
-```sh
-node scripts/build.mjs
-node --test tests/*.test.mjs
-node scripts/build.mjs --check
-node scripts/check-release.mjs
-```
+[提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml) · [纠错或移除](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=correction.yml) · [投稿规范](CONTRIBUTING.md) · [维护指南](docs/MAINTAINING.md)
 
-内容源为 [data/cases.json](data/cases.json)，修改后重新生成。
+感谢公开作品与制作过程的创作者。参考 [opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)、[Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video)、[PicoTrex](https://github.com/PicoTrex/Awesome-Nano-Banana-images) 与 [YouMind](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)；案例逐条保留来源，介绍与译文独立整理。
 
-</details>
+原创维护脚本采用 [MIT](LICENSE)；第三方媒体与提示词另见 [来源与复用说明](THIRD_PARTY.md)。
+
+<sub>互动快照: 2026-09-27 04:57 UTC — 2026-09-27 05:00 UTC · 策展 [观默 / @guanmo_ai](https://x.com/guanmo_ai)</sub>
