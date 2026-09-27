@@ -1,0 +1,1 @@
+gave Opus 5.5 the AI 2027 paper and asked it to make it into a video.  It used Gemini for Image generation and audio

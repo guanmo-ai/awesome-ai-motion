@@ -1,0 +1,1 @@
+This test asked for a fully procedural build of a rather famous scene, no imports, no generators.

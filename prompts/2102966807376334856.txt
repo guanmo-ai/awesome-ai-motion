@@ -1,0 +1,1 @@
+Claude Opus 5.5にローンチビデオをBlenderで作らせてみた。

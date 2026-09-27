@@ -1,5 +1,5 @@
 name: 投稿作品 / Submit a case
-description: 分享真实作品与作者公开提示词，一句话也可以。
+description: 提交原作者作品线索；核验后进入发现池，精选需独立审看。
 title: '[投稿] '
 body:
   - type: input
@@ -13,7 +13,7 @@ body:
     id: model
     attributes:
       label: 模型依据 / Model evidence
-      description: 作者在哪里明确说使用了 Claude Opus？请给链接。
+      description: 作者在哪里说明使用的 AI 模型或制作工具？请给原作者证据链接。
     validations:
       required: true
   - type: textarea
@@ -27,7 +27,7 @@ body:
     id: context
     attributes:
       label: 必要素材与播放来源 / Assets and playback
-      description: 是否需要参考图、音频、项目文件？如提供视频附件，请说明来源和许可依据。
+      description: 是否需要参考图、音频、项目文件？请提供作者原帖的视频来源，不使用参考仓库转载的视频附件。
   - type: checkboxes
     id: attribution
     attributes:

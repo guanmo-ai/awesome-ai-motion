@@ -1,0 +1,2 @@
+Opus 5.5 just one-shot this 90s-style demoscene demo for me. It's pretty good.
+It's a genuine one-shot (in colloquial X post sense - single prompt) and my first attempt asking it to do such a thing. I just supplied Purple Motion's music from Second Reality. C/C++ and OpenGL.

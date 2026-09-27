@@ -1,0 +1,112 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import {get} from 'node:http';
+import path from 'node:path';
+import {buildOutputs} from '../scripts/build.mjs';
+import {createCuration} from '../scripts/curation.mjs';
+import {createGalleryServer} from '../scripts/serve.mjs';
+
+function fixture(t) {
+  const root=fs.mkdtempSync(path.join(os.tmpdir(),'motion-curation-'));
+  t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
+  const row=id=>({id,title:`测试作品 ${id}`,titleEn:`Test ${id}`,category:'短动效',summary:'测试',summaryEn:'Test',author:{name:'Test',handle:'test',url:'https://x.com/test'},source:{url:`https://x.com/test/status/${id}`,publishedAt:'2026-09-27T00:00:00Z'},model:{name:'Claude Opus 5.5',evidenceQuote:'Opus 5.5',evidenceUrl:`https://x.com/test/status/${id}`},media:{durationSeconds:10,videoCount:1},cover:{path:`assets/covers/${id}.jpg`,sourceUrl:'https://example.com/cover.jpg',width:100},prompt:{status:'original',text:'test',sourceUrl:`https://x.com/test/status/${id}`,checkedAt:'2026-09-27T00:00:00Z'},metrics:{bookmarks:0,likes:0,views:0,checkedAt:'2026-09-27T00:00:00Z',sourceUrl:'https://x.com/test/status/1'},verification:{sourceReadAt:'2026-09-27T00:00:00Z',videoAttachmentConfirmed:true}});
+  const catalog={repository:'guanmo-ai/awesome-ai-motion',schemaVersion:2,cases:[row('1'),row('2')]};
+  const write=(file,body)=>{fs.mkdirSync(path.dirname(path.join(root,file)),{recursive:true});fs.writeFileSync(path.join(root,file),body);};
+  write('data/cases.json',JSON.stringify(catalog,null,2)+'\n');
+  for(const c of catalog.cases)write(c.cover.path,Buffer.from('test cover'));
+  for(const [file,body] of buildOutputs(catalog))write(file,body);
+  return {root,catalog,write};
+}
+test('删除同步数据、双语详情、提示词、封面与分类；重启后能恢复，其他删除不被覆盖',t=>{
+  const {root,catalog}=fixture(t);let editor=createCuration(root),s=editor.snapshot();
+  s=editor.mutate('delete','1',s.revision);
+  assert.equal(s.catalog.cases.length,1);assert.equal(s.trash.length,1);
+  for(const file of ['cases/1.md','cases/1.en.md','prompts/1.txt','assets/covers/1.jpg'])assert.equal(fs.existsSync(path.join(root,file)),false,file);
+  assert.ok(!fs.readFileSync(path.join(root,'browse/motion.md'),'utf8').includes('cases/1.md'));
+  assert.ok(fs.readFileSync(path.join(root,'README.md'),'utf8').includes('1 条作品记录'));
+  s=editor.mutate('delete','2',s.revision);
+  assert.equal(fs.existsSync(path.join(root,'browse/motion.md')),false);
+  editor=createCuration(root);s=editor.snapshot();assert.equal(s.trash.length,2);
+  s=editor.mutate('restore',s.trash.find(e=>e.id==='1').key,s.revision);
+  assert.deepEqual(s.catalog.cases,[catalog.cases[0]]);assert.equal(s.trash.length,1);
+  assert.ok(fs.existsSync(path.join(root,'assets/covers/1.jpg')));
+  for(const [file,body] of buildOutputs(s.catalog))assert.equal(fs.readFileSync(path.join(root,file),'utf8'),body);
+});
+test('拒绝旧版本和手改生成文件，失败不留下半次删除',t=>{
+  const {root,write}=fixture(t),editor=createCuration(root),s=editor.snapshot();
+  assert.throws(()=>editor.mutate('delete','1','outdated'),/已变化/);
+  write('cases/1.md','manual change');
+  assert.throws(()=>editor.mutate('delete','1',s.revision),/未同步修改/);
+  assert.equal(editor.snapshot().catalog.cases.length,2);assert.equal(editor.snapshot().trash.length,0);
+  assert.equal(fs.readFileSync(path.join(root,'cases/1.md'),'utf8'),'manual change');
+});
+test('校验失败回滚数据、生成页和封面',t=>{
+  const {root,write,catalog}=fixture(t);catalog.cases[1].model.evidenceQuote='missing';
+  write('data/cases.json',JSON.stringify(catalog));for(const [file,body] of buildOutputs(catalog))write(file,body);
+  const editor=createCuration(root),s=editor.snapshot();
+  assert.throws(()=>editor.mutate('delete','1',s.revision),/模型依据/);
+  assert.equal(editor.snapshot().revision,s.revision);assert.equal(editor.snapshot().trash.length,0);
+  assert.ok(fs.existsSync(path.join(root,'assets/covers/1.jpg')));
+});
+test('本地 API 拒绝跨站请求、伪造 Host 和缺失令牌，合法请求真实删除并恢复',async t=>{
+  const {root}=fixture(t),server=createGalleryServer(root);
+  await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));t.after(()=>new Promise(resolve=>server.close(resolve)));
+  const url=`http://127.0.0.1:${server.address().port}/api/curation`;
+  assert.equal((await fetch(url,{headers:{Origin:'https://evil.example'}})).status,403);
+  assert.equal(await new Promise((resolve,reject)=>{get(url,{headers:{Host:'evil.example'}},res=>{res.resume();resolve(res.statusCode);}).on('error',reject);}),403);
+  assert.equal((await fetch(url,{headers:{'Sec-Fetch-Site':'cross-site'}})).status,403);
+  let state=await(await fetch(url)).json();
+  const send=(token,body)=>fetch(url,{method:'POST',headers:{'Content-Type':'application/json','X-Curation-Token':token},body:JSON.stringify(body)});
+  assert.equal((await send('bad',{action:'delete',id:'1',revision:state.revision})).status,403);
+  const rated=await send(state.token,{action:'review',id:'1',review:{highlights:['motion'],later:false},revision:state.revision});assert.equal(rated.status,200);state=await rated.json();assert.deepEqual(state.catalog.cases[0].review.highlights,['motion']);
+  const selected=await send(state.token,{action:'review',id:'1',review:{highlights:['motion'],later:false,featured:true},revision:state.revision});assert.equal(selected.status,200);state=await selected.json();assert.equal(state.catalog.cases[0].review.featured,true);
+  const invalid=await send(state.token,{action:'review',id:'1',review:{highlights:['wrong'],later:false},revision:state.revision});assert.equal(invalid.status,400);
+  const deleted=await send(state.token,{action:'delete',id:'1',revision:state.revision});assert.equal(deleted.status,200);state=await deleted.json();
+  assert.equal(state.catalog.cases.length,1);
+  const restored=await send(state.token,{action:'restore',id:state.trash[0].key,revision:state.revision});assert.equal(restored.status,200);
+  assert.equal((await restored.json()).catalog.cases.length,2);
+  assert.equal((await fetch(url.replace('/api/curation','/.research/deleted-works/'))).status,404);
+});
+
+test('评价保存到仓库并同步排序，删除恢复保留评价，清除后回到原状态',t=>{
+  const {root,catalog}=fixture(t);let editor=createCuration(root),s=editor.snapshot();
+  s=editor.mutate('review','2',s.revision,{highlights:['motion','overall'],later:false});
+  const browse=fs.readFileSync(path.join(root,'browse/motion.md'),'utf8');
+  assert.ok(browse.indexOf('cases/2.md')<browse.indexOf('cases/1.md'));
+  assert.match(fs.readFileSync(path.join(root,'cases/2.md'),'utf8'),/动效很酷 · 整体优秀/);
+  const featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<details>')[0];
+  assert.ok(!featured.includes('cases/2.md'));
+  assert.equal(fs.existsSync(path.join(root,'assets/covers/2.jpg')),true);
+  editor=createCuration(root);s=editor.snapshot();assert.deepEqual(s.catalog.cases[1].review.highlights,['motion','overall']);
+  s=editor.mutate('delete','2',s.revision);s=editor.mutate('restore',s.trash[0].key,s.revision);
+  assert.deepEqual(s.catalog.cases[1].review.highlights,['motion','overall']);
+  s=editor.mutate('review','2',s.revision,{highlights:[],later:true});
+  const lower=fs.readFileSync(path.join(root,'browse/motion.md'),'utf8');
+  assert.ok(lower.indexOf('cases/1.md')<lower.indexOf('cases/2.md'));
+  assert.ok(!fs.readFileSync(path.join(root,'README.md'),'utf8').includes('cases/2.md'));
+  assert.throws(()=>editor.mutate('review','2',s.revision,{highlights:['invented'],later:false}),/评价格式/);
+  assert.throws(()=>editor.mutate('review','2',s.revision,{highlights:['motion'],later:true}),/评价格式/);
+  s=editor.mutate('review','2',s.revision,{highlights:[],later:false});assert.deepEqual(s.catalog,catalog);
+});
+test('精选可持久化、取消并覆盖内置名单；旧删除备份恢复时不带回仓库视频',t=>{
+  const {root}=fixture(t);let editor=createCuration(root),s=editor.snapshot();
+  s=editor.mutate('review','2',s.revision,{highlights:[],later:false,featured:true});
+  let featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<details>')[0];
+  assert.ok(featured.includes('cases/2.md'));
+  editor=createCuration(root);s=editor.snapshot();assert.equal(s.catalog.cases[1].review.featured,true);
+  s=editor.mutate('review','2',s.revision,{highlights:['motion'],later:false,featured:false});
+  featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<details>')[0];
+  assert.ok(!featured.includes('cases/2.md'));
+  assert.deepEqual(s.catalog.cases[1].review.highlights,['motion']);
+  s=editor.mutate('delete','2',s.revision);
+  const backupPath=path.join(root,'.research/deleted-works',`${s.trash[0].key}.json`);
+  const backup=JSON.parse(fs.readFileSync(backupPath,'utf8'));
+  backup.item.playback={kind:'external_github_attachment',url:'https://github.com/user-attachments/assets/old'};
+  fs.writeFileSync(backupPath,JSON.stringify(backup,null,2)+'\n');
+  s=editor.mutate('restore',s.trash[0].key,s.revision);
+  assert.equal(s.catalog.cases[1].playback,undefined);
+  assert.deepEqual(s.catalog.cases[1].review,{highlights:['motion'],later:false,featured:false});
+  assert.ok(fs.readFileSync(backupPath,'utf8').includes('external_github_attachment'));
+});

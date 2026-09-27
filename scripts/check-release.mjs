@@ -7,8 +7,8 @@ const errors=[];
 for(const file of new Set(files)) {
   if(/^(\.research|\.superpowers|docs\/superpowers)\//.test(file)||/\.(mp4|mov|webm|mp3|wav)$/i.test(file)||file==='preview.html')errors.push(`不应发布：${file}`);
   const full=path.join(root,file);if(!fs.existsSync(full))continue;
-  if(fs.statSync(full).size>500_000)errors.push(`文件过大：${file}`);
-  if(!/\.(md|json|txt|yml|mjs)$/.test(file))continue;
+  if(fs.statSync(full).size>(file==='data/cases.json'?2_000_000:500_000))errors.push(`文件过大：${file}`);
+  if(!/\.(md|json|txt|yml|mjs|html|css)$/.test(file))continue;
   const text=fs.readFileSync(full,'utf8');
   if(/\/Users\/|\/home\/[^/]+\//.test(text))errors.push(`包含本机路径：${file}`);
   if(/(?:gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|sk-[A-Za-z0-9]{30,})/.test(text))errors.push(`疑似凭据：${file}`);

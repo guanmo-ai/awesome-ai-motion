@@ -1,0 +1,99 @@
+[← 全部分类](../README.md#browse)
+
+# 短动效
+
+45 个作品。点击封面看视频与详情。
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103315922098470926.md"><img src="../assets/covers/2103315922098470926.jpg" width="400" alt="15 秒动态设计自由发挥"><br><strong>15 秒动态设计自由发挥</strong></a><br><sub>短动效 · 15s · <a href="https://x.com/stephanlivera">@stephanlivera</a></sub><br><a href="../cases/2103315922098470926.md">▶ 查看视频与详情</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103273003555402193.md"><img src="../assets/covers/2103273003555402193.jpg" width="400" alt="一个形状串起整套 UI"><br><strong>一个形状串起整套 UI</strong></a><br><sub>短动效 · 14s · <a href="https://x.com/twoclipping">@twoclipping</a></sub><br><a href="../cases/2103273003555402193.md">▶ 查看视频与详情</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103449416325890146.md"><img src="../assets/covers/2103449416325890146.jpg" width="400" alt="十五秒动态图形作品集"><br><strong>十五秒动态图形作品集</strong></a><br><sub>短动效 · 15s · 待审看 · <a href="https://x.com/ajith_io">@ajith_io</a></sub><br><a href="../cases/2103449416325890146.md">▶ 查看视频与详情</a> · <a href="https://x.com/ajith_io/status/2103449416325890146">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103576084499358051.md"><img src="../assets/covers/2103576084499358051.jpg" width="400" alt="Leon 的 15 秒动效作品集"><br><strong>Leon 的 15 秒动效作品集</strong></a><br><sub>短动效 · 15s · <a href="https://x.com/leonabboud">@leonabboud</a></sub><br><a href="../cases/2103576084499358051.md">▶ 查看视频与详情</a> · <a href="https://x.com/leonabboud/status/2103576084499358051">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102876925102555526.md"><img src="../assets/covers/2102876925102555526.jpg" width="400" alt="把“成为自己”的感觉画成短片"><br><strong>把“成为自己”的感觉画成短片</strong></a><br><sub>短动效 · 30s · <a href="https://x.com/goodside">@goodside</a></sub><br><a href="../cases/2102876925102555526.md">▶ 查看视频与详情</a> · <a href="https://x.com/goodside/status/2102876925102555526">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103742861971726495.md"><img src="../assets/covers/2103742861971726495.jpg" width="400" alt="同一动效任务的无品牌与品牌版"><br><strong>同一动效任务的无品牌与品牌版</strong></a><br><sub>短动效 · 15s · <a href="https://x.com/lukasersil">@lukasersil</a></sub><br><a href="../cases/2103742861971726495.md">▶ 查看视频与详情</a> · <a href="https://x.com/lukasersil/status/2103742861971726495">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103557735086428547.md"><img src="../assets/covers/2103557735086428547.jpg" width="400" alt="90 秒动效与原创钢琴"><br><strong>90 秒动效与原创钢琴</strong></a><br><sub>短动效 · 90s · <a href="https://x.com/kloss_xyz">@kloss_xyz</a></sub><br><a href="../cases/2103557735086428547.md">▶ 查看视频与详情</a> · <a href="https://x.com/kloss_xyz/status/2103557735086428547">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103502614134718609.md"><img src="../assets/covers/2103502614134718609.jpg" width="400" alt="让海报冲破自己的边框"><br><strong>让海报冲破自己的边框</strong></a><br><sub>短动效 · 30s · <a href="https://x.com/pankajkumar_dev">@pankajkumar_dev</a></sub><br><a href="../cases/2103502614134718609.md">▶ 查看视频与详情</a> · <a href="https://x.com/pankajkumar_dev/status/2103502614134718609">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2104200939095904322.md"><img src="../assets/covers/2104200939095904322.jpg" width="400" alt="物理之美一镜到底动效"><br><strong>物理之美一镜到底动效</strong></a><br><sub>短动效 · 76s · 待审看 · <a href="https://x.com/akokoi1">@akokoi1</a></sub><br><a href="../cases/2104200939095904322.md">▶ 查看视频与详情</a> · <a href="https://x.com/akokoi1/status/2104200939095904322">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2104207707980869918.md"><img src="../assets/covers/2104207707980869918.jpg" width="400" alt="十五秒动态设计演示"><br><strong>十五秒动态设计演示</strong></a><br><sub>短动效 · 15s · 待审看 · <a href="https://x.com/TheViableEdge">@TheViableEdge</a></sub><br><a href="../cases/2104207707980869918.md">▶ 查看视频与详情</a> · <a href="https://x.com/TheViableEdge/status/2104207707980869918">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102514581684052169.md"><img src="../assets/covers/2102514581684052169.jpg" width="400" alt="Opus 视觉设计测试"><br><strong>Opus 视觉设计测试</strong></a><br><sub>短动效 · 157s · 待审看 · <a href="https://x.com/other__reality">@other__reality</a></sub><br><a href="../cases/2102514581684052169.md">▶ 查看视频与详情</a> · <a href="https://x.com/other__reality/status/2102514581684052169">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102436464323661880.md"><img src="../assets/covers/2102436464323661880.jpg" width="400" alt="Opus 5.5 动效演示"><br><strong>Opus 5.5 动效演示</strong></a><br><sub>短动效 · 32s · 待审看 · <a href="https://x.com/devteamdrew">@devteamdrew</a></sub><br><a href="../cases/2102436464323661880.md">▶ 查看视频与详情</a> · <a href="https://x.com/devteamdrew/status/2102436464323661880">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103082510607610023.md"><img src="../assets/covers/2103082510607610023.jpg" width="400" alt="参考工作流制作的动画实验"><br><strong>参考工作流制作的动画实验</strong></a><br><sub>短动效 · 157s · 待审看 · <a href="https://x.com/pleometric">@pleometric</a></sub><br><a href="../cases/2103082510607610023.md">▶ 查看视频与详情</a> · <a href="https://x.com/pleometric/status/2103082510607610023">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103483923783373039.md"><img src="../assets/covers/2103483923783373039.jpg" width="400" alt="多工具合成舞蹈动效"><br><strong>多工具合成舞蹈动效</strong></a><br><sub>短动效 · 15s · 待审看 · <a href="https://x.com/sankakuten91256">@sankakuten91256</a></sub><br><a href="../cases/2103483923783373039.md">▶ 查看视频与详情</a> · <a href="https://x.com/sankakuten91256/status/2103483923783373039">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102572941699354900.md"><img src="../assets/covers/2102572941699354900.jpg" width="400" alt="模型想象中的短视频信息流"><br><strong>模型想象中的短视频信息流</strong></a><br><sub>短动效 · 47s · 待审看 · <a href="https://x.com/pleometric">@pleometric</a></sub><br><a href="../cases/2102572941699354900.md">▶ 查看视频与详情</a> · <a href="https://x.com/pleometric/status/2102572941699354900">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103129343253778767.md"><img src="../assets/covers/2103129343253778767.jpg" width="400" alt="无限放大式拼贴动效"><br><strong>无限放大式拼贴动效</strong></a><br><sub>短动效 · 20s · 待审看 · <a href="https://x.com/koldo2k">@koldo2k</a></sub><br><a href="../cases/2103129343253778767.md">▶ 查看视频与详情</a> · <a href="https://x.com/koldo2k/status/2103129343253778767">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102503027340988559.md"><img src="../assets/covers/2102503027340988559.jpg" width="400" alt="单模型动画测试片"><br><strong>单模型动画测试片</strong></a><br><sub>短动效 · 80s · 待审看 · <a href="https://x.com/LCSlates">@LCSlates</a></sub><br><a href="../cases/2102503027340988559.md">▶ 查看视频与详情</a> · <a href="https://x.com/LCSlates/status/2102503027340988559">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102893186330841502.md"><img src="../assets/covers/2102893186330841502.jpg" width="400" alt="单页文件生成的视觉演示"><br><strong>单页文件生成的视觉演示</strong></a><br><sub>短动效 · 43s · 待审看 · <a href="https://x.com/JustinPerea">@JustinPerea</a></sub><br><a href="../cases/2102893186330841502.md">▶ 查看视频与详情</a> · <a href="https://x.com/JustinPerea/status/2102893186330841502">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102457111787745405.md"><img src="../assets/covers/2102457111787745405.jpg" width="400" alt="JavaScript 逐帧动画"><br><strong>JavaScript 逐帧动画</strong></a><br><sub>短动效 · 14s · 待审看 · <a href="https://x.com/strawhatsu4">@strawhatsu4</a></sub><br><a href="../cases/2102457111787745405.md">▶ 查看视频与详情</a> · <a href="https://x.com/strawhatsu4/status/2102457111787745405">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102679018206052828.md"><img src="../assets/covers/2102679018206052828.jpg" width="400" alt="代码生成的电影感测试片"><br><strong>代码生成的电影感测试片</strong></a><br><sub>短动效 · 16s · 待审看 · <a href="https://x.com/RileyRalmuto">@RileyRalmuto</a></sub><br><a href="../cases/2102679018206052828.md">▶ 查看视频与详情</a> · <a href="https://x.com/RileyRalmuto/status/2102679018206052828">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102733714845491558.md"><img src="../assets/covers/2102733714845491558.jpg" width="400" alt="多轮提示制作的有声长片"><br><strong>多轮提示制作的有声长片</strong></a><br><sub>短动效 · 124s · 待审看 · <a href="https://x.com/dhruvalgolakiya">@dhruvalgolakiya</a></sub><br><a href="../cases/2102733714845491558.md">▶ 查看视频与详情</a> · <a href="https://x.com/dhruvalgolakiya/status/2102733714845491558">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102436001473786054.md"><img src="../assets/covers/2102436001473786054.jpg" width="400" alt="由拼贴块组成的鱼群动画"><br><strong>由拼贴块组成的鱼群动画</strong></a><br><sub>短动效 · 80s · 待审看 · <a href="https://x.com/dfeinition">@dfeinition</a></sub><br><a href="../cases/2102436001473786054.md">▶ 查看视频与详情</a> · <a href="https://x.com/dfeinition/status/2102436001473786054">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102878288008057171.md"><img src="../assets/covers/2102878288008057171.jpg" width="400" alt="代码绘制的自画像组曲"><br><strong>代码绘制的自画像组曲</strong></a><br><sub>短动效 · 20s · 待审看 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></sub><br><a href="../cases/2102878288008057171.md">▶ 查看视频与详情</a> · <a href="https://x.com/kevin_t_ngo/status/2102878288008057171">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102656273112326609.md"><img src="../assets/covers/2102656273112326609.jpg" width="400" alt="AI 视频的 After Effects 再加工"><br><strong>AI 视频的 After Effects 再加工</strong></a><br><sub>短动效 · 15s · 待审看 · <a href="https://x.com/aicreataro">@aicreataro</a></sub><br><a href="../cases/2102656273112326609.md">▶ 查看视频与详情</a> · <a href="https://x.com/aicreataro/status/2102656273112326609">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102817596009504849.md"><img src="../assets/covers/2102817596009504849.jpg" width="400" alt="模型感受的抽象动画"><br><strong>模型感受的抽象动画</strong></a><br><sub>短动效 · 212s · 待审看 · <a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a></sub><br><a href="../cases/2102817596009504849.md">▶ 查看视频与详情</a> · <a href="https://x.com/AndrewOnXYZ/status/2102817596009504849">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103472385563459833.md"><img src="../assets/covers/2103472385563459833.jpg" width="400" alt="开发对话过程的三维回顾片"><br><strong>开发对话过程的三维回顾片</strong></a><br><sub>短动效 · 56s · 待审看 · <a href="https://x.com/shneural">@shneural</a></sub><br><a href="../cases/2103472385563459833.md">▶ 查看视频与详情</a> · <a href="https://x.com/shneural/status/2103472385563459833">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102919394775220530.md"><img src="../assets/covers/2102919394775220530.jpg" width="400" alt="九十年代风格视听演示"><br><strong>九十年代风格视听演示</strong></a><br><sub>短动效 · 383s · 待审看 · <a href="https://x.com/gandamu_ml">@gandamu_ml</a></sub><br><a href="../cases/2102919394775220530.md">▶ 查看视频与详情</a> · <a href="https://x.com/gandamu_ml/status/2102919394775220530">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102592355165782312.md"><img src="../assets/covers/2102592355165782312.jpg" width="400" alt="单指令沙画动画"><br><strong>单指令沙画动画</strong></a><br><sub>短动效 · 120s · 待审看 · <a href="https://x.com/Michaelzsguo">@Michaelzsguo</a></sub><br><a href="../cases/2102592355165782312.md">▶ 查看视频与详情</a> · <a href="https://x.com/Michaelzsguo/status/2102592355165782312">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103288413969621231.md"><img src="../assets/covers/2103288413969621231.jpg" width="400" alt="逐笔生长的水墨宣纸"><br><strong>逐笔生长的水墨宣纸</strong></a><br><sub>短动效 · 39s · 待审看 · <a href="https://x.com/AxtonLiu">@AxtonLiu</a></sub><br><a href="../cases/2103288413969621231.md">▶ 查看视频与详情</a> · <a href="https://x.com/AxtonLiu/status/2103288413969621231">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102717699600368045.md"><img src="../assets/covers/2102717699600368045.jpg" width="400" alt="模型工作计划概念短片"><br><strong>模型工作计划概念短片</strong></a><br><sub>短动效 · 198s · 待审看 · <a href="https://x.com/chetaslua">@chetaslua</a></sub><br><a href="../cases/2102717699600368045.md">▶ 查看视频与详情</a> · <a href="https://x.com/chetaslua/status/2102717699600368045">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103024907965612250.md"><img src="../assets/covers/2103024907965612250.jpg" width="400" alt="单次指令生成的动画实验"><br><strong>单次指令生成的动画实验</strong></a><br><sub>短动效 · 33s · 待审看 · <a href="https://x.com/pivi___">@pivi___</a></sub><br><a href="../cases/2103024907965612250.md">▶ 查看视频与详情</a> · <a href="https://x.com/pivi___/status/2103024907965612250">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102788371114246177.md"><img src="../assets/covers/2102788371114246177.jpg" width="400" alt="模型成长训练蒙太奇"><br><strong>模型成长训练蒙太奇</strong></a><br><sub>短动效 · 30s · 待审看 · <a href="https://x.com/ishuagra02">@ishuagra02</a></sub><br><a href="../cases/2102788371114246177.md">▶ 查看视频与详情</a> · <a href="https://x.com/ishuagra02/status/2102788371114246177">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102724347446305104.md"><img src="../assets/covers/2102724347446305104.jpg" width="400" alt="参考影片视觉节奏程序化复现"><br><strong>参考影片视觉节奏程序化复现</strong></a><br><sub>短动效 · 28s · 待审看 · <a href="https://x.com/leo_xiaolei">@leo_xiaolei</a></sub><br><a href="../cases/2102724347446305104.md">▶ 查看视频与详情</a> · <a href="https://x.com/leo_xiaolei/status/2102724347446305104">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2104213302624821647.md"><img src="../assets/covers/2104213302624821647.jpg" width="400" alt="JavaScript 逐帧旁白动画"><br><strong>JavaScript 逐帧旁白动画</strong></a><br><sub>短动效 · 80s · 待审看 · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></sub><br><a href="../cases/2104213302624821647.md">▶ 查看视频与详情</a> · <a href="https://x.com/kevin_t_ngo/status/2104213302624821647">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103244081388503196.md"><img src="../assets/covers/2103244081388503196.jpg" width="400" alt="线稿曝光与分层合成测试"><br><strong>线稿曝光与分层合成测试</strong></a><br><sub>短动效 · 25s · 待审看 · <a href="https://x.com/araminta_k">@araminta_k</a></sub><br><a href="../cases/2103244081388503196.md">▶ 查看视频与详情</a> · <a href="https://x.com/araminta_k/status/2103244081388503196">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102742924148830211.md"><img src="../assets/covers/2102742924148830211.jpg" width="400" alt="蚂蚁群落的代码动画"><br><strong>蚂蚁群落的代码动画</strong></a><br><sub>短动效 · 32s · 待审看 · <a href="https://x.com/hanifproduktif">@hanifproduktif</a></sub><br><a href="../cases/2102742924148830211.md">▶ 查看视频与详情</a> · <a href="https://x.com/hanifproduktif/status/2102742924148830211">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2103247490237825416.md"><img src="../assets/covers/2103247490237825416.jpg" width="400" alt="本机对话历史变成动画"><br><strong>本机对话历史变成动画</strong></a><br><sub>短动效 · 53s · 待审看 · <a href="https://x.com/jake11moran">@jake11moran</a></sub><br><a href="../cases/2103247490237825416.md">▶ 查看视频与详情</a> · <a href="https://x.com/jake11moran/status/2103247490237825416">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2104231262600700140.md"><img src="../assets/covers/2104231262600700140.jpg" width="400" alt="五机位 AI 虚拟人口播剪辑"><br><strong>五机位 AI 虚拟人口播剪辑</strong></a><br><sub>短动效 · 21s · 待审看 · <a href="https://x.com/nakazakifam">@nakazakifam</a></sub><br><a href="../cases/2104231262600700140.md">▶ 查看视频与详情</a> · <a href="https://x.com/nakazakifam/status/2104231262600700140">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102611841122017632.md"><img src="../assets/covers/2102611841122017632.jpg" width="400" alt="雨夜街景照片动画"><br><strong>雨夜街景照片动画</strong></a><br><sub>短动效 · 38s · 待审看 · <a href="https://x.com/yangfei33113">@yangfei33113</a></sub><br><a href="../cases/2102611841122017632.md">▶ 查看视频与详情</a> · <a href="https://x.com/yangfei33113/status/2102611841122017632">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103003425915195750.md"><img src="../assets/covers/2103003425915195750.jpg" width="400" alt="旧动效的代码续作"><br><strong>旧动效的代码续作</strong></a><br><sub>短动效 · 26s · 待审看 · <a href="https://x.com/elianiva_">@elianiva_</a></sub><br><a href="../cases/2103003425915195750.md">▶ 查看视频与详情</a> · <a href="https://x.com/elianiva_/status/2103003425915195750">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2102548178646016377.md"><img src="../assets/covers/2102548178646016377.jpg" width="400" alt="旋转杯子视频的叠加动画"><br><strong>旋转杯子视频的叠加动画</strong></a><br><sub>短动效 · 15s · 待审看 · <a href="https://x.com/AnduArtist">@AnduArtist</a></sub><br><a href="../cases/2102548178646016377.md">▶ 查看视频与详情</a> · <a href="https://x.com/AnduArtist/status/2102548178646016377">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2103169675928764486.md"><img src="../assets/covers/2103169675928764486.jpg" width="400" alt="同一角色的多风格展示"><br><strong>同一角色的多风格展示</strong></a><br><sub>短动效 · 131s · 待审看 · <a href="https://x.com/ianstig">@ianstig</a></sub><br><a href="../cases/2103169675928764486.md">▶ 查看视频与详情</a> · <a href="https://x.com/ianstig/status/2103169675928764486">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2104214763358015565.md"><img src="../assets/covers/2104214763358015565.jpg" width="400" alt="石块绘制的幻想版画动画"><br><strong>石块绘制的幻想版画动画</strong></a><br><sub>短动效 · 64s · 待审看 · <a href="https://x.com/illodevcode">@illodevcode</a></sub><br><a href="../cases/2104214763358015565.md">▶ 查看视频与详情</a> · <a href="https://x.com/illodevcode/status/2104214763358015565">作者原帖</a></td>
+<td width="50%" valign="top"><a href="../cases/2102911234526048706.md"><img src="../assets/covers/2102911234526048706.jpg" width="400" alt="After Effects 多轮制作对照"><br><strong>After Effects 多轮制作对照</strong></a><br><sub>短动效 · 12s · 待审看 · <a href="https://x.com/throughiris_">@throughiris_</a></sub><br><a href="../cases/2102911234526048706.md">▶ 查看视频与详情</a> · <a href="https://x.com/throughiris_/status/2102911234526048706">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="../cases/2104235944383803495.md"><img src="../assets/covers/2104235944383803495.jpg" width="400" alt="HyperFrames 动效试作"><br><strong>HyperFrames 动效试作</strong></a><br><sub>短动效 · 68s · 待审看 · <a href="https://x.com/mukhtharcm">@mukhtharcm</a></sub><br><a href="../cases/2104235944383803495.md">▶ 查看视频与详情</a> · <a href="https://x.com/mukhtharcm/status/2104235944383803495">作者原帖</a></td>
+</tr>
+</table>

@@ -1,0 +1,1 @@
+I asked Opus 5.5 to write a song about AI SLOP and direct a music video for it. It could use Suno v6 for the music and Seedance 2.5 for video generation. It edited everything together with Tesseract.

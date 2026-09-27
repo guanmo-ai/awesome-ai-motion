@@ -20,14 +20,14 @@ test('长提示词和嵌套代码围栏保持原样，不被渲染成页面指�
   assert.ok(output.includes('````text\n'+text+'\n````'));
 });
 
-test('首批数据有对应原帖、提示词、模型证据与可用轻量封面', () => {
+test('全部记录有对应原帖、提示词状态、模型证据与轻量封面', () => {
   assert.deepEqual(validateCatalog(catalog,root),[]);
-  assert.ok(catalog.cases.filter(c=>c.prompt.status==='original').length>=25);
-  assert.ok(catalog.cases.length>=30);
-  assert.ok(catalog.cases.reduce((n,c)=>n+fs.statSync(path.join(root,c.cover.path)).size,0)<5_000_000);
+  const coverBytes=catalog.cases.reduce((n,c)=>n+fs.statSync(path.join(root,c.cover.path)).size,0);
+  assert.ok(coverBytes<=catalog.cases.length*50_000,'封面平均不超过 50 KB，适配分批加载的大目录');
 });
 
 test('缺少模型证据、错误作者来源、缺失封面和重复 ID 都不能通过', () => {
+  if(!catalog.cases.length)return;
   const copy=structuredClone(catalog);
   copy.cases[0].model.evidenceQuote='unknown';
   copy.cases[0].prompt.sourceUrl='https://x.com/wrong_author/status/123';
@@ -45,7 +45,8 @@ test('生成文件的相对链接可解析；每条案例含作者、原帖和�
     assert.ok(content.includes(c.source.url));
     assert.ok(content.includes(c.prompt.sourceUrl));
     assert.ok(content.includes(`width="${Math.min(640,c.cover.width)}"`));
-    if(c.prompt.display!=='source_link')assert.equal(outputs.get(`prompts/${c.id}.txt`),c.prompt.text+'\n');
+    if(c.prompt.status==='unknown'||c.prompt.display==='source_link')assert.equal(outputs.has(`prompts/${c.id}.txt`),false);
+    else if(c.prompt.display!=='source_link')assert.equal(outputs.get(`prompts/${c.id}.txt`),c.prompt.text+'\n');
   }
   for(const [file,content] of outputs) {
     if(!file.endsWith('.md'))continue;
@@ -57,39 +58,43 @@ test('生成文件的相对链接可解析；每条案例含作者、原帖和�
   }
 });
 
-test('首页按用途分组，精选封面定位案例，英文入口与播放来源均可追溯', () => {
+test('首页先分类再精选，长提示词只出现在详情，brief 也保留在用途分类', () => {
   const outputs=buildOutputs(catalog);const readme=outputs.get('README.md');
   assert.ok(readme.includes('# Awesome AI Motion'));
   assert.ok(readme.includes('README.en.md'));
-  assert.ok(readme.includes('## 从这六个作品开始'));
-  assert.ok(readme.includes('## 产品宣传'));
-  assert.ok(outputs.get('README.en.md').includes('public prompts'));
-  for(const c of catalog.cases.filter(c=>c.playback)) {
-    assert.ok(readme.includes('\n\n'+c.playback.url+'\n\n'));
+  assert.ok(readme.indexOf('id="browse"')<readme.indexOf('id="featured"'));
+  assert.ok(Buffer.byteLength(readme)<12000,'首页应是紧凑入口');
+  assert.ok(!readme.includes('make a modern slick and punchy video'));
+  for(const c of catalog.cases) {
+    const browse=[...outputs].filter(([file])=>/^browse\/.*(?<!\.en)\.md$/.test(file)&&file!=='browse/discoveries.md');
+    assert.equal(browse.filter(([,body])=>body.includes(`cases/${c.id}.md`)).length,1,`${c.id} 必须归属唯一用途分类`);
     const detail=outputs.get(`cases/${c.id}.md`);
-    assert.ok(detail.includes(c.playback.providerPage));
+    assert.ok(!detail.includes("github.com/user-attachments/"));
   }
 });
 
-test('播放附件必须对应同一原帖并保留提供方，不能把未知许可当成自行上传依据', () => {
-  const copy=structuredClone(catalog);const c=copy.cases[0];
-  c.playback={kind:'external_github_attachment',url:'https://evil.example/video.mp4',sourcePostUrl:'https://x.com/wrong/status/1'};
-  assert.ok(validateCatalog(copy,root).some(x=>x.includes('播放')));
-  c.playback={kind:'self_hosted',url:'https://github.com/user-attachments/assets/a',reuploadPermission:'not_verified'};
-  assert.ok(validateCatalog(copy,root).some(x=>x.includes('播放')));
+test('不接受参考仓库附件，公开数据与生成页只使用原帖媒体', () => {
+  const copy=structuredClone(catalog),c=copy.cases[0];
+  c.playback={kind:'external_github_attachment',url:'https://github.com/user-attachments/assets/0005d4cf-acdd-42aa-af16-dbebe167126d',sourcePostUrl:c.source.url};
+  assert.ok(validateCatalog(copy,root).some(x=>x.includes('不接受参考仓库附件')));
+  assert.ok(catalog.cases.every(c=>c.playback===undefined));
+  for(const [file,content] of buildOutputs(copy)) {
+    assert.ok(!content.includes(c.playback.url),`${file}: 不能呈现仓库附件视频`);
+  }
 });
 
 
-test('双语图库内容完整，全部作品和播放链接一致，所有投稿入口指向指定仓库', () => {
+test('双语分类包含全部作品，详情和提示词完整，投稿仍指向指定仓库', () => {
   const outputs=buildOutputs(catalog);
-  for(const file of ['README.md','README.en.md']) {
-    const text=outputs.get(file);
-    for(const c of catalog.cases)assert.ok(text.includes(`id="case-${c.id}"`));
+  for(const en of [false,true]) {
+    const browse=[...outputs].filter(([file])=>file.startsWith('browse/')&&(file.endsWith('.en.md')===en));
+    for(const c of catalog.cases) {
+      assert.ok(browse.some(([,text])=>text.includes(`cases/${c.id}${en?'.en':''}.md`)));
+      assert.ok(outputs.has(`cases/${c.id}${en?'.en':''}.md`));
+    }
+    const text=outputs.get(`README${en?'.en':''}.md`);
     for(const url of text.matchAll(/https:\/\/github\.com\/([^/]+\/[^/]+)\/issues/g))assert.equal(url[1],catalog.repository);
-    const actual=[...text.matchAll(/user-attachments\/assets\/([a-f0-9-]+)/g)].map(m=>m[1]);
-    assert.equal(actual.length,catalog.cases.filter(c=>c.playback).length);
   }
-  for(const c of catalog.cases)assert.ok(outputs.has(`cases/${c.id}.en.md`));
 });
 
 test('首页所有自定义跳转锚点存在且唯一', () => {
@@ -99,4 +104,98 @@ test('首页所有自定义跳转锚点存在且唯一', () => {
     assert.equal(ids.length,new Set(ids).size);
     for(const m of text.matchAll(/(?:\]\(|href=")#([a-z0-9-]+)/g))assert.ok(ids.includes(m[1]),m[1]);
   }
+});
+
+test('双语作品页直达原作者媒体，封面不误导跳到 X', () => {
+  const outputs=buildOutputs(catalog);
+  for(const c of catalog.cases) for(const en of [false,true]) {
+    const detail=outputs.get(`cases/${c.id}${en?'.en':''}.md`);
+    assert.ok(detail.includes(c.prompt.sourceUrl));
+    if(c.webPlayback) {
+      assert.ok(detail.includes(`**[▶ ${en?'Watch video':'观看原视频'}](${c.webPlayback.url})**`));
+      assert.ok(detail.includes(`>](${c.webPlayback.url})`),`${c.id}: 封面应直达视频`);
+      assert.ok(!detail.includes(`>](${c.source.url})`),`${c.id}: 封面不能跳到 X`);
+    }
+  }
+});
+
+test('分类与精选卡片的主入口都到作品详情，作者原帖是独立次要链接', () => {
+  const outputs=buildOutputs(catalog);
+  for(const en of [false,true]) for(const [file,body] of outputs) {
+    if(!file.startsWith('browse/')&&file!==`README${en?'.en':''}.md`)continue;
+    if(file.startsWith('browse/')&&file.endsWith('.en.md')!==en)continue;
+    if(file.startsWith('README')&&file.endsWith('.en.md')!==en)continue;
+    const cards=[...body.matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)].map(m=>m[1]);
+    for(const card of cards) {
+      const id=card.match(/cases\/(\d+)(?:\.en)?\.md/)?.[1];
+      assert.ok(id,`${file}: 卡片详情链接缺失`);
+      const c=catalog.cases.find(item=>item.id===id);
+      const detail=`${file.startsWith('browse/')?'../':''}cases/${id}${en?'.en':''}.md`;
+      assert.ok(card.startsWith(`<a href="${detail}">`),`${file}: 封面必须进入详情`);
+      assert.ok(card.includes(`<a href="${detail}">${en?'▶ View video & details':'▶ 查看视频与详情'}</a>`));
+      assert.ok(card.includes(`<a href="${c.source.url}">${en?'Original post':'作者原帖'}</a>`));
+      if(c.webPlayback)assert.ok(!card.includes(c.webPlayback.url),`${file}: 卡片不应绕过详情`);
+    }
+  }
+});
+
+test('可选交互体验链接与原帖、源码并列，且不接受无效地址', () => {
+  const copy=structuredClone(catalog);
+  const c=copy.cases[0];
+  c.demoUrl='https://aureliengmz.github.io/clearwater/';
+  c.codeUrl='https://github.com/example/clearwater';
+  assert.deepEqual(validateCatalog(copy,root),[]);
+  const outputs=buildOutputs(copy);
+  for(const en of [false,true]) {
+    const detail=outputs.get(`cases/${c.id}${en?'.en':''}.md`);
+    assert.ok(detail.includes(`[${en?'Interactive demo':'交互体验'}](${c.demoUrl})`));
+    assert.ok(detail.indexOf(c.source.url)<detail.indexOf(c.demoUrl));
+    assert.ok(detail.indexOf(c.demoUrl)<detail.indexOf(c.codeUrl));
+  }
+  for(const url of ['javascript:alert(1)','https://user:pass@example.com/demo','https://example.com/demo)([bad](https://evil.example)','']) {
+    c.demoUrl=url;
+    assert.ok(validateCatalog(copy,root).some(e=>e.includes('交互体验地址')),url);
+  }
+});
+
+test('画廊外部视频只接受原帖对应的稳定原媒体，拒绝签名地址和错误来源',()=>{
+  const copy=structuredClone(catalog),c=copy.cases[0];
+  const valid={kind:'external_source_video',url:c.cover.sourceUrl,sourcePostUrl:c.source.url,contentType:'video/mp4',checkedAt:'2026-09-27T12:00:00Z',verificationLevel:'原帖媒体对应及 Range GET 检查',reuploadPermission:'not_verified'};
+  c.webPlayback=valid;
+  assert.deepEqual(validateCatalog(copy,root),[]);
+  for(const patch of [{url:'https://video.twimg.com.evil.example/a.mp4'},{url:c.cover.sourceUrl+'&jwt=temporary'},{sourcePostUrl:'https://x.com/other/status/123'},{reuploadPermission:'granted'},{verificationLevel:''}]) {
+    c.webPlayback={...valid,...patch};
+    assert.ok(validateCatalog(copy,root).some(e=>e.includes('画廊')));
+  }
+});
+
+
+test('手动精选决定 README 选入，取消默认精选后不会重新自动选入',()=>{
+  const copy=structuredClone(catalog);
+  for(const c of copy.cases)c.review={highlights:[],later:false,featured:false};
+  const chosen=copy.cases[0];chosen.review.featured=true;
+  for(const en of [false,true]) {
+    const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
+    const cards=[...readme.matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)];
+    assert.equal(cards.length,1);
+    assert.ok(cards[0][1].includes(`cases/${chosen.id}${en?'.en':''}.md`));
+  }
+});
+
+
+test('发现池需要作者声明与原媒体，未知提示词不能伪装原始指令',()=>{
+  const copy=structuredClone(catalog),c=copy.cases[0];
+  c.stage='discovery';c.verification.authorClaimConfirmed=true;c.verification.fullReview=false;
+  c.model.name='Claude';c.model.evidenceQuote='I used Claude to make this animation';
+  c.prompt.status='unknown';c.prompt.text='';
+  assert.deepEqual(validateCatalog(copy,root),[]);
+  const outputs=buildOutputs(copy);
+  assert.ok(outputs.get(`cases/${c.id}.md`).includes('尚未完整审看'));
+  assert.ok(outputs.get(`cases/${c.id}.md`).includes('未取得作者公开提示词'));
+  assert.equal(outputs.has(`prompts/${c.id}.txt`),false);
+  assert.ok(outputs.get('browse/discoveries.md').includes(c.id));
+  c.verification.authorClaimConfirmed=false;
+  assert.ok(validateCatalog(copy,root).some(e=>e.includes('发现池')));
+  c.verification.authorClaimConfirmed=true;c.prompt.text='invented';
+  assert.ok(validateCatalog(copy,root).some(e=>e.includes('提示词')));
 });

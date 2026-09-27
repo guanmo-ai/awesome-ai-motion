@@ -1,0 +1,1 @@
+I told it to use Blender MCP to have consistent geometry to rotoscope. I didn't like its initial result, so then I told it to make it low-poly like Another World. Now I like it.

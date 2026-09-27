@@ -1,0 +1,1 @@
+One prompt, Blender only, all procedural. Render the 10-second shot, and record your own build timelapse.

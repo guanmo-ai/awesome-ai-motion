@@ -1,0 +1,1 @@
+I prompted Claude Opus 5.5 to make an animation showreel (just to see what it can do). It came back with 19 shots of one character in several styles. Every frame is drawn in code, and the sound effects are timed off the same code.

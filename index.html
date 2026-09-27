@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="按用途发现 AI 视频与动效。观看作品，探索作者公开的提示词与制作来源。">
+  <meta name="theme-color" content="#f8f7f3">
+  <title>Awesome AI Motion · 作品画廊</title>
+  <link rel="stylesheet" href="./assets/gallery.css">
+  <script type="module" src="./assets/gallery.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#works">跳到作品 / Skip to works</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Awesome AI Motion"><span class="brand-mark" aria-hidden="true">a<span>m</span></span><span>Awesome<br><strong>AI Motion</strong></span></a>
+    <nav class="header-links" aria-label="网站导航 / Navigation">
+      <a href="https://github.com/guanmo-ai/awesome-ai-motion" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      <button id="deleted-works" type="button" hidden>已删除 · 0</button>
+      <button id="language" type="button">English</button>
+    </nav>
+  </header>
+  <main class="layout">
+    <aside class="sidebar">
+      <p class="eyebrow" id="browse-label">按用途发现</p>
+      <nav id="categories" aria-labelledby="browse-label"></nav>
+      <div class="sidebar-note"><span class="little-star" aria-hidden="true">✳</span><p id="curation-note">看见好作品，<br>找到下一次创作的灵感。</p><a id="submit" href="https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml" target="_blank" rel="noopener noreferrer">推荐作品 ↗</a></div>
+    </aside>
+    <section class="collection" aria-labelledby="collection-title">
+      <div class="intro"><p class="eyebrow" id="intro-label">作品与创作线索</p><h1 id="collection-title">发现让你停下来的动效。</h1><p id="intro-text">从一个好作品开始。挑选分类，点开观看，再探索它的创作方式。</p><p id="coverage-count" class="coverage-count"></p></div>
+      <div class="toolbar">
+        <label class="search"><span aria-hidden="true">⌕</span><span class="sr-only" id="search-label">搜索作品、作者或风格</span><input id="search" type="search" aria-labelledby="search-label" placeholder="搜索作品、作者或风格…" autocomplete="off"></label>
+        <label class="sort"><span class="sr-only" id="sort-label">排序</span><select id="sort" aria-labelledby="sort-label"><option value="featured">我的评价与精选</option><option value="latest">最新发布</option><option value="bookmarks">收藏最多 · 快照</option></select></label>
+      </div>
+      <div class="filter-row">
+        <label class="filter-select"><span id="view-label">策展</span><select id="view" aria-labelledby="view-label"><option value="all">全部</option><option value="featured">精选</option><option value="catalogued">已编目</option><option value="discovery">发现池</option></select></label>
+        <label class="filter-select"><span id="duration-label">时长</span><select id="duration" aria-labelledby="duration-label"><option value="all">全部时长</option><option value="short">30 秒以内</option><option value="medium">31–120 秒</option><option value="long">超过 120 秒</option></select></label>
+        <label class="filter-select"><span id="prompt-label">提示词</span><select id="prompt" aria-labelledby="prompt-label"><option value="all">全部状态</option><option value="original">作者原文</option><option value="brief">任务描述</option><option value="unknown">尚未公开</option></select></label>
+      </div>
+      <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><label class="playable-filter"><input id="playable" type="checkbox"><span id="playable-label">仅页内播放</span></label></div>
+      <p id="sort-note" class="sort-note" hidden></p>
+      <p id="curation-status" class="curation-status" role="status" hidden></p>
+      <div id="works" class="grid" tabindex="-1"></div>
+      <div id="pagination" class="pagination" hidden><p id="shown-count"></p><button id="load-more" type="button" hidden>加载更多</button></div>
+      <div id="empty" class="empty" hidden><span aria-hidden="true">↗</span><h2 id="empty-title">暂时没有匹配的作品</h2><p id="empty-text">试试另一个关键词，或清除筛选重新发现。</p><button id="reset" type="button">清除筛选</button></div>
+      <div id="loading" class="empty" role="status">正在载入作品…</div>
+      <noscript><p>浏览画廊需要 JavaScript。你也可以在 <a href="https://github.com/guanmo-ai/awesome-ai-motion">GitHub 浏览完整作品目录</a>。</p></noscript>
+    </section>
+  </main>
+  <footer><p id="footer-note">作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。</p><div><a id="source-guide" href="https://github.com/guanmo-ai/awesome-ai-motion/blob/main/docs/SOURCES.md" target="_blank" rel="noopener noreferrer">来源说明</a><a href="https://x.com/guanmo_ai" target="_blank" rel="noopener noreferrer">观默 / @guanmo_ai ↗</a></div></footer>
+  <dialog id="viewer" aria-labelledby="viewer-title"><div class="viewer-shell"><header class="viewer-header"><p id="viewer-kicker"></p><button id="close" type="button" autofocus aria-label="关闭">×</button></header><div id="viewer-content"></div></div></dialog>
+<dialog id="trash" aria-labelledby="trash-title"><div class="trash-shell"><div class="trash-heading"><h2 id="trash-title">已删除的作品</h2><button id="trash-close" type="button" aria-label="关闭 / Close">×</button></div><p id="trash-note"></p><p id="trash-status" role="status"></p><div id="trash-list"></div></div></dialog>
+</body>
+</html>

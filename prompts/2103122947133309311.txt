@@ -1,0 +1,1 @@
+I asked Opus to score every part of the scene: the ship, water, landscapes, buildings, and their individual parts. Then I asked it to keep improving each part until it scored at least 8 out of 10, depending on my token and time budget.

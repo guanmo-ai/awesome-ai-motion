@@ -1,0 +1,198 @@
+import {REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration} from './gallery-model.mjs';
+const $ = id => document.getElementById(id);
+let state = readState(location.href), cases = [], activeId = null, returnFocus = null, savedOverflow = '', savedScroll = 0;
+let curator=null,mutationPending=false;
+let visibleCount=PAGE_SIZE;
+const filterKeys=['category','query','sort','playable','view','duration','prompt'];
+const listKeys=[...filterKeys,'lang'];
+const t = (zh,en) => state.lang === 'en' ? en : zh;
+const title = c => state.lang === 'en' ? c.titleEn || c.title : c.title;
+const el = (tag, className, text) => { const node=document.createElement(tag); if(className) node.className=className; if(text != null) node.textContent=text; return node; };
+function link(label,url,className='') { const node=el('a',className,label); const valid=safeUrl(url); if(valid) {node.href=valid;node.target='_blank';node.rel='noopener noreferrer';} return node; }
+function date(value) { const parsed=new Date(value); return Number.isNaN(parsed.valueOf()) ? '—' : new Intl.DateTimeFormat(state.lang === 'en' ? 'en-US' : 'zh-CN',{dateStyle:'medium',timeZone:'UTC'}).format(parsed); }
+function image(c, lazy=true) { const img=el('img'); img.alt=title(c); img.decoding='async'; if(lazy) img.loading='lazy'; const path=coverPath(c.cover?.path); if(path) img.src=path; img.addEventListener('error',()=>{img.replaceWith(el('span','cover-fallback',t('封面暂时无法显示','Preview unavailable')));},{once:true}); return img; }
+async function copy(text,button,label) { try { await navigator.clipboard.writeText(text); button.textContent=t('已复制','Copied'); } catch { button.textContent=t('复制失败，请选中文字复制','Copy failed; select and copy the text'); } setTimeout(()=>{if(button.isConnected) button.textContent=label;},2500); }
+function navigate(patch,{replace=false,detail=false}={}) { const next={...state,...patch},filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]);state=next;if(filterChanged)visibleCount=PAGE_SIZE;history[replace?'replaceState':'pushState']({galleryDetail:detail || (replace && Boolean(history.state?.galleryDetail) && Boolean(state.caseId))},'',stateUrl(state,location.href));if(listChanged)render();syncViewer(); }
+function renderLanguage() {
+  document.documentElement.lang=state.lang==='en'?'en':'zh-CN'; document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');
+  const strings={language:['English','中文'], 'browse-label':['按用途发现','EXPLORE BY USE'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'collection-title':['发现让你停下来的动效。','Motion worth a closer look.'],'intro-text':['从一个好作品开始。挑选分类，点开观看，再探索它的创作方式。','Find something you love. Pick a category, watch a work, then explore how it was made.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'view-label':['策展','Curation'],'duration-label':['时长','Duration'],'prompt-label':['提示词','Prompt'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
+  for(const [id,words] of Object.entries(strings)) $(id).textContent=t(...words);
+  $('search').placeholder=t('搜索作品、作者或风格…','Search works, creators or styles…');
+  [...$('sort').options].forEach((option,i)=>{option.textContent=t(...[['我的评价与精选','My reviews & featured'],['最新发布','Newest posts'],['收藏最多 · 快照','Bookmarks · snapshot']][i]);});
+  [...$('duration').options].forEach((option,i)=>{option.textContent=t(...[['全部时长','Any length'],['30 秒以内','Up to 30s'],['31–120 秒','31–120s'],['超过 120 秒','Over 120s']][i]);});
+  [...$('prompt').options].forEach((option,i)=>{option.textContent=t(...[['全部状态','Any prompt'],['作者原文','Original prompt'],['任务描述','Creator brief'],['未公开／未核得','Unpublished / unverified']][i]);});
+  $('close').setAttribute('aria-label',t('关闭视频','Close video'));
+}
+function render() {
+  renderLanguage(); renderCuration(); $('search').value=state.query; $('sort').value=state.sort; $('playable').checked=state.playable;$('view').value=state.view;$('duration').value=state.duration;$('prompt').value=state.prompt;
+  const coverage=curationCounts(cases);
+  $('coverage-count').textContent=t(`${coverage.all} 条作品记录 · ${coverage.catalogued} 条已编目 · ${coverage.discovery} 条发现池（来源已核、待审看）`,`${coverage.all} work records · ${coverage.catalogued} catalogued · ${coverage.discovery} in discovery (source verified, review pending)`);
+  [...$('view').options].forEach((option,i)=>{const id=['all','featured','catalogued','discovery'][i];option.textContent=t(...[[`全部 · ${coverage.all}`,`All · ${coverage.all}`],[`精选 · ${coverage.featured}`,`Featured · ${coverage.featured}`],[`已编目 · ${coverage.catalogued}`,`Catalogued · ${coverage.catalogued}`],[`发现池 · ${coverage.discovery}`,`Discovery · ${coverage.discovery}`]][i]);option.value=id;});
+  const focusedCategory=document.activeElement?.dataset.category;
+  const counts=categoryCounts(cases,state);
+  $('categories').replaceChildren(...CATEGORIES.map(category=>{ const button=el('button','category');button.type='button';button.dataset.category=category.id;button.setAttribute('aria-pressed',String(state.category===category.id));button.append(el('span','',category[state.lang]),el('span','category-count',counts[category.id]));button.addEventListener('click',()=>navigate({category:category.id,caseId:null}));return button; }));
+  if(focusedCategory) $('categories').querySelector(`[data-category="${focusedCategory}"]`)?.focus({preventScroll:true});
+  const selected=selectCases(cases,state), category=CATEGORIES.find(c=>c.id===state.category);
+  $('result-count').textContent=t(`${category.zh} · ${selected.length} 个作品`,`${category.en} · ${selected.length} works`);
+  $('sort-note').hidden=state.sort!=='bookmarks'; $('sort-note').textContent=t('收藏数来自各原帖的历史快照，并非实时排名；未知值排在最后，采集时间见作品详情。','Bookmark counts are historical post snapshots, not live rankings. Unknown values sort last; see each work for its capture date.');
+  $('works').replaceChildren(...pageCases(selected,visibleCount).visible.map(card)); $('empty').hidden=selected.length!==0;renderPagination(selected);
+}
+function renderPagination(selected) {
+  const {visible,remaining}=pageCases(selected,visibleCount);
+  $('pagination').hidden=selected.length===0;
+  $('shown-count').textContent=t(`已显示 ${visible.length} / ${selected.length}`,`Showing ${visible.length} of ${selected.length}`);
+  $('load-more').hidden=remaining===0;
+  $('load-more').textContent=t(`加载更多 ${Math.min(PAGE_SIZE,remaining)} 条`, `Load ${Math.min(PAGE_SIZE,remaining)} more`);
+}
+function card(c) {
+  const article=el('article','card'), button=el('button','card-open');article.dataset.caseId=c.id;button.type='button';button.dataset.caseId=c.id;button.setAttribute('aria-label',t(`打开作品：${title(c)}`,`Open work: ${title(c)}`));
+  const thumb=el('div','thumbnail'), playable=Boolean(playbackUrl(c));thumb.append(image(c));
+  const play=el('span','card-play');play.setAttribute('aria-hidden','true');play.append(el('span','',playable?'▶':'↗'));thumb.append(play);
+  if(isFeatured(c)) thumb.append(el('span','badge',t('精选','FEATURED')));
+  thumb.append(el('span','watch-mode',playable?t('页内播放','Inline player'):t('原帖观看 ↗','Watch original ↗')));
+  const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
+  button.append(thumb,el('h2','card-title',title(c)));button.addEventListener('click',()=>{returnFocus=button;navigate({caseId:c.id},{detail:true});});
+  const meta=el('div','card-meta');meta.append(el('span','',`@${c.author.handle}`),el('span','dot','·'),el('span','',CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]));if(stageOf(c)==='discovery')meta.append(el('span','card-tag discovery-tag',t('来源已核 · 待审看','Source verified · review pending')));for(const tag of [...reviewLabels(c,state.lang),...tagsOf(c,state.lang)]) meta.append(el('span','card-tag',tag));article.append(button,meta);if(curator){const actions=el('div','card-actions');actions.append(featuredControl(c,true),deleteControl(c,true));article.append(actions);}return article;
+}
+function details(label,text,{copyable=false,source=null}={}) {
+  const section=el('details');section.append(el('summary','',label));section.append(el(copyable?'pre':'p','',text));
+  if(copyable || source) { const actions=el('div','prompt-actions');if(copyable){const label=t('复制文本','Copy text'),button=el('button','copy-button',label);button.type='button';button.addEventListener('click',()=>copy(text,button,label));actions.append(button);}if(source)actions.append(link(t('查看出处 ↗','View source ↗'),source));section.append(actions); }
+  return section;
+}
+function showViewer(c) {
+  const content=$('viewer-content');content.replaceChildren();$('viewer-kicker').textContent=`${CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]} · ${formatDuration(c.media?.durationSeconds)}`;
+  const player=el('div','player-area'), url=playbackUrl(c);
+  if(url) {
+    const video=el('video');video.controls=true;video.playsInline=true;video.preload='metadata';video.setAttribute('aria-label',title(c));const poster=coverPath(c.cover?.path);if(poster)video.poster=poster;
+    const error=el('p','playback-error');error.hidden=true;error.setAttribute('role','status');error.append(document.createTextNode(t('视频暂时无法载入。','The video could not load. ')),link(t('到作者原帖观看 ↗','Watch the original post ↗'),c.source.url));
+    video.addEventListener('error',()=>{error.hidden=false;});video.src=url;player.append(video,error);
+  } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('这支作品目前在作者原帖观看。','This work is currently available on the creator’s original post.')),link(t('到作者原帖观看 ↗','Watch original post ↗'),c.source.url,'primary-link'));player.append(message);}
+  const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
+  const links=el('div','detail-links');if(safeUrl(c.demoUrl))links.append(link(t('交互体验 ↗','Try the interactive demo ↗'),c.demoUrl,'primary-link'));if(c.codeUrl)links.append(link(t('作者源码 ↗','Creator’s code ↗'),c.codeUrl));links.append(link(t('作者原帖 ↗','Original post ↗'),c.source.url));
+  const shareLabel=t('复制作品链接','Copy work link'),share=el('button','share-button',shareLabel);share.type='button';share.addEventListener('click',()=>copy(location.href,share,shareLabel));links.append(share);
+  content.append(player,heading,credits,el('p','detail-summary',state.lang==='en'?c.summaryEn:c.summary));
+  const stageNote=stageOf(c)==='discovery'
+    ? t(`发现池 · 已核对原作者声明和视频来源，尚未完整观看与听审。来源核对：${date(c.verification?.sourceReadAt)} UTC。`,`Discovery pool · Creator statement and video source verified; full viewing and listening review pending. Source checked: ${date(c.verification?.sourceReadAt)} UTC.`)
+    : t(`已编目 · 来源资料已整理；编目不表示已完成整片音画审看。来源核对：${date(c.verification?.sourceReadAt)} UTC。`,`Catalogued · Source details recorded; cataloguing does not mean a complete audiovisual review. Source checked: ${date(c.verification?.sourceReadAt)} UTC.`);
+  content.append(el('p','stage-note',stageNote),links);
+  if(curator) content.append(featuredControl(c),reviewControl(c),deleteControl(c));
+  if(url)content.append(el('p','detail-note',t('播放器引用作者原帖的外部视频媒体；若加载失败，请打开作者原帖。','The player uses external video media from the original post. If it fails to load, open the creator’s post.')));
+  if(c.prompt.status==='unknown'){
+    const unknown=el('div','prompt-unknown');unknown.append(el('strong','',t('作者提示词未公开／暂未核得','Creator prompt unpublished / not verified')),el('p','',t('目前没有可展示的作者原文或完整指令。','No creator prompt or complete instruction is available to show.')),link(t('查看作者原帖 ↗','View the creator’s post ↗'),c.prompt.sourceUrl));content.append(unknown);
+  }else content.append(details(c.prompt.status==='original'?t('作者公开提示词','Creator’s public prompt'):t('作者任务描述 · 非完整提示词','Author brief · not a complete prompt'),c.prompt.text,{copyable:true,source:c.prompt.sourceUrl}));
+  if(c.prompt.status!=='unknown'&&c.prompt.translationZh) content.append(details(t('中文译文','Chinese translation'),c.prompt.translationZh,{copyable:true}));
+  const note=state.lang==='en'?c.prompt.noteEn:c.prompt.noteZh;if(c.prompt.status!=='unknown'&&note) content.append(details(t('使用前说明','Before you try'),note));
+  const provenance=el('details');provenance.append(el('summary','',t('来源与数据快照','Sources & metrics snapshot')));
+  const metrics=el('div','metrics');for(const [key,zh,en] of [['bookmarks','收藏','Bookmarks'],['likes','点赞','Likes'],['views','浏览','Views']]) {const item=el('p','',`${t(zh,en)} `);item.append(el('strong','',c.metrics[key]==null?'—':c.metrics[key].toLocaleString(state.lang==='en'?'en-US':'zh-CN')));metrics.append(item);}provenance.append(metrics,el('p','detail-note',t(`互动快照：${date(c.metrics.checkedAt)} UTC。未知数据保留为 —，不等于 0。`,`Metrics captured: ${date(c.metrics.checkedAt)} UTC. — indicates unknown, not zero.`)),link(t('互动数据来源 ↗','Metrics source ↗'),c.metrics.sourceUrl),el('p','detail-note',t(`模型：${c.model.name}，依据作者公开说明，未逐条独立复现。`, `Model: ${c.model.name}, attributed by the creator. Works have not been independently reproduced.`)),link(t('模型依据 ↗','Model attribution ↗'),c.model.evidenceUrl),el('p','detail-note',t('原作者保留作品权利。外部公开链接不代表本项目取得转载许可。','Creators retain rights to their work. Public links do not establish redistribution permission.')));
+  content.append(provenance);activeId=c.id;
+  if(!$('viewer').open){savedOverflow=document.body.style.overflow;savedScroll=window.scrollY;document.body.style.overflow='hidden';$('viewer').showModal();} $('viewer').scrollTop=0;
+}
+function unload() {const video=$('viewer').querySelector('video');if(video){video.pause();video.removeAttribute('src');video.load();}}
+function hideViewer(){unload();activeId=null;if($('viewer').open)$('viewer').close();$('viewer-content').replaceChildren();document.body.style.overflow=savedOverflow;window.scrollTo(0,savedScroll);const target=returnFocus?.isConnected?returnFocus:$('works').querySelector(`[data-case-id="${returnFocus?.dataset.caseId || ''}"]`);target?.focus({preventScroll:true});returnFocus=null;}
+function syncViewer(){const c=cases.find(c=>c.id===state.caseId);if(c){if(activeId!==c.id || !$('viewer').open){unload();showViewer(c);}}else if(activeId) hideViewer();}
+function closeViewer(){if(history.state?.galleryDetail && state.caseId) history.back();else navigate({caseId:null},{replace:true});}
+$('close').addEventListener('click',closeViewer);$('viewer').addEventListener('cancel',event=>{event.preventDefault();closeViewer();});
+let backdropDown=false;$('viewer').addEventListener('pointerdown',event=>{const r=$('viewer').getBoundingClientRect();backdropDown=event.target===$('viewer')&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom);});$('viewer').addEventListener('click',event=>{if(backdropDown && event.target===$('viewer'))closeViewer();backdropDown=false;});
+$('search').addEventListener('input',()=>navigate({query:$('search').value,caseId:null},{replace:true}));$('sort').addEventListener('change',()=>navigate({sort:$('sort').value,caseId:null}));$('playable').addEventListener('change',()=>navigate({playable:$('playable').checked,caseId:null}));
+for(const id of ['view','duration','prompt'])$(id).addEventListener('change',()=>navigate({[id]:$(id).value,caseId:null}));
+$('reset').addEventListener('click',()=>navigate({category:'all',query:'',playable:false,view:'all',duration:'all',prompt:'all',caseId:null}));
+$('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(card));renderPagination(selected);});
+$('language').addEventListener('click',()=>{const hadViewer=activeId;navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true});if(hadViewer){unload();showViewer(cases.find(c=>c.id===hadViewer));}});
+function onLocation(){const next=readState(location.href),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]);state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer();}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
+try { const response=await fetch('./data/cases.json');if(!response.ok)throw new Error('Catalog unavailable');const catalog=await response.json();if(!Array.isArray(catalog.cases))throw new Error('Invalid catalog');cases=catalog.cases;$('loading').hidden=true;render();syncViewer(); }catch { renderLanguage();$('loading').textContent=t('作品列表暂时无法载入。请刷新重试，或从上方 GitHub 入口浏览。若在本地打开，请使用 HTTP 静态服务器预览。','The catalog could not load. Refresh or browse via GitHub above. For a local preview, use an HTTP static server.'); }
+
+function renderCuration() {
+  $('deleted-works').hidden=!curator;
+  if(!curator)return;
+  $('deleted-works').textContent=t(`已删除 · ${curator.trash.length}`,`Deleted · ${curator.trash.length}`);
+  $('trash-title').textContent=t('已删除的作品','Deleted works');
+  $('trash-note').textContent=t('可随时恢复。删除已同步到本地仓库，尚未推送 GitHub。','Restore at any time. Changes are saved in the local repository, not pushed to GitHub.');
+  $('trash-list').replaceChildren(...curator.trash.map(item=>{
+    const row=el('div','trash-row'),button=el('button','restore-button',t('恢复','Restore'));
+    button.type='button';button.disabled=mutationPending;
+    button.addEventListener('click',()=>mutate('restore',item.key,button));
+    row.append(el('span','',title(item)),button);return row;
+  }));
+  if(!curator.trash.length)$('trash-list').append(el('p','',t('还没有删除作品。','No deleted works.')));
+}
+function featuredControl(c,compact=false) {
+  const box=el('div',compact?'featured-control card-featured-control':'featured-control');
+  const button=el('button','feature-button',isFeatured(c)?t('取消精选','Remove featured'):t(compact?'精选':'设为精选','Feature work'));
+  const status=el('span','feature-status');status.setAttribute('role','status');
+  button.type='button';button.setAttribute('aria-pressed',String(isFeatured(c)));
+  button.setAttribute('aria-label',t(`${isFeatured(c)?'取消精选':'精选'}：${title(c)}`,`${isFeatured(c)?'Remove featured':'Feature'}: ${title(c)}`));
+  button.addEventListener('click',()=>{
+    const item=cases.find(row=>row.id===c.id);if(!item)return;
+    const current=item.review||{highlights:[],later:false};
+    mutate('review',c.id,button,status,{...current,highlights:[...current.highlights],later:false,featured:!isFeatured(item)});
+  });
+  box.append(button,status);return box;
+}
+function deleteControl(c,compact=false) {
+  const box=el('div',compact?'delete-control card-delete-control':'delete-control'),button=el('button','delete-button',t(compact?'删除':'删除作品','Delete'));
+  button.type='button';box.append(button);
+  button.addEventListener('click',()=>{
+    const confirm=el('button','delete-button',t('确认删除','Confirm deletion')),cancel=el('button','restore-button',t('取消','Cancel'));
+    confirm.type=cancel.type='button';
+    const status=el('p','delete-status');status.setAttribute('role','status');
+    box.replaceChildren(el('p','',t('从画廊和本地仓库移除作品、提示词和封面；可在「已删除」中恢复。','Remove this work, its prompt and cover locally. Restore it from Deleted.')),confirm,cancel,status);
+    confirm.addEventListener('click',()=>mutate('delete',c.id,confirm,status));
+    cancel.addEventListener('click',()=>{const next=deleteControl(c,compact);box.replaceWith(next);next.querySelector('button').focus();});confirm.focus();
+  });return box;
+}
+async function mutate(action,id,button,errorNode=$('trash-status'),review) {
+  if(mutationPending)return;
+  const fromCard=Boolean(button.closest('.card'));
+  const fromFeature=button.classList.contains('feature-button');
+  const reviewOption=button.dataset.reviewOption;
+  mutationPending=true;button.disabled=true;errorNode.textContent='';
+  try {
+    const response=await fetch('./api/curation',{method:'POST',headers:{'Content-Type':'application/json','X-Curation-Token':curator.token},body:JSON.stringify({action,id,revision:curator.revision,review})});
+    const data=await response.json();if(!response.ok)throw new Error(data.error);
+    curator=data;cases=data.catalog.cases;
+    if(action==='delete'){navigate({caseId:null},{replace:true});render();}else render();
+    const status=$('curation-status');status.hidden=false;
+    status.textContent=action==='review'?t('精选与评价已保存，默认排序已更新。','Featured choice and review saved. Default order updated.'):action==='delete'?t('已从本地仓库删除，可在右上角「已删除」中恢复。未推送 GitHub。','Deleted locally. Restore via Deleted in the header. Not pushed to GitHub.'):t('已恢复作品及仓库资料。','Work and repository files restored.');
+    if(action==='delete')$('deleted-works').focus();
+    else if(action==='review'){
+      const item=cases.find(c=>c.id===id);
+      if(fromCard){($('works').querySelector(`.card[data-case-id="${id}"] .feature-button`)||$('works')).focus({preventScroll:true});}
+      if(activeId===id&&item){
+        const oldFeature=$('viewer-content').querySelector('.featured-control');
+        if(oldFeature)oldFeature.replaceWith(featuredControl(item));
+        const oldReview=$('viewer-content').querySelector('.review-control');
+        if(oldReview){const next=reviewControl(item);next.open=oldReview.open;oldReview.replaceWith(next);next.querySelector('.review-status').textContent=t('已保存 · 默认排序已更新','Saved · Default order updated');}
+        if(!fromCard){const target=fromFeature?$('viewer-content').querySelector('.feature-button'):reviewOption?$('viewer-content').querySelector(`[data-review-option="${reviewOption}"]`):null;target?.focus({preventScroll:true});}
+      }
+    }
+    else {$('trash-status').textContent=t('已恢复。','Restored.');$('trash-close').focus();}
+  } catch(error) {errorNode.textContent=error.message||t('保存失败，请刷新后重试。','Save failed. Refresh and retry.');}
+  finally {mutationPending=false;button.disabled=false;renderCuration();}
+}
+$('deleted-works').addEventListener('click',()=>{renderCuration();$('trash-status').textContent='';$('trash').showModal();});
+$('trash-close').addEventListener('click',()=>$('trash').close());
+// Static hosting has no local editor API: keep editing controls hidden there.
+if(location.hostname==='127.0.0.1')try {
+  const response=await fetch('./api/curation');
+  if(response.ok){const data=await response.json();if(data.token&&data.catalog&&Array.isArray(data.trash)){curator=data;cases=data.catalog.cases;render();if(activeId){unload();showViewer(cases.find(c=>c.id===activeId));}}}
+}catch { /* Read-only gallery remains available. */ }
+
+function reviewControl(c) {
+  const box=el('details','review-control'),labels=reviewLabels(c,state.lang);
+  box.append(el('summary','',t('评价与排序','Review & order')+(labels.length?` · ${labels.join(' · ')}`:'')));
+  box.append(el('p','review-help',t('精选和认可的作品优先，一般的排后。两项优点可同时选择；再次点击可取消。只影响默认排序，作品始终保留。','Featured and liked works come first; average works appear later. Select both strengths, or click again to undo. Only the default order changes; works remain available.')));
+  const controls=el('div','review-options'),status=el('p','review-status');status.setAttribute('role','status');
+  for(const option of [...REVIEW_OPTIONS,{id:'later',zh:'一般，排后',en:'Show later'},{id:'reset',zh:'清除评价',en:'Clear review'}]) {
+    const button=el('button','review-button',option[state.lang]);button.type='button';button.dataset.reviewOption=option.id;
+    const selected=option.id==='later'?Boolean(c.review?.later):Boolean(c.review?.highlights?.includes(option.id));
+    if(option.id!=='reset')button.setAttribute('aria-pressed',String(selected));
+    button.addEventListener('click',()=>{
+      const current=cases.find(item=>item.id===c.id)?.review || {highlights:[],later:false};
+      let next={highlights:[],later:false,...(current.featured===undefined?{}:{featured:current.featured})};
+      if(option.id==='later')next={...current,highlights:[],later:!current.later,featured:false};
+      else if(option.id!=='reset')next={...current,later:false,highlights:current.highlights.includes(option.id)?current.highlights.filter(id=>id!==option.id):[...current.highlights,option.id]};
+      mutate('review',c.id,button,status,next);
+    });controls.append(button);
+  }
+  box.append(controls,status);return box;
+}
