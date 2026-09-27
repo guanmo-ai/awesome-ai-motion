@@ -55,7 +55,7 @@ function render() {
       return group;
     }));
     $('pagination').hidden=true;
-  } else { $('works').replaceChildren(...pageCases(selected,visibleCount).visible.map(card));renderPagination(selected); }
+  } else { $('works').replaceChildren(...pageCases(selected,visibleCount).visible.map(c=>card(c)));renderPagination(selected); }
   $('empty').hidden=selected.length!==0;
 }
 function renderPagination(selected) {
@@ -130,7 +130,7 @@ let backdropDown=false;$('viewer').addEventListener('pointerdown',event=>{const 
 $('search').addEventListener('input',()=>navigate({query:$('search').value,caseId:null},{replace:true}));$('sort').addEventListener('change',()=>navigate({sort:$('sort').value,caseId:null}));$('playable').addEventListener('change',()=>navigate({playable:$('playable').checked,caseId:null}));
 for(const id of ['view','duration','prompt'])$(id).addEventListener('change',()=>navigate({[id]:$(id).value,caseId:null}));
 $('reset').addEventListener('click',()=>{$('advanced-filters').open=false;navigate({category:'all',query:'',playable:false,view:'all',duration:'all',prompt:'all',caseId:null});});
-$('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(card));renderPagination(selected);});
+$('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(c=>card(c)));renderPagination(selected);});
 $('language').addEventListener('click',()=>{const hadViewer=activeId;navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true});if(hadViewer){unload();showViewer(cases.find(c=>c.id===hadViewer));}});
 function onLocation(){const next=readState(location.href),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]);state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer();}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
 try { const response=await fetch('./data/cases.json');if(!response.ok)throw new Error('Catalog unavailable');const catalog=await response.json();if(!Array.isArray(catalog.cases))throw new Error('Invalid catalog');cases=catalog.cases;$('loading').hidden=true;render();syncViewer(); }catch { renderLanguage();$('loading').textContent=t('作品列表暂时无法载入。请刷新重试，或从上方 GitHub 入口浏览。若在本地打开，请使用 HTTP 静态服务器预览。','The catalog could not load. Refresh or browse via GitHub above. For a local preview, use an HTTP static server.'); }
