@@ -1,0 +1,12 @@
+.research/
+.superpowers/
+docs/superpowers/
+node_modules/
+.DS_Store
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+.env*
+preview.html

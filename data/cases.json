@@ -1,0 +1,2146 @@
+{
+  "schemaVersion": 2,
+  "name": "Awesome Opus Gallery · 帧选",
+  "cases": [
+    {
+      "id": "2102787937482252537",
+      "title": "用一句话介绍推理服务",
+      "category": "产品宣传",
+      "summary": "把抽象的推理服务变成一支短发布片，适合参考技术产品的解释方式。",
+      "author": {
+        "name": "Deedy",
+        "handle": "deedydas",
+        "url": "https://x.com/deedydas"
+      },
+      "source": {
+        "url": "https://x.com/deedydas/status/2102787937482252537",
+        "publishedAt": "Wed Sep 23 15:51:26 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/deedydas/status/2102787937482252537",
+        "evidenceQuote": "Opus 5.5 is incredible at instructional vid"
+      },
+      "media": {
+        "durationSeconds": 26,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102787937482252537.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102787906494668800/vid/avc1/1280x720/F05wigdRZAYNR3xL.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 18.2,
+        "width": 960,
+        "height": 540,
+        "bytes": 25462
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a modern slick and punchy video for a modern startup that works on inference",
+        "language": "en",
+        "sourceUrl": "https://x.com/deedydas/status/2102787937482252537",
+        "checkedAt": "2026-09-27T04:57:11.919352+00:00",
+        "translationZh": "为一家从事推理服务的现代创业公司，制作一支现代、精致、节奏鲜明的视频。",
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 4697,
+        "likes": 3242,
+        "views": 337803,
+        "checkedAt": "2026-09-27T04:57:11.919352+00:00",
+        "sourceUrl": "https://x.com/deedydas/status/2102787937482252537"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:11.919352+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/0005d4cf-acdd-42aa-af16-dbebe167126d",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/deedydas/status/2102787937482252537",
+        "checkedAt": "2026-09-27T08:50:07.402309+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 26.052789,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A one-line prompt for an inference startup launch"
+    },
+    {
+      "id": "2103315922098470926",
+      "title": "15 秒动态设计自由发挥",
+      "category": "短动效",
+      "summary": "只给时长、用途和创作方向，让模型自行决定镜头与转场。",
+      "author": {
+        "name": "Stephan Livera",
+        "handle": "stephanlivera",
+        "url": "https://x.com/stephanlivera"
+      },
+      "source": {
+        "url": "https://x.com/stephanlivera/status/2103315922098470926",
+        "publishedAt": "Fri Sep 25 02:49:28 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/stephanlivera/status/2103315922098470926",
+        "evidenceQuote": "Opus 5.5 on Max effort - \"make a dynamic 15"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103315922098470926.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103315748496302080/vid/avc1/1280x720/eCO2uc133COVHpCg.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.5,
+        "width": 960,
+        "height": 540,
+        "bytes": 35770
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "language": "en",
+        "sourceUrl": "https://x.com/stephanlivera/status/2103315922098470926",
+        "checkedAt": "2026-09-27T04:57:12.834518+00:00",
+        "translationZh": "制作一支充满动感的 15 秒动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集短片。全力发挥。",
+        "noteZh": "作者标明使用 Max effort。"
+      },
+      "metrics": {
+        "bookmarks": 11692,
+        "likes": 15875,
+        "views": 1511259,
+        "checkedAt": "2026-09-27T04:57:12.834518+00:00",
+        "sourceUrl": "https://x.com/stephanlivera/status/2103315922098470926"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:12.834518+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/50e1566c-a40d-4f6a-9cf3-246be4058b4a",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/stephanlivera/status/2103315922098470926",
+        "checkedAt": "2026-09-27T08:50:07.402389+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 15.061333,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A 15-second motion design showreel"
+    },
+    {
+      "id": "2103273003555402193",
+      "title": "一个形状串起整套 UI",
+      "category": "短动效",
+      "summary": "按钮、加载器、播放器和图表连续形变；适合研究界面动效与节拍。",
+      "author": {
+        "name": "zero",
+        "handle": "twoclipping",
+        "url": "https://x.com/twoclipping"
+      },
+      "source": {
+        "url": "https://x.com/twoclipping/status/2103273003555402193",
+        "publishedAt": "Thu Sep 24 23:58:55 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+        "evidenceQuote": "opus 5.5 is f*cking cracked at motion desig"
+      },
+      "media": {
+        "durationSeconds": 14,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103273003555402193.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103272964967804928/vid/avc1/720x720/18beFxJGrO4tjaDQ.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4,
+        "width": 640,
+        "height": 640,
+        "bytes": 9975
+      },
+      "prompt": {
+        "status": "original",
+        "text": "<inputs>\nAsk me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Light warm-gray canvas, black and white components, one clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. The last frame is the first frame, so it loops.\nBanned: bouncy easing, particle bursts, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>\n\n<structure>\n120 BPM, 7 bars, something happens on every beat.\nButton → loader → check → dynamic island → music player with a play/pause morph → scrub the progress bar → it becomes a volume slider that stretches when dragged past max → a toggle flips on the beat → the knob becomes a liquid tab indicator → the tabs open into a chart that draws itself, with a tooltip on hover → it collapses into ⌘K → type to filter → enter → toast → back to the button.\n</structure>\n\n<build>\n1. One HTML file, square 1440x1440. Every style is computed from time inside seek(t): no CSS transitions, no timers, no state carried between frames.\n2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change, so it stays a pure function of time.\n3. The tab indicator's two edges ride different springs, so the leading edge stretches ahead of the trailing one. Same trick for the toggle knob.\n4. Drags are direct manipulation: while the cursor is held, the value is computed from its position. On release it springs back from wherever it was.\n5. Analyze the song with numpy for the beat grid and start on a downbeat. Place every UI sound by its measured peak.\n6. Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.\n7. Render one frame per beat before the full render. Fix anything off the grid, cramped or hard to read.\n</build>\n\n<gotchas>\nNever put will-change on anything the camera scales or the text renders blurry. Text that swaps inside a morphing container needs its own enter and exit timing or it overlaps. Make the last frame identical to the first, cursor position and speed included, or the loop stutters.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the state list on the beat grid before you write any code.\n</start>",
+        "language": "en",
+        "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+        "checkedAt": "2026-09-27T04:57:12.834748+00:00",
+        "translationZh": null,
+        "noteZh": "作者公开的模板；需要回答 UI 状态、配色和歌曲等输入问题。保留完整原文，中文简介不替代模板。"
+      },
+      "metrics": {
+        "bookmarks": 19303,
+        "likes": 11656,
+        "views": 907430,
+        "checkedAt": "2026-09-27T04:57:12.834748+00:00",
+        "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:12.834748+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/twoclipping/status/2103273003555402193",
+        "checkedAt": "2026-09-27T08:50:07.402398+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 14.058667,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "One shape, a seamless UI morph loop"
+    },
+    {
+      "id": "2102583898865873225",
+      "title": "用线稿回顾中华五千年",
+      "category": "知识讲解",
+      "summary": "中文一句话提示词案例，适合从历史主题入门线稿讲解。",
+      "author": {
+        "name": "WY",
+        "handle": "akokoi1",
+        "url": "https://x.com/akokoi1"
+      },
+      "source": {
+        "url": "https://x.com/akokoi1/status/2102583898865873225",
+        "publishedAt": "Wed Sep 23 02:20:40 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/akokoi1/status/2102583898865873225",
+        "evidenceQuote": "hreejs了，Claude Opus 5.5做知识、科普类的视频简直无敌！\n\n我订阅的是Max (5x)，这个2分"
+      },
+      "media": {
+        "durationSeconds": 157.593,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102583898865873225.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg",
+        "kind": "source_video_thumbnail",
+        "timeSeconds": null,
+        "width": 960,
+        "height": 538,
+        "bytes": 35643
+      },
+      "prompt": {
+        "status": "original",
+        "text": "做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+        "language": "zh",
+        "sourceUrl": "https://x.com/akokoi1/status/2102584165220962502",
+        "checkedAt": "2026-09-27T04:57:13.801631+00:00",
+        "translationZh": null,
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 762,
+        "likes": 687,
+        "views": 154080,
+        "checkedAt": "2026-09-27T04:57:13.726329+00:00",
+        "sourceUrl": "https://x.com/akokoi1/status/2102583898865873225"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:13.726329+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/120d98a4-47d7-43ba-81ee-7a492fa5ec0d",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/akokoi1/status/2102583898865873225",
+        "checkedAt": "2026-09-27T08:50:07.402432+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 157.64,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "Five thousand years of Chinese history"
+    },
+    {
+      "id": "2102606609574941028",
+      "title": "把大气环流讲成动画",
+      "category": "知识讲解",
+      "summary": "将地理知识、双语字幕与旁白结合，可参考课堂讲解的任务描述。",
+      "author": {
+        "name": "WY",
+        "handle": "akokoi1",
+        "url": "https://x.com/akokoi1"
+      },
+      "source": {
+        "url": "https://x.com/akokoi1/status/2102606609574941028",
+        "publishedAt": "Wed Sep 23 03:50:54 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/akokoi1/status/2102606609574941028",
+        "evidenceQuote": "领先了。\n\n一段简单的提示词，Opus 5.5花了26分钟，直接生成了这段将近5分钟的，解释地理知识点“大气环流”的"
+      },
+      "media": {
+        "durationSeconds": 288.133,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102606609574941028.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102600725981446144/vid/avc1/1280x720/fz1qX0vbPo-7rr33.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 63.39,
+        "width": 960,
+        "height": 540,
+        "bytes": 61176
+      },
+      "prompt": {
+        "status": "original",
+        "text": "做一个动画，讲解高中地理知识点“大气环流”。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜，字幕用中英双语，解说用TTS，如果 TTS 接口有关闭水印的参数就关掉，文档在TTS.md，API KEY 和音色分别是 .env 里的 APIKEY 和 VOICE，最终视频要能直接导出。",
+        "language": "zh",
+        "sourceUrl": "https://x.com/akokoi1/status/2102606609574941028",
+        "checkedAt": "2026-09-27T04:57:14.252302+00:00",
+        "translationZh": null,
+        "noteZh": "作者流程另外准备 TTS.md 与语音服务配置；原文中的配置名称不是仓库提供的凭据。"
+      },
+      "metrics": {
+        "bookmarks": 810,
+        "likes": 692,
+        "views": 133737,
+        "checkedAt": "2026-09-27T04:57:14.252302+00:00",
+        "sourceUrl": "https://x.com/akokoi1/status/2102606609574941028"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:14.252302+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/2c87394f-8224-4e89-bf04-36ccbe5d574f",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/akokoi1/status/2102606609574941028",
+        "checkedAt": "2026-09-27T08:50:07.402445+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 288.15,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "Atmospheric circulation explained"
+    },
+    {
+      "id": "2102853258582880547",
+      "title": "让鸡尾酒配方动起来",
+      "category": "知识讲解",
+      "summary": "从空杯到成品，随着原料加入显示名称和用量；适合步骤型教程。",
+      "author": {
+        "name": "Rory Flynn",
+        "handle": "Ror_Fly",
+        "url": "https://x.com/Ror_Fly"
+      },
+      "source": {
+        "url": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "publishedAt": "Wed Sep 23 20:11:00 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "evidenceQuote": "Opus 5.5 rendered this in HTML from (1) ima"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102853258582880547.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102853041246347264/vid/avc1/720x720/vW1QSV3nbAKczNx5.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 24,
+        "width": 640,
+        "height": 640,
+        "bytes": 32309
+      },
+      "prompt": {
+        "status": "original",
+        "text": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.",
+        "language": "en",
+        "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "checkedAt": "2026-09-27T04:57:14.252018+00:00",
+        "translationZh": "我们来做个小测试。你能用 JavaScript 或 HTML（选择你认为效果最好的方式）渲染一段配方动态图形动画，完整展示从空杯到调好鸡尾酒的过程吗？采用讲解视频风格，在原料加入杯中时显示原料和用量。时长应为 30 秒。",
+        "noteZh": "作者提供了一张参考图，使用时需自行准备对应配方或参考图。"
+      },
+      "metrics": {
+        "bookmarks": 1442,
+        "likes": 1011,
+        "views": 73160,
+        "checkedAt": "2026-09-27T04:57:14.252018+00:00",
+        "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:14.252018+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/a675be87-848d-4ccb-9099-38e67eeda590",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "checkedAt": "2026-09-27T08:50:07.402451+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 30,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "An animated cocktail recipe"
+    },
+    {
+      "id": "2103116235009347650",
+      "title": "用代码讲述奥斯特里茨战役",
+      "category": "叙事短片",
+      "summary": "用历史事件检验较长叙事、地形与镜头组织；作者同时提供了源码。",
+      "author": {
+        "name": "Winter",
+        "handle": "WinterArc2125",
+        "url": "https://x.com/WinterArc2125"
+      },
+      "source": {
+        "url": "https://x.com/WinterArc2125/status/2103116235009347650",
+        "publishedAt": "Thu Sep 24 13:35:59 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/WinterArc2125/status/2103116235009347650",
+        "evidenceQuote": "HOLY SHIT. OPUS 5.5 IS CRAZY.\n\nNapoleon's sharpest bat"
+      },
+      "media": {
+        "durationSeconds": 301.333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103116235009347650.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103113452726140928/vid/avc1/1280x720/5hcy4_P8c101YYPS.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 144.64,
+        "width": 960,
+        "height": 540,
+        "bytes": 22737
+      },
+      "prompt": {
+        "status": "original",
+        "text": "Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.\n\nResearch the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.\n\nUse the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.\n\nDon't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.\n\nYou have complete creative control. Surprise me.",
+        "language": "en",
+        "sourceUrl": "https://x.com/WinterArc2125/status/2103116689944502720",
+        "checkedAt": "2026-09-27T04:57:14.710759+00:00",
+        "translationZh": null,
+        "noteZh": "原文要求参考随附绘画，属于有参考素材的长片任务；作者记录的制作与渲染时间较长。"
+      },
+      "metrics": {
+        "bookmarks": 272,
+        "likes": 305,
+        "views": 63750,
+        "checkedAt": "2026-09-27T04:57:14.682741+00:00",
+        "sourceUrl": "https://x.com/WinterArc2125/status/2103116235009347650"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:14.682741+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": "https://github.com/WinterArc21/Battle-of-Austerlitz-Film",
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/b184c248-70ea-486a-afa8-223bdf7ff943",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/WinterArc2125/status/2103116235009347650",
+        "checkedAt": "2026-09-27T08:50:07.402461+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 301.376,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "The Battle of Austerlitz in code"
+    },
+    {
+      "id": "2102827887732932956",
+      "title": "真人口播变线稿讲解",
+      "category": "知识讲解",
+      "summary": "保留原声、字幕和时长，将主画面改成随口播变化的动画。",
+      "author": {
+        "name": "Axton",
+        "handle": "AxtonLiu",
+        "url": "https://x.com/AxtonLiu"
+      },
+      "source": {
+        "url": "https://x.com/AxtonLiu/status/2102827887732932956",
+        "publishedAt": "Wed Sep 23 18:30:11 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/AxtonLiu/status/2102827887732932956",
+        "evidenceQuote": "Claude Opus 5.5 能把一条真人口播直接改成动画讲解了，效果非常不错。\n\n原片是我 83"
+      },
+      "media": {
+        "durationSeconds": 83.666,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102827887732932956.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102827850864934912/vid/avc1/720x1280/fR3aZJQW64Mqc85s.mp4?tag=16",
+        "kind": "video_frame",
+        "timeSeconds": 60.24,
+        "width": 360,
+        "height": 640,
+        "bytes": 23149
+      },
+      "prompt": {
+        "status": "original",
+        "text": "把 short-1.mp4 做成一条新的竖屏短片 short-1-v5.mp4：\n\n1. 我的人像缩小成右下角的圆形画中画，能看清我在讲话，不遮字幕。\n2. 主画面换成一段动画 B-roll，跟着我讲的内容走：我说到哪个概念，画面就画哪个概念。风格轻松有趣，线稿动画就可以，不要写实。\n3. 原声、原字幕、时长都不变。",
+        "language": "zh",
+        "sourceUrl": "https://x.com/AxtonLiu/status/2102827887732932956",
+        "checkedAt": "2026-09-27T04:57:15.123183+00:00",
+        "translationZh": null,
+        "noteZh": "需要自己的 short-1.mp4。提示词中的人物指原视频讲述者。"
+      },
+      "metrics": {
+        "bookmarks": 411,
+        "likes": 371,
+        "views": 31375,
+        "checkedAt": "2026-09-27T04:57:15.123183+00:00",
+        "sourceUrl": "https://x.com/AxtonLiu/status/2102827887732932956"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:15.123183+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/d8d0a72e-d750-48a0-b84c-1f3f6c3d2188",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/AxtonLiu/status/2102827887732932956",
+        "checkedAt": "2026-09-27T08:50:07.402470+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 83.712,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "Turn a talking-head video into a line-art explainer"
+    },
+    {
+      "id": "2103511590884815282",
+      "title": "把印尼历史排成动态图形",
+      "category": "知识讲解",
+      "summary": "从总统与地图串联历史，并尝试有地域特色的音乐。",
+      "author": {
+        "name": "Sonny",
+        "handle": "sonnylazuardi",
+        "url": "https://x.com/sonnylazuardi"
+      },
+      "source": {
+        "url": "https://x.com/sonnylazuardi/status/2103511590884815282",
+        "publishedAt": "Fri Sep 25 15:46:59 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/sonnylazuardi/status/2103511590884815282",
+        "evidenceQuote": "I asked Opus 5.5 for the history of Indonesia. It:"
+      },
+      "media": {
+        "durationSeconds": 52.8,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103511590884815282.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103511425243357184/vid/avc1/1280x720/jng3yI_12GNP58yr.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 11.62,
+        "width": 960,
+        "height": 540,
+        "bytes": 64381
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a dynamic motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\n\ngenerate reel but for impressive story, the history of Indonesia, first president until now , surprise me with interesting storyboard",
+        "language": "en",
+        "sourceUrl": "https://x.com/sonnylazuardi/status/2103660301132685418",
+        "checkedAt": "2026-09-27T04:57:15.560942+00:00",
+        "translationZh": "制作一支动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集。全力发挥。\n\n生成一支讲述精彩故事的短片：印度尼西亚的历史，从第一任总统到现在，用有趣的故事板给我惊喜。",
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 102,
+        "likes": 155,
+        "views": 11580,
+        "checkedAt": "2026-09-27T04:57:15.521356+00:00",
+        "sourceUrl": "https://x.com/sonnylazuardi/status/2103511590884815282"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:15.521356+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/d12b7adb-242f-4347-bd5e-ac0185e7af18",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/sonnylazuardi/status/2103511590884815282",
+        "checkedAt": "2026-09-27T08:50:07.402439+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 52.842667,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "81 years of Indonesian history"
+    },
+    {
+      "id": "2102476258948927543",
+      "title": "像素巫师的施法循环",
+      "category": "像素与角色",
+      "summary": "完整规格覆盖像素尺寸、调色板、角色动作与循环，适合学习精确约束。",
+      "author": {
+        "name": "Majid Manzarpour",
+        "handle": "majidmanzarpour",
+        "url": "https://x.com/majidmanzarpour"
+      },
+      "source": {
+        "url": "https://x.com/majidmanzarpour/status/2102476258948927543",
+        "publishedAt": "Tue Sep 22 19:12:56 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/majidmanzarpour/status/2102476258948927543",
+        "evidenceQuote": "opus 5.5, animated pixel art wizard, pure c"
+      },
+      "media": {
+        "durationSeconds": 11.225,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102476258948927543.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/872x720/ZO3UBdkkQQmtyAeH.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.8,
+        "width": 775,
+        "height": 640,
+        "bytes": 30978
+      },
+      "prompt": {
+        "status": "original",
+        "text": "Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D. No external assets, libraries, or network requests.\n\nRENDERING\n- Draw everything to an offscreen canvas at a fixed logical resolution of 128x96, then blit to a fullscreen display canvas scaled by the largest integer factor that fits the window, centered, with imageSmoothingEnabled = false and CSS image-rendering: pixelated.\n- All drawing snaps to integer coordinates on the logical canvas. No sub-pixel positions, anti-aliasing, gradients, or shadowBlur.\n- Fixed palette of ~24 hex colors: deep blues/purples for night sky, warm robe tones, 3-4 bright magic colors. Every pixel comes from this palette.\n\nCHARACTER\n- Build the wizard procedurally from filled rects and pixel runs, ~24x32 logical pixels: pointed hat with a bend, long beard, two-shade robe with darker outline, staff with a gem at the tip.\n- Parameterize the pose (staff angle, arm raise, head tilt, robe sway). Animate parameters smoothly, then quantize to the pixel grid each frame so motion reads at an 8-12 fps pixel animation feel even though the loop runs at 60fps.\n\nANIMATION\n- Looping state machine: IDLE (2-frame bob, beard sway) -> CHARGE (staff raises, gem flickers, sparks spiral inward) -> CAST (bright burst, projectile fires across the scene, 1-2 pixel screen shake) -> RECOVER (settle back). Ease pose parameters between keyframes.\n- Pooled allocation-free particle system: preallocate and reuse. Sparks orbit the gem during CHARGE, explode outward on CAST, each particle stepping its palette index from white to magic color to dark before despawn. Snap particle positions to the grid when drawing.\n- Fixed 60hz timestep update with rAF rendering. Zero object allocation inside the loop.\n\nSCENE\n- Minimal background: dark sky, a few twinkling 1px stars, moon, stone floor line. Character silhouette must read clearly.\n- Subtle 1px rim light on the wizard from the gem, brightening during CHARGE and CAST.\n\nQUALITY BAR\n- Crisp pixels at any window size, seamless loop, stable 60fps, readable silhouette. Should look like a polished 16-bit sprite animation, not vector shapes scaled down.",
+        "language": "en",
+        "sourceUrl": "https://x.com/majidmanzarpour/status/2102476499387383834",
+        "checkedAt": "2026-09-27T04:57:15.970428+00:00",
+        "translationZh": null,
+        "noteZh": "纯 HTML / Canvas 2D 的规格型提示词；无需外部素材。"
+      },
+      "metrics": {
+        "bookmarks": 2639,
+        "likes": 2527,
+        "views": 436780,
+        "checkedAt": "2026-09-27T04:57:16.019998+00:00",
+        "sourceUrl": "https://x.com/majidmanzarpour/status/2102476258948927543"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:16.019998+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/ea6388a4-f341-4d32-8807-8a2e7edafce0",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/majidmanzarpour/status/2102476258948927543",
+        "checkedAt": "2026-09-27T08:50:07.402483+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 11.284898,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A pixel wizard casting spells"
+    },
+    {
+      "id": "2102515055116063144",
+      "title": "彩虹跑道上的像素闪避",
+      "category": "像素与角色",
+      "summary": "围绕奔跑、预警与闪避构建连续动作，适合像素动画和小游戏演示。",
+      "author": {
+        "name": "Rikuo",
+        "handle": "riku720720",
+        "url": "https://x.com/riku720720"
+      },
+      "source": {
+        "url": "https://x.com/riku720720/status/2102515055116063144",
+        "publishedAt": "Tue Sep 22 21:47:06 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/riku720720/status/2102515055116063144",
+        "evidenceQuote": "opus 5.5、本当にやばすぎる...\n\n5分もかからずこのピクセルアニメーション出"
+      },
+      "media": {
+        "durationSeconds": 18.8,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102515055116063144.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1280x720/CBJ--9yxA5Ecnhwb.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8,
+        "width": 960,
+        "height": 540,
+        "bytes": 43293
+      },
+      "prompt": {
+        "status": "original",
+        "text": "Vanilla JavaScript と Canvas 2D を使い、オレンジ色のピクセルキャラクターが宇宙空間のレインボーの床を超高速で駆け抜け、次々と襲いかかる隕石やビームをかっこよく回避し続けるアニメーションを、単一の自己完結型 HTML ファイルとして作成してください。外部アセット、ライブラリ、ネットワークリクエストは一切使用しないこと。操作は不要で、キャラクターが自動で回避し続けるデモとしてシームレスにループさせること。\n\nレンダリング\n- すべてを 160x90 の固定論理解像度のオフスクリーンキャンバスに描画し、それをフルスクリーンの表示用キャンバスに転写する。拡大率はウィンドウに収まる最大の整数倍とし、中央に配置する。余白は黒で埋める。imageSmoothingEnabled = false、CSS は image-rendering: pixelated を指定すること。\n- すべての描画は論理キャンバス上の整数座標にスナップさせる。サブピクセル位置、アンチエイリアス、グラデーション、shadowBlur、回転描画は使用しない。\n- 約32色の固定パレットを使う：宇宙背景用の黒〜深い紺・紫系、キャラクター用のオレンジ系3段階（本体 #CD7B5E 付近、明るいハイライト、暗い影）と目の黒、レインボー床用の7色（赤・橙・黄・緑・水色・青・紫）とそれぞれの暗色、隕石用の岩色・溶岩色、ビーム用の白・シアン・マゼンタ。すべてのピクセルはこのパレットの色から取ること。\n\nキャラクター\n- 次の 12x8 ピクセルのシルエットを正確に再現する（1マス＝論理1ピクセル）：\n  - 胴体は幅8×高さ8の四角形（列2〜9）。\n  - 腕は胴体の左右に幅2×高さ2で突き出す（列0〜1と列10〜11、行2〜3）。\n  - 目は黒の1x1ピクセル2つ、行1の列3と列8。\n  - 脚は行6〜7に4本、各幅1（列2・4・7・9）。脚の間は背景色で抜く。\n- 1色塗りではなく、上辺と左辺に1pxのハイライト、下辺と右辺に1pxの影色を入れ、16ビット風の立体感を出す。\n- 走りモーションは脚4本を2本ずつ交互に上下させる4フレームサイクル。速度に応じてサイクルを速める。\n- ポーズをパラメータ化する（上下バウンド、前傾、スクワッシュ＆ストレッチ、腕の上下）。スクワッシュ＆ストレッチは幅・高さを整数ピクセル単位で1〜2px変えるだけで表現する。パラメータは滑らかに補間しつつ、毎フレームピクセルグリッドに量子化し、60fpsループでも 12fps 前後のドット絵アニメらしく見せること。\n\nレインボーの床\n- キャラクターは画面左寄り1/3付近を右方向へ走る横スクロール構成。床は7色の横縞からなる虹の帯（各色1〜2px）で、画面を横切るように延び、ゆるやかにうねる（サイン波で上下にカーブ）。\n- 床の縦方向に一定間隔の区切り線（暗色の縦ライン）を入れ、速度に応じて左へ高速スクロールさせて疾走感を出す。\n- 床の下辺からは虹色の光の粒が後方へこぼれ落ち、床が宇宙に浮いていることを示す。\n- ときどき床にジャンプ台（上向きのカーブ）や途切れ（ギャップ）を出し、ジャンプの見せ場を作る。\n\n障害物\n- 隕石：大・中・小の3サイズ。ドット絵の岩（アウトライン＋2段階の陰影＋溶岩色のひび）で、画面右上から斜めに飛来する。後ろに溶岩色→暗色へ変化する炎の尾を引く。避けられた隕石は床に衝突せず画面外へ抜けるか、背後で破片に砕け散る。\n- ビーム：出現前に予告として1pxの点滅ライン（マゼンタ）を 0.5 秒ほど表示し、その後に白い芯＋シアンの外縁からなる太さ3〜5pxのビームが水平または斜めに照射される。照射中は端がジリジリと揺れる。\n- 障害物はランダムではなく、あらかじめ決めた「攻撃パターン」を順番に流し、全体が一定時間でループするように設計する（例：隕石単発 → 隕石3連 → 低いビーム → 高いビーム → ビームと隕石の複合 → 大隕石＋床のギャップ）。\n\n回避アクション\n- ジャンプ：スクワッシュで溜め → ストレッチで跳躍 → 空中で縮こまる → 着地でスクワッシュ＋砂煙ならぬ虹色の火花。\n- 二段ジャンプ：空中で一瞬静止してから再加速。キャラクターの周囲に虹色のリングが1pxで広がる。\n- スライディング：高さを半分近くまでスクワッシュして低空姿勢で滑り、床との接地面から火花を飛ばす。\n- ダッシュ回避：一瞬だけ速度を大きく上げ、後方に残像を3〜4体残す。残像は虹の7色を順に使い、パレットの暗色へと段階的に消えていく。\n- 各攻撃パターンには、それに最もかっこよく見える回避アクションを割り当てる。回避はギリギリのタイミング（ニアミス）で行うこと。\n\nステートマシン\n- RUN（通常疾走）→ WARN（予告表示、キャラクターが一瞬前を見るように目を1px動かす）→ DODGE（回避アクション）→ NEAR_MISS（演出）→ RUN に戻る、を攻撃パターンごとに繰り返す。\n- ループの最後には BOOST（全力加速）→ WARP（画面全体が白→虹色に一瞬フラッシュ）を入れ、そのまま冒頭の RUN に自然につながるようにする。\n- ポーズやカメラのパラメータはキーフレーム間でイージングをかける。\n\nカメラワーク\n- カメラは論理座標上の整数オフセットとして扱う。ズームや回転は使わず、位置の移動と揺れだけで表現する。\n- 追従：キャラクターの上下移動にダンピング付きで遅れて追従し、ジャンプ時は少し遅れて持ち上がる。\n- 先読み：速度が上がるほどカメラを進行方向へ数px先行させ、キャラクターが画面左に押し込まれるようにして加速感を出す。\n- ヒットストップ：ニアミスの瞬間に 3〜4 フレームだけ全体を停止し、その後 0.3 秒ほどスローモーション（更新ステップを間引く）にしてから通常速度に戻す。\n- シェイク：大隕石の通過やビーム照射開始時に 1〜2px の画面揺れ。揺れは決まったパターン配列から読み出し、乱数は使わない。\n- BOOST 中はカメラをわずかに下げ、床の占める面積を増やして速度感を強調する。\n\n疾走感を出すエフェクト\n- 多層パララックス：遠い星（ほぼ動かない1pxの点）、中景の星（速度に応じて横に2〜6pxの線に伸びる）、近景のスピードライン（明るい色の横線が画面を高速で横切る）の3層。\n- スピードラインの本数と長さは速度に比例させ、BOOST 中は最大にする。\n- 背景に大きな惑星や星雲をドット絵で1〜2個配置し、ごくゆっくりスクロールさせてスケール感を出す。\n- ニアミス時はキャラクターの輪郭を1pxの白で縁取り、隕石・ビームに近い側だけ一瞬光らせる。\n- 着地・スライディング・ダッシュの火花、隕石の尾、破片、床からこぼれる光の粒は、すべて同じパーティクルシステムで扱う。\n\nパーティクルシステム\n- プール方式でアロケーションのないパーティクルシステム：事前に確保して再利用する。\n- 各パーティクルは種類ごとに色の遷移テーブル（パレットのインデックス列）を持ち、寿命に応じて段階的に色を変えて消滅する（例：火花は白 → 黄 → 橙 → 暗色、残像は虹色 → 暗色）。\n- 描画時にはパーティクル位置をグリッドにスナップさせる。\n- 60Hz の固定タイムステップで更新し、描画は rAF で行う。ループ内でのオブジェクト生成はゼロにすること（配列・クロージャ・文字列連結の生成も含む）。\n\nシーン\n- 背景は深い宇宙：黒から紺への段階的な帯（ディザリングで色の境目を表現）、瞬く星、遠くの惑星。\n- キャラクター・障害物・床の色が背景に埋もれないよう、明度差をはっきりつける。どんなに画面が騒がしくても、キャラクターのシルエットが一目で読み取れること。\n\n品質基準\n- どのウィンドウサイズでもピクセルがくっきりしていること、ループが途切れないこと、安定した60fps、読みやすいシルエット。\n- ベクター図形を縮小したものではなく、洗練された16ビット時代のアクションゲームのデモ画面のように見えること。\n- 「速い」「ギリギリで避けた」「かっこいい」の3つが、毎回の回避で伝わること。",
+        "language": "ja",
+        "sourceUrl": "https://x.com/riku720720/status/2102515058010132554",
+        "checkedAt": "2026-09-27T04:57:18.274317+00:00",
+        "translationZh": null,
+        "noteZh": "日文完整规格，包含角色、攻击预警、速度感与循环要求；以下原文保持日文，不将本站简介冒充全文翻译。"
+      },
+      "metrics": {
+        "bookmarks": 842,
+        "likes": 1079,
+        "views": 240426,
+        "checkedAt": "2026-09-27T04:57:17.905113+00:00",
+        "sourceUrl": "https://x.com/riku720720/status/2102515055116063144"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:17.905113+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/676888c5-bb90-49cb-b7a0-c8b568a71dfb",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/riku720720/status/2102515055116063144",
+        "checkedAt": "2026-09-27T08:50:07.402538+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 18.8,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A pixel race on a rainbow road"
+    },
+    {
+      "id": "2102801274173587569",
+      "title": "Claude Pop 混合制作 MV",
+      "category": "音乐与歌词",
+      "summary": "将参考音乐视频、角色资产、外部生成与代码动画结合，展示较复杂的制作任务。",
+      "author": {
+        "name": "donald",
+        "handle": "donaldjewkes",
+        "url": "https://x.com/donaldjewkes"
+      },
+      "source": {
+        "url": "https://x.com/donaldjewkes/status/2102801274173587569",
+        "publishedAt": "Wed Sep 23 16:44:26 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/donaldjewkes/status/2102801274173587569",
+        "evidenceQuote": "e prompt using Opus 5.5\n\nI spoke to my computer for 5mins,"
+      },
+      "media": {
+        "durationSeconds": 141.524,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102801274173587569.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102799458031534086/vid/avc1/1280x720/cmSpPi5aki0Wqwf7.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 118,
+        "width": 960,
+        "height": 540,
+        "bytes": 73276
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "language": "en",
+        "sourceUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
+        "checkedAt": "2026-09-27T04:57:19.515511+00:00",
+        "noteZh": "作者原文依赖参考 MP4、音轨及外部生成服务，并提到较高服务预算。它不是无素材、零成本的一句话案例。",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 8096,
+        "likes": 8599,
+        "views": 2110510,
+        "checkedAt": "2026-09-27T04:57:19.308236+00:00",
+        "sourceUrl": "https://x.com/donaldjewkes/status/2102801274173587569"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:19.308236+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/e3b65a8a-6af3-4a0a-8d62-5e9dc0ce1794",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/donaldjewkes/status/2102801274173587569",
+        "checkedAt": "2026-09-27T08:50:07.402565+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 141.568,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "Claude Pop: a mixed-workflow music video"
+    },
+    {
+      "id": "2103381720410333314",
+      "title": "一句话讲 Anthropic 的发家史",
+      "category": "叙事短片",
+      "summary": "中文短指令，同时要求主题叙事、音乐与音效。",
+      "author": {
+        "name": "Vincent文森特",
+        "handle": "VincentWei93",
+        "url": "https://x.com/VincentWei93"
+      },
+      "source": {
+        "url": "https://x.com/VincentWei93/status/2103381720410333314",
+        "publishedAt": "Fri Sep 25 07:10:55 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/VincentWei93/status/2103381720410333314",
+        "evidenceQuote": "如果你在用 Opus5.5\n那我建议你卸载所有用代码做视频的skill\n\n这个视频是 Opus5"
+      },
+      "media": {
+        "durationSeconds": 224,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103381720410333314.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103381213595713536/vid/avc1/1280x720/Q4plxhc-lL7ShsQi.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 107.52,
+        "width": 960,
+        "height": 540,
+        "bytes": 19328
+      },
+      "prompt": {
+        "status": "original",
+        "text": "帮我制作一个动画，主题描绘Anthropic的理念和发家史；包括音效和音乐；你可以使用任何你觉得合适的工具和技术，做出最好最惊艳的效果，不要使用已有的skill，不要参考以前做过的视频或者文案",
+        "language": "zh",
+        "sourceUrl": "https://x.com/VincentWei93/status/2103494376118985207",
+        "checkedAt": "2026-09-27T04:57:20.040550+00:00",
+        "translationZh": null,
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 1207,
+        "likes": 1072,
+        "views": 130223,
+        "checkedAt": "2026-09-27T04:57:19.964661+00:00",
+        "sourceUrl": "https://x.com/VincentWei93/status/2103381720410333314"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:19.964661+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/29c764e4-8fc5-45e2-954e-9bf85ca3baa1",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/VincentWei93/status/2103381720410333314",
+        "checkedAt": "2026-09-27T08:50:07.402581+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 224.049002,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "The rise of Anthropic"
+    },
+    {
+      "id": "2103918792845963545",
+      "title": "Pocketsflow 角色产品讲解",
+      "category": "产品宣传",
+      "summary": "把作品集式动效与角色口播结合，适合参考产品功能介绍。",
+      "author": {
+        "name": "Chain",
+        "handle": "achxvi",
+        "url": "https://x.com/achxvi"
+      },
+      "source": {
+        "url": "https://x.com/achxvi/status/2103918792845963545",
+        "publishedAt": "Sat Sep 26 18:45:03 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/achxvi/status/2103918792845963545",
+        "evidenceQuote": "Opus 5.5 did this in 15 minutes\n\nThis is IN"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103918792845963545.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103918273414791168/vid/avc1/1280x720/SnyRgmxxZHnOG4iS.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.8,
+        "width": 960,
+        "height": 540,
+        "bytes": 74185
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a dynamic 15-second motion graphics video about Pocketsflow that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\n\nhere is elevenlabs key:\nxxxxxx_youthoughtiwouldleakit_xxxxxx\n\nmake a video where a character talks about pocketsflow and how people can use it and what can they do with it etc etc etc \n\nLFG",
+        "language": "en",
+        "sourceUrl": "https://x.com/achxvi/status/2103938227786654016",
+        "checkedAt": "2026-09-27T04:57:21.359892+00:00",
+        "translationZh": null,
+        "noteZh": "作者原文包含 ElevenLabs 密钥的玩笑占位符，不是真实密钥；实际使用需自行配置配音服务。"
+      },
+      "metrics": {
+        "bookmarks": 2005,
+        "likes": 2083,
+        "views": 122284,
+        "checkedAt": "2026-09-27T04:57:21.306460+00:00",
+        "sourceUrl": "https://x.com/achxvi/status/2103918792845963545"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:21.306460+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/2154915d-0eca-450b-b7fe-f9b1ddd756b7",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/achxvi/status/2103918792845963545",
+        "checkedAt": "2026-09-27T08:50:07.402380+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 15.061333,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A character-led Pocketsflow product explainer"
+    },
+    {
+      "id": "2103099194693271874",
+      "title": "机器人穿越十二种画风",
+      "category": "像素与角色",
+      "summary": "用详细角色设定与分幕要求保持机器人在不同画风中的连续性。",
+      "author": {
+        "name": "Pradeep Kapoor",
+        "handle": "pradeepXkapoor",
+        "url": "https://x.com/pradeepXkapoor"
+      },
+      "source": {
+        "url": "https://x.com/pradeepXkapoor/status/2103099194693271874",
+        "publishedAt": "Thu Sep 24 12:28:16 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/pradeepXkapoor/status/2103099194693271874",
+        "evidenceQuote": "sked @claudeai Opus 5.5 to make an animated video about a"
+      },
+      "media": {
+        "durationSeconds": 75,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103099194693271874.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103099085012209664/img/tnymrQzt03CZbhBI.jpg",
+        "kind": "source_video_thumbnail",
+        "timeSeconds": null,
+        "width": 960,
+        "height": 540,
+        "bytes": 136303
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "language": "en",
+        "sourceUrl": "https://x.com/pradeepXkapoor/status/2103176289482154373",
+        "checkedAt": "2026-09-27T04:57:21.737901+00:00",
+        "noteZh": "长篇制作规格，含角色、骨骼、十二种世界风格、声音和交付检查；原文开头的拼写保持不改。",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 532,
+        "likes": 663,
+        "views": 60740,
+        "checkedAt": "2026-09-27T04:57:21.504686+00:00",
+        "sourceUrl": "https://x.com/pradeepXkapoor/status/2103099194693271874"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:21.504686+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/6764161e-1d18-47c6-bac6-b56b315547e4",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/pradeepXkapoor/status/2103099194693271874",
+        "checkedAt": "2026-09-27T08:50:07.402498+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 75.047007,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "Pip travels through twelve visual styles"
+    },
+    {
+      "id": "2103499977632997524",
+      "title": "五个场景讲清一门生意",
+      "category": "产品宣传",
+      "summary": "问题、方案、步骤、证据和署名组成一条 30 秒商业讲解。",
+      "author": {
+        "name": "Alex Prompter",
+        "handle": "alex_prompter",
+        "url": "https://x.com/alex_prompter"
+      },
+      "source": {
+        "url": "https://x.com/alex_prompter/status/2103499977632997524",
+        "publishedAt": "Fri Sep 25 15:00:50 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/alex_prompter/status/2103499977632997524",
+        "evidenceQuote": "Claude Opus 5.5 can make an explainer video for yo"
+      },
+      "media": {
+        "durationSeconds": 34.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103499977632997524.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103499934280585216/vid/avc1/1280x720/vWRMewa39TvoVnj1.mp4?tag=16",
+        "kind": "video_frame",
+        "timeSeconds": 7.59,
+        "width": 960,
+        "height": 540,
+        "bytes": 37758
+      },
+      "prompt": {
+        "status": "original",
+        "text": "Adopt the role of an expert motion designer. Build a 30-second animated explainer for my business as a single HTML page. 5 scenes. The customer's problem, what I do, how it works in 3 steps, one proof point, and my name at the end. Bold text, smooth transitions, my brand colours. My business [DESCRIBE WHAT YOU SELL, WHO IT'S FOR AND YOUR COLOURS]",
+        "language": "en",
+        "sourceUrl": "https://x.com/alex_prompter/status/2103499977632997524",
+        "checkedAt": "2026-09-27T04:57:21.794930+00:00",
+        "translationZh": "扮演专业动态设计师。用单个 HTML 页面，为我的业务制作一支 30 秒动画讲解。包含五个场景：客户的问题、我做什么、如何用三步实现、一个证明点，以及结尾的我的名字。使用醒目文字、流畅转场和我的品牌配色。我的业务：[描述你卖什么、面向谁以及品牌颜色]。",
+        "noteZh": "方括号内容需要换成自己的业务信息。"
+      },
+      "metrics": {
+        "bookmarks": 659,
+        "likes": 370,
+        "views": 38536,
+        "checkedAt": "2026-09-27T04:57:21.794930+00:00",
+        "sourceUrl": "https://x.com/alex_prompter/status/2103499977632997524"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:21.794930+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/joeseesun/opus-video-prompts",
+      "codeUrl": null,
+      "titleEn": "Explain a business in five scenes"
+    },
+    {
+      "id": "2103576084499358051",
+      "title": "Leon 的 15 秒动效作品集",
+      "category": "短动效",
+      "summary": "与其他作品使用相同短提示词，却呈现不同的镜头与材质选择，可对照观看。",
+      "author": {
+        "name": "Leon Abboud",
+        "handle": "leonabboud",
+        "url": "https://x.com/leonabboud"
+      },
+      "source": {
+        "url": "https://x.com/leonabboud/status/2103576084499358051",
+        "publishedAt": "Fri Sep 25 20:03:15 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/leonabboud/status/2103576084499358051",
+        "evidenceQuote": "Saw on x that Opus 5.5 could do advanced animations and I"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103576084499358051.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103574548784304128/vid/avc1/1280x720/kvYMRBEU-Ps6lh_w.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.2,
+        "width": 960,
+        "height": 540,
+        "bytes": 38241
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "language": "en",
+        "sourceUrl": "https://x.com/leonabboud/status/2103576084499358051",
+        "checkedAt": "2026-09-27T04:57:22.131509+00:00",
+        "translationZh": "制作一支充满动感的 15 秒动态图形视频，展示你作为动态设计师的出色能力，就像用于简历的作品集短片。全力发挥。",
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 642,
+        "likes": 574,
+        "views": 58249,
+        "checkedAt": "2026-09-27T04:57:22.131509+00:00",
+        "sourceUrl": "https://x.com/leonabboud/status/2103576084499358051"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:22.131509+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "Frame Select local collection",
+      "codeUrl": null,
+      "titleEn": "Leon’s 15-second motion design reel"
+    },
+    {
+      "id": "2104044910769016888",
+      "title": "面向零基础的 Git 视频",
+      "category": "知识讲解",
+      "summary": "明确目标观众与常用指令，让模型用中文声音解释 Git。",
+      "author": {
+        "name": "Yunn",
+        "handle": "Yunn260414",
+        "url": "https://x.com/Yunn260414"
+      },
+      "source": {
+        "url": "https://x.com/Yunn260414/status/2104044910769016888",
+        "publishedAt": "Sun Sep 27 03:06:12 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/Yunn260414/status/2104044910769016888",
+        "evidenceQuote": "卧槽！Opus 5.5做视频太牛逼了\n\n<什么是Git？一个视频带你读懂Git>\n\n视频提示"
+      },
+      "media": {
+        "durationSeconds": 408.448,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104044910769016888.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2104044617662652416/vid/avc1/1280x720/HUOmlVULLEEZlpmI.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 294.08,
+        "width": 960,
+        "height": 540,
+        "bytes": 31232
+      },
+      "prompt": {
+        "status": "original",
+        "text": "帮我用js制作一个视频，主题是：什么是Git\n要深入浅出，让一个计算机0基础的人也能看得懂，然后要介绍一些常用指令的意思等等\n要有声音的，然后是中文讲的\n你可以用任何工具或者安装工具，可以联网检索",
+        "language": "zh",
+        "sourceUrl": "https://x.com/Yunn260414/status/2104044910769016888",
+        "checkedAt": "2026-09-27T04:57:52.681788+00:00",
+        "translationZh": null,
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 2,
+        "views": 302,
+        "checkedAt": "2026-09-27T04:57:52.681788+00:00",
+        "sourceUrl": "https://x.com/Yunn260414/status/2104044910769016888"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:52.681788+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "Grok search 2026-09-27",
+      "codeUrl": null,
+      "titleEn": "Git explained for beginners"
+    },
+    {
+      "id": "2103683057689522564",
+      "title": "从直觉到数学解释 Transformer",
+      "category": "知识讲解",
+      "summary": "指定高中生能理解，同时要求注意力机制与数学细节，适合较深入的技术讲解。",
+      "author": {
+        "name": "宝玉",
+        "handle": "dotey",
+        "url": "https://x.com/dotey"
+      },
+      "source": {
+        "url": "https://x.com/dotey/status/2103683057689522564",
+        "publishedAt": "Sat Sep 26 03:08:20 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/dotey/status/2103683057689522564",
+        "evidenceQuote": "Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什"
+      },
+      "media": {
+        "durationSeconds": 732.288,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103683057689522564.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103682805754388480/vid/avc1/1280x720/gGItf5g-pYVNwBql.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 161.1,
+        "width": 960,
+        "height": 540,
+        "bytes": 31778
+      },
+      "prompt": {
+        "status": "original",
+        "text": "帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜",
+        "language": "zh",
+        "sourceUrl": "https://x.com/dotey/status/2103683057689522564",
+        "checkedAt": "2026-09-27T04:57:53.594715+00:00",
+        "translationZh": null,
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 1457,
+        "likes": 1113,
+        "views": 150947,
+        "checkedAt": "2026-09-27T04:57:53.594715+00:00",
+        "sourceUrl": "https://x.com/dotey/status/2103683057689522564"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:53.594715+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "Grok search 2026-09-27",
+      "codeUrl": null,
+      "titleEn": "Transformers: from intuition to mathematics"
+    },
+    {
+      "id": "2104039666093572362",
+      "title": "为 deckuse 做宣传动画",
+      "category": "产品宣传",
+      "summary": "围绕真实开源产品要求动效、音乐和音效，提示词短而明确。",
+      "author": {
+        "name": "Fei",
+        "handle": "feiflow",
+        "url": "https://x.com/feiflow"
+      },
+      "source": {
+        "url": "https://x.com/feiflow/status/2104039666093572362",
+        "publishedAt": "Sun Sep 27 02:45:22 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/feiflow/status/2104039666093572362",
+        "evidenceQuote": "利用 opus 5.5 模型,一句提示词生成了这个宣传视频，在高质量模型助力下秒杀一堆 sk"
+      },
+      "media": {
+        "durationSeconds": 64.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104039666093572362.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104039167982219264/img/eH_xgqdD7sYz1gin.jpg",
+        "kind": "source_video_thumbnail",
+        "timeSeconds": null,
+        "width": 960,
+        "height": 540,
+        "bytes": 62477
+      },
+      "prompt": {
+        "status": "original",
+        "text": "我需要推广 deckuse,帮我制作一个动画视频，包括音效和音乐，用于此产品宣传；你可以使用任何你觉得合适的工具和技术，做出最好最惊艳的效果",
+        "language": "zh",
+        "sourceUrl": "https://x.com/feiflow/status/2104039666093572362",
+        "checkedAt": "2026-09-27T04:57:54.066837+00:00",
+        "translationZh": null,
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 3,
+        "views": 32,
+        "checkedAt": "2026-09-27T04:57:54.066837+00:00",
+        "sourceUrl": "https://x.com/feiflow/status/2104039666093572362"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:54.066837+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "Grok search 2026-09-27",
+      "codeUrl": "https://github.com/deckflow/deckuse",
+      "titleEn": "A promotional animation for deckuse"
+    },
+    {
+      "id": "2103557735086428547",
+      "title": "90 秒动效与原创钢琴",
+      "category": "短动效",
+      "summary": "在作品集提示词中加入声音方向、钢琴配乐和导出规格。",
+      "author": {
+        "name": "klöss",
+        "handle": "kloss_xyz",
+        "url": "https://x.com/kloss_xyz"
+      },
+      "source": {
+        "url": "https://x.com/kloss_xyz/status/2103557735086428547",
+        "publishedAt": "Fri Sep 25 18:50:20 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/kloss_xyz/status/2103557735086428547",
+        "evidenceQuote": "rompted Claude Opus 5.5 to make me a 90-second motion desi"
+      },
+      "media": {
+        "durationSeconds": 90,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103557735086428547.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103557605553840129/img/uicU8-1TW2yOf3SA.jpg",
+        "kind": "source_video_thumbnail",
+        "timeSeconds": null,
+        "width": 960,
+        "height": 540,
+        "bytes": 40326
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a dynamic 16:9 aspect ratio 90-second motion graphics video that shows exactly what an incredible motion designer you are and your true creative limits, like it's your showreel for a résumé. use s tier sound design, no synth. go all out. compose your own original and viral piano score. export it as a 1080p mp4 for social media.",
+        "language": "en",
+        "sourceUrl": "https://x.com/kloss_xyz/status/2103560107921723834",
+        "checkedAt": "2026-09-27T04:57:54.506678+00:00",
+        "translationZh": "制作一支 16:9、90 秒的动态图形视频，展示你作为动态设计师的实力与创意极限，就像用于简历的作品集。使用顶级声音设计，不要合成器音色。全力发挥，创作原创且易传播的钢琴配乐。导出适合社交媒体的 1080p MP4。",
+        "noteZh": null
+      },
+      "metrics": {
+        "bookmarks": 70,
+        "likes": 105,
+        "views": 43093,
+        "checkedAt": "2026-09-27T04:57:13.260071+00:00",
+        "sourceUrl": "https://x.com/kloss_xyz/status/2103557735086428547"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:13.260071+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/kloss_xyz/status/2103557735086428547",
+        "checkedAt": "2026-09-27T08:50:07.402409+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 90.047007,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "90 seconds of motion design and original piano"
+    },
+    {
+      "id": "2103483957266268381",
+      "title": "MakerMap 的连续产品旅程",
+      "category": "产品宣传",
+      "summary": "将注册、地图、匹配和活动串成一个连续变化的界面，用真实产品数据讲故事。",
+      "author": {
+        "name": "Martijn Verbove",
+        "handle": "verbove",
+        "url": "https://x.com/verbove"
+      },
+      "source": {
+        "url": "https://x.com/verbove/status/2103483957266268381",
+        "publishedAt": "Fri Sep 25 13:57:10 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/verbove/status/2103483957266268381",
+        "evidenceQuote": "Opus 5.5 is absolutely cracked at motion de"
+      },
+      "media": {
+        "durationSeconds": 20,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103483957266268381.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103483857836134400/vid/avc1/720x720/IfW_WmhReiEg5OPw.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4.4,
+        "width": 640,
+        "height": 640,
+        "bytes": 16731
+      },
+      "prompt": {
+        "status": "original",
+        "text": "<inputs> \nAsk me for: \n• my product + URL \n• 8–12 UI states that tell its story \n• the real data shown in each state \n• brand colors + fonts + accent color \n• required formats (1:1, 16:9, 9:16) \n</inputs>\n\n<rules> \nOne HTML file. One canvas\nOne draw(t) function\n\nNo CSS transitions\nNo timers\nNo state carried between frames\n\nOne shape, never cut\n\nEvery state is the same element changing size, radius and color while the content swaps\n\nA cursor drives the sequence with real clicks, typing and one drag\n\nReal UI. Real data. No placeholders.\n\n</rules>\n<structure> \n120 BPM grid\n\nSomething happens on every bea\n\nlogo → button → handle field → “is this you?” → loader → pin → globe filling with users → matches → tabs → RSVP → search → logo\n\n</structure>\n\n<motion> \nClosed-form springs everywhere with only a tiny overshoot.\n\nIf a value changes target multiple times, sum one spring per change\n\nContent enters after its container starts morphing and leaves before the next morph so text never overlaps\n\nUse a short blur on transitions\n\nNever fade black directly into the accent color. Move an accent element between states instead\n\nMake tab indicators stretch by putting each edge on a different spring\n\nZoom the camera so every state fills the frame\n\nMake the last frame equal the first so the whole thing loops\n</motion>\n\n<export> \nFirst render one frame per beat as a contact sheet\n\nFix anything cramped or broken\n\nThen render every frame in headless Chrome at 60fps, averaging 6 subframes for motion blur\n\nPipe into ffmpeg:\nH.264 + yuv420p\n\nExport all aspect ratios in parallel\n</export>",
+        "language": "en",
+        "sourceUrl": "https://x.com/verbove/status/2103483957266268381",
+        "checkedAt": "2026-09-27T04:59:25.095860+00:00",
+        "translationZh": null,
+        "noteZh": "这是作者公开的可复用模板结构，另外提到曾提供参考动效。需要填写产品、URL、真实数据与品牌信息。"
+      },
+      "metrics": {
+        "bookmarks": 334,
+        "likes": 208,
+        "views": 15435,
+        "checkedAt": "2026-09-27T04:59:25.095860+00:00",
+        "sourceUrl": "https://x.com/verbove/status/2103483957266268381"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:59:25.095860+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://youmind.com/zh-CN/video-prompts/kinetic-product-promo-motion-design-11358",
+      "codeUrl": null,
+      "titleEn": "MakerMap: a continuous product journey"
+    },
+    {
+      "id": "2103761658745335993",
+      "title": "30 秒产品动效简报",
+      "category": "产品宣传",
+      "summary": "用一个简短要求统筹脚本、颜色和音乐，适合尝试自己的产品介绍。",
+      "author": {
+        "name": "Kiran",
+        "handle": "sudo_kiran",
+        "url": "https://x.com/sudo_kiran"
+      },
+      "source": {
+        "url": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "publishedAt": "Sat Sep 26 08:20:40 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "evidenceQuote": "mo with Claude Opus 5.5.\nThe level of output is honestly i"
+      },
+      "media": {
+        "durationSeconds": 30.058,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103761658745335993.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103761048969043968/vid/avc1/1280x720/-kGgygtVAq_JXb73.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 14.43,
+        "width": 960,
+        "height": 540,
+        "bytes": 64164
+      },
+      "prompt": {
+        "status": "original",
+        "text": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)",
+        "language": "en",
+        "sourceUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "checkedAt": "2026-09-27T04:59:25.344317+00:00",
+        "translationZh": "为（你的产品）制作出色的动态图形讲解，使用好的脚本、设计配色和音乐。让视频精彩、有趣，让人想反复观看；时长为 30 秒。（产品链接）",
+        "noteZh": "中文为本站译文，合并了原文反复强调的形容词；英文原文完整保留。"
+      },
+      "metrics": {
+        "bookmarks": 11,
+        "likes": 12,
+        "views": 2084,
+        "checkedAt": "2026-09-27T04:59:25.344317+00:00",
+        "sourceUrl": "https://x.com/sudo_kiran/status/2103761658745335993"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:59:25.344317+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://youmind.com/zh-CN/video-prompts/product-demo-motion-explainer-11368",
+      "codeUrl": null,
+      "titleEn": "A 30-second product motion brief"
+    },
+    {
+      "id": "2103757767727255661",
+      "title": "雨夜站台的 30 秒重逢",
+      "category": "叙事短片",
+      "summary": "按镜头时间写清动作、视线与声音，适合观察故事短片的详细任务单。",
+      "author": {
+        "name": "Feicai",
+        "handle": "zhu185178",
+        "url": "https://x.com/zhu185178"
+      },
+      "source": {
+        "url": "https://x.com/zhu185178/status/2103757767727255661",
+        "publishedAt": "Sat Sep 26 08:05:12 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/zhu185178/status/2103757767727255661",
+        "evidenceQuote": "都说 OPUS 5.5 终结了 AI 视频生成这个赛道，我觉得这是夸张的。\n\n比如像 See"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103757767727255661.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103755840109031424/vid/avc1/1280x720/RrqATeoQ1ggmW5ea.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 21.6,
+        "width": 960,
+        "height": 540,
+        "bytes": 82769
+      },
+      "prompt": {
+        "status": "original",
+        "text": "帮我做一条 30 秒的 2D 动画分镜预演短片《雨站》，要标杆级画质。不装 HyperFrames/Remotion，全部自己写代码（Python + ffmpeg）完成。\n\n故事（24fps，2.39:1，4K）：雨夜高架站台。她穿米色风衣、撑透明伞，站在近侧站台；对面路灯下站着他，穿深灰长大衣、围围巾。\n1. 0–6.4s 透明伞雨珠特写 → 后拉，焦点移到对面露出他（过肩镜头）\n2. 6.4–9.4s 他的中近景：低头 → 抬头看向画左\n3. 9.4–12.4s 她的正面近景：眨眼 → 认出他；远处传来鸣笛\n4. 12.4–17s 远景：车头灯光先到，5 节列车驶过；第一个车厢缝隙里他还在，第二个已经空了\n5. 17–18.8s 她含泪的近景，车窗光带扫过她的脸，头发被风吹起\n6. 18.8–22.4s 尾灯远去，对面站台空了；他那盏灯闪几下后熄灭\n7. 22.4–28.6s 她的背影，焦点从空站台拉回她；身后脚步声，一把黑伞遮到她头顶，她回头看向镜头；男声“好久不见。”，配字幕\n8. 28.6–30s 黑场片名“雨站 / RAIN STATION”\n\n做法：\n- 原画：用GPT Image 2.5 画远景、他、她、列车（头车/中车/尾车）。人物一律用纯绿 #00FF00 背景，自己抠像（带参考图要透明背景会得到假棋盘格）。同一角色的各个姿态放在同一个会话里，以基准图为参考连续编辑；换姿态时只合成变化的区域。\n- 画质：用 Real-ESRGAN x4plus anime 6B（HF 上的 safetensors 版，自己写 RRDBNet，跑在 MPS 上）把全部原画放大 4 倍；用 Depth Anything V2 估算远景深度，做逐像素视差。\n- 渲染：自己写 2.5D 合成器。各层按真实深度摆放，针孔相机按真实焦距运动；做圆形焦外光斑、焦点转移、3D 雨丝、列车运动模糊、体积光、泛光和胶片光晕、细颗粒、调色。人物用网格变形做呼吸、风吹发梢、伞抖，关键姿态按日式“一拍二”切换。4K 超采样，逐帧缓存到磁盘，分 3 个进程按时间段并行（16GB 内存）。\n- 声音：Mixkit 真实音效（雨、伞面雨声、列车、鸣笛、脚步）；按剧情节点写谱，用 Logic/GarageBand 自带的施坦威钢琴和弦乐采样渲染；台词用 Kokoro 中文男声；按镜头做声音远近，响度 -16 LUFS。\n- 每一步都渲染预览帧、拼成图自检，修好再出片。交付 4K 母版和 1080p 分享版。",
+        "language": "zh",
+        "sourceUrl": "https://x.com/zhu185178/status/2103757767727255661",
+        "checkedAt": "2026-09-27T04:59:25.539274+00:00",
+        "translationZh": null,
+        "noteZh": "混合制作：原文包含 GPT Image 2.5 原画、超分、深度估计、配音与代码合成，不是纯代码生成所有素材。"
+      },
+      "metrics": {
+        "bookmarks": 100,
+        "likes": 51,
+        "views": 7802,
+        "checkedAt": "2026-09-27T04:59:25.539274+00:00",
+        "sourceUrl": "https://x.com/zhu185178/status/2103757767727255661"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:59:25.539274+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://youmind.com/zh-CN/video-prompts/rain-station-animated-short-11378",
+      "codeUrl": null,
+      "titleEn": "RainStation: a mixed image-and-code workflow"
+    },
+    {
+      "id": "2103742861971726495",
+      "title": "同一动效任务的无品牌与品牌版",
+      "category": "短动效",
+      "summary": "作者同时展示两条视频，可对照品牌素材对成片的影响。",
+      "author": {
+        "name": "Lukáš Eršil",
+        "handle": "lukasersil",
+        "url": "https://x.com/lukasersil"
+      },
+      "source": {
+        "url": "https://x.com/lukasersil/status/2103742861971726495",
+        "publishedAt": "Sat Sep 26 07:05:58 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/lukasersil/status/2103742861971726495",
+        "evidenceQuote": "ód vytvořený v Opus 5.5 (max effort)! 😍\n\nPrompt: \n\"Create"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 2
+      },
+      "cover": {
+        "path": "assets/covers/2103742861971726495.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103741580578295808/vid/avc1/1280x720/jCU8pHeci4wg_LGR.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7.2,
+        "width": 960,
+        "height": 540,
+        "bytes": 23369
+      },
+      "prompt": {
+        "status": "original",
+        "text": "Create a bold, dynamic 15-second motion graphics showreel that feels like the ultimate portfolio piece of an exceptionally talented motion designer. Showcase a wide range of advanced techniques: kinetic typography, smooth transitions, 2D and 3D animation, abstract geometry, fluid simulations, particles, distortion, creative masking, compositing, lighting, depth, and seamless camera movement. Keep the pacing fast, confident, and visually surprising, with every shot transitioning naturally into the next. Make it feel meticulously art-directed rather than like a random collection of effects. Push the creativity, polish, timing, and visual impact as far as possible. This should feel like the opening reel that gets a motion designer hired.",
+        "language": "en",
+        "sourceUrl": "https://x.com/lukasersil/status/2103742861971726495",
+        "checkedAt": "2026-09-27T04:59:26.074931+00:00",
+        "translationZh": null,
+        "noteZh": "原帖有两条视频：第一条无作者品牌，第二条使用其品牌素材包。封面对应第一条。"
+      },
+      "metrics": {
+        "bookmarks": 98,
+        "likes": 68,
+        "views": 7400,
+        "checkedAt": "2026-09-27T04:59:26.074931+00:00",
+        "sourceUrl": "https://x.com/lukasersil/status/2103742861971726495"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:59:26.074931+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://youmind.com/zh-CN/video-prompts/advanced-motion-showreel-prompt-11373",
+      "codeUrl": null,
+      "titleEn": "Unbranded and branded motion design variants"
+    },
+    {
+      "id": "2102450239923720440",
+      "title": "史前岛屿的水上与水下",
+      "category": "3D 与交互",
+      "summary": "构建带水下剖面、动物和交互操作的岛屿，适合参考完整场景的任务规格。",
+      "author": {
+        "name": "Vib3Coded",
+        "handle": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source": {
+        "url": "https://x.com/vib3coded/status/2102450239923720440",
+        "publishedAt": "Tue Sep 22 17:29:33 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/vib3coded/status/2102450239923720440",
+        "evidenceQuote": "tested Claude Opus 5.5, and I’m surprised🤯\n\nOpus 5 on the"
+      },
+      "media": {
+        "durationSeconds": 19.766,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102450239923720440.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102450190217101312/img/0Vf9bvr1Gcw_1MJO.jpg",
+        "kind": "source_video_thumbnail",
+        "timeSeconds": null,
+        "width": 960,
+        "height": 360,
+        "bytes": 38891
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "language": "en",
+        "sourceUrl": "https://x.com/vib3coded/status/2102450842070569099",
+        "checkedAt": "2026-09-27T04:57:20.496973+00:00",
+        "noteZh": "原帖是模型对比：左侧 Opus 5，右侧 Opus 5.5。本条记录的是右侧的 Opus 5.5 场景；这是交互场景演示录像。",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 77,
+        "likes": 204,
+        "views": 100832,
+        "checkedAt": "2026-09-27T04:57:20.389404+00:00",
+        "sourceUrl": "https://x.com/vib3coded/status/2102450239923720440"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:20.389404+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/9c7562a1-3943-4dbd-8396-e19155d7ed23",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/vib3coded/status/2102450239923720440",
+        "checkedAt": "2026-09-27T08:50:07.402591+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 19.797333,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A prehistoric island: Opus 5 vs. Opus 5.5"
+    },
+    {
+      "id": "2103746671591256286",
+      "title": "用真实网页素材介绍分析产品",
+      "category": "产品宣传",
+      "summary": "明确要求抓取产品素材或截图，再由代码生成动画并配乐。",
+      "author": {
+        "name": "Ziga Potocnik",
+        "handle": "zigapoto",
+        "url": "https://x.com/zigapoto"
+      },
+      "source": {
+        "url": "https://x.com/zigapoto/status/2103746671591256286",
+        "publishedAt": "Sat Sep 26 07:21:06 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/zigapoto/status/2103746671591256286",
+        "evidenceQuote": "empty folder. Opus 5.5 wrote its own animation code, scre"
+      },
+      "media": {
+        "durationSeconds": 60,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103746671591256286.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103746447338344448/vid/avc1/1280x720/Ea9fgCvRHLcRLywc.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 28.8,
+        "width": 960,
+        "height": 540,
+        "bytes": 37111
+      },
+      "prompt": {
+        "status": "original",
+        "text": "make a modern slick and punchy video for a startup that works on agentic analytics, just javascript, playwright and ffmpeg, code the animation and take a video of it, download assets from the site or use playwright for screenshots, include music aligned with the video.",
+        "language": "en",
+        "sourceUrl": "https://x.com/zigapoto/status/2103746698660942208",
+        "checkedAt": "2026-09-27T04:59:25.780628+00:00",
+        "translationZh": "为一家做智能体分析的创业公司制作现代、精致、节奏鲜明的视频。只使用 JavaScript、Playwright 和 FFmpeg，编写动画并录成视频。从网站下载素材，或用 Playwright 截图；加入与视频配合的音乐。",
+        "noteZh": "需要提供自己的产品网站；作者原帖说明之后做过一次纠正。"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 3,
+        "views": 110,
+        "checkedAt": "2026-09-27T05:00:19.299972+00:00",
+        "sourceUrl": "https://x.com/zigapoto/status/2103746671591256286"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T05:00:19.299972+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://youmind.com/zh-CN/video-prompts/agentic-analytics-video-prompt-11387",
+      "codeUrl": null,
+      "titleEn": "An analytics product made from real web assets"
+    },
+    {
+      "id": "2103741636635496583",
+      "title": "让歌词成为竖屏视频主角",
+      "category": "音乐与歌词",
+      "summary": "先定演出方案，再按歌词时间调整文字表现，适合已有歌曲的歌词视频。",
+      "author": {
+        "name": "kurahu@AIart",
+        "handle": "kurahu_capten",
+        "url": "https://x.com/kurahu_capten"
+      },
+      "source": {
+        "url": "https://x.com/kurahu_capten/status/2103741636635496583",
+        "publishedAt": "Sat Sep 26 07:01:06 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/kurahu_capten/status/2103741636635496583",
+        "evidenceQuote": "Opus 5.5が凄いという事で早速さわってみました。\n今回この動画は他の動画Webサ"
+      },
+      "media": {
+        "durationSeconds": 47.6,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103741636635496583.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103732984562208768/vid/avc1/720x1280/lX8T3zXiLdqSr2BJ.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 22.85,
+        "width": 360,
+        "height": 640,
+        "bytes": 14633
+      },
+      "prompt": {
+        "status": "original",
+        "text": "曲と歌詞で、歌詞を主役にした縦長のリリックビデオを作って。歌詞は歌にぴったり合わせて、エヴァのタイトルカード風で。作る前に演出の案を見せて",
+        "language": "ja",
+        "sourceUrl": "https://x.com/kurahu_capten/status/2103742110747054506",
+        "checkedAt": "2026-09-27T04:59:26.060795+00:00",
+        "translationZh": "用歌曲和歌词制作一支以歌词为主角的竖屏歌词视频。让歌词与演唱准确同步，采用 EVA 标题卡风格。制作前先向我展示演出方案。",
+        "noteZh": "作者先准备歌曲和歌词；原片音乐使用 Suno 制作，后续还进行了逐段修改。"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 25,
+        "views": 1218,
+        "checkedAt": "2026-09-27T05:00:19.772334+00:00",
+        "sourceUrl": "https://x.com/kurahu_capten/status/2103741636635496583"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T05:00:19.772334+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://youmind.com/zh-CN/video-prompts/evangelion-style-lyric-video-11398",
+      "codeUrl": null,
+      "titleEn": "An animated lyric video"
+    },
+    {
+      "id": "2102591147927654847",
+      "title": "用镜头实验室解释对焦",
+      "category": "知识讲解",
+      "summary": "交互场景展示焦点和镜片关系，可参考需要观众操作的教学方式。",
+      "author": {
+        "name": "Ryan Sael",
+        "handle": "RyanSael",
+        "url": "https://x.com/RyanSael"
+      },
+      "source": {
+        "url": "https://x.com/RyanSael/status/2102591147927654847",
+        "publishedAt": "Wed Sep 23 02:49:28 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/RyanSael/status/2102591147927654847",
+        "evidenceQuote": "I asked Opus 5.5 to explain camera focus by buildin"
+      },
+      "media": {
+        "durationSeconds": 32,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102591147927654847.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/1280x720/5X-1BAr0mSoZZrj5.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 16,
+        "width": 960,
+        "height": 540,
+        "bytes": 60510
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "I asked Opus 5.5 to explain camera focus by building an interactive lens lab",
+        "language": "en",
+        "sourceUrl": "https://x.com/RyanSael/status/2102591147927654847",
+        "checkedAt": "2026-09-27T04:57:13.273262+00:00",
+        "translationZh": "我让 Opus 5.5 通过构建一个交互式镜头实验室来解释相机对焦。",
+        "noteZh": "作者任务描述，不是完整提示词；作品为交互演示录像。"
+      },
+      "metrics": {
+        "bookmarks": 9188,
+        "likes": 15107,
+        "views": 2945570,
+        "checkedAt": "2026-09-27T04:57:13.273262+00:00",
+        "sourceUrl": "https://x.com/RyanSael/status/2102591147927654847"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:13.273262+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/442ad7c1-0abc-4d15-964e-b558b8c82107",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/RyanSael/status/2102591147927654847",
+        "checkedAt": "2026-09-27T08:50:07.402417+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 32,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "An interactive camera lens lab"
+    },
+    {
+      "id": "2102495989194236158",
+      "title": "用画笔讲述模型的一生",
+      "category": "叙事短片",
+      "summary": "从模型自身经历出发组织动画，适合参考开放式故事命题。",
+      "author": {
+        "name": "✯",
+        "handle": "shfred0",
+        "url": "https://x.com/shfred0"
+      },
+      "source": {
+        "url": "https://x.com/shfred0/status/2102495989194236158",
+        "publishedAt": "Tue Sep 22 20:31:20 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/shfred0/status/2102495989194236158",
+        "evidenceQuote": "Asked Claude Opus 5.5 to animate its own life, from day"
+      },
+      "media": {
+        "durationSeconds": 30.171,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102495989194236158.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102495951738822657/vid/avc1/1290x720/LZGrA0EBib7ps38J.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6,
+        "width": 960,
+        "height": 536,
+        "bytes": 81977
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "Asked Claude Opus 5.5 to animate its own life, from day 0 to now",
+        "language": "en",
+        "sourceUrl": "https://x.com/shfred0/status/2102495989194236158",
+        "checkedAt": "2026-09-27T04:57:16.398747+00:00",
+        "translationZh": "让 Claude Opus 5.5 把自己从诞生到现在的一生做成动画。",
+        "noteZh": "作者公开的是任务转述，未核实完整原始提示词。"
+      },
+      "metrics": {
+        "bookmarks": 1732,
+        "likes": 4174,
+        "views": 364783,
+        "checkedAt": "2026-09-27T04:57:16.398747+00:00",
+        "sourceUrl": "https://x.com/shfred0/status/2102495989194236158"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:16.398747+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/542174cd-2388-4aff-8e4a-06a525083c6b",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/shfred0/status/2102495989194236158",
+        "checkedAt": "2026-09-27T08:50:07.402505+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 30.171667,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "Claude animates its own life"
+    },
+    {
+      "id": "2102573127192727704",
+      "title": "把旅行照片画成丙烯动画",
+      "category": "叙事短片",
+      "summary": "将个人照片作为输入，探索代码绘制的旅行记忆。",
+      "author": {
+        "name": "Ann Nguyen",
+        "handle": "ann_nnng",
+        "url": "https://x.com/ann_nnng"
+      },
+      "source": {
+        "url": "https://x.com/ann_nnng/status/2102573127192727704",
+        "publishedAt": "Wed Sep 23 01:37:52 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/ann_nnng/status/2102573127192727704",
+        "evidenceQuote": "asked Claude opus 5.5 to draw my new zealand trip pics i"
+      },
+      "media": {
+        "durationSeconds": 21.666,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102573127192727704.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102573043285737472/img/S9Ws9J_V1ZLP5qLl.jpg",
+        "kind": "source_video_thumbnail",
+        "timeSeconds": null,
+        "width": 960,
+        "height": 611,
+        "bytes": 41017
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "asked Claude opus 5.5 to draw my new zealand trip pics in acrylic style",
+        "language": "en",
+        "sourceUrl": "https://x.com/ann_nnng/status/2102573127192727704",
+        "checkedAt": "2026-09-27T04:57:18.383163+00:00",
+        "translationZh": "让 Claude Opus 5.5 用丙烯画风格描绘我的新西兰旅行照片。",
+        "noteZh": "作者任务转述，且依赖其旅行照片；未公开完整原始提示词。"
+      },
+      "metrics": {
+        "bookmarks": 1250,
+        "likes": 1842,
+        "views": 119170,
+        "checkedAt": "2026-09-27T04:57:18.383163+00:00",
+        "sourceUrl": "https://x.com/ann_nnng/status/2102573127192727704"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:18.383163+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/6d5bca54-2fc9-48ec-9439-1508be654c08",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/ann_nnng/status/2102573127192727704",
+        "checkedAt": "2026-09-27T08:50:07.402547+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 21.6,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "New Zealand through acrylic brushstrokes"
+    },
+    {
+      "id": "2103304514329854102",
+      "title": "面向普通人的超级智能纪录片",
+      "category": "知识讲解",
+      "summary": "通过外部视频工具组织纪录片内容，可参考通俗解释的受众设定。",
+      "author": {
+        "name": "Gavin Purcell",
+        "handle": "gavinpurcell",
+        "url": "https://x.com/gavinpurcell"
+      },
+      "source": {
+        "url": "https://x.com/gavinpurcell/status/2103304514329854102",
+        "publishedAt": "Fri Sep 25 02:04:08 +0000 2026"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "basis": "作者公开说明，未独立复现",
+        "evidenceUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
+        "evidenceQuote": "tting how good opus 5.5\n\ni gave my claude agent fig access"
+      },
+      "media": {
+        "durationSeconds": 315.373,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2103304514329854102.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103304202617520128/vid/avc1/854x480/XAtyYiDr1QYeUZPu.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 210,
+        "width": 960,
+        "height": 540,
+        "bytes": 53256
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "high-end netflix style documentary about superintelligence for normies",
+        "language": "en",
+        "sourceUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
+        "checkedAt": "2026-09-27T04:57:19.627529+00:00",
+        "translationZh": "一部面向普通观众、讲解超级智能的高端 Netflix 风格纪录片。",
+        "noteZh": "作者只引用了任务短语，完整上下文未公开；流程接入 Runway MCP。"
+      },
+      "metrics": {
+        "bookmarks": 3120,
+        "likes": 3476,
+        "views": 267252,
+        "checkedAt": "2026-09-27T04:57:19.627529+00:00",
+        "sourceUrl": "https://x.com/gavinpurcell/status/2103304514329854102"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-27T04:57:19.627529+00:00",
+        "videoAttachmentConfirmed": true,
+        "promptMatchedSource": true,
+        "independentlyReproduced": false
+      },
+      "discoveredVia": "https://github.com/opusvideo/awesome-claude-video",
+      "codeUrl": null,
+      "playback": {
+        "kind": "external_github_attachment",
+        "url": "https://github.com/user-attachments/assets/aa4ac9cb-8868-4c98-806e-679a78b05167",
+        "providerRepository": "https://github.com/opusvideo/awesome-claude-video",
+        "providerPage": "https://github.com/opusvideo/awesome-claude-video/blob/d90b8a46f122614b14885147246c710ae1c7781f/README.md",
+        "sourcePostUrl": "https://x.com/gavinpurcell/status/2103304514329854102",
+        "checkedAt": "2026-09-27T08:50:07.402571+00:00",
+        "contentType": "video/mp4",
+        "durationSeconds": 315.434,
+        "verificationLevel": "匿名 GitHub 页面播放器已加载视频帧；原帖 ID 与时长匹配",
+        "reuploadPermission": "not_verified"
+      },
+      "titleEn": "A documentary about superintelligence"
+    }
+  ]
+}

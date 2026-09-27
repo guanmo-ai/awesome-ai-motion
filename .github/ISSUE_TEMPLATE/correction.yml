@@ -1,0 +1,28 @@
+name: 纠错、失效链接或移除 / Correction or removal
+description: 更正作者、提示词、媒体来源，或请求移除作品。
+title: '[反馈] '
+body:
+  - type: input
+    id: case
+    attributes:
+      label: 案例链接或作品 ID / Case URL or ID
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型 / Type
+      options:
+        - 作者或提示词有误
+        - 视频或原帖无法打开
+        - 请求移除内容
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 说明与公开依据 / Details and public evidence
+      description: 请描述问题和期望更正；不要提交私人联系方式、身份证件或密钥。
+    validations:
+      required: true

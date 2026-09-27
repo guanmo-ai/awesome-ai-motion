@@ -1,0 +1,37 @@
+name: 投稿作品 / Submit a case
+description: 分享真实作品与作者公开提示词，一句话也可以。
+title: '[投稿] '
+body:
+  - type: input
+    id: original
+    attributes:
+      label: 作品原帖 / Original post
+      description: 请提供作者原帖链接，尽量避免二次转载。
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: 模型依据 / Model evidence
+      description: 作者在哪里明确说使用了 Claude Opus？请给链接。
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: 提示词及出处 / Prompt and source
+      description: 保留原文并给出作者公开提示词的链接；未公开请写明。
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 必要素材与播放来源 / Assets and playback
+      description: 是否需要参考图、音频、项目文件？如提供视频附件，请说明来源和许可依据。
+  - type: checkboxes
+    id: attribution
+    attributes:
+      label: 来源确认
+      options:
+        - label: 我没有把推测、反推或 AI 补写内容当成作者原始提示词。
+          required: true
