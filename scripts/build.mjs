@@ -1,5 +1,5 @@
 import fs from 'node:fs';
-import {isFeatured,FEATURED,reviewRank,reviewLabels,validReview} from '../assets/gallery-model.mjs';
+import {recommendedCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview} from '../assets/gallery-model.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 
@@ -71,9 +71,7 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
   out+=`**[${md(c.author.name)} · @${md(c.author.handle)}](${c.author.url})** · ${category(c,en)} · ${duration(c)}\n\n`;
   if(isDiscovery(c))out+=`> ${choose(en,'发现池 · 已核对作者原帖与媒体来源，尚未完整审看。','Discovery pool · Creator post and media source verified; full viewing review pending.')}\n\n`;
   if(reviewLabels(c,en?'en':'zh').length)out+=`**${choose(en,'策展评价','Curator’s review')}：${reviewLabels(c,en?'en':'zh').join(' · ')}**\n\n`;
-  const links=[`[${choose(en,'作者原帖','Original post')}](${c.source.url})`,...relatedLinks(c,en)];
-  if(c.webPlayback)out+=`**[▶ ${choose(en,'观看原视频','Watch video')}](${c.webPlayback.url})**\n\n${cover(c,prefix,640,c.webPlayback.url)}\n\n${links.join(' · ')}\n\n`;
-  else out+=`${cover(c,prefix)}\n\n[▶ ${choose(en,'到作者原帖观看','Watch the original video')}](${c.source.url})${relatedLinks(c,en).map(link=>` · ${link}`).join('')}\n\n`;
+  out+=`**[▶ ${choose(en,'在 X 原帖观看','Watch on X')}](${c.source.url})**\n\n${cover(c,prefix,640,c.source.url)}\n\n${relatedLinks(c,en).join(' · ')}\n\n`;
   out+=`${md(en?c.summaryEn:c.summary)}\n\n`;
   const note=en?c.prompt.noteEn:c.prompt.noteZh;
   if(note)out+=`> ${choose(en,'使用前','Before you try')}: ${md(note)}\n\n`;
@@ -82,13 +80,14 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
   if(!detail)out+=`[${choose(en,'案例详情与来源','Case details & sources')}](${prefix}cases/${c.id}${en?'.en':''}.md)`;
   return out+'\n';
 }
-function renderCards(cases,en,prefix='') {
+function renderCards(cases,en,prefix='',columns=2) {
+  if(!cases.length)return choose(en,'此处暂无推荐，仍可进入分类浏览全部作品。','No recommendations here yet. Browse the category to see all works.');
   let out='<table>\n';
-  for(let i=0;i<cases.length;i+=2) {
+  for(let i=0;i<cases.length;i+=columns) {
     out+='<tr>\n';
-    for(const c of cases.slice(i,i+2)) {
+    for(const c of cases.slice(i,i+columns)) {
       const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
-      out+=`<td width="50%" valign="top"><a href="${detail}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong></a><br><sub>${html(category(c,en))} · ${duration(c)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${detail}">${choose(en,'▶ 查看视频与详情','▶ View video & details')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
+      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${detail}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong></a><br><sub>${html(category(c,en))} · ${duration(c)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${detail}">${choose(en,'▶ 查看视频与详情','▶ View video & details')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
     }
     out+='</tr>\n';
   }
@@ -108,25 +107,28 @@ function renderReadme(cases,en) {
   const selected=cases.filter(c=>isFeatured(c) && !c.review?.later).sort((a,b)=>reviewRank(b)-reviewRank(a) || (FEATURED.includes(a.id)?FEATURED.indexOf(a.id):FEATURED.length)-(FEATURED.includes(b.id)?FEATURED.indexOf(b.id):FEATURED.length) || compareCases(a,b)).slice(0,6);
   let out=`# Awesome AI Motion\n\n`+
     `**${choose(en,'发现喜欢的 AI 视频与动画。','Find AI videos and animations you love.')}**\n\n`+
-    `${choose(en,'按分类挑作品，点击封面观看，再查看作者公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。','Browse by category, open a cover to watch, then explore the creator’s public prompt. Explore Claude code animation and creator-documented AI workflows.')}\n\n`+
-    `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
-    `${cases.length} ${choose(en,'条作品记录','work records')} = ${catalogued} ${choose(en,'已编目','catalogued')} + ${discoveries.length} ${choose(en,'发现池待审看','discovery records awaiting review')} · ${originals.length} ${choose(en,'份公开提示词','public prompts')} · ${playable} ${choose(en,'个画廊视频来源','gallery video sources')}\n\n`+
-    `<a id="browse"></a>\n\n## ${choose(en,'找你想看的','Browse categories')}\n\n`+
-    `| ${choose(en,'分类','Category')} | ${choose(en,'作品','Works')} |\n| --- | ---: |\n`;
+    `${choose(en,'按分类看封面，在详情打开作者 X 原帖观看，并查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。','Browse covers by category, watch on the creator’s X post through the details, then explore public prompts. Explore Claude code animation and creator-documented AI workflows.')}\n\n`+
+    `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'本地画廊','Local gallery')}](#local-gallery) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
+    `${cases.length} ${choose(en,'条作品记录','work records')} = ${catalogued} ${choose(en,'已编目','catalogued')} + ${discoveries.length ? `[${discoveries.length} ${choose(en,'发现池待审看','discovery records awaiting review')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池待审看','0 discovery records awaiting review')} · ${originals.length} ${choose(en,'份公开提示词','public prompts')} · ${playable} ${choose(en,'个画廊视频来源','gallery video sources')}\n\n`+
+    `<a id="browse"></a>\n\n`+
+    CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
+    `<a id="featured"></a>\n\n## ${choose(en,'先看这几支','Start watching')}\n\n`+
+    renderCards(selected,en,'',3)+`\n\n`;
   for(const [zh,english,slug] of CATEGORIES) {
-    const count=cases.filter(c=>c.category===zh).length;
-    if(count)out+=`| [${en?english:displayZh(zh)}](browse/${slug}${en?'.en':''}.md) | ${count} |\n`;
+    const group=cases.filter(c=>c.category===zh);if(!group.length)continue;
+    out+=`<a id="category-${slug}"></a>\n\n## ${en?english:displayZh(zh)}\n\n`+
+      renderCards(recommendedCases(cases,zh),en,'',3)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
   }
-  if(discoveries.length)out+=`\n[${choose(en,'浏览发现池与覆盖记录','Browse the discovery pool and coverage')}](browse/discoveries${en?'.en':''}.md) · [${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md)\n\n${choose(en,'发现池已核对作者原帖及视频媒体，但尚未完整审看；已编目也不等于全部完成音画质量审核。精选为独立人工选择。','Discovery records have verified creator posts and video sources, but full viewing review is pending. Catalogued does not imply a completed audiovisual quality review. Featured selections are editorial choices.')}\n`;
-  out+=`\n<a id="featured"></a>\n\n## ${choose(en,'精选作品','Featured works')}\n\n`+
-    renderCards(selected,en)+`\n\n${choose(en,'点击封面进入作品页观看；没有页内播放器的作品提供原视频直达链接。','Open a cover for the work page. Works without an inline player offer a direct video link.')}\n\n`+
+  out+=`${choose(en,'分类推荐优先已有精选与已编目作品，作为浏览起点；待审看标记不代表完整质量审核。','Category recommendations prioritize curated and catalogued works as browsing entry points, not a completed quality review.')}\n\n`+
+    `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'项目验收标准','Project acceptance criteria')}](docs/QUALITY.md)\n\n`+
+    `${choose(en,'点击封面查看详情，再到作者 X 原帖观看。GitHub 页面不直接播放外部 MP4；在本机画廊可页内播放。','Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the local gallery provides an inline player.')}\n\n`+
     `<details>\n<summary>${choose(en,'关于作品、提示词与来源','About the works, prompts and sources')}</summary>\n\n`+
     `${choose(en,'作者原帖、完整公开指令、译文与所需素材均保留在作品详情。仅有任务转述的作品会单独标注，仍列在对应分类。公开提示词不保证相同结果，作品尚未逐条独立复现。','Work pages retain original posts, public prompts, translations and required assets. Author briefs are labeled and remain in their relevant categories. Public prompts do not guarantee identical results; works have not been independently reproduced.')}\n\n`+
-    `${choose(en,'视频直接引用作者 X 原帖媒体，可能失效；届时可打开作者原帖。参考仓库仅用于发现作品，来源链接不代表转载许可。','Videos reference media from creators’ original X posts and may become unavailable; use the original post as a fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
+    `${choose(en,'GitHub 观看入口指向作者 X 原帖；本地播放器引用原帖媒体，失效时提供原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。','GitHub watch links open creator posts on X. The local player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
     `[${choose(en,'来源与排序','Sources and ordering')}](docs/SOURCES.md) · [${choose(en,'第三方内容说明','Third-party content')}](THIRD_PARTY.md)\n\n</details>\n\n`+
-    `<details>\n<summary>${choose(en,'在本机打开可筛选画廊','Run the filterable gallery locally')}</summary>\n\n`+
+    `<a id="local-gallery"></a>\n\n## ${choose(en,'在本机打开可筛选画廊','Run the filterable gallery locally')}\n\n`+
     `${choose(en,'下载仓库后，在目录中运行以下命令，再打开 http://127.0.0.1:4173 。支持搜索、筛选和页内播放器，无需模型 API 或依赖安装。','Download the repository, run the command below from its directory, then open http://127.0.0.1:4173 . Search, filter and watch inline without model APIs or dependency installation.')}\n\n`+
-    '```sh\nnode scripts/serve.mjs\n```\n\n</details>\n\n'+
+    '```sh\nnode scripts/serve.mjs\n```\n\n'+
     `[${choose(en,'投稿指南','Contributing')}](CONTRIBUTING.md) · [${choose(en,'纠错或移除','Correction or removal')}](${REPO}/issues/new?template=correction.yml) · [${choose(en,'维护指南','Maintainer guide')}](docs/MAINTAINING.md)\n\n`+
     `${choose(en,'感谢创作者公开作品与制作过程。发现与展示参考','Thanks to the creators sharing their work and process. Discovery and presentation references include')} [opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)、[Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video)、[YouMind](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)。\n\n`+
     `<sub>${choose(en,'策展','Curated by')} [观默 / @guanmo_ai](https://x.com/guanmo_ai) · [MIT](LICENSE) ${choose(en,'仅适用于原创脚本','for original scripts only')}</sub>\n`;
@@ -150,10 +152,10 @@ export function buildOutputs(catalog) {
         `- ${choose(en,'作品原帖','Original post')}: [@${md(c.author.handle)}](${c.source.url}) · ${md(c.source.publishedAt)}\n`+
         `- ${choose(en,'模型归因','Model attribution')}: ${c.model.name} · [${choose(en,'作者说明','Creator’s statement')}](${c.model.evidenceUrl})\n`+
         `- ${c.prompt.status==='unknown'?choose(en,'提示词查阅记录','Prompt lookup'):choose(en,'提示词出处','Prompt source')}: [${choose(en,'作者原帖','Creator post')}](${c.prompt.sourceUrl}) · ${utc(c.prompt.checkedAt)}\n`+
-        `- ${choose(en,'封面来源','Cover source')}: [${choose(en,'原媒体','Original media')}](${c.cover.sourceUrl})${c.cover.timeSeconds!=null?` · ${c.cover.timeSeconds}s`:''}\n`+
+        `- ${choose(en,'封面来源','Cover source')}: [${choose(en,'原帖封面来源','Original cover source')}](${c.cover.sourceUrl.includes('video.twimg.com')?c.source.url:c.cover.sourceUrl})${c.cover.timeSeconds!=null?` · ${c.cover.timeSeconds}s`:''}\n`+
         `- ${choose(en,'互动数据','Metrics')}: [X](${c.metrics.sourceUrl}) · ${utc(c.metrics.checkedAt)} · ${choose(en,'第三方匿名读取，非 X 官方 API','Anonymous third-party snapshot, not the official X API')}\n`+
         `- ${choose(en,'发现入口','Discovered via')}: ${c.discoveredVia?.startsWith('https://')?`[${choose(en,'资料页','Reference')}](${c.discoveredVia})`:md(c.discoveredVia||'Public search')}\n`;
-      if(c.webPlayback)doc+=`- ${choose(en,'画廊原视频','Gallery video source')}: [${choose(en,'原帖媒体','Original post media')}](${c.webPlayback.url}) · ${utc(c.webPlayback.checkedAt)} · ${choose(en,'已核对原帖媒体对应与媒体响应；外部引用，不重新上传','Post/media correspondence and media response checked; external reference, no re-upload')}\n`;
+      if(c.webPlayback)doc+=`- ${choose(en,'画廊原视频','Gallery video source')}: [${choose(en,'原帖媒体记录','Original post media record')}](${c.source.url}) · ${utc(c.webPlayback.checkedAt)} · ${choose(en,'已核对原帖媒体对应与媒体响应；外部引用，不重新上传','Post/media correspondence and media response checked; external reference, no re-upload')}\n`;
       doc+=`\n${choose(en,'模型依据来自作者自述，未独立重跑提示词，也未对音画作统一质量评级。视频引用作者原帖媒体，未由本站重新上传，转载许可未确认。','Model attribution is based on creator statements. Prompts have not been independently rerun; sound and visuals have not received a uniform quality rating. Videos reference original post media, not our uploads; redistribution permission has not been verified.')}\n`;
       if(c.media.videoCount>1)doc+=`\n${choose(en,`原帖包含 ${c.media.videoCount} 个视频，本封面对应第一条。`,`The post contains ${c.media.videoCount} videos; this cover shows the first.`)}\n`;
       outputs.set(`cases/${c.id}${en?'.en':''}.md`,doc);

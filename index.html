@@ -27,17 +27,17 @@
       <div class="sidebar-note"><span class="little-star" aria-hidden="true">✳</span><p id="curation-note">看见好作品，<br>找到下一次创作的灵感。</p><a id="submit" href="https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml" target="_blank" rel="noopener noreferrer">推荐作品 ↗</a></div>
     </aside>
     <section class="collection" aria-labelledby="collection-title">
-      <div class="intro"><p class="eyebrow" id="intro-label">作品与创作线索</p><h1 id="collection-title">发现让你停下来的动效。</h1><p id="intro-text">从一个好作品开始。挑选分类，点开观看，再探索它的创作方式。</p><p id="coverage-count" class="coverage-count"></p></div>
+      <div class="intro"><p class="eyebrow" id="intro-label">作品与创作线索</p><h1 id="collection-title">发现让你停下来的动效。</h1><p id="intro-text">按用途找灵感，看作品与来源。</p><p id="coverage-count" class="coverage-count"></p></div>
       <div class="toolbar">
         <label class="search"><span aria-hidden="true">⌕</span><span class="sr-only" id="search-label">搜索作品、作者或风格</span><input id="search" type="search" aria-labelledby="search-label" placeholder="搜索作品、作者或风格…" autocomplete="off"></label>
         <label class="sort"><span class="sr-only" id="sort-label">排序</span><select id="sort" aria-labelledby="sort-label"><option value="featured">我的评价与精选</option><option value="latest">最新发布</option><option value="bookmarks">收藏最多 · 快照</option></select></label>
       </div>
-      <div class="filter-row">
+      <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><details id="advanced-filters" class="advanced-filters"><summary id="filter-summary">筛选作品</summary><div class="filter-row">
         <label class="filter-select"><span id="view-label">策展</span><select id="view" aria-labelledby="view-label"><option value="all">全部</option><option value="featured">精选</option><option value="catalogued">已编目</option><option value="discovery">发现池</option></select></label>
         <label class="filter-select"><span id="duration-label">时长</span><select id="duration" aria-labelledby="duration-label"><option value="all">全部时长</option><option value="short">30 秒以内</option><option value="medium">31–120 秒</option><option value="long">超过 120 秒</option></select></label>
         <label class="filter-select"><span id="prompt-label">提示词</span><select id="prompt" aria-labelledby="prompt-label"><option value="all">全部状态</option><option value="original">作者原文</option><option value="brief">任务描述</option><option value="unknown">尚未公开</option></select></label>
-      </div>
-      <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><label class="playable-filter"><input id="playable" type="checkbox"><span id="playable-label">仅页内播放</span></label></div>
+        <label class="playable-filter"><input id="playable" type="checkbox"><span id="playable-label">仅页内播放</span></label>
+      </div></details></div>
       <p id="sort-note" class="sort-note" hidden></p>
       <p id="curation-status" class="curation-status" role="status" hidden></p>
       <div id="works" class="grid" tabindex="-1"></div>

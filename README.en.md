@@ -2,71 +2,156 @@
 
 **Find AI videos and animations you love.**
 
-Browse by category, open a cover to watch, then explore the creator’s public prompt. Explore Claude code animation and creator-documented AI workflows.
+Browse covers by category, watch on the creator’s X post through the details, then explore public prompts. Explore Claude code animation and creator-documented AI workflows.
 
-[简体中文](README.md) · [English](README.en.md) · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+[简体中文](README.md) · [English](README.en.md) · [Local gallery](#local-gallery) · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-245 work records = 36 catalogued + 209 discovery records awaiting review · 53 public prompts · 245 gallery video sources
+245 work records = 36 catalogued + [209 discovery records awaiting review](browse/discoveries.en.md) · 53 public prompts · 245 gallery video sources
 
 <a id="browse"></a>
 
-## Browse categories
-
-| Category | Works |
-| --- | ---: |
-| [Product & marketing](browse/product.en.md) | 45 |
-| [Education & explainers](browse/education.en.md) | 55 |
-| [Motion design](browse/motion.en.md) | 45 |
-| [Pixel art & characters](browse/characters.en.md) | 5 |
-| [3D & interactive](browse/interactive.en.md) | 29 |
-| [Narrative films](browse/stories.en.md) | 44 |
-| [Music & lyrics](browse/music.en.md) | 22 |
-
-[Browse the discovery pool and coverage](browse/discoveries.en.md) · [Verification scope and coverage](docs/COVERAGE.md)
-
-Discovery records have verified creator posts and video sources, but full viewing review is pending. Catalogued does not imply a completed audiovisual quality review. Featured selections are editorial choices.
+[Product & marketing](#category-product) · [Education & explainers](#category-education) · [Motion design](#category-motion) · [Pixel art & characters](#category-characters) · [3D & interactive](#category-interactive) · [Narrative films](#category-stories) · [Music & lyrics](#category-music)
 
 <a id="featured"></a>
 
-## Featured works
+## Start watching
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="cases/2103918792845963545.en.md"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="A character-led Pocketsflow product explainer"><br><strong>A character-led Pocketsflow product explainer</strong></a><br><sub>Product &amp; marketing · 15s · <a href="https://x.com/achxvi">@achxvi</a></sub><br><a href="cases/2103918792845963545.en.md">▶ View video & details</a> · <a href="https://x.com/achxvi/status/2103918792845963545">Original post</a></td>
-<td width="50%" valign="top"><a href="cases/2103315922098470926.en.md"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="A 15-second motion design showreel"><br><strong>A 15-second motion design showreel</strong></a><br><sub>Motion design · 15s · <a href="https://x.com/stephanlivera">@stephanlivera</a></sub><br><a href="cases/2103315922098470926.en.md">▶ View video & details</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103918792845963545.en.md"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="A character-led Pocketsflow product explainer"><br><strong>A character-led Pocketsflow product explainer</strong></a><br><sub>Product &amp; marketing · 15s · <a href="https://x.com/achxvi">@achxvi</a></sub><br><a href="cases/2103918792845963545.en.md">▶ View video & details</a> · <a href="https://x.com/achxvi/status/2103918792845963545">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103315922098470926.en.md"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="A 15-second motion design showreel"><br><strong>A 15-second motion design showreel</strong></a><br><sub>Motion design · 15s · <a href="https://x.com/stephanlivera">@stephanlivera</a></sub><br><a href="cases/2103315922098470926.en.md">▶ View video & details</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102583898865873225.en.md"><img src="assets/covers/2102583898865873225.jpg" width="400" alt="Five thousand years of Chinese history"><br><strong>Five thousand years of Chinese history</strong></a><br><sub>Education &amp; explainers · 158s · <a href="https://x.com/akokoi1">@akokoi1</a></sub><br><a href="cases/2102583898865873225.en.md">▶ View video & details</a> · <a href="https://x.com/akokoi1/status/2102583898865873225">Original post</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="cases/2102583898865873225.en.md"><img src="assets/covers/2102583898865873225.jpg" width="400" alt="Five thousand years of Chinese history"><br><strong>Five thousand years of Chinese history</strong></a><br><sub>Education &amp; explainers · 158s · <a href="https://x.com/akokoi1">@akokoi1</a></sub><br><a href="cases/2102583898865873225.en.md">▶ View video & details</a> · <a href="https://x.com/akokoi1/status/2102583898865873225">Original post</a></td>
-<td width="50%" valign="top"><a href="cases/2103099194693271874.en.md"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"><br><strong>Pip travels through twelve visual styles</strong></a><br><sub>Pixel art &amp; characters · 75s · <a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a></sub><br><a href="cases/2103099194693271874.en.md">▶ View video & details</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="cases/2103116235009347650.en.md"><img src="assets/covers/2103116235009347650.jpg" width="400" alt="The Battle of Austerlitz in code"><br><strong>The Battle of Austerlitz in code</strong></a><br><sub>Narrative films · 301s · <a href="https://x.com/WinterArc2125">@WinterArc2125</a></sub><br><a href="cases/2103116235009347650.en.md">▶ View video & details</a> · <a href="https://x.com/WinterArc2125/status/2103116235009347650">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103099194693271874.en.md"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"><br><strong>Pip travels through twelve visual styles</strong></a><br><sub>Pixel art &amp; characters · 75s · <a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a></sub><br><a href="cases/2103099194693271874.en.md">▶ View video & details</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103116235009347650.en.md"><img src="assets/covers/2103116235009347650.jpg" width="400" alt="The Battle of Austerlitz in code"><br><strong>The Battle of Austerlitz in code</strong></a><br><sub>Narrative films · 301s · <a href="https://x.com/WinterArc2125">@WinterArc2125</a></sub><br><a href="cases/2103116235009347650.en.md">▶ View video & details</a> · <a href="https://x.com/WinterArc2125/status/2103116235009347650">Original post</a></td>
 </tr>
 </table>
 
-Open a cover for the work page. Works without an inline player offer a direct video link.
+<a id="category-product"></a>
+
+## Product & marketing
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2103918792845963545.en.md"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="A character-led Pocketsflow product explainer"><br><strong>A character-led Pocketsflow product explainer</strong></a><br><sub>Product &amp; marketing · 15s · <a href="https://x.com/achxvi">@achxvi</a></sub><br><a href="cases/2103918792845963545.en.md">▶ View video & details</a> · <a href="https://x.com/achxvi/status/2103918792845963545">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102787937482252537.en.md"><img src="assets/covers/2102787937482252537.jpg" width="400" alt="A one-line prompt for an inference startup launch"><br><strong>A one-line prompt for an inference startup launch</strong></a><br><sub>Product &amp; marketing · 26s · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="cases/2102787937482252537.en.md">▶ View video & details</a> · <a href="https://x.com/deedydas/status/2102787937482252537">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103499977632997524.en.md"><img src="assets/covers/2103499977632997524.jpg" width="400" alt="Explain a business in five scenes"><br><strong>Explain a business in five scenes</strong></a><br><sub>Product &amp; marketing · 35s · <a href="https://x.com/alex_prompter">@alex_prompter</a></sub><br><a href="cases/2103499977632997524.en.md">▶ View video & details</a> · <a href="https://x.com/alex_prompter/status/2103499977632997524">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 45 works →](browse/product.en.md)
+
+<a id="category-education"></a>
+
+## Education & explainers
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2102583898865873225.en.md"><img src="assets/covers/2102583898865873225.jpg" width="400" alt="Five thousand years of Chinese history"><br><strong>Five thousand years of Chinese history</strong></a><br><sub>Education &amp; explainers · 158s · <a href="https://x.com/akokoi1">@akokoi1</a></sub><br><a href="cases/2102583898865873225.en.md">▶ View video & details</a> · <a href="https://x.com/akokoi1/status/2102583898865873225">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102591147927654847.en.md"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"><br><strong>An interactive camera lens lab</strong></a><br><sub>Education &amp; explainers · 32s · <a href="https://x.com/RyanSael">@RyanSael</a></sub><br><a href="cases/2102591147927654847.en.md">▶ View video & details</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103304514329854102.en.md"><img src="assets/covers/2103304514329854102.jpg" width="400" alt="A documentary about superintelligence"><br><strong>A documentary about superintelligence</strong></a><br><sub>Education &amp; explainers · 315s · <a href="https://x.com/gavinpurcell">@gavinpurcell</a></sub><br><a href="cases/2103304514329854102.en.md">▶ View video & details</a> · <a href="https://x.com/gavinpurcell/status/2103304514329854102">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 55 works →](browse/education.en.md)
+
+<a id="category-motion"></a>
+
+## Motion design
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2103315922098470926.en.md"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="A 15-second motion design showreel"><br><strong>A 15-second motion design showreel</strong></a><br><sub>Motion design · 15s · <a href="https://x.com/stephanlivera">@stephanlivera</a></sub><br><a href="cases/2103315922098470926.en.md">▶ View video & details</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103273003555402193.en.md"><img src="assets/covers/2103273003555402193.jpg" width="400" alt="One shape, a seamless UI morph loop"><br><strong>One shape, a seamless UI morph loop</strong></a><br><sub>Motion design · 14s · <a href="https://x.com/twoclipping">@twoclipping</a></sub><br><a href="cases/2103273003555402193.en.md">▶ View video & details</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103576084499358051.en.md"><img src="assets/covers/2103576084499358051.jpg" width="400" alt="Leon’s 15-second motion design reel"><br><strong>Leon’s 15-second motion design reel</strong></a><br><sub>Motion design · 15s · <a href="https://x.com/leonabboud">@leonabboud</a></sub><br><a href="cases/2103576084499358051.en.md">▶ View video & details</a> · <a href="https://x.com/leonabboud/status/2103576084499358051">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 45 works →](browse/motion.en.md)
+
+<a id="category-characters"></a>
+
+## Pixel art & characters
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2103099194693271874.en.md"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"><br><strong>Pip travels through twelve visual styles</strong></a><br><sub>Pixel art &amp; characters · 75s · <a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a></sub><br><a href="cases/2103099194693271874.en.md">▶ View video & details</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102476258948927543.en.md"><img src="assets/covers/2102476258948927543.jpg" width="400" alt="A pixel wizard casting spells"><br><strong>A pixel wizard casting spells</strong></a><br><sub>Pixel art &amp; characters · 11s · <a href="https://x.com/majidmanzarpour">@majidmanzarpour</a></sub><br><a href="cases/2102476258948927543.en.md">▶ View video & details</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102472218269900876.en.md"><img src="assets/covers/2102472218269900876.jpg" width="400" alt="Candy-Themed Character Animation"><br><strong>Candy-Themed Character Animation</strong></a><br><sub>Pixel art &amp; characters · 30s · Review pending · <a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a></sub><br><a href="cases/2102472218269900876.en.md">▶ View video & details</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 5 works →](browse/characters.en.md)
+
+<a id="category-interactive"></a>
+
+## 3D & interactive
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2102786378282987591.en.md"><img src="assets/covers/2102786378282987591.jpg" width="400" alt="Clearwater: real-time shallow water and interactive ripples"><br><strong>Clearwater: real-time shallow water and interactive ripples</strong></a><br><sub>3D &amp; interactive · 27s · <a href="https://x.com/Aurelien_Gz">@Aurelien_Gz</a></sub><br><a href="cases/2102786378282987591.en.md">▶ View video & details</a> · <a href="https://x.com/Aurelien_Gz/status/2102786378282987591">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102450239923720440.en.md"><img src="assets/covers/2102450239923720440.jpg" width="400" alt="A prehistoric island: Opus 5 vs. Opus 5.5"><br><strong>A prehistoric island: Opus 5 vs. Opus 5.5</strong></a><br><sub>3D &amp; interactive · 20s · <a href="https://x.com/vib3coded">@vib3coded</a></sub><br><a href="cases/2102450239923720440.en.md">▶ View video & details</a> · <a href="https://x.com/vib3coded/status/2102450239923720440">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2096264296099459079.en.md"><img src="assets/covers/2096264296099459079.jpg" width="400" alt="Blender Recreation of a Conference Clip"><br><strong>Blender Recreation of a Conference Clip</strong></a><br><sub>3D &amp; interactive · 20s · Review pending · <a href="https://x.com/petergostev">@petergostev</a></sub><br><a href="cases/2096264296099459079.en.md">▶ View video & details</a> · <a href="https://x.com/petergostev/status/2096264296099459079">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 29 works →](browse/interactive.en.md)
+
+<a id="category-stories"></a>
+
+## Narrative films
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2103116235009347650.en.md"><img src="assets/covers/2103116235009347650.jpg" width="400" alt="The Battle of Austerlitz in code"><br><strong>The Battle of Austerlitz in code</strong></a><br><sub>Narrative films · 301s · <a href="https://x.com/WinterArc2125">@WinterArc2125</a></sub><br><a href="cases/2103116235009347650.en.md">▶ View video & details</a> · <a href="https://x.com/WinterArc2125/status/2103116235009347650">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102495989194236158.en.md"><img src="assets/covers/2102495989194236158.jpg" width="400" alt="Claude animates its own life"><br><strong>Claude animates its own life</strong></a><br><sub>Narrative films · 30s · <a href="https://x.com/shfred0">@shfred0</a></sub><br><a href="cases/2102495989194236158.en.md">▶ View video & details</a> · <a href="https://x.com/shfred0/status/2102495989194236158">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102573127192727704.en.md"><img src="assets/covers/2102573127192727704.jpg" width="400" alt="New Zealand through acrylic brushstrokes"><br><strong>New Zealand through acrylic brushstrokes</strong></a><br><sub>Narrative films · 22s · <a href="https://x.com/ann_nnng">@ann_nnng</a></sub><br><a href="cases/2102573127192727704.en.md">▶ View video & details</a> · <a href="https://x.com/ann_nnng/status/2102573127192727704">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 44 works →](browse/stories.en.md)
+
+<a id="category-music"></a>
+
+## Music & lyrics
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="cases/2102801274173587569.en.md"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"><br><strong>Claude Pop: a mixed-workflow music video</strong></a><br><sub>Music &amp; lyrics · 142s · <a href="https://x.com/donaldjewkes">@donaldjewkes</a></sub><br><a href="cases/2102801274173587569.en.md">▶ View video & details</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2103741636635496583.en.md"><img src="assets/covers/2103741636635496583.jpg" width="400" alt="An animated lyric video"><br><strong>An animated lyric video</strong></a><br><sub>Music &amp; lyrics · 48s · <a href="https://x.com/kurahu_capten">@kurahu_capten</a></sub><br><a href="cases/2103741636635496583.en.md">▶ View video & details</a> · <a href="https://x.com/kurahu_capten/status/2103741636635496583">Original post</a></td>
+<td width="33%" valign="top"><a href="cases/2102610626321490404.en.md"><img src="assets/covers/2102610626321490404.jpg" width="400" alt="Music Film About Functional Emotions"><br><strong>Music Film About Functional Emotions</strong></a><br><sub>Music &amp; lyrics · 373s · Review pending · <a href="https://x.com/eudaemonea">@eudaemonea</a></sub><br><a href="cases/2102610626321490404.en.md">▶ View video & details</a> · <a href="https://x.com/eudaemonea/status/2102610626321490404">Original post</a></td>
+</tr>
+</table>
+
+[Explore all 22 works →](browse/music.en.md)
+
+Category recommendations prioritize curated and catalogued works as browsing entry points, not a completed quality review.
+
+[Verification scope and coverage](docs/COVERAGE.md) · [Project acceptance criteria](docs/QUALITY.md)
+
+Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the local gallery provides an inline player.
 
 <details>
 <summary>About the works, prompts and sources</summary>
 
 Work pages retain original posts, public prompts, translations and required assets. Author briefs are labeled and remain in their relevant categories. Public prompts do not guarantee identical results; works have not been independently reproduced.
 
-Videos reference media from creators’ original X posts and may become unavailable; use the original post as a fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.
+GitHub watch links open creator posts on X. The local player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.
 
 [Sources and ordering](docs/SOURCES.md) · [Third-party content](THIRD_PARTY.md)
 
 </details>
 
-<details>
-<summary>Run the filterable gallery locally</summary>
+<a id="local-gallery"></a>
+
+## Run the filterable gallery locally
 
 Download the repository, run the command below from its directory, then open http://127.0.0.1:4173 . Search, filter and watch inline without model APIs or dependency installation.
 
 ```sh
 node scripts/serve.mjs
 ```
-
-</details>
 
 [Contributing](CONTRIBUTING.md) · [Correction or removal](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=correction.yml) · [Maintainer guide](docs/MAINTAINING.md)
 

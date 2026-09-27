@@ -99,3 +99,11 @@ export function reviewLabels(item,lang='zh') {
   if(item.review?.later)return [lang==='en'?'Show later':'一般，排后'];
   return [...(item.review?.featured===true ? [lang==='en'?'Featured':'精选'] : []),...REVIEW_OPTIONS.filter(option=>item.review?.highlights?.includes(option.id)).map(option=>option[lang])];
 }
+
+
+// Category entry points prefer existing curation, then catalogued works and source snapshots.
+export function recommendedCases(items, source, limit=3) {
+  return items.filter(c=>c.category===source&&!c.review?.later).sort((a,b)=>
+    reviewRank(b)-reviewRank(a) || (stageOf(a)==='catalogued'?0:1)-(stageOf(b)==='catalogued'?0:1) ||
+    bookmarks(b)-bookmarks(a) || a.id.localeCompare(b.id)).slice(0,limit);
+}

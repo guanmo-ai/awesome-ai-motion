@@ -63,7 +63,7 @@ test('首页先分类再精选，长提示词只出现在详情，brief 也保�
   assert.ok(readme.includes('# Awesome AI Motion'));
   assert.ok(readme.includes('README.en.md'));
   assert.ok(readme.indexOf('id="browse"')<readme.indexOf('id="featured"'));
-  assert.ok(Buffer.byteLength(readme)<12000,'首页应是紧凑入口');
+  assert.ok(Buffer.byteLength(readme)<32000,'首页在视觉分类预览下仍保持轻量');
   assert.ok(!readme.includes('make a modern slick and punchy video'));
   for(const c of catalog.cases) {
     const browse=[...outputs].filter(([file])=>/^browse\/.*(?<!\.en)\.md$/.test(file)&&file!=='browse/discoveries.md');
@@ -106,16 +106,13 @@ test('首页所有自定义跳转锚点存在且唯一', () => {
   }
 });
 
-test('双语作品页直达原作者媒体，封面不误导跳到 X', () => {
+test('双语作品页观看与封面进入作者原帖，不再导航到会被拦截的裸 MP4', () => {
   const outputs=buildOutputs(catalog);
   for(const c of catalog.cases) for(const en of [false,true]) {
     const detail=outputs.get(`cases/${c.id}${en?'.en':''}.md`);
-    assert.ok(detail.includes(c.prompt.sourceUrl));
-    if(c.webPlayback) {
-      assert.ok(detail.includes(`**[▶ ${en?'Watch video':'观看原视频'}](${c.webPlayback.url})**`));
-      assert.ok(detail.includes(`>](${c.webPlayback.url})`),`${c.id}: 封面应直达视频`);
-      assert.ok(!detail.includes(`>](${c.source.url})`),`${c.id}: 封面不能跳到 X`);
-    }
+    assert.ok(detail.includes(`**[▶ ${en?'Watch on X':'在 X 原帖观看'}](${c.source.url})**`));
+    assert.ok(detail.includes(`>](${c.source.url})`),`${c.id}: 封面应打开作者原帖`);
+    assert.doesNotMatch(detail,/\]\(https:\/\/video\.twimg\.com\//);
   }
 });
 
@@ -176,7 +173,8 @@ test('手动精选决定 README 选入，取消默认精选后不会重新自动
   const chosen=copy.cases[0];chosen.review.featured=true;
   for(const en of [false,true]) {
     const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
-    const cards=[...readme.matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)];
+    const featuredSection=readme.split('<a id="featured"></a>')[1].split('<a id="category-')[0];
+    const cards=[...featuredSection.matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)];
     assert.equal(cards.length,1);
     assert.ok(cards[0][1].includes(`cases/${chosen.id}${en?'.en':''}.md`));
   }
@@ -198,4 +196,33 @@ test('发现池需要作者声明与原媒体，未知提示词不能伪装原�
   assert.ok(validateCatalog(copy,root).some(e=>e.includes('发现池')));
   c.verification.authorClaimConfirmed=true;c.prompt.text='invented';
   assert.ok(validateCatalog(copy,root).some(e=>e.includes('提示词')));
+});
+
+
+test('首页每个非空类别都有最多三张对应封面与完整分类入口',()=>{
+  for(const en of [false,true]) {
+    const readme=buildOutputs(catalog).get(`README${en?'.en':''}.md`);
+    const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|分类推荐优先|Category recommendations)/gs)];
+    assert.equal(sections.length,new Set(catalog.cases.map(c=>c.category)).size);
+    for(const [,slug,body] of sections) {
+      const ids=[...body.matchAll(/<td[^>]*><a href="cases\/(\d+)/g)].map(m=>m[1]);
+      assert.ok(ids.length>0&&ids.length<=3);
+      assert.equal(new Set(ids).size,ids.length);
+      assert.equal(new Set(ids.map(id=>catalog.cases.find(c=>c.id===id).category)).size,1);
+      assert.ok(body.includes(`browse/${slug}${en?'.en':''}.md`));
+    }
+  }
+});
+
+
+test('发现池总览可达，整类排后保留完整分类入口但不生成空卡片表',()=>{
+  const copy=structuredClone(catalog),category=copy.cases[0].category;
+  for(const c of copy.cases)if(c.category===category)c.review={highlights:[],later:true,featured:false};
+  for(const en of [false,true]) {
+    const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
+    assert.ok(readme.includes(`](browse/discoveries${en?'.en':''}.md)`));
+    assert.doesNotMatch(readme,/<table>\s*<\/table>/);
+    assert.ok(readme.includes(en?'No recommendations here yet':'此处暂无推荐'));
+    for(const c of copy.cases.filter(c=>c.category===category))assert.ok(!readme.includes(`cases/${c.id}`));
+  }
 });

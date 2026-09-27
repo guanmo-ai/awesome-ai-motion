@@ -76,7 +76,7 @@ test('评价保存到仓库并同步排序，删除恢复保留评价，清除�
   const browse=fs.readFileSync(path.join(root,'browse/motion.md'),'utf8');
   assert.ok(browse.indexOf('cases/2.md')<browse.indexOf('cases/1.md'));
   assert.match(fs.readFileSync(path.join(root,'cases/2.md'),'utf8'),/动效很酷 · 整体优秀/);
-  const featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<details>')[0];
+  const featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="category-')[0];
   assert.ok(!featured.includes('cases/2.md'));
   assert.equal(fs.existsSync(path.join(root,'assets/covers/2.jpg')),true);
   editor=createCuration(root);s=editor.snapshot();assert.deepEqual(s.catalog.cases[1].review.highlights,['motion','overall']);
@@ -93,11 +93,11 @@ test('评价保存到仓库并同步排序，删除恢复保留评价，清除�
 test('精选可持久化、取消并覆盖内置名单；旧删除备份恢复时不带回仓库视频',t=>{
   const {root}=fixture(t);let editor=createCuration(root),s=editor.snapshot();
   s=editor.mutate('review','2',s.revision,{highlights:[],later:false,featured:true});
-  let featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<details>')[0];
+  let featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="category-')[0];
   assert.ok(featured.includes('cases/2.md'));
   editor=createCuration(root);s=editor.snapshot();assert.equal(s.catalog.cases[1].review.featured,true);
   s=editor.mutate('review','2',s.revision,{highlights:['motion'],later:false,featured:false});
-  featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<details>')[0];
+  featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="category-')[0];
   assert.ok(!featured.includes('cases/2.md'));
   assert.deepEqual(s.catalog.cases[1].review.highlights,['motion']);
   s=editor.mutate('delete','2',s.revision);
