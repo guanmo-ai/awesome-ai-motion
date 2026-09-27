@@ -25,7 +25,7 @@ test('删除同步数据、双语详情、提示词、封面与分类；重启�
   assert.equal(s.catalog.cases.length,1);assert.equal(s.trash.length,1);
   for(const file of ['cases/1.md','cases/1.en.md','prompts/1.txt','assets/covers/1.jpg'])assert.equal(fs.existsSync(path.join(root,file)),false,file);
   assert.ok(!fs.readFileSync(path.join(root,'browse/motion.md'),'utf8').includes('cases/1.md'));
-  assert.ok(fs.readFileSync(path.join(root,'README.md'),'utf8').includes('1 条作品记录'));
+  assert.ok(fs.readFileSync(path.join(root,'README.md'),'utf8').includes('1 个视频参考'));
   s=editor.mutate('delete','2',s.revision);
   assert.equal(fs.existsSync(path.join(root,'browse/motion.md')),false);
   editor=createCuration(root);s=editor.snapshot();assert.equal(s.trash.length,2);

@@ -7,6 +7,23 @@ import path from 'node:path';
 const root = path.resolve(import.meta.dirname, '..');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/cases.json'), 'utf8'));
 
+test('创作导览双语展示并保留作者原文，拒绝不完整建议和危险来源链接',()=>{
+  const copy=structuredClone(catalog),c=copy.cases.find(item=>item.guide);
+  const original=c.prompt.text;
+  c.guide.takeawayZh='<script>alert(1)</script> 观察节奏';
+  assert.deepEqual(validateCatalog(copy,root),[]);
+  const outputs=buildOutputs(copy);
+  assert.ok(outputs.get(`cases/${c.id}.en.md`).includes('What to learn'));
+  assert.ok(outputs.get(`cases/${c.id}.md`).includes('可以借鉴什么'));
+  assert.ok(!outputs.get(`cases/${c.id}.md`).includes('<script>alert(1)</script>'));
+  assert.equal(outputs.get(`prompts/${c.id}.txt`),original+'\n');
+  const valid=structuredClone(c.guide);
+  for(const invalid of [{takeawayEn:''},{stepsZh:['只有一步']},{evidenceUrls:['javascript:alert(1)']},{evidenceUrls:['https://example.com/)(bad)']}]){
+    c.guide={...valid,...invalid};
+    assert.ok(validateCatalog(copy,root).some(error=>error.includes('制作导览')));
+  }
+});
+
 test('原文优先；收藏的零和缺失不同；点赞只作为同收藏数的次序', () => {
   const row=(id,status,bookmarks,likes)=>({id,prompt:{status},metrics:{bookmarks,likes}});
   const input=[row('1','original',null,900),row('2','original',0,0),row('3','brief',99999,99999),row('4','original',5,10),row('5','original',5,20)];

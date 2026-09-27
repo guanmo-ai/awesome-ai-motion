@@ -225,6 +225,28 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "用同一个形状连续变成多种界面，能让功能展示像一段有节奏的动作。",
+        "takeawayEn": "One shape morphing through UI states can turn a feature tour into a rhythmic sequence.",
+        "stepsZh": [
+          "列出 8–12 个界面状态，选配色和约 120 BPM 的可用歌曲。",
+          "按节拍安排状态转换，让同一个形状和光标推动每次变化。",
+          "先看逐拍预览，再检查文字是否重叠、循环首尾是否接上。"
+        ],
+        "stepsEn": [
+          "List 8–12 UI states, choose colors and a usable song near 120 BPM.",
+          "Place each morph on the beat and let one shape and cursor drive the changes.",
+          "Review a beat-by-beat preview, then check text overlap and the loop seam."
+        ],
+        "tools": [
+          "HTML",
+          "Playwright",
+          "ffmpeg"
+        ],
+        "evidenceUrls": [
+          "https://x.com/twoclipping/status/2103273003555402193"
+        ]
       }
     },
     {
@@ -376,6 +398,26 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "用线稿、双语字幕和口播讲大气环流，能把抽象地理过程拆成可跟随的画面。",
+        "takeawayEn": "Line art, bilingual captions and narration can make atmospheric circulation easier to follow.",
+        "stepsZh": [
+          "整理大气环流知识点，并准备自己的 TTS 文档与语音配置。",
+          "按空气流动的先后顺序写线稿动画和中英字幕。",
+          "导出并通看视频，核对地理概念、字幕和口播同步。"
+        ],
+        "stepsEn": [
+          "Outline atmospheric circulation and prepare your own TTS documentation and voice setup.",
+          "Animate the airflow sequence in line art with Chinese and English captions.",
+          "Export and watch the video; check geography and caption/narration sync."
+        ],
+        "tools": [
+          "TTS"
+        ],
+        "evidenceUrls": [
+          "https://x.com/akokoi1/status/2102606609574941028"
+        ]
       }
     },
     {
@@ -526,6 +568,24 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "先弄清历史事件的关键转折，再用镜头和场景解释策略，能让代码影像有叙事张力。",
+        "takeawayEn": "Researching the battle's turning points before visualizing strategy gives a coded film a narrative spine.",
+        "stepsZh": [
+          "核对奥斯特里茨战役史料，并准备作者所说的绘画参考。",
+          "把战略转折写成 4–5 分钟的镜头顺序，再用代码呈现。",
+          "复查时间线、战场关系与画面是否容易理解。"
+        ],
+        "stepsEn": [
+          "Check sources on Austerlitz and gather paintings for visual reference.",
+          "Turn strategic shifts into a 4–5 minute shot sequence, then render it in code.",
+          "Review chronology, spatial relationships and clarity."
+        ],
+        "tools": [],
+        "evidenceUrls": [
+          "https://x.com/WinterArc2125/status/2103116689944502720"
+        ]
       }
     },
     {
@@ -601,6 +661,24 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "保留真人口播，把主画面换成跟话题同步的线稿，能让讲解更直观。",
+        "takeawayEn": "Keeping the speaker's audio while replacing the main view with topic-matched line art makes an explainer more visual.",
+        "stepsZh": [
+          "准备自己的口播源片及原字幕。",
+          "将人物放在右下角画中画，按口播概念制作线稿主画面。",
+          "逐句检查动画对应、字幕无遮挡、原声与时长未漂移。"
+        ],
+        "stepsEn": [
+          "Prepare your own talking-head clip and its captions.",
+          "Put the speaker in a lower-right inset and draw the discussed concepts in the main view.",
+          "Check concept timing, caption clearance and unchanged audio/duration."
+        ],
+        "tools": [],
+        "evidenceUrls": [
+          "https://x.com/AxtonLiu/status/2102827887732932956"
+        ]
       }
     },
     {
@@ -751,6 +829,28 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "先限制像素尺寸和色盘，再设计施法循环，能让小角色保持清晰辨识度。",
+        "takeawayEn": "Constraining resolution and palette before animating helps a tiny character stay readable.",
+        "stepsZh": [
+          "定好 128×96 画布、约 24 色色盘和巫师剪影。",
+          "用待机、蓄力、施法、复位四段动作画循环。",
+          "放大播放，检查像素边缘、动作识别和首尾衔接。"
+        ],
+        "stepsEn": [
+          "Set a 128×96 canvas, a roughly 24-color palette and a clear wizard silhouette.",
+          "Animate idle, charge, cast and recovery as one loop.",
+          "Play it enlarged; check crisp pixels, readable action and the loop seam."
+        ],
+        "tools": [
+          "HTML",
+          "JavaScript",
+          "Canvas 2D"
+        ],
+        "evidenceUrls": [
+          "https://x.com/majidmanzarpour/status/2102476499387383834"
+        ]
       }
     },
     {
@@ -826,6 +926,28 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "先锁定歌曲和歌词，再让画面逐句回应它们，能把 MV 做成完整的声画设计。",
+        "takeawayEn": "Locking the song and lyrics first lets each visual answer the music in a coherent video.",
+        "stepsZh": [
+          "准备有使用权的原歌曲、歌词及参考 MP4。",
+          "按歌词分段设计纸感 JavaScript 动画，再与原音轨对齐。",
+          "从头听看成片，检查歌词时机、风格连续性和声音。"
+        ],
+        "stepsEn": [
+          "Prepare a song you can use, lyrics and the reference MP4.",
+          "Design papery JavaScript animation by lyric section and align it to the original track.",
+          "Watch and listen through the full cut for lyric timing, visual continuity and sound."
+        ],
+        "tools": [
+          "JavaScript",
+          "ElevenLabs",
+          "Seedance 2.5"
+        ],
+        "evidenceUrls": [
+          "https://x.com/donaldjewkes/status/2102801469976248500"
+        ]
       }
     },
     {
@@ -1052,6 +1174,31 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "让角色的轮廓和表情在不同画风里保持一致，能把风格切换变成连贯故事。",
+        "takeawayEn": "Keeping a character's silhouette and expressions consistent makes style changes feel like one story.",
+        "stepsZh": [
+          "准备角色设定图，先定轮廓、色盘和表情。",
+          "先做角色骨骼与几种世界风格，再按镜头表推进短片。",
+          "逐段预览角色一致性、情绪和结尾循环。"
+        ],
+        "stepsEn": [
+          "Prepare a character sheet and lock the silhouette, palette and expressions.",
+          "Build the rig and a few world styles, then advance through a shot list.",
+          "Preview each section for character consistency, emotion and the ending loop."
+        ],
+        "tools": [
+          "Remotion",
+          "React",
+          "TypeScript",
+          "SVG",
+          "Python",
+          "ffmpeg"
+        ],
+        "evidenceUrls": [
+          "https://x.com/pradeepXkapoor/status/2103176289482154373"
+        ]
       }
     },
     {
@@ -1127,6 +1274,26 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "用问题、方法、步骤、证据和署名五幕，可以把一门生意压成清楚的 30 秒说明。",
+        "takeawayEn": "Problem, offer, process, proof and name can make a business legible in 30 seconds.",
+        "stepsZh": [
+          "填好卖什么、卖给谁和品牌颜色，并准备一个真实证据点。",
+          "按五幕写文案，在单页 HTML 里做粗体文字和顺滑转场。",
+          "播放 30 秒版本，检查每幕是否读得完、证据是否准确。"
+        ],
+        "stepsEn": [
+          "Fill in the offer, audience and brand colors, and gather one real proof point.",
+          "Script five scenes with bold text and smooth transitions in one HTML page.",
+          "Play the 30-second cut; check reading time and the accuracy of the proof."
+        ],
+        "tools": [
+          "HTML"
+        ],
+        "evidenceUrls": [
+          "https://x.com/alex_prompter/status/2103499977632997524"
+        ]
       }
     },
     {
@@ -1352,6 +1519,26 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "先用直觉解释 Transformer，再补注意力和少量数学，能兼顾入门与准确性。",
+        "takeawayEn": "Starting with intuition before attention and some math can keep a Transformer video accessible and precise.",
+        "stepsZh": [
+          "列出高中生需要先懂的概念与可核对的资料。",
+          "用 JavaScript 做由直觉过渡到注意力机制的画面。",
+          "请目标观众试看片段，检查术语、公式和节奏。"
+        ],
+        "stepsEn": [
+          "List the concepts a high-school audience needs and sources to check.",
+          "Use JavaScript visuals to move from intuition to the attention mechanism.",
+          "Show a preview to the target audience and check terms, formulas and pacing."
+        ],
+        "tools": [
+          "JavaScript"
+        ],
+        "evidenceUrls": [
+          "https://x.com/dotey/status/2103683057689522564"
+        ]
       }
     },
     {
@@ -1579,6 +1766,29 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "把产品真实数据放进连续变形的界面，能让功能介绍像一次完整操作。",
+        "takeawayEn": "Putting real product data into a continuous UI morph makes a feature tour feel like one interaction.",
+        "stepsZh": [
+          "准备产品网址、8–12 个界面状态、真实数据和品牌字体颜色。",
+          "用单个画布按节拍安排光标、点击、输入和形状变换。",
+          "先看逐拍接触表，再检查拥挤画面和循环首尾。"
+        ],
+        "stepsEn": [
+          "Gather the product URL, 8–12 UI states, real data and brand fonts/colors.",
+          "Use one canvas to time cursor actions and shape morphs to the beat.",
+          "Review a beat contact sheet, then check crowded frames and the loop seam."
+        ],
+        "tools": [
+          "HTML",
+          "Canvas",
+          "Chrome",
+          "ffmpeg"
+        ],
+        "evidenceUrls": [
+          "https://x.com/verbove/status/2103483957266268381"
+        ]
       }
     },
     {
@@ -1729,6 +1939,34 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "把雨、列车和人物重逢按秒排进分镜，能让短片的悬念在有限时长内成立。",
+        "takeawayEn": "Timing rain, the train and the reunion shot by shot can give a short film a clear suspense arc.",
+        "stepsZh": [
+          "先定 30 秒分镜与人物原画，保持同一角色的姿态一致。",
+          "按分镜合成雨、列车、人物动作及声音。",
+          "逐镜头看预览帧，再检查转场、对白和 1080p 分享版。"
+        ],
+        "stepsEn": [
+          "Set the 30-second shot list and character artwork; keep poses consistent.",
+          "Composite rain, train, character motion and sound to the shot list.",
+          "Inspect previews shot by shot, then check transitions, dialogue and the 1080p share version."
+        ],
+        "tools": [
+          "Python",
+          "ffmpeg",
+          "GPT Image 2.5",
+          "Real-ESRGAN",
+          "Depth Anything V2",
+          "Mixkit",
+          "Logic",
+          "GarageBand",
+          "Kokoro"
+        ],
+        "evidenceUrls": [
+          "https://x.com/zhu185178/status/2103757767727255661"
+        ]
       }
     },
     {
@@ -1880,6 +2118,29 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "把水面和水下做成同一个可交互场景，能让微缩世界更有探索感。",
+        "takeawayEn": "Joining the surface and underwater view in one interactive scene makes a miniature world worth exploring.",
+        "stepsZh": [
+          "列出岛屿、恐龙和水下生物的主要区域。",
+          "用 Three.js 与 WebGL 做单页场景，先连通水面和水下视角。",
+          "在桌面浏览器逐项试交互，检查水体缝隙、遮挡和性能。"
+        ],
+        "stepsEn": [
+          "Map the island, dinosaurs and underwater areas.",
+          "Build a single-page Three.js/WebGL scene and connect the above- and below-water views.",
+          "Exercise interactions in a desktop browser; check water gaps, occlusion and performance."
+        ],
+        "tools": [
+          "Three.js",
+          "WebGL",
+          "HTML",
+          "Chrome"
+        ],
+        "evidenceUrls": [
+          "https://x.com/vib3coded/status/2102450842070569099"
+        ]
       }
     },
     {
@@ -1955,6 +2216,28 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "直接取产品网页里的真实界面素材，能让技术产品短片更具体。",
+        "takeawayEn": "Real screenshots and assets from a product site make a technical product film more concrete.",
+        "stepsZh": [
+          "准备自己的产品网址，挑出能说明核心功能的页面。",
+          "用网页素材或截图写 JavaScript 动画，再录制成视频。",
+          "检查截图内容、音乐节拍和输出视频是否对应产品。"
+        ],
+        "stepsEn": [
+          "Prepare your product URL and pick pages that show the core feature.",
+          "Animate site assets or screenshots in JavaScript, then record the result.",
+          "Check screenshot accuracy, music timing and the final video."
+        ],
+        "tools": [
+          "JavaScript",
+          "Playwright",
+          "ffmpeg"
+        ],
+        "evidenceUrls": [
+          "https://x.com/zigapoto/status/2103746698660942208"
+        ]
       }
     },
     {
@@ -2030,6 +2313,24 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "先确定歌词视觉方案，再逐句卡住歌曲节奏，能让竖屏 MV 以文字为主角。",
+        "takeawayEn": "Choosing a lyric treatment before timing each line to the song makes text the star of a vertical MV.",
+        "stepsZh": [
+          "准备歌曲与核对过的歌词。",
+          "先画竖屏标题卡方案，再把每句歌词对齐歌声。",
+          "完整播放并听审，检查出字时机、遮挡和可读性。"
+        ],
+        "stepsEn": [
+          "Prepare the song and checked lyrics.",
+          "Sketch vertical title cards first, then align each line to the vocal.",
+          "Watch and listen to the full video for timing, overlap and legibility."
+        ],
+        "tools": [],
+        "evidenceUrls": [
+          "https://x.com/kurahu_capten/status/2103742110747054506"
+        ]
       }
     },
     {
@@ -2401,6 +2702,24 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "让海报里的元素越过边框，能把一张平面图变成有空间感的短动效。",
+        "takeawayEn": "Letting poster elements cross the frame can give a flat design a sense of space.",
+        "stepsZh": [
+          "准备一张层次清楚、边框明确的海报。",
+          "以“元素冲出边框”为任务，试出进入、越界和回落三个动作。",
+          "播放成片，检查越界瞬间的层次和海报文字可读性。"
+        ],
+        "stepsEn": [
+          "Prepare a poster with clear layers and a visible frame.",
+          "Use the breakout as the task; try an approach, crossing and return.",
+          "Play the result and check depth at the crossing and text legibility."
+        ],
+        "tools": [],
+        "evidenceUrls": [
+          "https://x.com/pankajkumar_dev/status/2103502614134718609"
+        ]
       }
     },
     {
@@ -2686,6 +3005,29 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
+      },
+      "guide": {
+        "takeawayZh": "用一段水面参考片确定波纹与光感，再做可交互的小样，能更快看出差距。",
+        "takeawayEn": "A water reference clip and a small interactive study make differences in ripples and lighting easier to spot.",
+        "stepsZh": [
+          "选一段有明确浅水运动的参考视频。",
+          "照参考做一个可点击出涟漪的水面小样。",
+          "打开作者公开的演示作对照，检查波纹、折射和交互反馈。"
+        ],
+        "stepsEn": [
+          "Choose a reference clip with clear shallow-water motion.",
+          "Build a small water study with click-driven ripples.",
+          "Compare it with the creator's demo for ripples, refraction and interaction feedback."
+        ],
+        "tools": [
+          "Claude Opus 5.5"
+        ],
+        "evidenceUrls": [
+          "https://x.com/Aurelien_Gz/status/2102479887495758076",
+          "https://x.com/Aurelien_Gz/status/2102786378282987591",
+          "https://github.com/Aureliengmz/clearwater",
+          "https://aureliengmz.github.io/clearwater/"
+        ]
       }
     },
     {

@@ -107,3 +107,26 @@ export function recommendedCases(items, source, limit=3) {
     reviewRank(b)-reviewRank(a) || (stageOf(a)==='catalogued'?0:1)-(stageOf(b)==='catalogued'?0:1) ||
     bookmarks(b)-bookmarks(a) || a.id.localeCompare(b.id)).slice(0,limit);
 }
+
+// A cross-category route into the collection. This is independent of featured
+// status and does not imply a complete audiovisual review.
+const INTRO_ROUTE=['2103502614134718609','2103099194693271874','2102786378282987591','2103757767727255661','2102801274173587569','2103746671591256286'];
+export function introCases(items, limit=6) {
+  const eligible=items.filter(item=>!item.review?.later && categoryOf(item)!=='all' && coverPath(item.cover?.path) && safeUrl(item.source?.url));
+  const priority=item=>stageOf(item)==='catalogued'?(item.guide?3:2):(item.guide?1:0);
+  const route=item=>INTRO_ROUTE.includes(item.id)?INTRO_ROUTE.indexOf(item.id):INTRO_ROUTE.length;
+  const ordered=eligible.sort((a,b)=>
+    route(a)-route(b) ||
+    priority(b)-priority(a) ||
+    bookmarks(b)-bookmarks(a) || String(a.id).localeCompare(String(b.id)));
+  const chosen=[],usedIds=new Set(),authors=new Set(),categories=new Set();
+  const add=item=>{chosen.push(item);usedIds.add(item.id);authors.add(item.author?.handle?.toLowerCase());categories.add(categoryOf(item));};
+  for(const item of ordered) if(chosen.length<limit && !categories.has(categoryOf(item)) && !authors.has(item.author?.handle?.toLowerCase())) add(item);
+  for(const item of ordered) if(chosen.length<limit && !usedIds.has(item.id) && !authors.has(item.author?.handle?.toLowerCase())) add(item);
+  for(const item of ordered) if(chosen.length<limit && !usedIds.has(item.id)) add(item);
+  return chosen;
+}
+
+export function relatedCases(items, current, limit=3) {
+  return recommendedCases(items.filter(item=>item.id!==current.id),current.category,limit);
+}

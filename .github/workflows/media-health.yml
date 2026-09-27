@@ -1,0 +1,28 @@
+name: 原帖媒体健康检查
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  media:
+    if: github.repository == 'guanmo-ai/awesome-ai-motion'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - name: 检查原帖 MP4 响应（非完整播放或质量审查）
+        run: node scripts/check-media.mjs
+      - name: 保存逐条检查报告
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: media-health
+          path: .research/media-health.json
+          retention-days: 14
+          if-no-files-found: error
+          include-hidden-files: true

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {CATEGORIES,FEATURED,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,reviewRank,validReview,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration} from '../assets/gallery-model.mjs';
+import {CATEGORIES,FEATURED,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,reviewRank,validReview,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration,introCases} from '../assets/gallery-model.mjs';
 const {cases}=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url)));
 const defaults=readState('https://example.com/gallery/');
 test('all works including briefs are discoverable by use, without changing source data',()=>{
@@ -80,4 +80,27 @@ test('分页首批 36 条，下一批只追加剩余项，边界不重复',()=>{
   assert.deepEqual(second.visible.slice(36).map(c=>c.id),input.slice(36,72).map(c=>c.id));assert.equal(second.remaining,1);
   assert.equal(third.visible.length,73);assert.equal(third.remaining,0);
   assert.deepEqual(pageCases(input.slice(0,36)).visible.length,36);
+});
+test('访客首页从六张真实封面跨类别进入，导览不改变精选和完整审片状态',()=>{
+  const before=structuredClone(cases),intro=introCases(cases);
+  assert.equal(intro.length,6);
+  assert.equal(new Set(intro.map(categoryOf)).size,6);
+  assert.equal(new Set(intro.map(c=>c.author.handle.toLowerCase())).size,6);
+  for(const c of intro){assert.ok(coverPath(c.cover.path));assert.ok(fs.existsSync(new URL(`../${c.cover.path}`,import.meta.url)));assert.ok(safeUrl(c.source.url));}
+  assert.deepEqual(cases,before);
+  const hidden=cases.map(item=>item.id===intro[0].id?{...item,review:{later:true,highlights:[]}}:item);
+  assert.equal(introCases(hidden).some(item=>item.id===intro[0].id),false,'入口导览仍须尊重人工排后');
+  const mock=(id,category,handle,guide,stage)=>({id,category,author:{handle},guide,stage,cover:{path:`assets/covers/${id}.jpg`},source:{url:`https://x.com/${handle}/status/${id}`},metrics:{bookmarks:0}});
+  const rows=[mock('1','短动效','a',undefined,'catalogued'),mock('2','知识讲解','b',{takeawayZh:'观察节奏'},'catalogued'),mock('3','产品宣传','c',undefined,'catalogued'),mock('4','叙事短片','d',undefined,'discovery')];
+  assert.equal(introCases(rows,1)[0].id,'2');
+  assert.equal(isFeatured(rows[1]),false);
+  assert.equal(rows[1].fullReview,undefined);
+});
+test('静态访客的管理入口初始隐藏，本地检测后仍需主动打开',()=>{
+  const page=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
+  const script=fs.readFileSync(new URL('../assets/gallery.mjs',import.meta.url),'utf8');
+  assert.match(page,/<button id="manage-works"[^>]*aria-pressed="false" hidden>/);
+  assert.match(page,/<button id="deleted-works"[^>]*hidden>/);
+  assert.match(script,/let curator=null,managing=false/);
+  assert.match(script,/if\(curator&&managing\).*featuredControl/);
 });

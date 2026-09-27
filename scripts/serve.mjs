@@ -44,9 +44,9 @@ export function createGalleryServer(base=root) {
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)) {
   const server=createGalleryServer();
-  const port=Number(process.env.PORT||4173);
+  const port=Number(process.env.PORT||4178);
   server.on('error',error=>{
-    console.error(error.code==='EADDRINUSE'?`端口 ${port} 已占用，请用 PORT=4178 node scripts/serve.mjs 指定其他端口。`:`无法启动预览：${error.message}`);
+    console.error(error.code==='EADDRINUSE'?`端口 ${port} 已占用，请用 PORT=4179 node scripts/serve.mjs 指定其他端口。`:`无法启动预览：${error.message}`);
     process.exitCode=1;
   });
   server.listen(port,'127.0.0.1',()=>console.log(`作品画廊：http://127.0.0.1:${port}`));
