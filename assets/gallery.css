@@ -50,3 +50,15 @@ button:disabled{opacity:.55;cursor:wait}.delete-status{color:#a63827}
 @media(max-width:520px){.header-links{flex-basis:100%;justify-content:flex-start}.header-links #language{margin-left:auto}.intro-meta{display:block}.creator-credit{margin-top:3px}}
 
 .card-bookmarks{margin-left:auto;font-variant-numeric:tabular-nums;white-space:nowrap;color:#56584f}
+
+.sidebar .page-navigation{padding-bottom:12px;margin-bottom:20px;border-bottom:1px solid var(--border)}
+.page-navigation button{border:0;background:transparent;text-align:left;padding:11px 13px;border-radius:8px;font-size:14px;font-weight:600}
+.page-navigation button:hover{background:#efeee8}
+.page-navigation button[aria-current="page"]{background:#f0e3dc;color:#a73521}
+.viewer-navigation{display:flex;align-items:center;justify-content:center;gap:9px;flex-shrink:0}
+.viewer-header .viewer-navigation button{width:auto;height:auto;padding:7px 10px;border:1px solid var(--border);border-radius:7px;background:transparent;font-size:12px;font-weight:600;line-height:1.3;white-space:nowrap}
+.viewer-header .viewer-navigation button:hover:not(:disabled){background:#f0e3dc;border-color:#d8b8a9}
+.viewer-header .viewer-navigation button:disabled{opacity:.42;cursor:default}
+.viewer-navigation span{min-width:54px;text-align:center;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.viewer-header>p{flex:1 1 auto}
+@media(max-width:760px){.sidebar .page-navigation{margin-bottom:14px;padding-bottom:10px}.page-navigation button{padding:8px 11px;font-size:12px}.viewer-header{flex-wrap:wrap}.viewer-navigation{order:3;width:100%;padding-bottom:2px}.viewer-header #close{order:2;flex-shrink:0}}

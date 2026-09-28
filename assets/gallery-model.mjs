@@ -33,11 +33,13 @@ export function tagsOf(item, lang = 'zh') {
 export function readState(input) {
   const url = input instanceof URL ? input : new URL(input, 'https://gallery.local');
   const p = url.searchParams;
-  return {category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', view:['featured','catalogued','discovery'].includes(p.get('view')) ? p.get('view') : 'all', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
+  const hasListQuery=(p.has('category')&&CATEGORIES.some(c=>c.id===p.get('category'))) || Boolean(p.get('q')?.trim()) || ['featured','latest','bookmarks'].includes(p.get('sort')) || p.get('playable')==='1' || ['featured','catalogued','discovery','all'].includes(p.get('view')) || ['short','medium','long','all'].includes(p.get('duration')) || ['original','brief','unknown','all'].includes(p.get('prompt'));
+  return {page:p.get('page')==='all'||hasListQuery?'all':'home', category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', view:['featured','catalogued','discovery'].includes(p.get('view')) ? p.get('view') : 'all', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
 }
 export function stateUrl(state, base) {
   const url = new URL(base);
-  for (const key of ['category','q','sort','playable','view','duration','prompt','lang']) url.searchParams.delete(key);
+  for (const key of ['page','category','q','sort','playable','view','duration','prompt','lang']) url.searchParams.delete(key);
+  if (state.page === 'all' || (state.category && state.category !== 'all') || state.query || (state.sort && state.sort !== 'bookmarks') || state.playable || (state.view && state.view !== 'all') || (state.duration && state.duration !== 'all') || (state.prompt && state.prompt !== 'all')) url.searchParams.set('page','all');
   if (state.category !== 'all') url.searchParams.set('category', state.category);
   if (state.query) url.searchParams.set('q', state.query);
   if (state.sort && state.sort !== 'bookmarks') url.searchParams.set('sort', state.sort);
@@ -70,6 +72,10 @@ export function selectCases(cases, state) {
     if (state.sort === 'bookmarks') return byBookmarks(a,b);
     return stamp(b)-stamp(a) || a.id.localeCompare(b.id);
   });
+}
+export function detailNeighbors(cases, state) {
+  const items=selectCases(cases,state), index=items.findIndex(item=>item.id===state.caseId);
+  return {total:items.length,index,previous:index>0?items[index-1]:null,next:index>=0&&index<items.length-1?items[index+1]:null};
 }
 export function categoryCounts(cases, state) {
   const counts = Object.fromEntries(CATEGORIES.map(c => [c.id,0]));
