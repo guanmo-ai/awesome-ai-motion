@@ -6,6 +6,8 @@
 
 **[▶ 打开在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/)**
 
+由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。
+
 [简体中文](README.md) · [English](README.en.md) · [本地画廊](#local-gallery) · [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
 245 个视频参考 · 53 份作者公开提示词 · 中英双语

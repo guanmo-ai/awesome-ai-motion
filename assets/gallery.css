@@ -40,3 +40,11 @@ button:disabled{opacity:.55;cursor:wait}.delete-status{color:#a63827}
 @media(max-width:420px){.intro-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.intro-grid .card-title{font-size:13px}.intro-grid .card-meta{font-size:11px}.intro-grid .card-play>span{width:28px;height:28px}.intro-grid .watch-mode{display:none}}
 .work-guide .guide-note{font-size:11px;color:var(--muted);margin:0 0 8px}.work-guide .guide-evidence{display:block;border:0;padding:0;margin-top:10px}.guide-evidence summary{font-size:11px;font-weight:500;color:var(--muted)}.guide-evidence a{display:inline-block;margin:8px 12px 0 0}
 .brand{flex-shrink:0;white-space:nowrap}
+
+/* Keep the maintainer visible without adding a separate promotional panel. */
+.header-links .follow-creator{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:9px 14px;border:1px solid #d8b8a9;border-radius:7px;background:#f0e3dc;color:#96341f;font-weight:650;white-space:nowrap}
+.header-links .follow-creator:hover{background:#ead5ca;border-color:#c99b86}
+.intro-meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 20px;margin-top:10px;font-size:11px;line-height:1.8;color:var(--muted)}
+.intro-meta p{margin:0}.creator-credit{display:flex;flex-wrap:wrap;gap:4px 8px}.creator-credit a{color:#96341f;text-decoration:underline;text-decoration-color:#d8b8a9;text-underline-offset:3px}.creator-credit a:hover{text-decoration-color:currentColor}
+@media(max-width:760px){.site-header{flex-wrap:wrap;gap:14px}.header-links{flex:1;justify-content:flex-end;flex-wrap:wrap;gap:10px 14px}.header-links .follow-creator{min-height:36px;padding:7px 10px;font-size:12px}.intro-meta{gap:3px 16px;margin-top:8px}}
+@media(max-width:520px){.header-links{flex-basis:100%;justify-content:flex-start}.header-links #language{margin-left:auto}.intro-meta{display:block}.creator-credit{margin-top:3px}}

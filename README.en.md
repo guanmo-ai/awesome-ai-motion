@@ -6,6 +6,8 @@ Open the gallery to watch by category, meet the creators and explore public prom
 
 **[▶ Open the gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)**
 
+Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.
+
 [简体中文](README.md) · [English](README.en.md) · [Local gallery](#local-gallery) · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
 245 video references · 53 creator prompts · Chinese & English

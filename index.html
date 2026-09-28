@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="referrer" content="no-referrer">
   <meta name="description" content="按用途发现 AI 视频与动效。观看作品，探索作者公开的提示词与制作来源。">
+  <meta name="author" content="观默 · @guanmo_ai">
   <meta name="theme-color" content="#f8f7f3">
   <title>Awesome AI Motion · 作品画廊</title>
   <link rel="stylesheet" href="./assets/gallery.css">
@@ -15,6 +16,7 @@
   <header class="site-header">
     <a class="brand" href="./" aria-label="Awesome AI Motion"><span class="brand-mark" aria-hidden="true">a<span>m</span></span><span>Awesome<br><strong>AI Motion</strong></span></a>
     <nav class="header-links" aria-label="网站导航 / Navigation">
+      <a id="follow-creator" class="follow-creator" href="https://x.com/guanmo_ai" target="_blank" rel="noopener noreferrer">关注观默 ↗</a>
       <a href="https://github.com/guanmo-ai/awesome-ai-motion" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
       <button id="manage-works" type="button" aria-pressed="false" hidden>管理作品</button>
       <button id="deleted-works" type="button" hidden>已删除 · 0</button>
@@ -28,7 +30,7 @@
       <div class="sidebar-note"><span class="little-star" aria-hidden="true">✳</span><p id="curation-note">看见好作品，<br>找到下一次创作的灵感。</p><a id="submit" href="https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml" target="_blank" rel="noopener noreferrer">推荐作品 ↗</a></div>
     </aside>
     <section class="collection" aria-labelledby="collection-title">
-      <div class="intro"><p class="eyebrow" id="intro-label">作品与创作线索</p><h1 id="collection-title">值得一看的 AI 动效。</h1><p id="intro-text">看作品，认识作者，找到下一次创作的灵感。</p><p id="coverage-count" class="coverage-count"></p></div>
+      <div class="intro"><p class="eyebrow" id="intro-label">作品与创作线索</p><h1 id="collection-title">值得一看的 AI 动效。</h1><p id="intro-text">看作品，认识作者，找到下一次创作的灵感。</p><div class="intro-meta"><p id="coverage-count" class="coverage-count"></p><p class="creator-credit"><span id="creator-role">发起与维护</span><a href="https://x.com/guanmo_ai" target="_blank" rel="noopener noreferrer"><span id="creator-name">观默</span> · @guanmo_ai ↗</a></p></div></div>
       <div class="toolbar">
         <label class="search"><span aria-hidden="true">⌕</span><span class="sr-only" id="search-label">搜索作品、作者或风格</span><input id="search" type="search" aria-labelledby="search-label" placeholder="搜索作品、作者或风格…" autocomplete="off"></label>
         <label class="sort"><span class="sr-only" id="sort-label">排序</span><select id="sort" aria-labelledby="sort-label"><option value="featured">推荐浏览</option><option value="latest">最新发布</option><option value="bookmarks">收藏最多 · 快照</option></select></label>
