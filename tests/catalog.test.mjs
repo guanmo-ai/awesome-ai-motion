@@ -266,7 +266,7 @@ test('发现池需要作者声明与原媒体，未知提示词不能伪装原�
 test('首页每个非空类别都有最多三张对应封面与完整分类入口',()=>{
   for(const en of [false,true]) {
     const readme=buildOutputs(catalog).get(`README${en?'.en':''}.md`);
-    const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|分类推荐优先|Category recommendations)/gs)];
+    const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)];
     assert.equal(sections.length,new Set(catalog.cases.map(c=>c.category)).size);
     for(const [,slug,body] of sections) {
       const ids=[...body.matchAll(/<td[^>]*>.*?<a href="cases\/(\d+)(?:\.en)?\.md">(?:案例详情与来源|Case details & sources)<\/a>/gs)].map(m=>m[1]);
@@ -279,14 +279,21 @@ test('首页每个非空类别都有最多三张对应封面与完整分类入�
 });
 
 
-test('发现池总览可达，整类排后保留完整分类入口但不生成空卡片表',()=>{
+test('首页和分类预览按收藏展示，人工排后不改变收藏榜，发现池仍可达',()=>{
   const copy=structuredClone(catalog),category=copy.cases[0].category;
   for(const c of copy.cases)if(c.category===category)c.review={highlights:[],later:true,featured:false};
+  const ranked=[...copy.cases].sort((a,b)=>(b.metrics.bookmarks??-1)-(a.metrics.bookmarks??-1)||Date.parse(b.source.publishedAt)-Date.parse(a.source.publishedAt)||a.id.localeCompare(b.id));
+  const ids=body=>[...body.matchAll(/<a href="cases\/(\d+)(?:\.en)?\.md">(?:案例详情与来源|Case details & sources)<\/a>/g)].map(m=>m[1]);
   for(const en of [false,true]) {
     const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
+    const intro=readme.split(`## ${en?'Most bookmarked':'收藏最多'}`)[1].split('<a id="featured">')[0];
+    assert.deepEqual(ids(intro),ranked.slice(0,6).map(c=>c.id));
+    assert.ok(intro.includes(`${en?'Bookmarks':'收藏'} ${ranked[0].metrics.bookmarks.toLocaleString('en-US')}`));
     assert.ok(readme.includes(`](browse/discoveries${en?'.en':''}.md)`));
+    for(const [,body] of readme.matchAll(/<a id="category-[^"]+"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)) {
+      const actual=ids(body),source=copy.cases.find(c=>c.id===actual[0]).category;
+      assert.deepEqual(actual,ranked.filter(c=>c.category===source).slice(0,3).map(c=>c.id));
+    }
     assert.doesNotMatch(readme,/<table>\s*<\/table>/);
-    assert.ok(readme.includes(en?'No recommendations here yet':'此处暂无推荐'));
-    for(const c of copy.cases.filter(c=>c.category===category))assert.ok(!readme.includes(`cases/${c.id}`));
   }
 });

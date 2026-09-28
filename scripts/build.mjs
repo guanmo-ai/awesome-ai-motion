@@ -62,7 +62,7 @@ function cover(c,prefix='',width=640,url=c.source.url) {
   return `[<img src="${prefix}${c.cover.path}" width="${Math.min(width,c.cover.width)}" alt="${html(c.titleEn)}">](${url})`;
 }
 function watchUrl(c,en) {
-  return c.webPlayback ? stateUrl({category:'all',sort:'featured',lang:en?'en':'zh',caseId:c.id},SITE).href : c.source.url;
+  return c.webPlayback ? stateUrl({category:'all',sort:'bookmarks',lang:en?'en':'zh',caseId:c.id},SITE).href : c.source.url;
 }
 function relatedLinks(c,en) {
   const links=[];
@@ -102,7 +102,7 @@ function renderCards(cases,en,prefix='',columns=2) {
     for(const c of cases.slice(i,i+columns)) {
       const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
       const watch=watchUrl(c,en);
-      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong><br><small>${c.webPlayback?choose(en,'点击封面播放','Click cover to play'):choose(en,'点击封面前往 X 原帖','Click cover to open X')}</small></a><br><sub>${html(category(c,en))} · ${duration(c)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${watch}">${c.webPlayback?choose(en,'▶ 打开画廊播放','▶ Open gallery to play'):choose(en,'▶ 在 X 原帖观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'案例详情与来源','Case details & sources')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
+      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong><br><small>${c.webPlayback?choose(en,'点击封面播放','Click cover to play'):choose(en,'点击封面前往 X 原帖','Click cover to open X')}</small></a><br><sub>${html(category(c,en))} · ${duration(c)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${watch}">${c.webPlayback?choose(en,'▶ 打开画廊播放','▶ Open gallery to play'):choose(en,'▶ 在 X 原帖观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'案例详情与来源','Case details & sources')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
     }
     out+='</tr>\n';
   }
@@ -129,16 +129,16 @@ function renderReadme(cases,en) {
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
-    `## ${choose(en,'从这些作品开始','Start here')}\n\n`+
+    `## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+
     renderCards(introCases(cases),en,'',3)+`\n\n`+
     `<a id="featured"></a>\n\n<details>\n<summary>${choose(en,'策展人标记的作品','Curator selections')}</summary>\n\n`+
     renderCards(selected,en,'',3)+`\n\n</details>\n\n`;
   for(const [zh,english,slug] of CATEGORIES) {
     const group=cases.filter(c=>c.category===zh);if(!group.length)continue;
     out+=`<a id="category-${slug}"></a>\n\n## ${en?english:displayZh(zh)}\n\n`+
-      renderCards(recommendedCases(cases,zh),en,'',3)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
+      renderCards(recommendedCases(cases,zh,3,'bookmarks'),en,'',3)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
   }
-  out+=`${choose(en,'分类推荐优先已有精选与已编目作品，作为浏览起点；待审看标记不代表完整质量审核。','Category recommendations prioritize curated and catalogued works as browsing entry points, not a completed quality review.')}\n\n`+
+  out+=`${choose(en,'首页及分类预览按收藏快照从多到少排列，非实时榜单；收藏数不代表完整质量审核。','Homepage and category previews rank by bookmark snapshots, not live counts or a completed quality review.')}\n\n`+
     `${catalogued} ${choose(en,'条来源资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池待审看','discovery records awaiting review')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池待审看','0 discovery records awaiting review')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
     `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'项目验收标准','Project acceptance criteria')}](docs/QUALITY.md)\n\n`+
     `${choose(en,'点击封面打开画廊播放；没有画廊视频时会前往作者 X 原帖。案例详情保留来源与提示词。','Click a cover to play in the gallery; works without gallery video open on the creator’s X post. Case pages retain sources and prompts.')}\n\n`+

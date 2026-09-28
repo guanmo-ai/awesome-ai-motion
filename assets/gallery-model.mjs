@@ -33,14 +33,14 @@ export function tagsOf(item, lang = 'zh') {
 export function readState(input) {
   const url = input instanceof URL ? input : new URL(input, 'https://gallery.local');
   const p = url.searchParams;
-  return {category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'featured', playable:p.get('playable') === '1', view:['featured','catalogued','discovery'].includes(p.get('view')) ? p.get('view') : 'all', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
+  return {category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', view:['featured','catalogued','discovery'].includes(p.get('view')) ? p.get('view') : 'all', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
 }
 export function stateUrl(state, base) {
   const url = new URL(base);
   for (const key of ['category','q','sort','playable','view','duration','prompt','lang']) url.searchParams.delete(key);
   if (state.category !== 'all') url.searchParams.set('category', state.category);
   if (state.query) url.searchParams.set('q', state.query);
-  if (state.sort !== 'featured') url.searchParams.set('sort', state.sort);
+  if (state.sort && state.sort !== 'bookmarks') url.searchParams.set('sort', state.sort);
   if (state.playable) url.searchParams.set('playable', '1');
   if (state.view && state.view !== 'all') url.searchParams.set('view', state.view);
   if (state.duration && state.duration !== 'all') url.searchParams.set('duration', state.duration);
@@ -62,11 +62,12 @@ export function matches(item, state, ignoreCategory = false) {
 }
 const stamp = item => Date.parse(item.source?.publishedAt) || 0;
 const bookmarks = item => Number.isFinite(item.metrics?.bookmarks) ? item.metrics.bookmarks : -1;
+const byBookmarks = (a,b) => bookmarks(b)-bookmarks(a) || stamp(b)-stamp(a) || a.id.localeCompare(b.id);
 export function selectCases(cases, state) {
   const rank = item => isFeatured(item) ? (FEATURED.includes(item.id) ? FEATURED.indexOf(item.id) : FEATURED.length) : FEATURED.length+1;
   return cases.filter(item => matches(item,state)).sort((a,b) => {
     if (state.sort === 'featured') { const preference=reviewRank(b)-reviewRank(a);if(preference)return preference;const diff = rank(a)-rank(b); if(diff) return diff; }
-    if (state.sort === 'bookmarks') { const diff = bookmarks(b)-bookmarks(a); if(diff) return diff; }
+    if (state.sort === 'bookmarks') return byBookmarks(a,b);
     return stamp(b)-stamp(a) || a.id.localeCompare(b.id);
   });
 }
@@ -101,30 +102,17 @@ export function reviewLabels(item,lang='zh') {
 }
 
 
-// Category entry points prefer existing curation, then catalogued works and source snapshots.
-export function recommendedCases(items, source, limit=3) {
+// Editorial recommendations stay available; homepage previews choose bookmark order.
+export function recommendedCases(items, source, limit=3, sort='featured') {
+  if(sort==='bookmarks')return items.filter(c=>c.category===source).sort(byBookmarks).slice(0,limit);
   return items.filter(c=>c.category===source&&!c.review?.later).sort((a,b)=>
     reviewRank(b)-reviewRank(a) || (stageOf(a)==='catalogued'?0:1)-(stageOf(b)==='catalogued'?0:1) ||
     bookmarks(b)-bookmarks(a) || a.id.localeCompare(b.id)).slice(0,limit);
 }
 
-// A cross-category route into the collection. This is independent of featured
-// status and does not imply a complete audiovisual review.
-const INTRO_ROUTE=['2103502614134718609','2103099194693271874','2102786378282987591','2103757767727255661','2102801274173587569','2103746671591256286'];
+// Homepage order follows public bookmark snapshots, independent of editorial review.
 export function introCases(items, limit=6) {
-  const eligible=items.filter(item=>!item.review?.later && categoryOf(item)!=='all' && coverPath(item.cover?.path) && safeUrl(item.source?.url));
-  const priority=item=>stageOf(item)==='catalogued'?(item.guide?3:2):(item.guide?1:0);
-  const route=item=>INTRO_ROUTE.includes(item.id)?INTRO_ROUTE.indexOf(item.id):INTRO_ROUTE.length;
-  const ordered=eligible.sort((a,b)=>
-    route(a)-route(b) ||
-    priority(b)-priority(a) ||
-    bookmarks(b)-bookmarks(a) || String(a.id).localeCompare(String(b.id)));
-  const chosen=[],usedIds=new Set(),authors=new Set(),categories=new Set();
-  const add=item=>{chosen.push(item);usedIds.add(item.id);authors.add(item.author?.handle?.toLowerCase());categories.add(categoryOf(item));};
-  for(const item of ordered) if(chosen.length<limit && !categories.has(categoryOf(item)) && !authors.has(item.author?.handle?.toLowerCase())) add(item);
-  for(const item of ordered) if(chosen.length<limit && !usedIds.has(item.id) && !authors.has(item.author?.handle?.toLowerCase())) add(item);
-  for(const item of ordered) if(chosen.length<limit && !usedIds.has(item.id)) add(item);
-  return chosen;
+  return items.filter(item=>categoryOf(item)!=='all' && coverPath(item.cover?.path) && safeUrl(item.source?.url)).sort(byBookmarks).slice(0,limit);
 }
 
 export function relatedCases(items, current, limit=3) {

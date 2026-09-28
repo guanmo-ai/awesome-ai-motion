@@ -11,6 +11,14 @@ test('分类推荐尊重人工评价，不跨类别，不把推荐变成精选�
   assert.deepEqual(recommendedCases(input,'不存在'),[]);
   assert.deepEqual(input,before);
 });
+test('首页类别预览按收藏快照排序，包含人工排后作品并将未知值排在零之后',()=>{
+  const row=(id,category,bookmarks,review)=>({id,category,metrics:{bookmarks},review});
+  const input=[row('unknown','短动效',null),row('zero','短动效',0),row('top','短动效',100,{highlights:[],later:true}),row('featured','短动效',1,{highlights:[],later:false,featured:true}),row('other','产品宣传',1000)];
+  const before=structuredClone(input);
+  assert.deepEqual(recommendedCases(input,'短动效',3,'bookmarks').map(c=>c.id),['top','featured','zero']);
+  assert.deepEqual(recommendedCases(input,'短动效',10,'bookmarks').map(c=>c.id),['top','featured','zero','unknown']);
+  assert.deepEqual(input,before);
+});
 test('同类相关推荐排除当前作品，返回列表仍保留组合筛选',()=>{
   const row=(id,category,prompt,duration)=>({id,category,title:'动效作品',author:{handle:id},source:{publishedAt:'2026-01-01'},prompt:{status:prompt},media:{durationSeconds:duration}});
   const input=[row('1','短动效','original',20),row('2','短动效','original',25),row('3','短动效','brief',60),row('4','短动效','unknown',100),row('5','产品宣传','original',20)];

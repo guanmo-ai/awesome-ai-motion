@@ -4,6 +4,16 @@ import fs from 'node:fs';
 import {CATEGORIES,FEATURED,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,reviewRank,validReview,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration,introCases} from '../assets/gallery-model.mjs';
 const {cases}=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url)));
 const defaults=readState('https://example.com/gallery/');
+test('默认按收藏排序，分享链接省略默认值并保留显式精选',()=>{
+  assert.equal(defaults.sort,'bookmarks');
+  const defaultUrl=stateUrl(defaults,'https://example.com/gallery/?sort=featured&unrelated=keep');
+  assert.equal(defaultUrl.searchParams.has('sort'),false);
+  assert.equal(defaultUrl.searchParams.get('unrelated'),'keep');
+  assert.deepEqual(readState(defaultUrl),defaults);
+  const featuredUrl=stateUrl({...defaults,sort:'featured'},defaultUrl);
+  assert.equal(featuredUrl.searchParams.get('sort'),'featured');
+  assert.deepEqual(readState(featuredUrl),{...defaults,sort:'featured'});
+});
 test('all works including briefs are discoverable by use, without changing source data',()=>{
   assert.equal(selectCases(cases,defaults).length,cases.length);
   const briefs=cases.filter(c=>c.prompt.status==='brief');
@@ -11,7 +21,7 @@ test('all works including briefs are discoverable by use, without changing sourc
   assert.equal(CATEGORIES.length,8);
 });
 test('featured IDs lead the gallery in curated order and sorting never mutates catalog',()=>{
-  const unrated=cases.map(({review,...item})=>item),order=cases.map(c=>c.id),featured=FEATURED.filter(id=>order.includes(id));assert.deepEqual(selectCases(unrated,defaults).slice(0,featured.length).map(c=>c.id),featured);assert.deepEqual(cases.map(c=>c.id),order);
+  const unrated=cases.map(({review,...item})=>item),order=cases.map(c=>c.id),featured=FEATURED.filter(id=>order.includes(id));assert.deepEqual(selectCases(unrated,{...defaults,sort:'featured'}).slice(0,featured.length).map(c=>c.id),featured);assert.deepEqual(cases.map(c=>c.id),order);
 });
 test('filters combine category, multilingual search and supported playback; counts share filters',()=>{
   if(!cases.length)return;
@@ -43,18 +53,18 @@ test('保留无 Referer 策略，避免原媒体服务拒绝独立画廊的浏�
   assert.match(page,/<meta\s+name="referrer"\s+content="no-referrer"\s*>/);
 });
 
-test('评价覆盖默认精选权重但不改变最新和收藏排序，排后的作品仍可搜索',()=>{
+test('评价只改变显式精选排序，不改变最新和收藏排序，排后的作品仍可搜索',()=>{
   const row=(id,review,date,bookmarks)=>({id,review,title:'测试作品',source:{publishedAt:date},metrics:{bookmarks}});
   const input=[row(FEATURED[0],{highlights:[],later:true},'2026-01-03',30),row('normal',undefined,'2026-01-02',20),row('favorite',{highlights:['motion','overall'],later:false},'2026-01-01',10)];
-  assert.deepEqual(selectCases(input,defaults).map(c=>c.id),['favorite','normal',FEATURED[0]]);
+  assert.deepEqual(selectCases(input,{...defaults,sort:'featured'}).map(c=>c.id),['favorite','normal',FEATURED[0]]);
   for(const sort of ['latest','bookmarks'])assert.deepEqual(selectCases(input,{...defaults,sort}).map(c=>c.id),[FEATURED[0],'normal','favorite']);
   assert.equal(selectCases(input,{...defaults,query:'测试作品'}).length,3);
 });
-test('明确精选可覆盖内置名单，取消精选保留优点评价且只改变默认排序',()=>{
+test('明确精选可覆盖内置名单，取消精选保留优点评价且只改变精选排序',()=>{
   const row=(id,review,date)=>({id,review,title:'测试作品',source:{publishedAt:date},metrics:{bookmarks:0}});
   const input=[row(FEATURED[0],{highlights:[],later:false,featured:false},'2026-01-04'),row(FEATURED[1],undefined,'2026-01-03'),row('manual',{highlights:[],later:false,featured:true},'2026-01-01'),row('liked',{highlights:['motion'],later:false,featured:false},'2026-01-02')];
   assert.equal(isFeatured(input[0]),false);assert.equal(isFeatured(input[1]),true);
-  assert.deepEqual(selectCases(input,defaults).map(c=>c.id),[FEATURED[1],'manual','liked',FEATURED[0]]);
+  assert.deepEqual(selectCases(input,{...defaults,sort:'featured'}).map(c=>c.id),[FEATURED[1],'manual','liked',FEATURED[0]]);
   assert.deepEqual(selectCases(input,{...defaults,sort:'latest'}).map(c=>c.id),[FEATURED[0],FEATURED[1],'liked','manual']);
   assert.equal(reviewRank(input[1]),2);
   assert.equal(validReview({highlights:['motion'],later:false,featured:false}),true);
@@ -81,20 +91,21 @@ test('分页首批 36 条，下一批只追加剩余项，边界不重复',()=>{
   assert.equal(third.visible.length,73);assert.equal(third.remaining,0);
   assert.deepEqual(pageCases(input.slice(0,36)).visible.length,36);
 });
-test('访客首页从六张真实封面跨类别进入，导览不改变精选和完整审片状态',()=>{
+test('访客首页按原帖收藏快照展示全库前六名，且不修改内容源',()=>{
   const before=structuredClone(cases),intro=introCases(cases);
   assert.equal(intro.length,6);
-  assert.equal(new Set(intro.map(categoryOf)).size,6);
-  assert.equal(new Set(intro.map(c=>c.author.handle.toLowerCase())).size,6);
+  const expected=[...cases].sort((a,b)=>(b.metrics.bookmarks??-1)-(a.metrics.bookmarks??-1)).slice(0,6);
+  assert.deepEqual(intro.map(c=>c.id),expected.map(c=>c.id));
   for(const c of intro){assert.ok(coverPath(c.cover.path));assert.ok(fs.existsSync(new URL(`../${c.cover.path}`,import.meta.url)));assert.ok(safeUrl(c.source.url));}
   assert.deepEqual(cases,before);
-  const hidden=cases.map(item=>item.id===intro[0].id?{...item,review:{later:true,highlights:[]}}:item);
-  assert.equal(introCases(hidden).some(item=>item.id===intro[0].id),false,'入口导览仍须尊重人工排后');
-  const mock=(id,category,handle,guide,stage)=>({id,category,author:{handle},guide,stage,cover:{path:`assets/covers/${id}.jpg`},source:{url:`https://x.com/${handle}/status/${id}`},metrics:{bookmarks:0}});
-  const rows=[mock('1','短动效','a',undefined,'catalogued'),mock('2','知识讲解','b',{takeawayZh:'观察节奏'},'catalogued'),mock('3','产品宣传','c',undefined,'catalogued'),mock('4','叙事短片','d',undefined,'discovery')];
-  assert.equal(introCases(rows,1)[0].id,'2');
-  assert.equal(isFeatured(rows[1]),false);
-  assert.equal(rows[1].fullReview,undefined);
+});
+test('首页收藏前六名不设作者或类别配额，人工排后仍按收藏入选，未知值排在零之后',()=>{
+  const row=(id,bookmarks,review)=>({id,category:'短动效',author:{handle:'same-author'},review,cover:{path:`assets/covers/${id}.jpg`},source:{url:`https://x.com/same-author/status/${id}`},metrics:{bookmarks}});
+  const rows=[row('low',1,{highlights:[],later:false,featured:true}),row('top',100,{highlights:[],later:true}),row('second',90),row('third',80),row('fourth',70),row('fifth',60),row('sixth',50)];
+  const before=structuredClone(rows);
+  assert.deepEqual(introCases(rows).map(c=>c.id),['top','second','third','fourth','fifth','sixth']);
+  assert.deepEqual(introCases([row('unknown',null),row('zero',0),row('positive',2)],3).map(c=>c.id),['positive','zero','unknown']);
+  assert.deepEqual(rows,before);
 });
 test('静态访客的管理入口初始隐藏，本地检测后仍需主动打开',()=>{
   const page=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');

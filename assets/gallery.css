@@ -48,3 +48,5 @@ button:disabled{opacity:.55;cursor:wait}.delete-status{color:#a63827}
 .intro-meta p{margin:0}.creator-credit{display:flex;flex-wrap:wrap;gap:4px 8px}.creator-credit a{color:#96341f;text-decoration:underline;text-decoration-color:#d8b8a9;text-underline-offset:3px}.creator-credit a:hover{text-decoration-color:currentColor}
 @media(max-width:760px){.site-header{flex-wrap:wrap;gap:14px}.header-links{flex:1;justify-content:flex-end;flex-wrap:wrap;gap:10px 14px}.header-links .follow-creator{min-height:36px;padding:7px 10px;font-size:12px}.intro-meta{gap:3px 16px;margin-top:8px}}
 @media(max-width:520px){.header-links{flex-basis:100%;justify-content:flex-start}.header-links #language{margin-left:auto}.intro-meta{display:block}.creator-credit{margin-top:3px}}
+
+.card-bookmarks{margin-left:auto;font-variant-numeric:tabular-nums;white-space:nowrap;color:#56584f}

@@ -1,4 +1,4 @@
-import {REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs';
+import {REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs?v=20260928-bookmarks';
 const $ = id => document.getElementById(id);
 let state = readState(location.href), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let curator=null,managing=false,mutationPending=false;
@@ -15,7 +15,7 @@ function date(value) { const parsed=new Date(value); return Number.isNaN(parsed.
 function image(c, lazy=true) { const img=el('img'); img.alt=title(c); img.decoding='async'; if(lazy) img.loading='lazy'; const path=coverPath(c.cover?.path); if(path) img.src=path; img.addEventListener('error',()=>{img.replaceWith(el('span','cover-fallback',t('封面暂时无法显示','Preview unavailable')));},{once:true}); return img; }
 async function copy(text,button,label) { try { await navigator.clipboard.writeText(text); button.textContent=t('已复制','Copied'); } catch { button.textContent=t('复制失败，请选中文字复制','Copy failed; select and copy the text'); } setTimeout(()=>{if(button.isConnected) button.textContent=label;},2500); }
 function navigate(patch,{replace=false,detail=false}={}) { const next={...state,...patch},filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;history[replace?'replaceState':'pushState']({galleryDetail:detail || (replace && Boolean(history.state?.galleryDetail) && Boolean(state.caseId))},'',stateUrl(state,location.href));if(listChanged)render();syncViewer({autoplay:detail,refresh:languageChanged}); }
-function onHome() { return state.category==='all' && !state.query.trim() && state.sort==='featured' && !state.playable && state.view==='all' && state.duration==='all' && state.prompt==='all'; }
+function onHome() { return state.category==='all' && !state.query.trim() && state.sort==='bookmarks' && !state.playable && state.view==='all' && state.duration==='all' && state.prompt==='all'; }
 function renderLanguage() {
   document.documentElement.lang=state.lang==='en'?'en':'zh-CN'; document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');
   $('follow-creator').textContent=t('关注观默 ↗','Follow on X ↗');
@@ -25,7 +25,7 @@ function renderLanguage() {
   const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'collection-title':['值得一看的 AI 动效。','AI motion worth watching.'],'intro-text':['看作品，认识作者，找到下一次创作的灵感。','Watch the work, meet its maker, find your next idea.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'view-label':['馆藏状态','Collection status'],'duration-label':['时长','Duration'],'prompt-label':['提示词','Prompt'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
   for(const [id,words] of Object.entries(strings)) $(id).textContent=t(...words);
   $('search').placeholder=t('搜索作品、作者或风格…','Search works, creators or styles…');
-  [...$('sort').options].forEach((option,i)=>{option.textContent=t(...[['推荐浏览','Recommended browsing'],['最新发布','Newest posts'],['收藏最多 · 快照','Bookmarks · snapshot']][i]);});
+  [...$('sort').options].forEach((option,i)=>{option.textContent=t(...[['收藏最多','Most bookmarked'],['推荐浏览','Recommended browsing'],['最新发布','Newest posts']][i]);});
   [...$('duration').options].forEach((option,i)=>{option.textContent=t(...[['全部时长','Any length'],['30 秒以内','Up to 30s'],['31–120 秒','31–120s'],['超过 120 秒','Over 120s']][i]);});
   [...$('prompt').options].forEach((option,i)=>{option.textContent=t(...[['全部状态','Any prompt'],['作者原文','Original prompt'],['任务描述','Creator brief'],['未公开／未核得','Unpublished / unverified']][i]);});
   $('close').setAttribute('aria-label',t('关闭作品详情','Close work details'));
@@ -46,10 +46,10 @@ function render() {
   const visibleCategories=CATEGORIES.slice(1).filter(item=>counts[item.id]>0);
   $('result-count').textContent=home?'':t(`${category.zh} · ${selected.length} 个作品`,`${category.en} · ${selected.length} works`);
   document.querySelector('.results-bar').classList.toggle('home-results',home);
-  $('sort-note').hidden=state.sort!=='bookmarks'; $('sort-note').textContent=t('收藏数来自各原帖的历史快照，并非实时排名；未知值排在最后，采集时间见作品详情。','Bookmark counts are historical post snapshots, not live rankings. Unknown values sort last; see each work for its capture date.');
+  $('sort-note').hidden=state.sort!=='bookmarks'; $('sort-note').textContent=t('按原帖收藏快照排序，非实时更新。','Based on bookmark snapshots, not live counts.');
   $('works').className=home?'home-sections':'grid';
   if(home) {
-    const intro=el('section','home-section intro-section'),introHeading=el('div','home-heading'),introTitle=el('h2','home-title',t('从这些作品开始','Start here'));
+    const intro=el('section','home-section intro-section'),introHeading=el('div','home-heading'),introTitle=el('h2','home-title',t('收藏最多','Most bookmarked'));
     introTitle.id='group-intro';intro.setAttribute('aria-labelledby',introTitle.id);introHeading.append(introTitle);intro.append(introHeading);
     const introGrid=el('div','grid home-grid intro-grid');introGrid.append(...introCases(cases).map(c=>card(c,true,true)));intro.append(introGrid);
     $('works').replaceChildren(intro,...visibleCategories.map(category=>{
@@ -57,7 +57,7 @@ function render() {
       title.id=`group-${category.id}`;group.setAttribute('aria-labelledby',title.id);
       const more=el('button','home-more',t('查看全部 ↗','See all ↗'));more.type='button';more.setAttribute('aria-label',t(`查看全部${category.zh}作品，共 ${count} 条`,`See all ${category.en} works, ${count} total`));more.addEventListener('click',()=>{navigate({category:category.id,caseId:null});$('works').focus({preventScroll:true});$('works').scrollIntoView({block:'start'});});
       heading.append(title,more);group.append(heading);
-      const recommendations=recommendedCases(cases,category.source);
+      const recommendations=recommendedCases(cases,category.source,3,'bookmarks');
       if(recommendations.length){const grid=el('div','grid home-grid');grid.append(...recommendations.map(c=>card(c,true)));group.append(grid);}
       else group.append(el('p','home-no-recommendations',t('此处暂无推荐，可查看全部作品。','No recommendations here yet. See all works.')));
       return group;
@@ -80,7 +80,7 @@ function card(c,home=false,eager=false) {
   thumb.append(el('span','watch-mode',playable?t('页内播放','Inline player'):t('原帖观看 ↗','Watch original ↗')));
   const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
   button.append(thumb,el(home?'h3':'h2','card-title',title(c)));button.addEventListener('click',()=>{returnFocus=button;navigate({caseId:c.id},{detail:true});});
-  const meta=el('div','card-meta');meta.append(el('span','',`@${c.author.handle}`));if(!home)meta.append(el('span','dot','·'),el('span','',CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]));for(const tag of tagsOf(c,state.lang)) meta.append(el('span','card-tag',tag));article.append(button,meta);if(curator&&managing){const actions=el('div','card-actions');actions.append(featuredControl(c,true),deleteControl(c,true));article.append(actions);}return article;
+  const meta=el('div','card-meta');meta.append(el('span','',`@${c.author.handle}`));if(!home)meta.append(el('span','dot','·'),el('span','',CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]));for(const tag of tagsOf(c,state.lang)) meta.append(el('span','card-tag',tag));if(state.sort==='bookmarks'){const count=Number.isFinite(c.metrics?.bookmarks)?new Intl.NumberFormat(state.lang==='en'?'en-US':'zh-CN').format(c.metrics.bookmarks):'—';meta.append(el('span','card-bookmarks',t(`收藏 ${count}`,`${count} bookmarks`)));}article.append(button,meta);if(curator&&managing){const actions=el('div','card-actions');actions.append(featuredControl(c,true),deleteControl(c,true));article.append(actions);}return article;
 }
 function details(label,text,{copyable=false,source=null}={}) {
   const section=el('details');section.append(el('summary','',label));section.append(el(copyable?'pre':'p','',text));
@@ -229,7 +229,7 @@ async function mutate(action,id,button,errorNode=$('trash-status'),review) {
     curator=data;cases=data.catalog.cases;
     if(action==='delete'){navigate({caseId:null},{replace:true});render();}else render();
     const status=$('curation-status');status.hidden=false;
-    status.textContent=action==='review'?t('精选与评价已保存，默认排序已更新。','Featured choice and review saved. Default order updated.'):action==='delete'?t('已从本地仓库删除，可在右上角「已删除」中恢复。未推送 GitHub。','Deleted locally. Restore via Deleted in the header. Not pushed to GitHub.'):t('已恢复作品及仓库资料。','Work and repository files restored.');
+    status.textContent=action==='review'?t('精选与评价已保存，推荐排序已更新。','Featured choice and review saved. Recommended order updated.'):action==='delete'?t('已从本地仓库删除，可在右上角「已删除」中恢复。未推送 GitHub。','Deleted locally. Restore via Deleted in the header. Not pushed to GitHub.'):t('已恢复作品及仓库资料。','Work and repository files restored.');
     if(action==='delete')$('deleted-works').focus();
     else if(action==='review'){
       const item=cases.find(c=>c.id===id);
@@ -238,7 +238,7 @@ async function mutate(action,id,button,errorNode=$('trash-status'),review) {
         const oldFeature=$('viewer-content').querySelector('.featured-control');
         if(oldFeature)oldFeature.replaceWith(featuredControl(item));
         const oldReview=$('viewer-content').querySelector('.review-control');
-        if(oldReview){const next=reviewControl(item);next.open=oldReview.open;oldReview.replaceWith(next);next.querySelector('.review-status').textContent=t('已保存 · 默认排序已更新','Saved · Default order updated');}
+        if(oldReview){const next=reviewControl(item);next.open=oldReview.open;oldReview.replaceWith(next);next.querySelector('.review-status').textContent=t('已保存 · 推荐排序已更新','Saved · Recommended order updated');}
         if(!fromCard){const target=fromFeature?$('viewer-content').querySelector('.feature-button'):reviewOption?$('viewer-content').querySelector(`[data-review-option="${reviewOption}"]`):null;target?.focus({preventScroll:true});}
       }
     }
@@ -265,7 +265,7 @@ if(location.hostname==='127.0.0.1')try {
 function reviewControl(c) {
   const box=el('details','review-control'),labels=reviewLabels(c,state.lang);
   box.append(el('summary','',t('评价与排序','Review & order')+(labels.length?` · ${labels.join(' · ')}`:'')));
-  box.append(el('p','review-help',t('精选和认可的作品优先，一般的排后。两项优点可同时选择；再次点击可取消。只影响默认排序，作品始终保留。','Featured and liked works come first; average works appear later. Select both strengths, or click again to undo. Only the default order changes; works remain available.')));
+  box.append(el('p','review-help',t('精选和认可的作品优先，一般的排后。两项优点可同时选择；再次点击可取消。只影响推荐排序，作品始终保留。','Featured and liked works come first; average works appear later. Select both strengths, or click again to undo. Only recommended order changes; works remain available.')));
   const controls=el('div','review-options'),status=el('p','review-status');status.setAttribute('role','status');
   for(const option of [...REVIEW_OPTIONS,{id:'later',zh:'一般，排后',en:'Show later'},{id:'reset',zh:'清除评价',en:'Clear review'}]) {
     const button=el('button','review-button',option[state.lang]);button.type='button';button.dataset.reviewOption=option.id;

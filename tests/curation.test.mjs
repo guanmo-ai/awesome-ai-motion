@@ -85,7 +85,9 @@ test('评价保存到仓库并同步排序，删除恢复保留评价，清除�
   s=editor.mutate('review','2',s.revision,{highlights:[],later:true});
   const lower=fs.readFileSync(path.join(root,'browse/motion.md'),'utf8');
   assert.ok(lower.indexOf('cases/1.md')<lower.indexOf('cases/2.md'));
-  assert.ok(!fs.readFileSync(path.join(root,'README.md'),'utf8').includes('cases/2.md'));
+  const home=fs.readFileSync(path.join(root,'README.md'),'utf8');
+  assert.ok(home.includes('cases/2.md'),'人工排后不从首页收藏榜移除作品');
+  assert.ok(!home.split('<a id="featured"></a>')[1].split('<a id="category-')[0].includes('cases/2.md'),'排后作品仍不进入编辑精选');
   assert.throws(()=>editor.mutate('review','2',s.revision,{highlights:['invented'],later:false}),/评价格式/);
   assert.throws(()=>editor.mutate('review','2',s.revision,{highlights:['motion'],later:true}),/评价格式/);
   s=editor.mutate('review','2',s.revision,{highlights:[],later:false});assert.deepEqual(s.catalog,catalog);
