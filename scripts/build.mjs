@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {publicCatalogIssues} from './catalog-privacy.mjs';
 import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl} from '../assets/gallery-model.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -73,7 +74,7 @@ function relatedLinks(c,en) {
 function renderCase(c,{en=false,prefix='',detail=false}={}) {
   let out=`<a id="case-${c.id}"></a>\n\n${detail?'#':'###'} ${md(title(c,en))}\n\n`;
   out+=`**[${md(c.author.name)} · @${md(c.author.handle)}](${c.author.url})** · ${category(c,en)} · ${duration(c)}\n\n`;
-  if(isDiscovery(c))out+=`> ${choose(en,'发现池 · 已核对作者原帖与媒体来源，尚未完整审看。','Discovery pool · Creator post and media source verified; full viewing review pending.')}\n\n`;
+  if(isDiscovery(c))out+=`> ${choose(en,'发现池 · 来源已核对，编目资料待完善。','Discovery pool · Source verified; catalog details being completed.')}\n\n`;
   if(reviewLabels(c,en?'en':'zh').length)out+=`**${choose(en,'策展评价','Curator’s review')}：${reviewLabels(c,en?'en':'zh').join(' · ')}**\n\n`;
   const watch=watchUrl(c,en);
   out+=`**[▶ ${c.webPlayback?choose(en,'打开画廊播放','Open gallery to play'):choose(en,'在 X 原帖观看','Watch on X')}](${watch})**${c.webPlayback?` · [${choose(en,'作者原帖','Original post')}](${c.source.url})`:''}\n\n`+
@@ -102,7 +103,7 @@ function renderCards(cases,en,prefix='',columns=2) {
     for(const c of cases.slice(i,i+columns)) {
       const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
       const watch=watchUrl(c,en);
-      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong><br><small>${c.webPlayback?choose(en,'点击封面播放','Click cover to play'):choose(en,'点击封面前往 X 原帖','Click cover to open X')}</small></a><br><sub>${html(category(c,en))} · ${duration(c)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${watch}">${c.webPlayback?choose(en,'▶ 打开画廊播放','▶ Open gallery to play'):choose(en,'▶ 在 X 原帖观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'案例详情与来源','Case details & sources')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
+      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong><br><small>${c.webPlayback?choose(en,'点击封面播放','Click cover to play'):choose(en,'点击封面前往 X 原帖','Click cover to open X')}</small></a><br><sub>${html(category(c,en))} · ${duration(c)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'资料待完善','Details pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${watch}">${c.webPlayback?choose(en,'▶ 打开画廊播放','▶ Open gallery to play'):choose(en,'▶ 在 X 原帖观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'案例详情与来源','Case details & sources')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
     }
     out+='</tr>\n';
   }
@@ -138,12 +139,12 @@ function renderReadme(cases,en) {
     out+=`<a id="category-${slug}"></a>\n\n## ${en?english:displayZh(zh)}\n\n`+
       renderCards(recommendedCases(cases,zh,3,'bookmarks'),en,'',3)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
   }
-  out+=`${choose(en,'首页及分类预览按收藏快照从多到少排列，非实时榜单；收藏数不代表完整质量审核。','Homepage and category previews rank by bookmark snapshots, not live counts or a completed quality review.')}\n\n`+
-    `${catalogued} ${choose(en,'条来源资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池待审看','discovery records awaiting review')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池待审看','0 discovery records awaiting review')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
-    `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'项目验收标准','Project acceptance criteria')}](docs/QUALITY.md)\n\n`+
+  out+=`${choose(en,'首页及分类预览按收藏快照从多到少排列，并非实时榜单。','Homepage and category previews rank by bookmark snapshots, not live counts.')}\n\n`+
+    `${catalogued} ${choose(en,'条资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池资料待完善','discovery records with details pending')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池资料待完善','0 discovery records with details pending')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
+    `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'收录说明','Collection criteria')}](docs/QUALITY.md)\n\n`+
     `${choose(en,'点击封面打开画廊播放；没有画廊视频时会前往作者 X 原帖。案例详情保留来源与提示词。','Click a cover to play in the gallery; works without gallery video open on the creator’s X post. Case pages retain sources and prompts.')}\n\n`+
     `<details>\n<summary>${choose(en,'关于作品、提示词与来源','About the works, prompts and sources')}</summary>\n\n`+
-    `${choose(en,'作者原帖、完整公开指令、译文与所需素材均保留在作品详情。仅有任务转述的作品会单独标注，仍列在对应分类。公开提示词不保证相同结果，作品尚未逐条独立复现。','Work pages retain original posts, public prompts, translations and required assets. Author briefs are labeled and remain in their relevant categories. Public prompts do not guarantee identical results; works have not been independently reproduced.')}\n\n`+
+    `${choose(en,'作品详情保留作者原帖及已核得的指令资料；译文、素材条件和任务转述按实际资料标注。部分长篇指令仅提供作者原文入口。公开提示词不保证相同结果，作品尚未逐条独立复现。','Work pages link to the creators and verified instruction sources. Translations, asset requirements and author briefs are labeled where available; some long instructions are source links only. Public prompts do not guarantee identical results, and works have not been independently reproduced.')}\n\n`+
     `${choose(en,'画廊播放器引用原帖媒体，失效时提供作者原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。','The gallery player references original media and provides a creator-post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
     `[${choose(en,'来源与排序','Sources and ordering')}](docs/SOURCES.md) · [${choose(en,'第三方内容说明','Third-party content')}](THIRD_PARTY.md)\n\n</details>\n\n`+
     `<a id="local-gallery"></a>\n\n## ${choose(en,'在本机打开可筛选画廊','Run the filterable gallery locally')}\n\n`+
@@ -163,7 +164,7 @@ export function buildOutputs(catalog) {
   }
   for(const en of [false,true]) {
     const discoveries=cases.filter(isDiscovery);
-    if(discoveries.length)outputs.set(`browse/discoveries${en?'.en':''}.md`,`[← ${choose(en,'全部分类','All categories')}](../README${en?'.en':''}.md#browse)\n\n# ${choose(en,'发现池','Discovery pool')}\n\n${discoveries.length} ${choose(en,'条来源已核对、尚待完整审看的作品。此列表不等于精选或已获采用。','source-verified works awaiting full viewing review. This is not an editorial recommendation or acceptance list.')}\n\n`+renderCards(discoveries,en,'../')+'\n');
+    if(discoveries.length)outputs.set(`browse/discoveries${en?'.en':''}.md`,`[← ${choose(en,'全部分类','All categories')}](../README${en?'.en':''}.md#browse)\n\n# ${choose(en,'发现池','Discovery pool')}\n\n${discoveries.length} ${choose(en,'条来源已核对、编目资料待完善的作品。精选另行标记。','source-verified works with catalog details being completed. Featured works are marked separately.')}\n\n`+renderCards(discoveries,en,'../')+'\n');
   }
   for(const c of cases) {
     for(const en of [false,true]) {
@@ -179,18 +180,19 @@ export function buildOutputs(catalog) {
       if(c.media.videoCount>1)doc+=`\n${choose(en,`原帖包含 ${c.media.videoCount} 个视频，本封面对应第一条。`,`The post contains ${c.media.videoCount} videos; this cover shows the first.`)}\n`;
       outputs.set(`cases/${c.id}${en?'.en':''}.md`,doc);
     }
-    if(c.prompt.status!=='unknown')if(c.prompt.display!=='source_link')outputs.set(`prompts/${c.id}.txt`,c.prompt.text+'\n');
+    if(c.prompt.status!=='unknown'&&c.prompt.display!=='source_link')outputs.set(`prompts/${c.id}.txt`,c.prompt.text+'\n');
   }
   return outputs;
 }
 export function validateCatalog(catalog,root=ROOT) {
-  const errors=[];const seen=new Set();
+  const errors=publicCatalogIssues(catalog);const seen=new Set();
   if(catalog.repository!==REPOSITORY)errors.push('目标仓库配置不一致');
   if(!Array.isArray(catalog.cases))return ['案例数据必须是数组'];
   for(const c of catalog.cases) {
     const fail=message=>errors.push(`${c.id}: ${message}`);
     if(c.stage!==undefined&&!['catalogued','discovery'].includes(c.stage))fail('编目阶段无效');
-    if(isDiscovery(c)&&(!c.verification?.authorClaimConfirmed||c.verification?.fullReview!==false||!c.webPlayback))fail('发现池需核对原作者声明和媒体，并标明待审看');
+    if(isDiscovery(c)&&!c.verification?.authorClaimConfirmed)fail('发现池需核对原作者声明');
+    if(c.verification?.fullReview!==undefined&&typeof c.verification.fullReview!=='boolean')fail('可选视听评价状态无效');
     if(c.review!==undefined&&!validReview(c.review))fail('策展评价无效');
     if(seen.has(c.id))fail('重复作品 ID');seen.add(c.id);
     if(!/^\d+$/.test(c.id))fail('作品 ID 无效');
@@ -208,12 +210,15 @@ export function validateCatalog(catalog,root=ROOT) {
     const prompt=c.prompt?.sourceUrl?.match(/^https:\/\/x\.com\/([\w]+)\/status\/(\d+)$/);
     if(!prompt||prompt[1].toLowerCase()!==c.author?.handle?.toLowerCase())fail('提示词作者不一致');
     if(!c.model?.name?.trim()||!c.model?.evidenceUrl||!c.model?.evidenceQuote?.trim()||(!isDiscovery(c)&&!/opus\s*5\.5/i.test(c.model.evidenceQuote||'')))fail('模型依据缺失');
-    if(!['original','brief','unknown'].includes(c.prompt?.status)||(c.prompt.status!=='unknown'&&(c.prompt?.display!=='source_link'&&!c.prompt?.text?.trim()))||(c.prompt.status==='unknown'&&c.prompt.text))fail('提示词状态或内容缺失');
+    const sourceOnly=c.prompt?.display==='source_link';
+    if(c.prompt?.display!==undefined&&!sourceOnly)fail('提示词展示方式无效');
+    if(!['original','brief','unknown'].includes(c.prompt?.status)||(c.prompt.status!=='unknown'&&!sourceOnly&&!c.prompt?.text?.trim())||(c.prompt.status==='unknown'&&c.prompt.text))fail('提示词状态或内容缺失');
+    if(sourceOnly&&(c.prompt.status==='unknown'||c.prompt.text||c.prompt.translationZh))fail('仅原帖入口不能包含提示词全文或译文');
     for(const key of ['bookmarks','likes','views']) {
       const value=c.metrics?.[key];if(value!==null&&(!Number.isSafeInteger(value)||value<0))fail(`${key} 不是非负整数或 null`);
     }
     for(const date of [c.metrics?.checkedAt,c.prompt?.checkedAt,c.verification?.sourceReadAt])if(!date||Number.isNaN(Date.parse(date)))fail('核对时间缺失');
-    if(!c.metrics?.sourceUrl?.startsWith('https://x.com/'))fail('互动快照来源缺失');
+    if(c.metrics?.sourceUrl!==c.source?.url)fail('互动快照来源必须为对应作者原帖');
     const cover=c.cover?.path;
     if(!/^assets\/covers\/\d+\.jpg$/.test(cover||'')||!fs.existsSync(path.join(root,cover)))fail('封面缺失');
     else if(fs.statSync(path.join(root,cover)).size>250_000)fail('封面超过 250 KB');
@@ -231,7 +236,7 @@ export function validateCatalog(catalog,root=ROOT) {
       try {url=new URL(v.url);} catch {}
       if(v.kind!=='external_source_video'||!url||url.protocol!=='https:'||url.hostname!=='video.twimg.com'||url.username||url.password||!url.pathname.endsWith('.mp4')||[...url.searchParams.keys()].some(key=>key!=='tag'))fail('画廊原媒体地址无效');
       if(v.sourcePostUrl!==c.source.url)fail('画廊媒体与原帖记录不一致');
-      if(v.contentType!=='video/mp4'||!v.checkedAt||Number.isNaN(Date.parse(v.checkedAt))||!v.verificationLevel)fail('画廊媒体核对记录缺失');
+      if(v.contentType!=='video/mp4'||!v.checkedAt||Number.isNaN(Date.parse(v.checkedAt))||v.verificationLevel!=='source_media_matched')fail('画廊媒体核对记录缺失');
       if(v.reuploadPermission!=='not_verified')fail('画廊媒体只支持外部引用');
     }
     if(!Number.isSafeInteger(c.cover?.width)||c.cover.width<=0)fail('封面尺寸无效');
@@ -252,6 +257,12 @@ if(process.argv[1] && path.resolve(process.argv[1])===fileURLToPath(import.meta.
     const target=path.join(ROOT,file);
     if(check) {if(!fs.existsSync(target)||fs.readFileSync(target,'utf8')!==content){console.error(`待更新：${file}`);stale++;}}
     else {fs.mkdirSync(path.dirname(target),{recursive:true});fs.writeFileSync(target,content);}
+  }
+  for(const c of catalog.cases.filter(item=>item.prompt.display==='source_link')) {
+    const file=`prompts/${c.id}.txt`,target=path.join(ROOT,file);
+    if(!fs.existsSync(target))continue;
+    if(check){console.error(`不应保留全文文件：${file}`);stale++;}
+    else fs.unlinkSync(target);
   }
   if(stale)process.exit(1);
   console.log(`${check?'校验通过':'已生成'}：${catalog.cases.length} 个案例，README、案例页与纯文本提示词。`);

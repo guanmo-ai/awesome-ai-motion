@@ -1,0 +1,1 @@
+I asked Opus 5.5 to explain gravitational lensing by building an interactive black hole lab

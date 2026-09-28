@@ -7,3 +7,5 @@
 作者公开的指令原文与任务描述分别标记。原文公开不代表完整对话、素材及制作过程均已公开；本站不把任务转述或译文冒充作者原始提示词。详细标记规则见[来源与排序](docs/SOURCES.md)。
 
 若作者归属、原文、模型说明或封面有误，请通过[纠错或移除 Issue](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=correction.yml)提供对应案例及来源。权利人也可在该入口提出移除请求；核对后更正或移除。
+
+公开文件、第三方引用与本地研究的边界见[公开范围说明](docs/PUBLIC_PRIVATE.md)。长篇指令可仅保留作者原文入口；此时不提供全文、译文或文本下载。

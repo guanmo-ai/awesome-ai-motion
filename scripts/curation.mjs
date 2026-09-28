@@ -48,6 +48,16 @@ export function createCuration(root) {
       if(existing&&!existing.equals(cover))fail('封面已有其他内容，未覆盖。');
       const restored=structuredClone(entry.item);
       delete restored.playback;
+      // Older private backups retain provenance details; publish only current public fields.
+      delete restored.prompt.evidenceUrl;
+      delete restored.metrics.method;
+      restored.metrics.sourceUrl=restored.source.url;
+      delete restored.verification.sourceReadUrl;
+      if(restored.webPlayback) {
+        if(restored.webPlayback.verificationMethod)restored.webPlayback.verificationLevel='source_media_matched';
+        delete restored.webPlayback.verificationMethod;
+        delete restored.webPlayback.evidence;
+      }
       after.cases.splice(Math.min(entry.index,after.cases.length),0,restored);
       entry={...entry,status:'restored',restoredAt:new Date().toISOString()};
     }

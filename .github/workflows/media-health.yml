@@ -17,12 +17,3 @@ jobs:
           node-version: '22'
       - name: 检查原帖 MP4 响应（非完整播放或质量审查）
         run: node scripts/check-media.mjs
-      - name: 保存逐条检查报告
-        if: always()
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
-        with:
-          name: media-health
-          path: .research/media-health.json
-          retention-days: 14
-          if-no-files-found: error
-          include-hidden-files: true

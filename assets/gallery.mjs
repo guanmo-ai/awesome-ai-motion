@@ -131,7 +131,7 @@ function showViewer(c,{autoplay=false}={}) {
   const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
   const links=el('div','detail-links');if(safeUrl(c.demoUrl))links.append(link(t('交互体验 ↗','Try the interactive demo ↗'),c.demoUrl,'primary-link'));if(c.codeUrl)links.append(link(t('作者源码 ↗','Creator’s code ↗'),c.codeUrl));links.append(link(t('作者原帖 ↗','Original post ↗'),c.source.url));
   const shareLabel=t('复制作品链接','Copy work link'),share=el('button','share-button',shareLabel);share.type='button';share.addEventListener('click',()=>copy(location.href,share,shareLabel));links.append(share);
-  if(c.prompt.status!=='unknown') {const label=c.prompt.status==='original'?t('复制提示词','Copy prompt'):t('复制任务描述','Copy brief'),button=el('button','share-button',label);button.type='button';button.addEventListener('click',()=>copy(c.prompt.text,button,label));links.append(button);}
+  if(c.prompt.status!=='unknown'&&c.prompt.display!=='source_link') {const label=c.prompt.status==='original'?t('复制提示词','Copy prompt'):t('复制任务描述','Copy brief'),button=el('button','share-button',label);button.type='button';button.addEventListener('click',()=>copy(c.prompt.text,button,label));links.append(button);}
   content.append(player,heading,credits,el('p','detail-summary',state.lang==='en'?c.summaryEn||c.summary:c.summary),links);
   const guide=c.guide;
   if(guide && typeof guide==='object') {
@@ -148,11 +148,13 @@ function showViewer(c,{autoplay=false}={}) {
     }
   }
   const stageNote=stageOf(c)==='discovery'
-    ? t(`发现池 · 已核对原作者声明和视频来源，尚未完整观看与听审。来源核对：${date(c.verification?.sourceReadAt)} UTC。`,`Discovery pool · Creator statement and video source verified; full viewing and listening review pending. Source checked: ${date(c.verification?.sourceReadAt)} UTC.`)
-    : t(`已编目 · 来源资料已整理；编目不表示已完成整片音画审看。来源核对：${date(c.verification?.sourceReadAt)} UTC。`,`Catalogued · Source details recorded; cataloguing does not mean a complete audiovisual review. Source checked: ${date(c.verification?.sourceReadAt)} UTC.`);
+    ? t(`发现池 · 来源已核对，编目资料待完善。来源核对：${date(c.verification?.sourceReadAt)} UTC。`,`Discovery pool · Source verified; catalog details being completed. Source checked: ${date(c.verification?.sourceReadAt)} UTC.`)
+    : t(`已编目 · 来源资料已整理。来源核对：${date(c.verification?.sourceReadAt)} UTC。`,`Catalogued · Source details recorded. Source checked: ${date(c.verification?.sourceReadAt)} UTC.`);
   if(curator&&managing){const management=el('details','management-panel');management.append(el('summary','',t('管理作品','Manage work')),featuredControl(c),reviewControl(c),deleteControl(c));content.append(management);}
   if(url)content.append(el('p','detail-note',t('播放器引用作者原帖的外部视频媒体；若加载失败，请打开作者原帖。','The player uses external video media from the original post. If it fails to load, open the creator’s post.')));
-  if(c.prompt.status==='unknown'){
+  if(c.prompt.display==='source_link'){
+    content.append(details(t('作者公开指令 · 原帖入口','Creator instructions · source link'),t('作者已公开指令；本站仅链接原文，不再分发全文或译文。','The creator has shared instructions. This catalog links to the source without redistributing the full text or translation.'),{source:c.prompt.sourceUrl}));
+  }else if(c.prompt.status==='unknown'){
     const unknown=el('div','prompt-unknown');unknown.append(el('strong','',t('作者提示词未公开／暂未核得','Creator prompt unpublished / not verified')),el('p','',t('目前没有可展示的作者原文或完整指令。','No creator prompt or complete instruction is available to show.')),link(t('查看作者原帖 ↗','View the creator’s post ↗'),c.prompt.sourceUrl));content.append(unknown);
   }else content.append(details(c.prompt.status==='original'?t('作者公开提示词','Creator’s public prompt'):t('作者任务描述 · 非完整提示词','Author brief · not a complete prompt'),c.prompt.text,{copyable:true,source:c.prompt.sourceUrl}));
   if(c.prompt.status!=='unknown'&&c.prompt.translationZh) content.append(details(t('中文译文','Chinese translation'),c.prompt.translationZh,{copyable:true}));

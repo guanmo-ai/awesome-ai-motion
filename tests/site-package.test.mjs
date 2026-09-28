@@ -40,3 +40,30 @@ test('打包拒绝穿越路径和符号链接，不覆盖已有用户目录',asy
   await assert.rejects(()=>packageSite(root),/已有其他内容/);
   assert.equal(await fs.readFile(path.join(root,'.research/site-dist/keep.txt'),'utf8'),'keep');
 });
+
+test('打包前拒绝混入公开数据的研究字段，并保留上一份包',async t=>{
+  const root=await fixture(t),result=await packageSite(root);
+  const file=path.join(root,'data/cases.json');
+  const old=await fs.readFile(path.join(result.directory,'data/cases.json'),'utf8');
+  const data=JSON.parse(await fs.readFile(file,'utf8'));
+  data.cases[0].internalNotes='private';
+  await fs.writeFile(file,JSON.stringify(data));
+  await assert.rejects(()=>packageSite(root),/未批准公开/);
+  assert.equal(await fs.readFile(path.join(result.directory,'data/cases.json'),'utf8'),old);
+});
+
+test('即使使用正常公开字段，打包仍拒绝夹带本机路径',async t=>{
+  const root=await fixture(t),file=path.join(root,'data/cases.json');
+  const data=JSON.parse(await fs.readFile(file,'utf8'));
+  data.cases[0].summary=['','Users','private-owner','notes'].join('/');
+  await fs.writeFile(file,JSON.stringify(data));
+  await assert.rejects(()=>packageSite(root),/本机路径/);
+});
+
+test('原帖入口模式不能通过跳过构建把全文带入发布包',async t=>{
+  const root=await fixture(t),file=path.join(root,'data/cases.json');
+  const data=JSON.parse(await fs.readFile(file,'utf8'));
+  data.cases[0].prompt={display:'source_link',text:'private full text'};
+  await fs.writeFile(file,JSON.stringify(data));
+  await assert.rejects(()=>packageSite(root),/不得公开全文/);
+});

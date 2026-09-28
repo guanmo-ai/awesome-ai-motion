@@ -1,5 +1,5 @@
 import {createServer} from 'node:http';
-import {readFile, stat} from 'node:fs/promises';
+import {readFile, stat, realpath} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {randomBytes} from 'node:crypto';
@@ -35,6 +35,7 @@ export function createGalleryServer(base=root) {
   const file=publicPath(req.url,base);
   if(!file||!['GET','HEAD'].includes(req.method)){res.writeHead(404);res.end('未找到页面');return;}
   try {
+    if(await realpath(file)!==file)throw new Error('symlink');
     if(!(await stat(file)).isFile())throw new Error('not a file');
     const body=await readFile(file);
     res.writeHead(200,{'Content-Type':types[path.extname(file)]||'application/octet-stream','Content-Length':body.length,'Cache-Control':'no-cache','X-Content-Type-Options':'nosniff'});

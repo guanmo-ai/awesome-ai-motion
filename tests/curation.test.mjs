@@ -11,7 +11,7 @@ import {createGalleryServer} from '../scripts/serve.mjs';
 function fixture(t) {
   const root=fs.mkdtempSync(path.join(os.tmpdir(),'motion-curation-'));
   t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
-  const row=id=>({id,title:`测试作品 ${id}`,titleEn:`Test ${id}`,category:'短动效',summary:'测试',summaryEn:'Test',author:{name:'Test',handle:'test',url:'https://x.com/test'},source:{url:`https://x.com/test/status/${id}`,publishedAt:'2026-09-27T00:00:00Z'},model:{name:'Claude Opus 5.5',evidenceQuote:'Opus 5.5',evidenceUrl:`https://x.com/test/status/${id}`},media:{durationSeconds:10,videoCount:1},cover:{path:`assets/covers/${id}.jpg`,sourceUrl:'https://example.com/cover.jpg',width:100},prompt:{status:'original',text:'test',sourceUrl:`https://x.com/test/status/${id}`,checkedAt:'2026-09-27T00:00:00Z'},metrics:{bookmarks:0,likes:0,views:0,checkedAt:'2026-09-27T00:00:00Z',sourceUrl:'https://x.com/test/status/1'},verification:{sourceReadAt:'2026-09-27T00:00:00Z',videoAttachmentConfirmed:true}});
+  const row=id=>({id,title:`测试作品 ${id}`,titleEn:`Test ${id}`,category:'短动效',summary:'测试',summaryEn:'Test',author:{name:'Test',handle:'test',url:'https://x.com/test'},source:{url:`https://x.com/test/status/${id}`,publishedAt:'2026-09-27T00:00:00Z'},model:{name:'Claude Opus 5.5',evidenceQuote:'Opus 5.5',evidenceUrl:`https://x.com/test/status/${id}`},media:{durationSeconds:10,videoCount:1},cover:{path:`assets/covers/${id}.jpg`,sourceUrl:'https://example.com/cover.jpg',width:100},prompt:{status:'original',text:'test',sourceUrl:`https://x.com/test/status/${id}`,checkedAt:'2026-09-27T00:00:00Z'},metrics:{bookmarks:0,likes:0,views:0,checkedAt:'2026-09-27T00:00:00Z',sourceUrl:`https://x.com/test/status/${id}`},verification:{sourceReadAt:'2026-09-27T00:00:00Z',videoAttachmentConfirmed:true}});
   const catalog={repository:'guanmo-ai/awesome-ai-motion',schemaVersion:2,cases:[row('1'),row('2')]};
   const write=(file,body)=>{fs.mkdirSync(path.dirname(path.join(root,file)),{recursive:true});fs.writeFileSync(path.join(root,file),body);};
   write('data/cases.json',JSON.stringify(catalog,null,2)+'\n');
@@ -106,9 +106,18 @@ test('精选可持久化、取消并覆盖内置名单；旧删除备份恢复�
   const backupPath=path.join(root,'.research/deleted-works',`${s.trash[0].key}.json`);
   const backup=JSON.parse(fs.readFileSync(backupPath,'utf8'));
   backup.item.playback={kind:'external_github_attachment',url:'https://github.com/user-attachments/assets/old'};
+  backup.item.prompt.evidenceUrl='https://collector.example/post/2';
+  backup.item.metrics.sourceUrl='https://collector.example/post/2';
+  backup.item.metrics.method='private collection notes';
+  backup.item.verification.sourceReadUrl='https://collector.example/post/2';
   fs.writeFileSync(backupPath,JSON.stringify(backup,null,2)+'\n');
   s=editor.mutate('restore',s.trash[0].key,s.revision);
   assert.equal(s.catalog.cases[1].playback,undefined);
+  assert.equal(s.catalog.cases[1].prompt.evidenceUrl,undefined);
+  assert.equal(s.catalog.cases[1].metrics.method,undefined);
+  assert.equal(s.catalog.cases[1].metrics.sourceUrl,s.catalog.cases[1].source.url);
+  assert.equal(s.catalog.cases[1].verification.sourceReadUrl,undefined);
   assert.deepEqual(s.catalog.cases[1].review,{highlights:['motion'],later:false,featured:false});
   assert.ok(fs.readFileSync(backupPath,'utf8').includes('external_github_attachment'));
+  assert.ok(fs.readFileSync(backupPath,'utf8').includes('private collection notes'));
 });

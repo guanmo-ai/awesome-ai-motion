@@ -64,7 +64,7 @@ test('生成文件的相对链接可解析；每条案例含作者、原帖和�
     assert.ok(content.includes(c.prompt.sourceUrl));
     assert.ok(content.includes(`width="${Math.min(640,c.cover.width)}"`));
     if(c.prompt.status==='unknown'||c.prompt.display==='source_link')assert.equal(outputs.has(`prompts/${c.id}.txt`),false);
-    else if(c.prompt.display!=='source_link')assert.equal(outputs.get(`prompts/${c.id}.txt`),c.prompt.text+'\n');
+    else assert.equal(outputs.get(`prompts/${c.id}.txt`),c.prompt.text+'\n');
   }
   for(const [file,content] of outputs) {
     if(!file.endsWith('.md'))continue;
@@ -221,7 +221,7 @@ test('可选交互体验链接与原帖、源码并列，且不接受无效地�
 
 test('画廊外部视频只接受原帖对应的稳定原媒体，拒绝签名地址和错误来源',()=>{
   const copy=structuredClone(catalog),c=copy.cases[0];
-  const valid={kind:'external_source_video',url:c.cover.sourceUrl,sourcePostUrl:c.source.url,contentType:'video/mp4',checkedAt:'2026-09-27T12:00:00Z',verificationLevel:'原帖媒体对应及 Range GET 检查',reuploadPermission:'not_verified'};
+  const valid={kind:'external_source_video',url:c.cover.sourceUrl,sourcePostUrl:c.source.url,contentType:'video/mp4',checkedAt:'2026-09-27T12:00:00Z',verificationLevel:'source_media_matched',reuploadPermission:'not_verified'};
   c.webPlayback=valid;
   assert.deepEqual(validateCatalog(copy,root),[]);
   for(const patch of [{url:'https://video.twimg.com.evil.example/a.mp4'},{url:c.cover.sourceUrl+'&jwt=temporary'},{sourcePostUrl:'https://x.com/other/status/123'},{reuploadPermission:'granted'},{verificationLevel:''}]) {
@@ -245,17 +245,25 @@ test('手动精选决定 README 选入，取消默认精选后不会重新自动
 });
 
 
-test('发现池需要作者声明与原媒体，未知提示词不能伪装原始指令',()=>{
+test('发现池按来源核对和编目进度标记，不把完整视听评价当作收录门槛',()=>{
   const copy=structuredClone(catalog),c=copy.cases[0];
   c.stage='discovery';c.verification.authorClaimConfirmed=true;c.verification.fullReview=false;
   c.model.name='Claude';c.model.evidenceQuote='I used Claude to make this animation';
   c.prompt.status='unknown';c.prompt.text='';
+  delete c.webPlayback;
   assert.deepEqual(validateCatalog(copy,root),[]);
   const outputs=buildOutputs(copy);
-  assert.ok(outputs.get(`cases/${c.id}.md`).includes('尚未完整审看'));
+  assert.ok(outputs.get(`cases/${c.id}.md`).includes('编目资料待完善'));
+  assert.ok(outputs.get('browse/discoveries.md').includes('编目资料待完善'));
+  assert.ok(!outputs.get('README.md').includes('待审看'));
   assert.ok(outputs.get(`cases/${c.id}.md`).includes('未取得作者公开提示词'));
   assert.equal(outputs.has(`prompts/${c.id}.txt`),false);
   assert.ok(outputs.get('browse/discoveries.md').includes(c.id));
+  delete c.verification.fullReview;
+  assert.deepEqual(validateCatalog(copy,root),[]);
+  c.verification.fullReview='pending';
+  assert.ok(validateCatalog(copy,root).some(e=>e.includes('视听评价状态')));
+  c.verification.fullReview=false;
   c.verification.authorClaimConfirmed=false;
   assert.ok(validateCatalog(copy,root).some(e=>e.includes('发现池')));
   c.verification.authorClaimConfirmed=true;c.prompt.text='invented';

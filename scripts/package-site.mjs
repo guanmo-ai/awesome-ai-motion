@@ -1,6 +1,8 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {publicCatalogIssues} from './catalog-privacy.mjs';
+import {decodeText,textPrivacyIssues} from './privacy.mjs';
 
 const ROOT=path.resolve(import.meta.dirname,'..');
 const CORE=['index.html','assets/gallery.css','assets/gallery.mjs','assets/gallery-model.mjs','data/cases.json'];
@@ -12,6 +14,8 @@ export async function packageSite(root=ROOT) {
   await fs.mkdir(research,{recursive:true});
   if((await fs.lstat(research)).isSymbolicLink())throw new Error('打包目录不能使用符号链接');
   const catalog=JSON.parse(await fs.readFile(path.join(root,'data/cases.json'),'utf8'));
+  const privacyErrors=publicCatalogIssues(catalog);
+  if(privacyErrors.length)throw new Error(privacyErrors.join('\n'));
   const covers=catalog.cases.map(item=>item.cover?.path);
   if(covers.some(file=>!/^assets\/covers\/\d+\.jpg$/.test(file||'')))throw new Error('封面路径不在公开白名单中');
   const files=[...new Set([...CORE,...covers])];
@@ -19,6 +23,9 @@ export async function packageSite(root=ROOT) {
   for(const file of files) {
     const source=path.join(root,file),resolved=await fs.realpath(source);
     if(resolved!==source || !(await fs.lstat(source)).isFile())throw new Error(`不能打包符号链接或非普通文件：${file}`);
+    const text=decodeText(await fs.readFile(source));
+    const issues=text===null?[]:textPrivacyIssues(text);
+    if(issues.length)throw new Error(`公开文件存在隐私风险：${file}（${issues.join('、')}）`);
   }
   const destination=path.join(research,'site-dist');
   try {
