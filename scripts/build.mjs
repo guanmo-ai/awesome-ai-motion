@@ -123,7 +123,7 @@ function renderReadme(cases,en) {
   let out=`# Awesome AI Motion\n\n`+
     `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'在线画廊','Online gallery')}](${SITE}${en?'?lang=en':''}) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
     `**${choose(en,'发现喜欢的 AI 视频与动画。','Find AI videos and animations you love.')}**\n\n`+
-    `${choose(en,'打开在线画廊，按类别看视频、认识作者、查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。','Open the gallery to watch by category, meet the creators and explore public prompts. Discover Claude code animation and creator-documented AI workflows.')}\n\n`+
+    `${choose(en,'从 X（Twitter）原作者公开帖子整理 AI 视频与动画。打开在线画廊，按类别看视频、认识作者、查看公开提示词。','AI videos and animations collected from creators’ public posts on X (Twitter). Open the gallery to watch by category, meet the creators and explore public prompts.')}\n\n`+
     `**[▶ ${choose(en,'打开在线画廊','Open the gallery')}](${SITE}${en?'?lang=en':''})**\n\n`+
     `${choose(en,'由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。','Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.')}\n\n`+
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
@@ -150,7 +150,7 @@ function renderReadme(cases,en) {
     `${choose(en,'下载仓库后，在目录中运行以下命令，再打开 http://127.0.0.1:4178 。支持搜索、筛选和页内播放器，无需模型 API 或依赖安装。','Download the repository, run the command below from its directory, then open http://127.0.0.1:4178 . Search, filter and watch inline without model APIs or dependency installation.')}\n\n`+
     '```sh\nnode scripts/serve.mjs\n```\n\n'+
     `[${choose(en,'投稿指南','Contributing')}](CONTRIBUTING.md) · [${choose(en,'纠错或移除','Correction or removal')}](${REPO}/issues/new?template=correction.yml) · [${choose(en,'维护指南','Maintainer guide')}](docs/MAINTAINING.md) · [${choose(en,'静态发布','Static hosting')}](docs/DEPLOYMENT.md)\n\n`+
-    `${choose(en,'感谢创作者公开作品与制作过程。发现与展示参考','Thanks to the creators sharing their work and process. Discovery and presentation references include')} [opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)、[Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video)、[YouMind](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)。\n\n`+
+    `${choose(en,'感谢创作者公开作品与制作过程。','Thanks to the creators sharing their work and process.')}\n\n`+
     `<sub>${choose(en,'策展','Curated by')} [观默 / @guanmo_ai](https://x.com/guanmo_ai) · [MIT](LICENSE) ${choose(en,'仅适用于原创脚本','for original scripts only')}</sub>\n`;
   return out;
 }
@@ -173,8 +173,7 @@ export function buildOutputs(catalog) {
         `- ${choose(en,'模型归因','Model attribution')}: ${c.model.name} · [${choose(en,'作者说明','Creator’s statement')}](${c.model.evidenceUrl})\n`+
         `- ${c.prompt.status==='unknown'?choose(en,'提示词查阅记录','Prompt lookup'):choose(en,'提示词出处','Prompt source')}: [${choose(en,'作者原帖','Creator post')}](${c.prompt.sourceUrl}) · ${utc(c.prompt.checkedAt)}\n`+
         `- ${choose(en,'封面来源','Cover source')}: [${choose(en,'原帖封面来源','Original cover source')}](${c.cover.sourceUrl.includes('video.twimg.com')?c.source.url:c.cover.sourceUrl})${c.cover.timeSeconds!=null?` · ${c.cover.timeSeconds}s`:''}\n`+
-        `- ${choose(en,'互动数据','Metrics')}: [X](${c.metrics.sourceUrl}) · ${utc(c.metrics.checkedAt)} · ${choose(en,'第三方匿名读取，非 X 官方 API','Anonymous third-party snapshot, not the official X API')}\n`+
-        `- ${choose(en,'发现入口','Discovered via')}: ${c.discoveredVia?.startsWith('https://')?`[${choose(en,'资料页','Reference')}](${c.discoveredVia})`:md(c.discoveredVia||'Public search')}\n`;
+        `- ${choose(en,'互动快照','Metrics snapshot')}: [${choose(en,'X 原帖','Original X post')}](${c.source.url}) · ${utc(c.metrics.checkedAt)}\n`;
       if(c.webPlayback)doc+=`- ${choose(en,'画廊原视频','Gallery video source')}: [${choose(en,'原帖媒体记录','Original post media record')}](${c.source.url}) · ${utc(c.webPlayback.checkedAt)} · ${choose(en,'已核对原帖媒体对应与媒体响应；外部引用，不重新上传','Post/media correspondence and media response checked; external reference, no re-upload')}\n`;
       doc+=`\n${choose(en,'模型依据来自作者自述，未独立重跑提示词，也未对音画作统一质量评级。视频引用作者原帖媒体，未由本站重新上传，转载许可未确认。','Model attribution is based on creator statements. Prompts have not been independently rerun; sound and visuals have not received a uniform quality rating. Videos reference original post media, not our uploads; redistribution permission has not been verified.')}\n`;
       if(c.media.videoCount>1)doc+=`\n${choose(en,`原帖包含 ${c.media.videoCount} 个视频，本封面对应第一条。`,`The post contains ${c.media.videoCount} videos; this cover shows the first.`)}\n`;

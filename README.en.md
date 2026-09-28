@@ -4,7 +4,7 @@
 
 **Find AI videos and animations you love.**
 
-Open the gallery to watch by category, meet the creators and explore public prompts. Discover Claude code animation and creator-documented AI workflows.
+AI videos and animations collected from creators’ public posts on X (Twitter). Open the gallery to watch by category, meet the creators and explore public prompts.
 
 **[▶ Open the gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)**
 
@@ -179,6 +179,6 @@ node scripts/serve.mjs
 
 [Contributing](CONTRIBUTING.md) · [Correction or removal](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=correction.yml) · [Maintainer guide](docs/MAINTAINING.md) · [Static hosting](docs/DEPLOYMENT.md)
 
-Thanks to the creators sharing their work and process. Discovery and presentation references include [opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)、[Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video)、[YouMind](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)。
+Thanks to the creators sharing their work and process.
 
 <sub>Curated by [观默 / @guanmo_ai](https://x.com/guanmo_ai) · [MIT](LICENSE) for original scripts only</sub>

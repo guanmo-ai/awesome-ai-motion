@@ -7,5 +7,5 @@
 - 发现与核验见 `docs/DISCOVERY.md`，维护与发布见 `docs/MAINTAINING.md`。参考仓库只用于找原帖，不照搬收录判断。
 - 保留 `.research/deleted-works/` 中的删除恢复记录；其他研究证据也只留在被忽略的 `.research/`，不公开提交。
 - 先查看工作树并保留已有改动。当前先本地审看，提交、推送、PR 和部署须获得用户授权。
-- 用户指定：适合并行的简单任务交给 GPT-6-Sol high，普通实现与核验交给 GPT-6-Sol xhigh；写清文件所有权，主 Agent 集成验证。
 - 修改后执行受影响测试及 `node scripts/build.mjs --check`；发布准备执行 `node --test tests/*.test.mjs`、`node scripts/check-release.mjs` 和 `node scripts/check-target.mjs`。
+- 对外署名使用「观默 / @guanmo_ai」，本仓库提交使用公开署名与 GitHub noreply 邮箱；提交前检查作者和提交者身份，不使用自动生成的本机身份。不要将真实姓名、私人邮箱、机器名、私有路径、凭据和内部研究记录写入公开文件。

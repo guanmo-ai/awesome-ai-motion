@@ -1,10 +1,15 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {execFileSync} from 'node:child_process';
+import {hasLocalCommitIdentity,isPrivateFile} from './privacy.mjs';
 const root=path.resolve(import.meta.dirname,'..');
 const files=execFileSync('git',['ls-files','--cached','--others','--exclude-standard','-z'],{cwd:root,encoding:'utf8'}).split('\0').filter(Boolean);
 const errors=[];
+const identityArgs=process.env.GITHUB_ACTIONS==='true' ? ['log','-1','--format=%an <%ae>%n%cn <%ce>'] : null;
+const identities=identityArgs ? execFileSync('git',identityArgs,{cwd:root,encoding:'utf8'}).trim().split('\n') : ['GIT_AUTHOR_IDENT','GIT_COMMITTER_IDENT'].map(key=>execFileSync('git',['var',key],{cwd:root,encoding:'utf8'}));
+if(identities.some(hasLocalCommitIdentity))errors.push('提交身份包含本机地址或缺少公开邮箱；请使用公开署名与 GitHub noreply 邮箱。');
 for(const file of new Set(files)) {
+  if(isPrivateFile(file))errors.push(`不应发布私有配置或密钥文件：${file}`);
   if(/^(\.research|\.superpowers|docs\/superpowers)\//.test(file)||/\.(mp4|mov|webm|mp3|wav)$/i.test(file)||file==='preview.html')errors.push(`不应发布：${file}`);
   const full=path.join(root,file);if(!fs.existsSync(full))continue;
   if(fs.statSync(full).size>(file==='data/cases.json'?2_000_000:500_000))errors.push(`文件过大：${file}`);

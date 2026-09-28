@@ -4,7 +4,7 @@
 
 **发现喜欢的 AI 视频与动画。**
 
-打开在线画廊，按类别看视频、认识作者、查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。
+从 X（Twitter）原作者公开帖子整理 AI 视频与动画。打开在线画廊，按类别看视频、认识作者、查看公开提示词。
 
 **[▶ 打开在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/)**
 
@@ -179,6 +179,6 @@ node scripts/serve.mjs
 
 [投稿指南](CONTRIBUTING.md) · [纠错或移除](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=correction.yml) · [维护指南](docs/MAINTAINING.md) · [静态发布](docs/DEPLOYMENT.md)
 
-感谢创作者公开作品与制作过程。发现与展示参考 [opus-video-prompts](https://github.com/joeseesun/opus-video-prompts)、[Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video)、[YouMind](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)。
+感谢创作者公开作品与制作过程。
 
 <sub>策展 [观默 / @guanmo_ai](https://x.com/guanmo_ai) · [MIT](LICENSE) 仅适用于原创脚本</sub>
