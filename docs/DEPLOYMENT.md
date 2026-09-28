@@ -2,6 +2,10 @@
 
 画廊不需要账号、模型 API 或依赖安装。需要 Node.js 22 或更新版本。
 
+## 在线使用
+
+直接打开 [Awesome AI Motion 在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/) 即可浏览和播放，无需安装或登录。在线版为只读画廊；精选、删除和恢复在本地工作台使用。
+
 ## 本地打开
 
 ```sh

@@ -2,7 +2,9 @@
 
 **发现喜欢的 AI 视频与动画。**
 
-按分类看封面，在详情打开作者 X 原帖观看，并查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。
+打开在线画廊，按类别看视频、认识作者、查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。
+
+**[▶ 打开在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/)**
 
 [简体中文](README.md) · [English](README.en.md) · [本地画廊](#local-gallery) · [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -150,14 +152,14 @@
 
 [核验范围与统计](docs/COVERAGE.md) · [项目验收标准](docs/QUALITY.md)
 
-点击封面查看详情，再到作者 X 原帖观看。GitHub 页面不直接播放外部 MP4；在本机画廊可页内播放。
+点击封面查看详情，再到作者 X 原帖观看。GitHub 页面不直接播放外部 MP4；在线画廊和本机画廊提供页内播放。
 
 <details>
 <summary>关于作品、提示词与来源</summary>
 
 作者原帖、完整公开指令、译文与所需素材均保留在作品详情。仅有任务转述的作品会单独标注，仍列在对应分类。公开提示词不保证相同结果，作品尚未逐条独立复现。
 
-GitHub 观看入口指向作者 X 原帖；本地播放器引用原帖媒体，失效时提供原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。
+GitHub 观看入口指向作者 X 原帖；画廊播放器引用原帖媒体，失效时提供原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。
 
 [来源与排序](docs/SOURCES.md) · [第三方内容说明](THIRD_PARTY.md)
 

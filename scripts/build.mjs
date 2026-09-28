@@ -6,6 +6,7 @@ import {fileURLToPath} from 'node:url';
 const ROOT=path.resolve(import.meta.dirname,'..');
 export const REPOSITORY='guanmo-ai/awesome-ai-motion';
 const REPO=`https://github.com/${REPOSITORY}`;
+const SITE='https://guanmo-ai.github.io/awesome-ai-motion/';
 const CATEGORIES=[
   ['产品宣传','Product & marketing','product'],['知识讲解','Education & explainers','education'],
   ['短动效','Motion design','motion'],['像素与角色','Pixel art & characters','characters'],
@@ -114,7 +115,8 @@ function renderReadme(cases,en) {
   const selected=cases.filter(c=>isFeatured(c) && !c.review?.later).sort((a,b)=>reviewRank(b)-reviewRank(a) || (FEATURED.includes(a.id)?FEATURED.indexOf(a.id):FEATURED.length)-(FEATURED.includes(b.id)?FEATURED.indexOf(b.id):FEATURED.length) || compareCases(a,b)).slice(0,6);
   let out=`# Awesome AI Motion\n\n`+
     `**${choose(en,'发现喜欢的 AI 视频与动画。','Find AI videos and animations you love.')}**\n\n`+
-    `${choose(en,'按分类看封面，在详情打开作者 X 原帖观看，并查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。','Browse covers by category, watch on the creator’s X post through the details, then explore public prompts. Explore Claude code animation and creator-documented AI workflows.')}\n\n`+
+    `${choose(en,'打开在线画廊，按类别看视频、认识作者、查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。','Open the gallery to watch by category, meet the creators and explore public prompts. Discover Claude code animation and creator-documented AI workflows.')}\n\n`+
+    `**[▶ ${choose(en,'打开在线画廊','Open the gallery')}](${SITE}${en?'?lang=en':''})**\n\n`+
     `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'本地画廊','Local gallery')}](#local-gallery) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
     `<a id="browse"></a>\n\n`+
@@ -131,10 +133,10 @@ function renderReadme(cases,en) {
   out+=`${choose(en,'分类推荐优先已有精选与已编目作品，作为浏览起点；待审看标记不代表完整质量审核。','Category recommendations prioritize curated and catalogued works as browsing entry points, not a completed quality review.')}\n\n`+
     `${catalogued} ${choose(en,'条来源资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池待审看','discovery records awaiting review')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池待审看','0 discovery records awaiting review')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
     `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'项目验收标准','Project acceptance criteria')}](docs/QUALITY.md)\n\n`+
-    `${choose(en,'点击封面查看详情，再到作者 X 原帖观看。GitHub 页面不直接播放外部 MP4；在本机画廊可页内播放。','Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the local gallery provides an inline player.')}\n\n`+
+    `${choose(en,'点击封面查看详情，再到作者 X 原帖观看。GitHub 页面不直接播放外部 MP4；在线画廊和本机画廊提供页内播放。','Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the online and local galleries provide an inline player.')}\n\n`+
     `<details>\n<summary>${choose(en,'关于作品、提示词与来源','About the works, prompts and sources')}</summary>\n\n`+
     `${choose(en,'作者原帖、完整公开指令、译文与所需素材均保留在作品详情。仅有任务转述的作品会单独标注，仍列在对应分类。公开提示词不保证相同结果，作品尚未逐条独立复现。','Work pages retain original posts, public prompts, translations and required assets. Author briefs are labeled and remain in their relevant categories. Public prompts do not guarantee identical results; works have not been independently reproduced.')}\n\n`+
-    `${choose(en,'GitHub 观看入口指向作者 X 原帖；本地播放器引用原帖媒体，失效时提供原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。','GitHub watch links open creator posts on X. The local player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
+    `${choose(en,'GitHub 观看入口指向作者 X 原帖；画廊播放器引用原帖媒体，失效时提供原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。','GitHub watch links open creator posts on X. The gallery player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
     `[${choose(en,'来源与排序','Sources and ordering')}](docs/SOURCES.md) · [${choose(en,'第三方内容说明','Third-party content')}](THIRD_PARTY.md)\n\n</details>\n\n`+
     `<a id="local-gallery"></a>\n\n## ${choose(en,'在本机打开可筛选画廊','Run the filterable gallery locally')}\n\n`+
     `${choose(en,'下载仓库后，在目录中运行以下命令，再打开 http://127.0.0.1:4178 。支持搜索、筛选和页内播放器，无需模型 API 或依赖安装。','Download the repository, run the command below from its directory, then open http://127.0.0.1:4178 . Search, filter and watch inline without model APIs or dependency installation.')}\n\n`+

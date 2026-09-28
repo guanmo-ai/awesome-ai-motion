@@ -2,7 +2,9 @@
 
 **Find AI videos and animations you love.**
 
-Browse covers by category, watch on the creator’s X post through the details, then explore public prompts. Explore Claude code animation and creator-documented AI workflows.
+Open the gallery to watch by category, meet the creators and explore public prompts. Discover Claude code animation and creator-documented AI workflows.
+
+**[▶ Open the gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)**
 
 [简体中文](README.md) · [English](README.en.md) · [Local gallery](#local-gallery) · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -150,14 +152,14 @@ Category recommendations prioritize curated and catalogued works as browsing ent
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Project acceptance criteria](docs/QUALITY.md)
 
-Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the local gallery provides an inline player.
+Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the online and local galleries provide an inline player.
 
 <details>
 <summary>About the works, prompts and sources</summary>
 
 Work pages retain original posts, public prompts, translations and required assets. Author briefs are labeled and remain in their relevant categories. Public prompts do not guarantee identical results; works have not been independently reproduced.
 
-GitHub watch links open creator posts on X. The local player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.
+GitHub watch links open creator posts on X. The gallery player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.
 
 [Sources and ordering](docs/SOURCES.md) · [Third-party content](THIRD_PARTY.md)
 
