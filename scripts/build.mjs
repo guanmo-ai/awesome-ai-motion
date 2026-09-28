@@ -121,11 +121,11 @@ function renderReadme(cases,en) {
   const playable=cases.filter(c=>c.webPlayback).length;
   const selected=cases.filter(c=>isFeatured(c) && !c.review?.later).sort((a,b)=>reviewRank(b)-reviewRank(a) || (FEATURED.includes(a.id)?FEATURED.indexOf(a.id):FEATURED.length)-(FEATURED.includes(b.id)?FEATURED.indexOf(b.id):FEATURED.length) || compareCases(a,b)).slice(0,6);
   let out=`# Awesome AI Motion\n\n`+
+    `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'在线画廊','Online gallery')}](${SITE}${en?'?lang=en':''}) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
     `**${choose(en,'发现喜欢的 AI 视频与动画。','Find AI videos and animations you love.')}**\n\n`+
     `${choose(en,'打开在线画廊，按类别看视频、认识作者、查看公开提示词。包含 Claude 代码动效与作者公开的 AI 制作案例。','Open the gallery to watch by category, meet the creators and explore public prompts. Discover Claude code animation and creator-documented AI workflows.')}\n\n`+
     `**[▶ ${choose(en,'打开在线画廊','Open the gallery')}](${SITE}${en?'?lang=en':''})**\n\n`+
     `${choose(en,'由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。','Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.')}\n\n`+
-    `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'本地画廊','Local gallery')}](#local-gallery) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
