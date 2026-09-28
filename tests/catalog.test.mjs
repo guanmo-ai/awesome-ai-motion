@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { compareCases, renderPrompt, buildOutputs, validateCatalog } from '../scripts/build.mjs';
+import {readState} from '../assets/gallery-model.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -123,33 +124,79 @@ test('首页所有自定义跳转锚点存在且唯一', () => {
   }
 });
 
-test('双语作品页观看与封面进入作者原帖，不再导航到会被拦截的裸 MP4', () => {
+test('所有双语作品页的主观看入口和封面进入实际可用的观看页，原帖仍可访问', () => {
   const outputs=buildOutputs(catalog);
   for(const c of catalog.cases) for(const en of [false,true]) {
     const detail=outputs.get(`cases/${c.id}${en?'.en':''}.md`);
-    assert.ok(detail.includes(`**[▶ ${en?'Watch on X':'在 X 原帖观看'}](${c.source.url})**`));
-    assert.ok(detail.includes(`>](${c.source.url})`),`${c.id}: 封面应打开作者原帖`);
+    const watch=c.webPlayback?`https://guanmo-ai.github.io/awesome-ai-motion/${en?'?lang=en':''}#case-${c.id}`:c.source.url;
+    const label=c.webPlayback?(en?'Open gallery to play':'打开画廊播放'):(en?'Watch on X':'在 X 原帖观看');
+    assert.ok(detail.includes(`**[▶ ${label}](${watch})**`),`${c.id}: 主观看入口`);
+    assert.ok(detail.includes(`>](${watch})`),`${c.id}: 封面观看入口`);
+    assert.ok(detail.includes(c.webPlayback?(en?'Click the cover to open the gallery and play.':'点击封面打开画廊播放。'):(en?'Click the cover to watch on X.':'点击封面前往 X 原帖观看。')));
+    assert.ok(detail.includes(c.source.url),`${c.id}: 保留作者原帖`);
+    if(c.webPlayback) {
+      assert.ok(detail.includes(`** · [${en?'Original post':'作者原帖'}](${c.source.url})`));
+      assert.deepEqual({caseId:readState(watch).caseId,lang:readState(watch).lang},{caseId:c.id,lang:en?'en':'zh'});
+    } else assert.ok(!detail.includes(`#case-${c.id}`),`${c.id}: 无视频不应使用画廊路由`);
     assert.doesNotMatch(detail,/\]\(https:\/\/video\.twimg\.com\//);
   }
 });
 
-test('分类与精选卡片的主入口都到作品详情，作者原帖是独立次要链接', () => {
+test('README 与分类页双语卡片直接播放，并保留 GitHub 详情及作者原帖', () => {
   const outputs=buildOutputs(catalog);
   for(const en of [false,true]) for(const [file,body] of outputs) {
     if(!file.startsWith('browse/')&&file!==`README${en?'.en':''}.md`)continue;
     if(file.startsWith('browse/')&&file.endsWith('.en.md')!==en)continue;
     if(file.startsWith('README')&&file.endsWith('.en.md')!==en)continue;
+    if(file.startsWith('README'))assert.ok(body.includes(en?'Click a cover to play in the gallery':'点击封面打开画廊播放'));
     const cards=[...body.matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)].map(m=>m[1]);
+    assert.ok(cards.length,`${file}: 应包含可观看卡片`);
     for(const card of cards) {
       const id=card.match(/cases\/(\d+)(?:\.en)?\.md/)?.[1];
       assert.ok(id,`${file}: 卡片详情链接缺失`);
       const c=catalog.cases.find(item=>item.id===id);
       const detail=`${file.startsWith('browse/')?'../':''}cases/${id}${en?'.en':''}.md`;
-      assert.ok(card.startsWith(`<a href="${detail}">`),`${file}: 封面必须进入详情`);
-      assert.ok(card.includes(`<a href="${detail}">${en?'▶ View video & details':'▶ 查看视频与详情'}</a>`));
+      const watch=c.webPlayback?`https://guanmo-ai.github.io/awesome-ai-motion/${en?'?lang=en':''}#case-${id}`:c.source.url;
+      const label=c.webPlayback?(en?'▶ Open gallery to play':'▶ 打开画廊播放'):(en?'▶ Watch on X':'▶ 在 X 原帖观看');
+      assert.ok(card.startsWith(`<a href="${watch}">`),`${file}: 封面必须进入实际观看入口`);
+      assert.ok(card.includes(`<a href="${watch}">${label}</a>`));
+      assert.ok(card.includes(`<a href="${detail}">${en?'Case details & sources':'案例详情与来源'}</a>`));
       assert.ok(card.includes(`<a href="${c.source.url}">${en?'Original post':'作者原帖'}</a>`));
-      if(c.webPlayback)assert.ok(!card.includes(c.webPlayback.url),`${file}: 卡片不应绕过详情`);
+      if(c.webPlayback) {
+        assert.deepEqual({caseId:readState(watch).caseId,lang:readState(watch).lang},{caseId:id,lang:en?'en':'zh'});
+        assert.ok(!card.includes(c.webPlayback.url),`${file}: 卡片不应导航到裸 MP4`);
+      } else assert.ok(!card.includes(`#case-${id}`),`${file}: 无视频不应使用画廊路由`);
     }
+  }
+});
+
+test('没有画廊视频时双语详情、README 和分类页回退作者原帖', () => {
+  const copy=structuredClone(catalog);
+  const firstReadme=buildOutputs(copy).get('README.md');
+  const id=firstReadme.match(/cases\/(\d+)\.md/)?.[1];
+  assert.ok(id,'README 应有可测试卡片');
+  const c=copy.cases.find(item=>item.id===id);
+  delete c.webPlayback;
+  const outputs=buildOutputs(copy);
+  for(const en of [false,true]) {
+    const detail=`cases/${id}${en?'.en':''}.md`;
+    const caseBody=outputs.get(detail);
+    assert.ok(caseBody.includes(`**[▶ ${en?'Watch on X':'在 X 原帖观看'}](${c.source.url})**`));
+    assert.ok(caseBody.includes(`>](${c.source.url})`));
+    assert.ok(caseBody.includes(en?'Click the cover to watch on X.':'点击封面前往 X 原帖观看。'));
+    assert.ok(!caseBody.includes(en?'Open gallery to play':'打开画廊播放'));
+    let browseCards=0;
+    for(const file of [`README${en?'.en':''}.md`,...([...outputs.keys()].filter(name=>name.startsWith('browse/')&&(name.endsWith('.en.md')===en)))]) {
+      const card=[...outputs.get(file).matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)].map(m=>m[1]).find(text=>text.includes(`${detail}`));
+      if(file.startsWith('README'))assert.ok(card,`${file}: 选中的案例应显示在首页`);
+      if(!card)continue;
+      if(file.startsWith('browse/'))browseCards++;
+      assert.ok(card.startsWith(`<a href="${c.source.url}">`),`${file}: 无画廊视频的封面应去原帖`);
+      assert.ok(card.includes(`<a href="${c.source.url}">${en?'▶ Watch on X':'▶ 在 X 原帖观看'}</a>`));
+      assert.ok(card.includes(`<a href="${file.startsWith('browse/')?'../':''}${detail}">${en?'Case details & sources':'案例详情与来源'}</a>`));
+      assert.ok(!card.includes(`#case-${id}`),`${file}: 不应承诺画廊播放器`);
+    }
+    assert.ok(browseCards>=1,`双语分类应包含 ${id}`);
   }
 });
 
@@ -222,7 +269,7 @@ test('首页每个非空类别都有最多三张对应封面与完整分类入�
     const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|分类推荐优先|Category recommendations)/gs)];
     assert.equal(sections.length,new Set(catalog.cases.map(c=>c.category)).size);
     for(const [,slug,body] of sections) {
-      const ids=[...body.matchAll(/<td[^>]*><a href="cases\/(\d+)/g)].map(m=>m[1]);
+      const ids=[...body.matchAll(/<td[^>]*>.*?<a href="cases\/(\d+)(?:\.en)?\.md">(?:案例详情与来源|Case details & sources)<\/a>/gs)].map(m=>m[1]);
       assert.ok(ids.length>0&&ids.length<=3);
       assert.equal(new Set(ids).size,ids.length);
       assert.equal(new Set(ids.map(id=>catalog.cases.find(c=>c.id===id).category)).size,1);

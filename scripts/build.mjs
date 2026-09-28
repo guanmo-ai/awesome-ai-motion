@@ -1,5 +1,5 @@
 import fs from 'node:fs';
-import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview} from '../assets/gallery-model.mjs';
+import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl} from '../assets/gallery-model.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 
@@ -61,6 +61,9 @@ export function renderPrompt(prompt,plainPath,en=false) {
 function cover(c,prefix='',width=640,url=c.source.url) {
   return `[<img src="${prefix}${c.cover.path}" width="${Math.min(width,c.cover.width)}" alt="${html(c.titleEn)}">](${url})`;
 }
+function watchUrl(c,en) {
+  return c.webPlayback ? stateUrl({category:'all',sort:'featured',lang:en?'en':'zh',caseId:c.id},SITE).href : c.source.url;
+}
 function relatedLinks(c,en) {
   const links=[];
   if(c.demoUrl)links.push(`[${choose(en,'交互体验','Interactive demo')}](${c.demoUrl})`);
@@ -72,7 +75,10 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
   out+=`**[${md(c.author.name)} · @${md(c.author.handle)}](${c.author.url})** · ${category(c,en)} · ${duration(c)}\n\n`;
   if(isDiscovery(c))out+=`> ${choose(en,'发现池 · 已核对作者原帖与媒体来源，尚未完整审看。','Discovery pool · Creator post and media source verified; full viewing review pending.')}\n\n`;
   if(reviewLabels(c,en?'en':'zh').length)out+=`**${choose(en,'策展评价','Curator’s review')}：${reviewLabels(c,en?'en':'zh').join(' · ')}**\n\n`;
-  out+=`**[▶ ${choose(en,'在 X 原帖观看','Watch on X')}](${c.source.url})**\n\n${cover(c,prefix,640,c.source.url)}\n\n${relatedLinks(c,en).join(' · ')}\n\n`;
+  const watch=watchUrl(c,en);
+  out+=`**[▶ ${c.webPlayback?choose(en,'打开画廊播放','Open gallery to play'):choose(en,'在 X 原帖观看','Watch on X')}](${watch})**${c.webPlayback?` · [${choose(en,'作者原帖','Original post')}](${c.source.url})`:''}\n\n`+
+    `${choose(en,c.webPlayback?'点击封面打开画廊播放。':'点击封面前往 X 原帖观看。',c.webPlayback?'Click the cover to open the gallery and play.':'Click the cover to watch on X.')}\n\n`+
+    `${cover(c,prefix,640,watch)}\n\n${relatedLinks(c,en).join(' · ')}\n\n`;
   out+=`${md(en?c.summaryEn:c.summary)}\n\n`;
   if(c.guide) {
     out+=`## ${choose(en,'可以借鉴什么','What to learn')}\n\n${md(en?c.guide.takeawayEn:c.guide.takeawayZh)}\n\n`;
@@ -95,7 +101,8 @@ function renderCards(cases,en,prefix='',columns=2) {
     out+='<tr>\n';
     for(const c of cases.slice(i,i+columns)) {
       const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
-      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${detail}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong></a><br><sub>${html(category(c,en))} · ${duration(c)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${detail}">${choose(en,'▶ 查看视频与详情','▶ View video & details')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
+      const watch=watchUrl(c,en);
+      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong><br><small>${c.webPlayback?choose(en,'点击封面播放','Click cover to play'):choose(en,'点击封面前往 X 原帖','Click cover to open X')}</small></a><br><sub>${html(category(c,en))} · ${duration(c)}${isDiscovery(c)?' · '+choose(en,'待审看','Review pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${watch}">${c.webPlayback?choose(en,'▶ 打开画廊播放','▶ Open gallery to play'):choose(en,'▶ 在 X 原帖观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'案例详情与来源','Case details & sources')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
     }
     out+='</tr>\n';
   }
@@ -104,7 +111,7 @@ function renderCards(cases,en,prefix='',columns=2) {
 function renderBrowse(cases,definition,en) {
   const [zh,english]=definition;
   return `[← ${choose(en,'全部分类','All categories')}](../README${en?'.en':''}.md#browse)\n\n`+
-    `# ${en?english:displayZh(zh)}\n\n${cases.length} ${choose(en,'个作品。点击封面看视频与详情。','works. Open a cover to watch and explore.')}\n\n`+
+    `# ${en?english:displayZh(zh)}\n\n${cases.length} ${choose(en,'个作品。点击封面播放；没有画廊视频时会前往 X 原帖。','works. Click a cover to play; works without gallery video open on X.')}\n\n`+
     renderCards([...cases].sort(compareCases),en,'../')+'\n';
 }
 function renderReadme(cases,en) {
@@ -134,10 +141,10 @@ function renderReadme(cases,en) {
   out+=`${choose(en,'分类推荐优先已有精选与已编目作品，作为浏览起点；待审看标记不代表完整质量审核。','Category recommendations prioritize curated and catalogued works as browsing entry points, not a completed quality review.')}\n\n`+
     `${catalogued} ${choose(en,'条来源资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池待审看','discovery records awaiting review')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池待审看','0 discovery records awaiting review')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
     `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'项目验收标准','Project acceptance criteria')}](docs/QUALITY.md)\n\n`+
-    `${choose(en,'点击封面查看详情，再到作者 X 原帖观看。GitHub 页面不直接播放外部 MP4；在线画廊和本机画廊提供页内播放。','Open a cover for details, then watch on the creator’s X post. GitHub does not play external MP4s inline; the online and local galleries provide an inline player.')}\n\n`+
+    `${choose(en,'点击封面打开画廊播放；没有画廊视频时会前往作者 X 原帖。案例详情保留来源与提示词。','Click a cover to play in the gallery; works without gallery video open on the creator’s X post. Case pages retain sources and prompts.')}\n\n`+
     `<details>\n<summary>${choose(en,'关于作品、提示词与来源','About the works, prompts and sources')}</summary>\n\n`+
     `${choose(en,'作者原帖、完整公开指令、译文与所需素材均保留在作品详情。仅有任务转述的作品会单独标注，仍列在对应分类。公开提示词不保证相同结果，作品尚未逐条独立复现。','Work pages retain original posts, public prompts, translations and required assets. Author briefs are labeled and remain in their relevant categories. Public prompts do not guarantee identical results; works have not been independently reproduced.')}\n\n`+
-    `${choose(en,'GitHub 观看入口指向作者 X 原帖；画廊播放器引用原帖媒体，失效时提供原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。','GitHub watch links open creator posts on X. The gallery player references original media and provides a post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
+    `${choose(en,'画廊播放器引用原帖媒体，失效时提供作者原帖入口。参考仓库仅用于发现作品，来源链接不代表转载许可。','The gallery player references original media and provides a creator-post fallback. Reference repositories are for discovery only. A source link does not grant redistribution permission.')}\n\n`+
     `[${choose(en,'来源与排序','Sources and ordering')}](docs/SOURCES.md) · [${choose(en,'第三方内容说明','Third-party content')}](THIRD_PARTY.md)\n\n</details>\n\n`+
     `<a id="local-gallery"></a>\n\n## ${choose(en,'在本机打开可筛选画廊','Run the filterable gallery locally')}\n\n`+
     `${choose(en,'下载仓库后，在目录中运行以下命令，再打开 http://127.0.0.1:4178 。支持搜索、筛选和页内播放器，无需模型 API 或依赖安装。','Download the repository, run the command below from its directory, then open http://127.0.0.1:4178 . Search, filter and watch inline without model APIs or dependency installation.')}\n\n`+
