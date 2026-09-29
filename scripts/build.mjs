@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import {publicCatalogIssues} from './catalog-privacy.mjs';
-import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl,resourceLinks,resourceLabel} from '../assets/gallery-model.mjs';
+import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl,resourceLinks,resourceLabel,formatDuration} from '../assets/gallery-model.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 
@@ -105,17 +105,18 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
   if(!detail)out+=`[${choose(en,'案例详情与来源','Case details & sources')}](${prefix}cases/${c.id}${en?'.en':''}.md)`;
   return out+'\n';
 }
-function renderCards(cases,en,prefix='',columns=2) {
+function renderCards(cases,en,prefix='') {
   if(!cases.length)return choose(en,'此处暂无推荐，仍可进入分类浏览全部作品。','No recommendations here yet. Browse the category to see all works.');
   let out='<table>\n';
-  for(let i=0;i<cases.length;i+=columns) {
-    out+='<tr>\n';
-    for(const c of cases.slice(i,i+columns)) {
-      const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
-      const watch=watchUrl(c,en);
-      out+=`<td width="${Math.floor(100/columns)}%" valign="top"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="400" alt="${html(title(c,en))}"><br><strong>${html(title(c,en))}</strong><br><small>${c.webPlayback?choose(en,'点击封面播放','Click cover to play'):choose(en,'点击封面前往 X 原帖','Click cover to open X')}</small></a><br><sub>${html(category(c,en))} · ${duration(c)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'资料待完善','Details pending'):''} · <a href="${c.author.url}">@${html(c.author.handle)}</a></sub><br><a href="${watch}">${c.webPlayback?choose(en,'▶ 打开画廊播放','▶ Open gallery to play'):choose(en,'▶ 在 X 原帖观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'案例详情与来源','Case details & sources')}</a> · <a href="${c.source.url}">${choose(en,'作者原帖','Original post')}</a></td>\n`;
-    }
-    out+='</tr>\n';
+  for(const c of cases) {
+    const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
+    const watch=watchUrl(c,en);
+    const width=Math.min(200,c.cover.width,Math.round(112*c.cover.width/c.cover.height));
+    out+=`<tr>\n<td width="25%" align="center" valign="middle"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="${width}" alt="${html(title(c,en))}"></a></td>\n`+
+      `<td width="75%" valign="middle"><strong>${html(title(c,en))}</strong><br>`+
+      `<sub><a href="${c.author.url}">@${html(c.author.handle)}</a> · ${html(category(c,en))}</sub><br>`+
+      `<sub>${formatDuration(c.media.durationSeconds)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'资料待完善','Details pending'):''}</sub><br>`+
+      `<a href="${watch}">${c.webPlayback?choose(en,'▶ 播放','▶ Play'):choose(en,'▶ 在 X 观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'详情','Details')}</a> · <a href="${c.source.url}">${choose(en,'原帖','Original post')}</a></td>\n</tr>\n`;
   }
   return out+'</table>';
 }
@@ -143,13 +144,13 @@ function renderReadme(cases,en) {
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
     `## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+
-    renderCards(introCases(cases),en,'',3)+`\n\n`+
+    renderCards(introCases(cases),en)+`\n\n`+
     `<a id="featured"></a>\n\n<details>\n<summary>${choose(en,'策展人标记的作品','Curator selections')}</summary>\n\n`+
-    renderCards(selected,en,'',3)+`\n\n</details>\n\n`;
+    renderCards(selected,en)+`\n\n</details>\n\n`;
   for(const [zh,english,slug] of CATEGORIES) {
     const group=cases.filter(c=>c.category===zh);if(!group.length)continue;
     out+=`<a id="category-${slug}"></a>\n\n## ${en?english:displayZh(zh)}\n\n`+
-      renderCards(recommendedCases(cases,zh,3,'bookmarks'),en,'',3)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
+      renderCards(recommendedCases(cases,zh,3,'bookmarks'),en)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
   }
   out+=`${choose(en,'首页及分类预览按收藏快照从多到少排列，并非实时榜单。','Homepage and category previews rank by bookmark snapshots, not live counts.')}\n\n`+
     `${catalogued} ${choose(en,'条资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池资料待完善','discovery records with details pending')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池资料待完善','0 discovery records with details pending')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
@@ -267,7 +268,7 @@ export function validateCatalog(catalog,root=ROOT) {
       if(v.contentType!=='video/mp4'||!v.checkedAt||Number.isNaN(Date.parse(v.checkedAt))||v.verificationLevel!=='source_media_matched')fail('画廊媒体核对记录缺失');
       if(v.reuploadPermission!=='not_verified')fail('画廊媒体只支持外部引用');
     }
-    if(!Number.isSafeInteger(c.cover?.width)||c.cover.width<=0)fail('封面尺寸无效');
+    if(!['width','height'].every(key=>Number.isSafeInteger(c.cover?.[key])&&c.cover[key]>0))fail('封面尺寸无效');
     if(c.author?.url!==`https://x.com/${c.author?.handle}`)fail('作者主页不一致');
     const model=c.model?.evidenceUrl?.match(/^https:\/\/x\.com\/([\w]+)\/status\/\d+$/);
     if(!model||model[1].toLowerCase()!==c.author?.handle?.toLowerCase())fail('模型证据作者不一致');
