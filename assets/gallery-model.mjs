@@ -22,7 +22,7 @@ export function resourceLinks(item) {
   const legacy=[{kind:'demo',url:item.demoUrl,label:'交互体验',labelEn:'Interactive demo'},{kind:'code',url:item.codeUrl,label:'作者源码',labelEn:'Creator’s source code'}];
   return [...links,...legacy.filter(r=>safeUrl(r.url)&&!links.some(link=>link.url===r.url))];
 }
-export const resourceLabel = (kind,lang='zh') => ({code:['作品源码','Work source'],demo:['在线演示','Live demo'],tool:['相关工具','Related tool']}[kind]?.[lang==='en'?1:0] || '');
+export const resourceLabel = (kind,lang='zh') => ({code:['直接源码','Direct source'],demo:['公开网页','Public web page'],tool:['相关工具','Related tool']}[kind]?.[lang==='en'?1:0] || '');
 export function coverPath(value) { return /^assets\/covers\/[\w-]+\.(?:jpg|jpeg|png|webp)$/.test(value || '') ? value : ''; }
 export function playbackUrl(item) {
   const value = safeUrl(item.webPlayback?.url);
@@ -58,7 +58,7 @@ export function stateUrl(state, base) {
 export function matches(item, state, ignoreCategory = false) {
   if (!ignoreCategory && state.category !== 'all' && categoryOf(item) !== state.category) return false;
   if (state.prompt && state.prompt !== 'all' && item.prompt?.status !== state.prompt) return false;
-  if (state.resource && state.resource !== 'all' && !resourceLinks(item).some(r=>state.resource==='any'||r.kind===state.resource)) return false;
+  if (state.resource && state.resource !== 'all' && !resourceLinks(item).some(r=>state.resource==='any' ? r.kind==='code'||r.kind==='demo' : r.kind===state.resource)) return false;
   const seconds=item.media?.durationSeconds;
   if (state.duration && state.duration !== 'all' && (!Number.isFinite(seconds) || seconds < 0 || (state.duration === 'short' ? seconds > 30 : state.duration === 'medium' ? seconds <= 30 || seconds > 120 : seconds <= 120))) return false;
   if (state.playable && !playbackUrl(item)) return false;

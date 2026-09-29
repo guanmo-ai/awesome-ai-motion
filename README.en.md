@@ -12,7 +12,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 
 346 video references · 62 creator prompts · Chinese & English
 
-[Source code & live demos](browse/resources.en.md) · 28 works with resources
+[Source, web pages & tools](browse/resources.en.md) · 28 works with resources
 
 <a id="browse"></a>
 

@@ -71,7 +71,7 @@ function relatedLinks(c,en) {
 function renderResources(c,en) {
   const resources=resourceLinks(c);
   if(!resources.length)return '';
-  let out=`## ${choose(en,'源码与演示','Source & demos')}\n\n`;
+  let out=`## ${choose(en,'源码与网页','Source & web pages')}\n\n`;
   for(const r of resources) {
     const license=r.license==='not_specified'?choose(en,'未标明许可','No license specified'):r.license;
     out+=`- **${resourceLabel(r.kind,en?'en':'zh')}**：[${md(en?r.labelEn:r.label)}](${r.url})${license?` · ${r.licenseUrl?`[${md(license)}](${r.licenseUrl})`:md(license)}`:''}\n`;
@@ -138,7 +138,7 @@ function renderReadme(cases,en) {
     `**[▶ ${choose(en,'打开在线画廊','Open the gallery')}](${SITE}${en?'?lang=en':''})**\n\n`+
     `${choose(en,'由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。','Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.')}\n\n`+
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
-    `[${choose(en,'源码与在线演示','Source code & live demos')}](browse/resources${en?'.en':''}.md) · ${cases.filter(c=>resourceLinks(c).length).length} ${choose(en,'个作品有资源入口','works with resources')}\n\n`+
+    `[${choose(en,'源码、网页与工具','Source, web pages & tools')}](browse/resources${en?'.en':''}.md) · ${cases.filter(c=>resourceLinks(c).length).length} ${choose(en,'个作品有资源入口','works with resources')}\n\n`+
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
     `## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+
@@ -175,7 +175,7 @@ export function buildOutputs(catalog) {
   }
   for(const en of [false,true]) {
     const linked=cases.filter(c=>resourceLinks(c).length);
-    outputs.set(`browse/resources${en?'.en':''}.md`,(`[← ${choose(en,'返回目录','Back to catalog')}](../README${en?'.en':''}.md)\n\n# ${choose(en,'源码与在线演示','Source code & live demos')}\n\n${choose(en,'本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。','This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.')}\n\n${linked.length} ${choose(en,'个作品附有资源入口','works with resource links')} · [${choose(en,'在画廊筛选','Filter in the gallery')}](${SITE}?page=all&resource=any${en?'&lang=en':''})\n\n`+linked.map(c=>`## [${md(title(c,en))}](../cases/${c.id}${en?'.en':''}.md) · @${md(c.author.handle)}\n\n${renderResources(c,en).replace(/^## [^\n]+\n\n/,'')}`).join('')).trimEnd()+'\n');
+    outputs.set(`browse/resources${en?'.en':''}.md`,(`[← ${choose(en,'返回目录','Back to catalog')}](../README${en?'.en':''}.md)\n\n# ${choose(en,'源码、网页与工具','Source, web pages & tools')}\n\n${choose(en,'本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。','This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.')}\n\n${linked.length} ${choose(en,'个作品附有资源入口','works with resource links')} · [${choose(en,'筛选源码或公开网页','Filter source or web pages')}](${SITE}?page=all&resource=any${en?'&lang=en':''}) · [${choose(en,'相关工具','Related tools')}](${SITE}?page=all&resource=tool${en?'&lang=en':''})\n\n${choose(en,'公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。','Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.')}\n\n`+linked.map(c=>`## [${md(title(c,en))}](../cases/${c.id}${en?'.en':''}.md) · @${md(c.author.handle)}\n\n${renderResources(c,en).replace(/^## [^\n]+\n\n/,'')}`).join('')).trimEnd()+'\n');
     const discoveries=cases.filter(isDiscovery);
     if(discoveries.length)outputs.set(`browse/discoveries${en?'.en':''}.md`,`[← ${choose(en,'全部分类','All categories')}](../README${en?'.en':''}.md#browse)\n\n# ${choose(en,'发现池','Discovery pool')}\n\n${discoveries.length} ${choose(en,'条来源已核对、编目资料待完善的作品。精选另行标记。','source-verified works with catalog details being completed. Featured works are marked separately.')}\n\n`+renderCards(discoveries,en,'../')+'\n');
   }

@@ -7,20 +7,24 @@ import {buildOutputs,validateCatalog} from '../scripts/build.mjs';
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url),'utf8'));
 const resource={kind:'code',url:'https://example.com/source',label:'作品源码',labelEn:'Work source',license:'not_specified',evidenceUrl:'https://example.com/post',checkedAt:'2026-09-29T00:00:00Z'};
 
-test('资源筛选区分影片源码、工具与演示，保留旧入口并避免重复',()=>{
+test('源码或网页包含直接源码与公开网页，排除仅工具，兼容旧入口并避免重复',()=>{
   const base=catalog.cases[0];
   const rows=[
     {...base,id:'1',resources:[resource],codeUrl:resource.url,demoUrl:'https://example.com/demo'},
     {...base,id:'2',resources:[{...resource,kind:'tool'}],codeUrl:undefined,demoUrl:undefined},
     {...base,id:'3',resources:undefined,codeUrl:'https://example.com/legacy',demoUrl:undefined},
     {...base,id:'4',resources:undefined,codeUrl:undefined,demoUrl:undefined},
+    {...base,id:'5',resources:[{...resource,kind:'demo'}],codeUrl:undefined,demoUrl:undefined},
+    {...base,id:'6',resources:undefined,codeUrl:undefined,demoUrl:'https://example.com/legacy-demo'},
+    {...base,id:'7',resources:[{...resource,kind:'tool'}],codeUrl:undefined,demoUrl:'https://example.com/tool-and-demo'},
   ];
   assert.equal(resourceLinks(rows[0]).length,2);
   const ids=state=>selectCases(rows,state).map(c=>c.id).sort();
   assert.deepEqual(ids(readState('/?resource=code')),['1','3']);
-  assert.deepEqual(ids(readState('/?resource=tool')),['2']);
-  assert.deepEqual(ids(readState('/?resource=demo')),['1']);
-  assert.deepEqual(ids(readState('/?resource=any')),['1','2','3']);
+  assert.deepEqual(ids(readState('/?resource=tool')),['2','7']);
+  assert.deepEqual(ids(readState('/?resource=demo')),['1','5','6','7']);
+  assert.deepEqual(ids(readState('/?resource=any')),['1','3','5','6','7']);
+  assert.equal(detailNeighbors(rows,readState('/?resource=any'),'5').total,5);
   const state={...readState('/?resource=code&lang=en'),caseId:'1'};
   assert.deepEqual(readState(stateUrl(state,'https://example.com/')),state);
   assert.equal(detailNeighbors(rows,state,'1').total,2);

@@ -12,7 +12,7 @@
 
 346 个视频参考 · 62 份作者公开提示词 · 中英双语
 
-[源码与在线演示](browse/resources.md) · 28 个作品有资源入口
+[源码、网页与工具](browse/resources.md) · 28 个作品有资源入口
 
 <a id="browse"></a>
 
