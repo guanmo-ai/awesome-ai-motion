@@ -8,8 +8,8 @@
   <meta name="author" content="观默 · @guanmo_ai">
   <meta name="theme-color" content="#f8f7f3">
   <title>Awesome AI Motion · 作品画廊</title>
-  <link rel="stylesheet" href="./assets/gallery.css?v=20260928-navigation">
-  <script type="module" src="./assets/gallery.mjs?v=20260929-filters"></script>
+  <link rel="stylesheet" href="./assets/gallery.css?v=20260929-resources">
+  <script type="module" src="./assets/gallery.mjs?v=20260929-prompt-copy"></script>
 </head>
 <body>
   <a class="skip-link" href="#works">跳到作品 / Skip to works</a>
@@ -25,7 +25,7 @@
   </header>
   <main class="layout">
     <aside class="sidebar">
-      <nav id="page-navigation" class="page-navigation" aria-label="画廊页面 / Gallery pages"><button id="page-home" type="button" aria-current="page">首页</button><button id="page-all" type="button">全部作品</button></nav>
+      <nav id="page-navigation" class="page-navigation" aria-label="画廊页面 / Gallery pages"><button id="page-home" type="button" aria-current="page">首页</button><button id="page-all" type="button">全部作品</button><button id="page-resources" type="button">源码与演示</button></nav>
       <p class="eyebrow" id="browse-label">按用途发现</p>
       <nav id="categories" aria-labelledby="browse-label"></nav>
       <div class="sidebar-note"><span class="little-star" aria-hidden="true">✳</span><p id="curation-note">看见好作品，<br>找到下一次创作的灵感。</p><a id="submit" href="https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml" target="_blank" rel="noopener noreferrer">推荐作品 ↗</a></div>
@@ -39,6 +39,7 @@
       <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><details id="advanced-filters" class="advanced-filters"><summary id="filter-summary">筛选作品</summary><div class="filter-row">
         <label class="filter-select"><span id="duration-label">时长</span><select id="duration" aria-labelledby="duration-label"><option value="all">全部时长</option><option value="short">30 秒以内</option><option value="medium">31–120 秒</option><option value="long">超过 120 秒</option></select></label>
         <label class="filter-select"><span id="prompt-label">提示词</span><select id="prompt" aria-labelledby="prompt-label"><option value="all">全部状态</option><option value="original">作者原文</option><option value="brief">任务描述</option><option value="unknown">尚未公开</option></select></label>
+        <label class="filter-select"><span id="resource-label">源码与演示</span><select id="resource" aria-labelledby="resource-label"><option value="all">全部作品</option><option value="any">有源码或演示</option><option value="code">作品源码</option><option value="demo">在线演示</option><option value="tool">相关工具</option></select></label>
         <label class="playable-filter"><input id="playable" type="checkbox"><span id="playable-label">仅页内播放</span></label>
       </div></details></div>
       <p id="sort-note" class="sort-note" hidden></p>

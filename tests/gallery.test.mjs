@@ -34,7 +34,7 @@ test('latest sorts by source timestamp; bookmarks distinguish zero from unknown'
   assert.deepEqual(selectCases(mock,{...defaults,sort:'bookmarks'}).map(c=>c.id),['3','2','1']);assert.deepEqual(selectCases(mock,{...defaults,sort:'latest'}).map(c=>c.id),['3','2','1']);
 });
 test('share URL round-trips category, duration, prompt and detail without breaking subpaths',()=>{
-  const state={page:'all',category:'motion',query:'UI + 中文',sort:'latest',playable:true,duration:'medium',prompt:'unknown',lang:'en',caseId:'123'};const url=stateUrl(state,'https://example.com/project/?unrelated=keep');assert.equal(url.pathname,'/project/');assert.equal(url.searchParams.get('unrelated'),'keep');assert.deepEqual(readState(url),state);
+  const state={resource:'code',page:'all',category:'motion',query:'UI + 中文',sort:'latest',playable:true,duration:'medium',prompt:'unknown',lang:'en',caseId:'123'};const url=stateUrl(state,'https://example.com/project/?unrelated=keep');assert.equal(url.pathname,'/project/');assert.equal(url.searchParams.get('unrelated'),'keep');assert.deepEqual(readState(url),state);
   assert.deepEqual(readState('https://example.com/?category=bad&sort=bad&view=bad&duration=bad&prompt=bad&lang=bad#case-x'),defaults);
 });
 test('unsafe data URLs, protocols and cover traversal cannot become media sources',()=>{

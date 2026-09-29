@@ -10,7 +10,9 @@ AI videos and animations collected from creators’ public posts on X (Twitter).
 
 Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.
 
-343 video references · 61 creator prompts · Chinese & English
+346 video references · 62 creator prompts · Chinese & English
+
+[Source code & live demos](browse/resources.en.md) · 28 works with resources
 
 <a id="browse"></a>
 
@@ -118,7 +120,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 47 works →](browse/interactive.en.md)
+[Explore all 49 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -146,11 +148,11 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 25 works →](browse/music.en.md)
+[Explore all 26 works →](browse/music.en.md)
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [307 discovery records with details pending](browse/discoveries.en.md) · 343 original video sources
+36 catalogued records · [310 discovery records with details pending](browse/discoveries.en.md) · 346 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

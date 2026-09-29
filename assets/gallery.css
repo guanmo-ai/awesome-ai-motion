@@ -62,3 +62,9 @@ button:disabled{opacity:.55;cursor:wait}.delete-status{color:#a63827}
 .viewer-navigation span{min-width:54px;text-align:center;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
 .viewer-header>p{flex:1 1 auto}
 @media(max-width:760px){.sidebar .page-navigation{margin-bottom:14px;padding-bottom:10px}.page-navigation button{padding:8px 11px;font-size:12px}.viewer-header{flex-wrap:wrap}.viewer-navigation{order:3;width:100%;padding-bottom:2px}.viewer-header #close{order:2;flex-shrink:0}}
+
+.resource-item{padding:12px 0;border-bottom:1px solid var(--border)}
+.resource-item:last-child{border-bottom:0}
+.resource-item p{margin:6px 0;font-size:14px;line-height:1.6}
+
+.resource-item>.card-tag{margin-right:8px}

@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import {publicCatalogIssues} from './catalog-privacy.mjs';
-import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl} from '../assets/gallery-model.mjs';
+import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl,resourceLinks,resourceLabel} from '../assets/gallery-model.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 
@@ -66,10 +66,19 @@ function watchUrl(c,en) {
   return c.webPlayback ? stateUrl({category:'all',sort:'bookmarks',lang:en?'en':'zh',caseId:c.id},SITE).href : c.source.url;
 }
 function relatedLinks(c,en) {
-  const links=[];
-  if(c.demoUrl)links.push(`[${choose(en,'交互体验','Interactive demo')}](${c.demoUrl})`);
-  if(c.codeUrl)links.push(`[${choose(en,'作者源码','Creator’s source code')}](${c.codeUrl})`);
-  return links;
+  return resourceLinks(c).map(r=>`[${md(en?r.labelEn:r.label)}](${r.url})`);
+}
+function renderResources(c,en) {
+  const resources=resourceLinks(c);
+  if(!resources.length)return '';
+  let out=`## ${choose(en,'源码与演示','Source & demos')}\n\n`;
+  for(const r of resources) {
+    const license=r.license==='not_specified'?choose(en,'未标明许可','No license specified'):r.license;
+    out+=`- **${resourceLabel(r.kind,en?'en':'zh')}**：[${md(en?r.labelEn:r.label)}](${r.url})${license?` · ${r.licenseUrl?`[${md(license)}](${r.licenseUrl})`:md(license)}`:''}\n`;
+    if(r.note)out+=`  ${md(en?r.noteEn:r.note)}\n`;
+    if(r.evidenceUrl)out+=`  [${choose(en,'链接出处','Link source')}](${r.evidenceUrl}) · ${choose(en,'链接核对','Link checked')} ${utc(r.checkedAt)}\n`;
+  }
+  return out+'\n';
 }
 function renderCase(c,{en=false,prefix='',detail=false}={}) {
   let out=`<a id="case-${c.id}"></a>\n\n${detail?'#':'###'} ${md(title(c,en))}\n\n`;
@@ -81,6 +90,7 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
     `${choose(en,c.webPlayback?'点击封面打开画廊播放。':'点击封面前往 X 原帖观看。',c.webPlayback?'Click the cover to open the gallery and play.':'Click the cover to watch on X.')}\n\n`+
     `${cover(c,prefix,640,watch)}\n\n${relatedLinks(c,en).join(' · ')}\n\n`;
   out+=`${md(en?c.summaryEn:c.summary)}\n\n`;
+  out+=renderResources(c,en);
   if(c.guide) {
     out+=`## ${choose(en,'可以借鉴什么','What to learn')}\n\n${md(en?c.guide.takeawayEn:c.guide.takeawayZh)}\n\n`;
     out+=`**${choose(en,'开始尝试','Try it yourself')}** · ${choose(en,'根据作者公开资料整理的编辑建议，并非作者完整操作记录。','Editorial suggestions based on public source material, not a complete record of the creator’s process.')}\n\n`;
@@ -128,6 +138,7 @@ function renderReadme(cases,en) {
     `**[▶ ${choose(en,'打开在线画廊','Open the gallery')}](${SITE}${en?'?lang=en':''})**\n\n`+
     `${choose(en,'由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。','Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.')}\n\n`+
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
+    `[${choose(en,'源码与在线演示','Source code & live demos')}](browse/resources${en?'.en':''}.md) · ${cases.filter(c=>resourceLinks(c).length).length} ${choose(en,'个作品有资源入口','works with resources')}\n\n`+
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
     `## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+
@@ -163,6 +174,8 @@ export function buildOutputs(catalog) {
     if(group.length)outputs.set(`browse/${definition[2]}${en?'.en':''}.md`,renderBrowse(group,definition,en));
   }
   for(const en of [false,true]) {
+    const linked=cases.filter(c=>resourceLinks(c).length);
+    outputs.set(`browse/resources${en?'.en':''}.md`,(`[← ${choose(en,'返回目录','Back to catalog')}](../README${en?'.en':''}.md)\n\n# ${choose(en,'源码与在线演示','Source code & live demos')}\n\n${choose(en,'本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。','This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.')}\n\n${linked.length} ${choose(en,'个作品附有资源入口','works with resource links')} · [${choose(en,'在画廊筛选','Filter in the gallery')}](${SITE}?page=all&resource=any${en?'&lang=en':''})\n\n`+linked.map(c=>`## [${md(title(c,en))}](../cases/${c.id}${en?'.en':''}.md) · @${md(c.author.handle)}\n\n${renderResources(c,en).replace(/^## [^\n]+\n\n/,'')}`).join('')).trimEnd()+'\n');
     const discoveries=cases.filter(isDiscovery);
     if(discoveries.length)outputs.set(`browse/discoveries${en?'.en':''}.md`,`[← ${choose(en,'全部分类','All categories')}](../README${en?'.en':''}.md#browse)\n\n# ${choose(en,'发现池','Discovery pool')}\n\n${discoveries.length} ${choose(en,'条来源已核对、编目资料待完善的作品。精选另行标记。','source-verified works with catalog details being completed. Featured works are marked separately.')}\n\n`+renderCards(discoveries,en,'../')+'\n');
   }
@@ -223,6 +236,20 @@ export function validateCatalog(catalog,root=ROOT) {
     if(!/^assets\/covers\/\d+\.jpg$/.test(cover||'')||!fs.existsSync(path.join(root,cover)))fail('封面缺失');
     else if(fs.statSync(path.join(root,cover)).size>250_000)fail('封面超过 250 KB');
     if(!c.cover?.sourceUrl?.startsWith('https://'))fail('封面来源缺失');
+    const resourceUrl=value=>{try{const u=new URL(value);return typeof value==='string'&&u.protocol==='https:'&&!u.username&&!u.password&&u.href===value&&!/[()\[\]<>\s]/.test(value);}catch{return false;}};
+    if(c.resources!==undefined) {
+      if(!Array.isArray(c.resources)||c.resources.length<1||c.resources.length>12)fail('源码资源列表无效');
+      else {
+        const seen=new Set();
+        const resourceText=value=>typeof value==='string'&&value.trim().length>0&&value.length<=1000&&!/[\r\n]/.test(value);
+        for(const r of c.resources) {
+          if(r?.licenseUrl!==undefined&&(!resourceUrl(r.licenseUrl)||!resourceText(r.license)||r.license==='not_specified'))fail('源码资源许可证链接需要有效许可与 HTTPS 地址');
+          if(!r||!['code','demo','tool'].includes(r.kind)||!resourceUrl(r.url)||!resourceUrl(r.evidenceUrl)||!resourceText(r.label)||!resourceText(r.labelEn)||typeof r.checkedAt!=='string'||Number.isNaN(Date.parse(r.checkedAt))||((r.note!==undefined||r.noteEn!==undefined)&&(!resourceText(r.note)||!resourceText(r.noteEn)))||(r.license!==undefined&&!resourceText(r.license))||(['code','tool'].includes(r.kind)&&!resourceText(r.license))||seen.has(r.url))fail('源码资源需要有效类型、双语名称、来源、核对时间和许可状态，且链接不得重复');
+          if(r)seen.add(r.url);
+        }
+      }
+    }
+    if(c.codeUrl!=null&&!resourceUrl(c.codeUrl))fail('作者源码地址无效');
     if(c.demoUrl!==undefined) {
       let demo;
       try {demo=new URL(c.demoUrl);} catch {}

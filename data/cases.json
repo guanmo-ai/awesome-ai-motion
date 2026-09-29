@@ -3,6 +3,267 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2104520072014508316",
+      "stage": "discovery",
+      "title": "户型装修：从二维平面过渡到三维漫游",
+      "titleEn": "Floorplan Design: From 2D Layout to 3D Walkthrough",
+      "category": "3D 与交互",
+      "summary": "作者以一张户型图为参考，让 Opus 5.5 构建家具布置、测量和墙体编辑工具，展示二维到三维的连续过渡与漫游；后续公开单文件 HTML 和 iPad 适配版。",
+      "summaryEn": "Starting from a floorplan image, the creator used Opus 5.5 to build furniture placement, measurement and wall editing with animated transitions into a 3D walkthrough. A single-file HTML project and an iPad adaptation were later shared.",
+      "author": {
+        "name": "WY",
+        "handle": "akokoi1",
+        "url": "https://x.com/akokoi1"
+      },
+      "source": {
+        "url": "https://x.com/akokoi1/status/2104520072014508316",
+        "publishedAt": "2026-09-28T10:34:19+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5的3D建模能力和理解能力真的强的可怕",
+        "evidenceUrl": "https://x.com/akokoi1/status/2104520072014508316"
+      },
+      "media": {
+        "durationSeconds": 32.9,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104520072014508316.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104519087124893696/img/aigasfIpJqfsTFAq.jpg",
+        "kind": "source_thumbnail",
+        "width": 800,
+        "height": 482,
+        "bytes": 52588
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/akokoi1/status/2104520072014508316",
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+      },
+      "metrics": {
+        "bookmarks": 137,
+        "likes": 120,
+        "views": 18804,
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "sourceUrl": "https://x.com/akokoi1/status/2104520072014508316"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T05:50:08.505321+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104519087124893696/vid/avc1/1796x1080/2D2Ugc0OrqN8V6gb.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/akokoi1/status/2104520072014508316",
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/wy51ai/floorplan-3d",
+          "label": "户型装修单文件 HTML 源码",
+          "labelEn": "Floorplan single-file HTML source",
+          "evidenceUrl": "https://x.com/akokoi1/status/2104771886236553568",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "license": "not_specified",
+          "note": "作者公开可读源码，仓库暂未包含许可证。",
+          "noteEn": "Publicly readable source; the repository does not currently include a license."
+        },
+        {
+          "kind": "demo",
+          "url": "https://wy51ai.github.io/floorplan-3d/",
+          "label": "户型装修 2D / 3D 演示",
+          "labelEn": "Floorplan 2D / 3D demo",
+          "evidenceUrl": "https://x.com/akokoi1/status/2104771886236553568",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2104111432149164474",
+      "stage": "discovery",
+      "title": "Neon Overdrive：EVA 灵感音画可视化",
+      "titleEn": "Neon Overdrive: Evangelion-Inspired Audiovisuals",
+      "category": "音乐与歌词",
+      "summary": "作者在公开 pdoom-video 引擎基础上，用 Opus 5.5 制作 EVA 界面风格的音画可视化，提供演示和衍生仓库；仓库未包含配乐文件。",
+      "summaryEn": "The creator adapted the public pdoom-video engine with Opus 5.5 into Evangelion-inspired audiovisual scenes, publishing a live demo and derivative repository. The music file is not included.",
+      "author": {
+        "name": "Luis Bizarro",
+        "handle": "LuisBizarro",
+        "url": "https://x.com/LuisBizarro"
+      },
+      "source": {
+        "url": "https://x.com/LuisBizarro/status/2104111432149164474",
+        "publishedAt": "2026-09-27T07:30:32+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I’m honestly shocked with Opus 5.5",
+        "evidenceUrl": "https://x.com/LuisBizarro/status/2104111432149164474"
+      },
+      "media": {
+        "durationSeconds": 184.4,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104111432149164474.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2104109730436124674/vid/avc1/1920x1080/4xYkath--kYz1x8N.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 35,
+        "width": 800,
+        "height": 450,
+        "bytes": 81028
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LuisBizarro/status/2104111432149164474",
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1168,
+        "likes": 1129,
+        "views": 108698,
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "sourceUrl": "https://x.com/LuisBizarro/status/2104111432149164474"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T05:50:08.505321+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104109730436124674/vid/avc1/1920x1080/4xYkath--kYz1x8N.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LuisBizarro/status/2104111432149164474",
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/bizarro/evangelion",
+          "label": "Neon Overdrive 衍生工程",
+          "labelEn": "Neon Overdrive derivative project",
+          "evidenceUrl": "https://x.com/LuisBizarro/status/2104258849091793217",
+          "checkedAt": "2026-09-29T06:16:16.759973+00:00",
+          "license": "MIT",
+          "note": "Luis Bizarro 基于 mexicat/pdoom-video 改编；配乐未包含，字体与音乐适用各自许可。",
+          "noteEn": "Adapted by Luis Bizarro from mexicat/pdoom-video. Music is not included; fonts and music have separate licenses.",
+          "licenseUrl": "https://github.com/bizarro/evangelion/blob/8f670f3262c75a454d26e01e062da96db7eefb05/LICENSE"
+        },
+        {
+          "kind": "demo",
+          "url": "https://evangelion-neon-overdrive.vercel.app/",
+          "label": "Neon Overdrive 在线音画",
+          "labelEn": "Neon Overdrive live audiovisual demo",
+          "evidenceUrl": "https://x.com/LuisBizarro/status/2104111432149164474",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2102940980379017293",
+      "stage": "discovery",
+      "title": "桃花源记：循文入境的三维长卷",
+      "titleEn": "Peach Blossom Spring: A Guided Three.js Journey",
+      "category": "3D 与交互",
+      "summary": "作者用 Opus 5.5 反复迭代《桃花源记》三维场景，并采用公开模型。原帖约4分17秒，另提供可漫游网页、源码与初始提示词。",
+      "summaryEn": "The creator iterated a Three.js adaptation of Peach Blossom Spring with Opus 5.5 and public models. The roughly 4-minute-17-second post links to an explorable scene, source and initial prompt.",
+      "author": {
+        "name": "宝玉",
+        "handle": "dotey",
+        "url": "https://x.com/dotey"
+      },
+      "source": {
+        "url": "https://x.com/dotey/status/2102940980379017293",
+        "publishedAt": "2026-09-24T01:59:35+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "用 Opus 5.5 重做了《桃花源记》",
+        "evidenceUrl": "https://x.com/dotey/status/2102940980379017293"
+      },
+      "media": {
+        "durationSeconds": 257.183,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102940980379017293.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg",
+        "kind": "source_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 49031
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/dotey/status/2102995791778369982",
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 460,
+        "likes": 597,
+        "views": 214645,
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "sourceUrl": "https://x.com/dotey/status/2102940980379017293"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T05:50:08.505321+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2102939337591603200/vid/avc1/1920x1080/tHYJ2c5wKB2ghtX0.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/dotey/status/2102940980379017293",
+        "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/JimLiu/taohuayuan",
+          "label": "桃花源记 Three.js 完整工程",
+          "labelEn": "Peach Blossom Spring Three.js project",
+          "evidenceUrl": "https://x.com/dotey/status/2102995791778369982",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "license": "not_specified",
+          "note": "仓库含源码与初始提示词。README 明确两个人物模型许可不明，仅供个人学习；不把整个仓库视为可自由再分发。",
+          "noteEn": "Includes source and the initial prompt. The README limits two character models with unclear licenses to personal study; do not assume the whole repository is freely redistributable."
+        },
+        {
+          "kind": "demo",
+          "url": "https://s.baoyu.io/files/taohuayuan/index.html",
+          "label": "桃花源记：循文入境",
+          "labelEn": "Peach Blossom Spring guided experience",
+          "evidenceUrl": "https://x.com/dotey/status/2102940980379017293",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+        }
+      ]
+    },
+    {
       "id": "2104792004978974928",
       "stage": "discovery",
       "title": "远离尘嚣：太空前哨剪纸短片",
@@ -720,7 +981,19 @@
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
       },
-      "demoUrl": "https://proceduralbuildings.chirostudio.xyz/"
+      "demoUrl": "https://proceduralbuildings.chirostudio.xyz/",
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS",
+          "label": "程序化建筑完整工程与 Blender 文件",
+          "labelEn": "Procedural buildings source and Blender files",
+          "evidenceUrl": "https://proceduralbuildings.chirostudio.xyz/",
+          "checkedAt": "2026-09-29T06:16:34.200267+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS/blob/6c19f1b1f14408353989ad26cda27f1e1ede5e91/LICENSE"
+        }
+      ]
     },
     {
       "id": "2104548405565595747",
@@ -1111,7 +1384,21 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/charlie947/motion-graphics-skills",
+          "label": "作者分享的动效制作 Skills",
+          "labelEn": "Motion graphics skills shared by the creator",
+          "evidenceUrl": "https://x.com/charliejhills/status/2104204601553777129",
+          "checkedAt": "2026-09-29T06:16:38.893360+00:00",
+          "license": "MIT",
+          "note": "教程配套工具集，不是该 Mac 发布片的完整源码。",
+          "noteEn": "The tutorial’s tool collection, not the complete source of this Mac launch film.",
+          "licenseUrl": "https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE"
+        }
+      ]
     },
     {
       "id": "2104214187522318512",
@@ -1709,7 +1996,21 @@
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
       },
-      "discoveredVia": "https://github.com/athemeroy/awesome-opus-5-5-videos"
+      "discoveredVia": "https://github.com/athemeroy/awesome-opus-5-5-videos",
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+          "label": "作者使用的 ClaudeAnimationBase",
+          "labelEn": "ClaudeAnimationBase used by the creator",
+          "evidenceUrl": "https://x.com/servasyy/status/2104039075175182487",
+          "checkedAt": "2026-09-29T06:16:39.609276+00:00",
+          "license": "MIT",
+          "note": "原帖明确提及的基础库；不是这条黄色方块短片的完整工程。",
+          "noteEn": "The starter named in the post; not the complete project for this yellow-character film.",
+          "licenseUrl": "https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE"
+        }
+      ]
     },
     {
       "id": "2104027910004949132",
@@ -1976,7 +2277,27 @@
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
       },
-      "discoveredVia": "https://github.com/zhuyansen/awesome-opus-5.5-video"
+      "discoveredVia": "https://github.com/zhuyansen/awesome-opus-5.5-video",
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/simonw/tools/blob/main/kakapo-party.html",
+          "label": "鸮鹦鹉派对 HTML 源码",
+          "labelEn": "Kākāpō Party HTML source",
+          "evidenceUrl": "https://x.com/simonw/status/2104003079574306857",
+          "checkedAt": "2026-09-29T06:17:10.349879+00:00",
+          "license": "Apache-2.0",
+          "licenseUrl": "https://github.com/simonw/tools/blob/e12bd6da66e591ce2bc3fad88124e930126ac9eb/LICENSE"
+        },
+        {
+          "kind": "demo",
+          "url": "https://tools.simonwillison.net/kakapo-party",
+          "label": "鸮鹦鹉派对：点击放彩纸",
+          "labelEn": "Kākāpō Party: click for confetti",
+          "evidenceUrl": "https://x.com/simonw/status/2104003079574306857",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+        }
+      ]
     },
     {
       "id": "2103998389058740521",
@@ -2043,7 +2364,21 @@
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
       },
-      "discoveredVia": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+      "discoveredVia": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Edd-io/Workspace",
+          "label": "Workspace 三维办公室工程",
+          "labelEn": "Workspace 3D office project",
+          "evidenceUrl": "https://x.com/kum1ta/status/2103998991948005618",
+          "checkedAt": "2026-09-29T06:16:58.782839+00:00",
+          "license": "MIT",
+          "note": "对应交互应用的源码采用 MIT；README 将声音列为 CC0、字体列为 OFL，素材与依赖按各自条款处理。",
+          "noteEn": "The interactive application source is MIT-licensed. Its README lists sounds as CC0 and fonts as OFL; assets and dependencies retain their own terms.",
+          "licenseUrl": "https://github.com/Edd-io/Workspace/blob/e50a203051a173f5191977d13e2259d1952de676/LICENSE"
+        }
+      ]
     },
     {
       "id": "2103997975173439834",
@@ -2174,7 +2509,19 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://claude.ai/artifact/PPSchejbnywNbPnAurCBSk",
+          "label": "作者的三座箱庭世界入口",
+          "labelEn": "Creator’s three miniature-world demos",
+          "evidenceUrl": "https://x.com/akakuma0219/status/2103997282270248974",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "note": "作者汇总页，包含用于第七区预演的场景；不是 Seedance 成片源码。本次未完成页面运行验证。",
+          "noteEn": "The creator’s collection includes the scene used for Seventh District previs, not source for the Seedance film. The page was not runtime-tested in this check."
+        }
+      ]
     },
     {
       "id": "2103992442072813651",
@@ -3089,7 +3436,20 @@
         "evidenceUrls": [
           "https://x.com/WinterArc2125/status/2103116689944502720"
         ]
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/WinterArc21/Battle-of-Austerlitz-Film",
+          "label": "作者源码",
+          "labelEn": "Creator’s source code",
+          "evidenceUrl": "https://x.com/WinterArc2125/status/2103116235009347650",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "license": "not_specified",
+          "note": "包含影片网页引擎、地形数据、声音与渲染工具；未见整体许可证。",
+          "noteEn": "Includes the web film engine, terrain data, audio and rendering tools; no overall license was found."
+        }
+      ]
     },
     {
       "id": "2102827887732932956",
@@ -4101,7 +4461,6 @@
         "independentlyReproduced": false
       },
       "discoveredVia": "Grok search 2026-09-27",
-      "codeUrl": "https://github.com/deckflow/deckuse",
       "titleEn": "A promotional animation for deckuse",
       "summaryEn": "A concise prompt asks for motion, music and sound effects around an open-source product.",
       "webPlayback": {
@@ -4118,7 +4477,21 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/deckflow/deckuse",
+          "label": "宣传片所介绍的 DeckUse 产品源码",
+          "labelEn": "DeckUse product source featured in the film",
+          "evidenceUrl": "https://x.com/feiflow/status/2104039666093572362",
+          "checkedAt": "2026-09-29T06:17:56.257643+00:00",
+          "license": "AGPL-3.0",
+          "note": "被介绍的产品仓库，未确认包含该宣传片工程。采用 AGPL-3.0；修改、分发或部署网络服务须遵守其源码与许可义务，不能改标为本站 MIT。",
+          "noteEn": "The advertised product repository, not confirmed as the film project. It uses AGPL-3.0; modification, distribution and network-service deployment must follow its source and license obligations, not this catalog’s MIT license.",
+          "licenseUrl": "https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE"
+        }
+      ]
     },
     {
       "id": "2103557735086428547",
@@ -5531,7 +5904,19 @@
           "https://github.com/Aureliengmz/clearwater",
           "https://aureliengmz.github.io/clearwater/"
         ]
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Aureliengmz/clearwater",
+          "label": "作者源码",
+          "labelEn": "Creator’s source code",
+          "evidenceUrl": "https://x.com/Aurelien_Gz/status/2102786378282987591",
+          "checkedAt": "2026-09-29T06:17:21.747691+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/Aureliengmz/clearwater/blob/4bc826134321043a25df3c2b6fed16fb7b9241e8/LICENSE"
+        }
+      ]
     },
     {
       "id": "2102436464323661880",
@@ -6051,7 +6436,19 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://claude.ai/artifact/ReCBQGZ4EirKSiEmT8XXfs",
+          "label": "Antikythera 海底游戏 Artifact",
+          "labelEn": "Antikythera underwater game artifact",
+          "evidenceUrl": "https://x.com/edwinarbus/status/2102463454485610511",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "note": "已核对作者分享的公开入口；本次未完成页面运行验证。",
+          "noteEn": "The creator’s public link was verified; the page was not runtime-tested in this check."
+        }
+      ]
     },
     {
       "id": "2102471841046786153",
@@ -6506,7 +6903,30 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/JohnHeibel/PDoomVideo",
+          "label": "P(doom) MV 场景与渲染源码",
+          "labelEn": "P(doom) music-video scenes and renderer",
+          "evidenceUrl": "https://x.com/donaldjewkes/status/2102801469976248500",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "license": "not_specified",
+          "note": "重制者的公开提示词将该仓库与本原帖对应。包含九个章节、分镜与渲染脚本；仓库未标明整体代码许可，歌曲权利单独处理。",
+          "noteEn": "A remake creator’s public prompt links this repository to the original post. Includes nine chapters, a storyboard and renderer; no overall code license is specified, and song rights are separate."
+        },
+        {
+          "kind": "tool",
+          "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+          "label": "ClaudeAnimationBase 动画基础工程",
+          "labelEn": "ClaudeAnimationBase animation starter",
+          "evidenceUrl": "https://github.com/JohnHeibel/PDoomVideo",
+          "checkedAt": "2026-09-29T06:16:39.609276+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE"
+        }
+      ]
     },
     {
       "id": "2102531681450119426",
@@ -8978,7 +9398,17 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://tekapo-polaris.vercel.app/",
+          "label": "Tekapo Polaris 房屋漫游",
+          "labelEn": "Tekapo Polaris house walkthrough",
+          "evidenceUrl": "https://x.com/truenyl/status/2104242902218285246",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+        }
+      ]
     },
     {
       "id": "2104246455938797888",
@@ -12888,7 +13318,21 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story",
+          "label": "Session Story：会话动画 Skill",
+          "labelEn": "Session Story animation skill",
+          "evidenceUrl": "https://x.com/jake11moran/status/2103247490237825416",
+          "checkedAt": "2026-09-29T06:17:55.999612+00:00",
+          "license": "Apache-2.0",
+          "note": "提供制作工具和示例引擎；不包含作者的私人会话记录。内置引擎另附 MIT 许可。",
+          "noteEn": "Provides the skill and example engine, not the creator’s private session history. The bundled engine has a separate MIT license.",
+          "licenseUrl": "https://github.com/heygen-com/hyperframes-community-skills/blob/ba7a0bb6d3567d124c51f6074625043bfe0b32eb/LICENSE"
+        }
+      ]
     },
     {
       "id": "2102724347446305104",
@@ -14906,7 +15350,20 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://justinperea.com/lab/ex-nihilo/ex-nihilo.html",
+          "label": "Ex Nihilo 单文件 HTML（可直接运行）",
+          "labelEn": "Ex Nihilo single HTML file (runnable)",
+          "evidenceUrl": "https://justinperea.com/lab/ex-nihilo",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00",
+          "license": "not_specified",
+          "note": "作者提供的完整画面与声音代码；网页可运行或另存为 HTML，未见再分发许可。",
+          "noteEn": "The creator’s complete visual and audio code; run the page or save the HTML. No redistribution license was found."
+        }
+      ]
     },
     {
       "id": "2102899866762440893",
@@ -16081,7 +16538,31 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/buildwithhanif/claude-animation-skill/tree/main/examples/ant-colony",
+          "label": "蚂蚁群落示例影片源码",
+          "labelEn": "Ant-colony example film source",
+          "evidenceUrl": "https://x.com/hanifproduktif/status/2102742924148830211",
+          "checkedAt": "2026-09-29T06:17:55.086542+00:00",
+          "license": "MIT",
+          "note": "仓库包含对应蚂蚁示例的 film.mjs 与渲染脚本。",
+          "noteEn": "The repository includes film.mjs and the rendering script for the ant-colony example.",
+          "licenseUrl": "https://github.com/buildwithhanif/claude-animation-skill/blob/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/LICENSE"
+        },
+        {
+          "kind": "tool",
+          "url": "https://github.com/buildwithhanif/claude-animation-skill",
+          "label": "作者的 Claude Animation Skill",
+          "labelEn": "Creator’s Claude Animation skill",
+          "evidenceUrl": "https://x.com/hanifproduktif/status/2102742924148830211",
+          "checkedAt": "2026-09-29T06:17:55.086542+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/buildwithhanif/claude-animation-skill/blob/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/LICENSE"
+        }
+      ]
     },
     {
       "id": "2103169675928764486",
@@ -17056,7 +17537,19 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation",
+          "label": "作者的手绘 Canvas 动画 Skill",
+          "labelEn": "Creator’s hand-drawn Canvas animation skill",
+          "evidenceUrl": "https://x.com/superalesha/status/2102463796149440888",
+          "checkedAt": "2026-09-29T06:18:18.114405+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE"
+        }
+      ]
     },
     {
       "id": "2103019799614034026",
@@ -18033,7 +18526,29 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/ChetasLua/little-neighbourhood",
+          "label": "Little Neighbourhood 单文件工程",
+          "labelEn": "Little Neighbourhood single-file project",
+          "evidenceUrl": "https://x.com/chetaslua/status/2102370144546889735",
+          "checkedAt": "2026-09-29T06:18:19.001007+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/ChetasLua/little-neighbourhood/blob/7888ed552f85d63a57351efc7a69345b791936eb/LICENSE",
+          "note": "源码与原创程序化画面采用 MIT；Claude 名称及既有品牌标识仍归各自权利人。",
+          "noteEn": "Source and original procedural artwork are MIT-licensed; the Claude name and existing brand marks remain with their owners."
+        },
+        {
+          "kind": "demo",
+          "url": "https://chetaslua.github.io/little-neighbourhood/",
+          "label": "小镇发布动画交互版",
+          "labelEn": "Interactive neighbourhood launch animation",
+          "evidenceUrl": "https://x.com/chetaslua/status/2102370144546889735",
+          "checkedAt": "2026-09-29T05:50:08.505321+00:00"
+        }
+      ]
     },
     {
       "id": "2102817596009504849",

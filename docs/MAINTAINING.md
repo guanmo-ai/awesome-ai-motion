@@ -59,6 +59,16 @@ README 保持短目录，分类页显示作品封面，长提示词和来源留�
 
 上线时只发布画廊公开文件，不公开 `.research/`、Git 元数据或本机缓存。启用公开托管与本地完成是两个独立步骤；未实际上线前不要在 README 宣称已有在线地址。
 
+### 源码、演示与工具
+
+可选 `resources` 数组记录资源入口：`kind=code` 为该作品工程或完整可读 HTML，`demo` 为在线作品，`tool` 为作者使用或分享的通用工具、Skill 或被介绍的产品仓库。每项填写 `url`、双语 `label` / `labelEn`、链接出处 `evidenceUrl` 和 `checkedAt`；代码与工具还须填写 `license`，未发现许可证时写 `not_specified`。必要说明使用双语 `note` / `noteEn`。许可只描述核对时的原项目，不能覆盖音乐、字体、模型等单独授权的素材。
+
+作者主页上的无关仓库不能直接当作该作品源码。优先核对作者原帖、回复、作品页及仓库内容之间的对应关系。旧 `codeUrl` / `demoUrl` 继续兼容，与新列表重复的地址只展示一次。
+
+已核得许可时，用可选 `licenseUrl` 链接到所核对提交中的许可证原文。保留依赖及素材的单独声明；没有整体许可证时使用 `not_specified`，不能因为仓库公开或可下载就称其允许复用。
+
+生成器同步生成双语「源码与在线演示」索引；画廊侧栏有对应入口，`?resource=code`、`demo`、`tool` 或 `any` 可分享筛选结果。`any` 包含这三类入口，详细页展示出处、许可状态及核对时间。
+
 ### 独立画廊播放字段
 
 `webPlayback` 为唯一公开播放来源字段：`kind=external_source_video`、稳定 HTTPS MP4 `url`、`sourcePostUrl`、`checkedAt`、`contentType`、`verificationLevel=source_media_matched`、`reuploadPermission=not_verified`。URL 限定为已从对应原帖取得的 `video.twimg.com` 媒体；公开仅记录原帖媒体已对应的状态，具体读取地址和请求记录保留在本地研究目录。不要从封面字段盲目推断可播放，不接入临时签名 URL。

@@ -85,7 +85,7 @@ test('首页先分类再精选，长提示词只出现在详情，brief 也保�
   assert.ok(Buffer.byteLength(readme)<32000,'首页在视觉分类预览下仍保持轻量');
   assert.ok(!readme.includes('make a modern slick and punchy video'));
   for(const c of catalog.cases) {
-    const browse=[...outputs].filter(([file])=>/^browse\/.*(?<!\.en)\.md$/.test(file)&&file!=='browse/discoveries.md');
+    const browse=[...outputs].filter(([file])=>/^browse\/.*(?<!\.en)\.md$/.test(file)&&!['browse/discoveries.md','browse/resources.md'].includes(file));
     assert.equal(browse.filter(([,body])=>body.includes(`cases/${c.id}.md`)).length,1,`${c.id} 必须归属唯一用途分类`);
     const detail=outputs.get(`cases/${c.id}.md`);
     assert.ok(!detail.includes("github.com/user-attachments/"));
@@ -146,6 +146,7 @@ test('所有双语作品页的主观看入口和封面进入实际可用的观�
 test('README 与分类页双语卡片直接播放，并保留 GitHub 详情及作者原帖', () => {
   const outputs=buildOutputs(catalog);
   for(const en of [false,true]) for(const [file,body] of outputs) {
+    if(/^browse\/resources(?:\.en)?\.md$/.test(file))continue;
     if(!file.startsWith('browse/')&&file!==`README${en?'.en':''}.md`)continue;
     if(file.startsWith('browse/')&&file.endsWith('.en.md')!==en)continue;
     if(file.startsWith('README')&&file.endsWith('.en.md')!==en)continue;
@@ -222,10 +223,10 @@ test('可选交互体验链接与原帖、源码并列，且不接受无效地�
 
 test('画廊外部视频只接受原帖对应的稳定原媒体，拒绝签名地址和错误来源',()=>{
   const copy=structuredClone(catalog),c=copy.cases[0];
-  const valid={kind:'external_source_video',url:c.cover.sourceUrl,sourcePostUrl:c.source.url,contentType:'video/mp4',checkedAt:'2026-09-27T12:00:00Z',verificationLevel:'source_media_matched',reuploadPermission:'not_verified'};
+  const valid={kind:'external_source_video',url:c.webPlayback.url,sourcePostUrl:c.source.url,contentType:'video/mp4',checkedAt:'2026-09-27T12:00:00Z',verificationLevel:'source_media_matched',reuploadPermission:'not_verified'};
   c.webPlayback=valid;
   assert.deepEqual(validateCatalog(copy,root),[]);
-  for(const patch of [{url:'https://video.twimg.com.evil.example/a.mp4'},{url:c.cover.sourceUrl+'&jwt=temporary'},{sourcePostUrl:'https://x.com/other/status/123'},{reuploadPermission:'granted'},{verificationLevel:''}]) {
+  for(const patch of [{url:'https://video.twimg.com.evil.example/a.mp4'},{url:valid.url+(valid.url.includes('?')?'&':'?')+'jwt=temporary'},{sourcePostUrl:'https://x.com/other/status/123'},{reuploadPermission:'granted'},{verificationLevel:''}]) {
     c.webPlayback={...valid,...patch};
     assert.ok(validateCatalog(copy,root).some(e=>e.includes('画廊')));
   }

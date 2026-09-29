@@ -12,6 +12,7 @@ const caseFields={
   metrics:{bookmarks:scalar,likes:scalar,views:scalar,checkedAt:scalar,sourceUrl:scalar},
   verification:{sourceReadAt:scalar,videoAttachmentConfirmed:scalar,promptMatchedSource:scalar,independentlyReproduced:scalar,authorClaimConfirmed:scalar,fullReview:scalar},
   discoveredVia:scalar,codeUrl:scalar,demoUrl:scalar,
+  resources:[{kind:scalar,url:scalar,label:scalar,labelEn:scalar,evidenceUrl:scalar,checkedAt:scalar,license:scalar,licenseUrl:scalar,note:scalar,noteEn:scalar}],
   webPlayback:{kind:scalar,url:scalar,sourcePostUrl:scalar,checkedAt:scalar,contentType:scalar,attribution:author,reuploadPermission:scalar,verificationLevel:scalar,durationSeconds:scalar},
   guide:{takeawayZh:scalar,takeawayEn:scalar,stepsZh:[scalar],stepsEn:[scalar],tools:[scalar],evidenceUrls:[scalar]},
   review:{featured:scalar,highlights:[scalar],later:scalar},

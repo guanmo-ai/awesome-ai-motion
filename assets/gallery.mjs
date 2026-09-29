@@ -1,11 +1,11 @@
-import {REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs?v=20260929-filters';
+import {resourceLinks,resourceLabel,REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs?v=20260929-resources';
 const $ = id => document.getElementById(id);
 let state = readState(location.href), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let curator=null,managing=false,mutationPending=false;
 let visibleCount=PAGE_SIZE;
 let playbackTimer=null,playbackAbort=null;
 const PLAYBACK_TIMEOUT_MS=12000;
-const filterKeys=['category','query','sort','playable','duration','prompt'];
+const filterKeys=['category','query','sort','playable','duration','prompt','resource'];
 const listKeys=['page',...filterKeys,'lang'];
 const t = (zh,en) => state.lang === 'en' ? en : zh;
 const title = c => state.lang === 'en' ? c.titleEn || c.title : c.title;
@@ -23,7 +23,7 @@ function renderLanguage() {
   $('follow-creator').setAttribute('aria-label',t('在 X 关注观默 @guanmo_ai（新标签页）','Follow Guanmo @guanmo_ai on X (new tab)'));
   $('creator-role').textContent=t('发起与维护','Created & maintained by');
   $('creator-name').textContent=t('观默','Guanmo');
-  const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'intro-text':['看作品，认识作者，找到下一次创作的灵感。','Watch the work, meet its maker, find your next idea.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'duration-label':['时长','Duration'],'prompt-label':['提示词','Prompt'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
+  const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'intro-text':['看作品，认识作者，找到下一次创作的灵感。','Watch the work, meet its maker, find your next idea.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'duration-label':['时长','Duration'],'prompt-label':['提示词','Prompt'],'resource-label':['源码与演示','Source & demos'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
   for(const [id,words] of Object.entries(strings)) $(id).textContent=t(...words);
   $('page-home').textContent=t('首页','Home');$('page-all').textContent=t('全部作品','All works');
   $('search').placeholder=t('搜索作品、作者或风格…','Search works, creators or styles…');
@@ -31,14 +31,17 @@ function renderLanguage() {
   [...$('sort').options].forEach(option=>{option.textContent=t(...sortLabels[option.value]);});
   [...$('duration').options].forEach((option,i)=>{option.textContent=t(...[['全部时长','Any length'],['30 秒以内','Up to 30s'],['31–120 秒','31–120s'],['超过 120 秒','Over 120s']][i]);});
   [...$('prompt').options].forEach((option,i)=>{option.textContent=t(...[['全部状态','Any prompt'],['作者原文','Original prompt'],['任务描述','Creator brief'],['未公开／未核得','Unpublished / unverified']][i]);});
+  [...$('resource').options].forEach((option,i)=>{option.textContent=t(...[['全部作品','All works'],['有源码或演示','With source or demos'],['作品源码','Work source'],['在线演示','Live demo'],['相关工具','Related tools']][i]);});
+  $('page-resources').textContent=t('源码与演示','Source & demos');
   $('close').setAttribute('aria-label',t('关闭作品详情','Close work details'));
 }
 function render() {
-  renderLanguage(); renderCuration(); $('search').value=state.query; $('sort').value=state.sort; $('playable').checked=state.playable;$('duration').value=state.duration;$('prompt').value=state.prompt;
-  for(const page of ['home','all']) {const button=$(`page-${page}`);if(state.page===page)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');}
+  renderLanguage(); renderCuration(); $('search').value=state.query; $('sort').value=state.sort; $('playable').checked=state.playable;$('duration').value=state.duration;$('prompt').value=state.prompt;$('resource').value=state.resource;
+  const activePage=state.page==='home'?'home':state.resource==='all'?'all':'resources';
+  for(const page of ['home','all','resources']) {const button=$(`page-${page}`);if(activePage===page)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');}
   const currentCategory=CATEGORIES.find(c=>c.id===state.category);
-  $('collection-title').textContent=onHome()?t('值得一看的 AI 动效。','AI motion worth watching.'):state.category==='all'?t('全部作品','All works'):currentCategory[state.lang];
-  const activeFilters=Number(state.duration!=='all')+Number(state.prompt!=='all')+Number(state.playable);
+  $('collection-title').textContent=onHome()?t('值得一看的 AI 动效。','AI motion worth watching.'):state.category==='all'?(state.resource==='all'?t('全部作品','All works'):t('源码与演示','Source & demos')):currentCategory[state.lang];
+  const activeFilters=Number(state.duration!=='all')+Number(state.prompt!=='all')+Number(state.playable)+Number(state.resource!=='all');
   $('filter-summary').textContent=activeFilters?t(`筛选作品 · ${activeFilters} 项已启用`,`Filters · ${activeFilters} active`):t('筛选作品','Filter works');
   if(activeFilters)$('advanced-filters').open=true;
   $('coverage-count').textContent=t(`${cases.length} 个作品，按类别继续探索。`,`${cases.length} works to explore by category.`);
@@ -84,7 +87,7 @@ function card(c,home=false,eager=false) {
   thumb.append(el('span','watch-mode',playable?t('页内播放','Inline player'):t('原帖观看 ↗','Watch original ↗')));
   const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
   button.append(thumb,el(home?'h3':'h2','card-title',title(c)));button.addEventListener('click',()=>{returnFocus=button;navigate({caseId:c.id},{detail:true});});
-  const meta=el('div','card-meta');meta.append(el('span','',`@${c.author.handle}`));if(!home)meta.append(el('span','dot','·'),el('span','',CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]));for(const tag of tagsOf(c,state.lang)) meta.append(el('span','card-tag',tag));if(state.sort==='bookmarks'){const count=Number.isFinite(c.metrics?.bookmarks)?new Intl.NumberFormat(state.lang==='en'?'en-US':'zh-CN').format(c.metrics.bookmarks):'—';meta.append(el('span','card-bookmarks',t(`收藏 ${count}`,`${count} bookmarks`)));}article.append(button,meta);if(curator&&managing){const actions=el('div','card-actions');actions.append(featuredControl(c,true),deleteControl(c,true));article.append(actions);}return article;
+  const meta=el('div','card-meta');meta.append(el('span','',`@${c.author.handle}`));if(!home)meta.append(el('span','dot','·'),el('span','',CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]));for(const tag of tagsOf(c,state.lang)) meta.append(el('span','card-tag',tag));if(state.sort==='bookmarks'){const count=Number.isFinite(c.metrics?.bookmarks)?new Intl.NumberFormat(state.lang==='en'?'en-US':'zh-CN').format(c.metrics.bookmarks):'—';meta.append(el('span','card-bookmarks',t(`收藏 ${count}`,`${count} bookmarks`)));}for(const kind of new Set(resourceLinks(c).map(r=>r.kind)))meta.append(el('span','card-tag',resourceLabel(kind,state.lang)));article.append(button,meta);if(curator&&managing){const actions=el('div','card-actions');actions.append(featuredControl(c,true),deleteControl(c,true));article.append(actions);}return article;
 }
 function details(label,text,{copyable=false,source=null}={}) {
   const section=el('details');section.append(el('summary','',label));section.append(el(copyable?'pre':'p','',text));
@@ -127,10 +130,12 @@ function showViewer(c,{autoplay=false}={}) {
     video.src=url;player.append(video,assist);arm();
   } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('这支作品目前在作者原帖观看。','This work is currently available on the creator’s original post.')),link(t('到作者原帖观看 ↗','Watch original post ↗'),c.source.url,'primary-link'));player.append(message);}
   const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
-  const links=el('div','detail-links');if(safeUrl(c.demoUrl))links.append(link(t('交互体验 ↗','Try the interactive demo ↗'),c.demoUrl,'primary-link'));if(c.codeUrl)links.append(link(t('作者源码 ↗','Creator’s code ↗'),c.codeUrl));links.append(link(t('作者原帖 ↗','Original post ↗'),c.source.url));
+  const links=el('div','detail-links');for(const r of resourceLinks(c))links.append(link(resourceLabel(r.kind,state.lang)+' ↗',r.url,r.kind==='demo'?'primary-link':''));links.append(link(t('作者原帖 ↗','Original post ↗'),c.source.url));
   const shareLabel=t('复制作品链接','Copy work link'),share=el('button','share-button',shareLabel);share.type='button';share.addEventListener('click',()=>copy(location.href,share,shareLabel));links.append(share);
-  if(c.prompt.status!=='unknown'&&c.prompt.display!=='source_link') {const label=c.prompt.status==='original'?t('复制提示词','Copy prompt'):t('复制任务描述','Copy brief'),button=el('button','share-button',label);button.type='button';button.addEventListener('click',()=>copy(c.prompt.text,button,label));links.append(button);}
+  if(c.prompt.status==='original'&&c.prompt.display!=='source_link') {const label=t('复制提示词','Copy prompt'),button=el('button','share-button',label);button.type='button';button.addEventListener('click',()=>copy(c.prompt.text,button,label));links.append(button);}
   content.append(player,heading,credits,el('p','detail-summary',state.lang==='en'?c.summaryEn||c.summary:c.summary),links);
+  const resources=resourceLinks(c);
+  if(resources.length){const section=el('details','resource-details');section.open=true;section.append(el('summary','',t('源码与演示','Source & demos')));for(const r of resources){const row=el('div','resource-item');row.append(el('span','card-tag',resourceLabel(r.kind,state.lang)),link(t(r.label,r.labelEn),r.url));if(r.note)row.append(el('p','',t(r.note,r.noteEn)));const facts=[];if(r.license)facts.push(r.license==='not_specified'?t('未标明许可','No license specified'):t('代码许可：','Code license: ')+r.license);if(r.checkedAt)facts.push(t('链接核对：','Link checked: ')+date(r.checkedAt)+' UTC');if(facts.length)row.append(el('p','',facts.join(' · ')));if(r.licenseUrl&&safeUrl(r.licenseUrl))row.append(link(t('查看许可证原文 ↗','Read the license ↗'),r.licenseUrl));if(r.evidenceUrl)row.append(link(t('链接出处 ↗','Link source ↗'),r.evidenceUrl));section.append(row);}content.append(section);}
   const guide=c.guide;
   if(guide && typeof guide==='object') {
     const takeaway=state.lang==='en'?guide.takeawayEn:guide.takeawayZh;
@@ -154,8 +159,8 @@ function showViewer(c,{autoplay=false}={}) {
     content.append(details(t('作者公开指令 · 原帖入口','Creator instructions · source link'),t('作者已公开指令；本站仅链接原文，不再分发全文或译文。','The creator has shared instructions. This catalog links to the source without redistributing the full text or translation.'),{source:c.prompt.sourceUrl}));
   }else if(c.prompt.status==='unknown'){
     const unknown=el('div','prompt-unknown');unknown.append(el('strong','',t('作者提示词未公开／暂未核得','Creator prompt unpublished / not verified')),el('p','',t('目前没有可展示的作者原文或完整指令。','No creator prompt or complete instruction is available to show.')),link(t('查看作者原帖 ↗','View the creator’s post ↗'),c.prompt.sourceUrl));content.append(unknown);
-  }else content.append(details(c.prompt.status==='original'?t('作者公开提示词','Creator’s public prompt'):t('作者任务描述 · 非完整提示词','Author brief · not a complete prompt'),c.prompt.text,{copyable:true,source:c.prompt.sourceUrl}));
-  if(c.prompt.status!=='unknown'&&c.prompt.translationZh) content.append(details(t('中文译文','Chinese translation'),c.prompt.translationZh,{copyable:true}));
+  }else content.append(details(c.prompt.status==='original'?t('作者公开提示词','Creator’s public prompt'):t('作者任务描述 · 非完整提示词','Author brief · not a complete prompt'),c.prompt.text,{copyable:c.prompt.status==='original',source:c.prompt.sourceUrl}));
+  if(c.prompt.status!=='unknown'&&c.prompt.translationZh) content.append(details(t('中文译文','Chinese translation'),c.prompt.translationZh,{copyable:c.prompt.status==='original'}));
   const note=state.lang==='en'?c.prompt.noteEn:c.prompt.noteZh;if(c.prompt.status!=='unknown'&&note) content.append(details(t('使用前说明','Before you try'),note));
   const provenance=el('details');provenance.append(el('summary','',t('来源与详细核验','Sources & verification')),el('p','stage-note',stageNote));
   const metrics=el('div','metrics');for(const [key,zh,en] of [['bookmarks','收藏','Bookmarks'],['likes','点赞','Likes'],['views','浏览','Views']]) {const item=el('p','',`${t(zh,en)} `);item.append(el('strong','',c.metrics[key]==null?'—':c.metrics[key].toLocaleString(state.lang==='en'?'en-US':'zh-CN')));metrics.append(item);}provenance.append(metrics,el('p','detail-note',t(`互动快照：${date(c.metrics.checkedAt)} UTC。未知数据保留为 —，不等于 0。`,`Metrics captured: ${date(c.metrics.checkedAt)} UTC. — indicates unknown, not zero.`)),link(t('X 原帖 ↗','Original X post ↗'),c.source.url),el('p','detail-note',t(`模型：${c.model.name}，依据作者公开说明，未逐条独立复现。`, `Model: ${c.model.name}, attributed by the creator. Works have not been independently reproduced.`)),link(t('模型依据 ↗','Model attribution ↗'),c.model.evidenceUrl),el('p','detail-note',t('原作者保留作品权利。外部公开链接不代表本项目取得转载许可。','Creators retain rights to their work. Public links do not establish redistribution permission.')));
@@ -199,11 +204,12 @@ document.addEventListener('keydown',event=>{
   if(!event.repeat)stepViewer(event.key==='ArrowLeft'?'previous':'next');
 },true);
 let backdropDown=false;$('viewer').addEventListener('pointerdown',event=>{const r=$('viewer').getBoundingClientRect();backdropDown=event.target===$('viewer')&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom);});$('viewer').addEventListener('click',event=>{if(backdropDown && event.target===$('viewer'))closeViewer();backdropDown=false;});
-$('page-home').addEventListener('click',()=>openCollection({page:'home',category:'all',query:'',sort:'bookmarks',playable:false,duration:'all',prompt:'all',caseId:null}));
-$('page-all').addEventListener('click',()=>openCollection({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',caseId:null}));
+$('page-home').addEventListener('click',()=>openCollection({page:'home',category:'all',query:'',sort:'bookmarks',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null}));
+$('page-resources').addEventListener('click',()=>openCollection({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'any',caseId:null}));
+$('page-all').addEventListener('click',()=>openCollection({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null}));
 $('search').addEventListener('input',()=>navigate({page:'all',query:$('search').value,caseId:null},{replace:state.page==='all'}));$('sort').addEventListener('change',()=>navigate({page:'all',sort:$('sort').value,caseId:null}));$('playable').addEventListener('change',()=>navigate({page:'all',playable:$('playable').checked,caseId:null}));
-for(const id of ['duration','prompt'])$(id).addEventListener('change',()=>navigate({page:'all',[id]:$(id).value,caseId:null}));
-$('reset').addEventListener('click',()=>{$('advanced-filters').open=false;navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',caseId:null});});
+for(const id of ['duration','prompt','resource'])$(id).addEventListener('change',()=>navigate({page:'all',[id]:$(id).value,caseId:null}));
+$('reset').addEventListener('click',()=>{$('advanced-filters').open=false;navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});});
 $('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(c=>card(c)));renderPagination(selected);});
 $('language').addEventListener('click',()=>navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true}));
 function onLocation(){const next=readState(location.href),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);

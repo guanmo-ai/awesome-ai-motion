@@ -17,6 +17,12 @@ export const categoryOf = item => CATEGORIES.find(c => c.source === item.categor
 export function safeUrl(value) {
   try { const u = new URL(value); return u.protocol === 'https:' && !u.username && !u.password ? u.href : ''; } catch { return ''; }
 }
+export function resourceLinks(item) {
+  const links=(Array.isArray(item.resources)?item.resources:[]).filter(r=>r&&['code','demo','tool'].includes(r.kind)&&safeUrl(r.url));
+  const legacy=[{kind:'demo',url:item.demoUrl,label:'交互体验',labelEn:'Interactive demo'},{kind:'code',url:item.codeUrl,label:'作者源码',labelEn:'Creator’s source code'}];
+  return [...links,...legacy.filter(r=>safeUrl(r.url)&&!links.some(link=>link.url===r.url))];
+}
+export const resourceLabel = (kind,lang='zh') => ({code:['作品源码','Work source'],demo:['在线演示','Live demo'],tool:['相关工具','Related tool']}[kind]?.[lang==='en'?1:0] || '');
 export function coverPath(value) { return /^assets\/covers\/[\w-]+\.(?:jpg|jpeg|png|webp)$/.test(value || '') ? value : ''; }
 export function playbackUrl(item) {
   const value = safeUrl(item.webPlayback?.url);
@@ -31,19 +37,20 @@ export function readState(input) {
   const url = input instanceof URL ? input : new URL(input, 'https://gallery.local');
   const p = url.searchParams;
   // Retired collection-status links still open the list without filtering works.
-  const hasListQuery=(p.has('category')&&CATEGORIES.some(c=>c.id===p.get('category'))) || Boolean(p.get('q')?.trim()) || ['featured','latest','bookmarks'].includes(p.get('sort')) || p.get('playable')==='1' || ['featured','catalogued','discovery','all'].includes(p.get('view')) || ['short','medium','long','all'].includes(p.get('duration')) || ['original','brief','unknown','all'].includes(p.get('prompt'));
-  return {page:p.get('page')==='all'||hasListQuery?'all':'home', category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
+  const hasListQuery=['any','code','demo','tool'].includes(p.get('resource')) || (p.has('category')&&CATEGORIES.some(c=>c.id===p.get('category'))) || Boolean(p.get('q')?.trim()) || ['featured','latest','bookmarks'].includes(p.get('sort')) || p.get('playable')==='1' || ['featured','catalogued','discovery','all'].includes(p.get('view')) || ['short','medium','long','all'].includes(p.get('duration')) || ['original','brief','unknown','all'].includes(p.get('prompt'));
+  return {resource:['any','code','demo','tool'].includes(p.get('resource'))?p.get('resource'):'all',page:p.get('page')==='all'||hasListQuery?'all':'home', category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
 }
 export function stateUrl(state, base) {
   const url = new URL(base);
-  for (const key of ['page','category','q','sort','playable','view','duration','prompt','lang']) url.searchParams.delete(key);
-  if (state.page === 'all' || (state.category && state.category !== 'all') || state.query || (state.sort && state.sort !== 'bookmarks') || state.playable || (state.duration && state.duration !== 'all') || (state.prompt && state.prompt !== 'all')) url.searchParams.set('page','all');
+  for (const key of ['page','category','q','sort','playable','view','duration','prompt','resource','lang']) url.searchParams.delete(key);
+  if ((state.resource && state.resource !== 'all') || state.page === 'all' || (state.category && state.category !== 'all') || state.query || (state.sort && state.sort !== 'bookmarks') || state.playable || (state.duration && state.duration !== 'all') || (state.prompt && state.prompt !== 'all')) url.searchParams.set('page','all');
   if (state.category !== 'all') url.searchParams.set('category', state.category);
   if (state.query) url.searchParams.set('q', state.query);
   if (state.sort && state.sort !== 'bookmarks') url.searchParams.set('sort', state.sort);
   if (state.playable) url.searchParams.set('playable', '1');
   if (state.duration && state.duration !== 'all') url.searchParams.set('duration', state.duration);
   if (state.prompt && state.prompt !== 'all') url.searchParams.set('prompt', state.prompt);
+  if (state.resource && state.resource !== 'all') url.searchParams.set('resource', state.resource);
   if (state.lang === 'en') url.searchParams.set('lang', 'en');
   url.hash = state.caseId ? `case-${state.caseId}` : '';
   return url;
@@ -51,10 +58,11 @@ export function stateUrl(state, base) {
 export function matches(item, state, ignoreCategory = false) {
   if (!ignoreCategory && state.category !== 'all' && categoryOf(item) !== state.category) return false;
   if (state.prompt && state.prompt !== 'all' && item.prompt?.status !== state.prompt) return false;
+  if (state.resource && state.resource !== 'all' && !resourceLinks(item).some(r=>state.resource==='any'||r.kind===state.resource)) return false;
   const seconds=item.media?.durationSeconds;
   if (state.duration && state.duration !== 'all' && (!Number.isFinite(seconds) || seconds < 0 || (state.duration === 'short' ? seconds > 30 : state.duration === 'medium' ? seconds <= 30 || seconds > 120 : seconds <= 120))) return false;
   if (state.playable && !playbackUrl(item)) return false;
-  const fields = [item.title,item.titleEn,item.summary,item.summaryEn,item.author?.name,item.author?.handle,item.category,...tagsOf(item,'zh'),...tagsOf(item,'en'),CATEGORIES.find(c=>c.id===categoryOf(item))?.en].join(' ').toLocaleLowerCase();
+  const fields = [item.title,item.titleEn,item.summary,item.summaryEn,item.author?.name,item.author?.handle,item.category,...resourceLinks(item).flatMap(r=>[r.label,r.labelEn,r.url]),...tagsOf(item,'zh'),...tagsOf(item,'en'),CATEGORIES.find(c=>c.id===categoryOf(item))?.en].join(' ').toLocaleLowerCase();
   return state.query.trim().toLocaleLowerCase().split(/\s+/).every(term => fields.includes(term));
 }
 const stamp = item => Date.parse(item.source?.publishedAt) || 0;

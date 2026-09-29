@@ -10,7 +10,9 @@
 
 由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。
 
-343 个视频参考 · 61 份作者公开提示词 · 中英双语
+346 个视频参考 · 62 份作者公开提示词 · 中英双语
+
+[源码与在线演示](browse/resources.md) · 28 个作品有资源入口
 
 <a id="browse"></a>
 
@@ -118,7 +120,7 @@
 </tr>
 </table>
 
-[查看全部 47 支 →](browse/interactive.md)
+[查看全部 49 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -146,11 +148,11 @@
 </tr>
 </table>
 
-[查看全部 25 支 →](browse/music.md)
+[查看全部 26 支 →](browse/music.md)
 
 首页及分类预览按收藏快照从多到少排列，并非实时榜单。
 
-36 条资料已编目 · [307 条发现池资料待完善](browse/discoveries.md) · 343 个原帖媒体入口
+36 条资料已编目 · [310 条发现池资料待完善](browse/discoveries.md) · 346 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 
