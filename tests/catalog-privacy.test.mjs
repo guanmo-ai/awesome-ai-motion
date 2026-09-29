@@ -14,7 +14,7 @@ test('公开目录拒绝研究字段、原始响应和嵌套私有对象',()=>{
 });
 test('原帖入口模式不在公开数据、生成页或纯文本文件夹保留全文',()=>{
   const copy=structuredClone(catalog),c=copy.cases[0];
-  c.prompt.display='source_link';c.prompt.text='';delete c.prompt.translationZh;
+  c.prompt.status='original';c.prompt.display='source_link';c.prompt.text='';delete c.prompt.translationZh;
   assert.deepEqual(validateCatalog(copy),[]);
   const outputs=buildOutputs(copy);
   assert.equal(outputs.has(`prompts/${c.id}.txt`),false);

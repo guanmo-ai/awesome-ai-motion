@@ -10,7 +10,7 @@ AI videos and animations collected from creators’ public posts on X (Twitter).
 
 Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.
 
-265 video references · 56 creator prompts · Chinese & English
+343 video references · 61 creator prompts · Chinese & English
 
 <a id="browse"></a>
 
@@ -27,7 +27,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 <tr>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"><br><strong>Claude Pop: a mixed-workflow music video</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 142s · Bookmarks 8,096 · <a href="https://x.com/donaldjewkes">@donaldjewkes</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">▶ Open gallery to play</a> · <a href="cases/2102801274173587569.en.md">Case details & sources</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646"><img src="assets/covers/2103141339651350646.jpg" width="400" alt="Eight minute research paper explainer"><br><strong>Eight minute research paper explainer</strong><br><small>Click cover to play</small></a><br><sub>Education &amp; explainers · 519s · Bookmarks 5,419 · Details pending · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646">▶ Open gallery to play</a> · <a href="cases/2103141339651350646.en.md">Case details & sources</a> · <a href="https://x.com/deedydas/status/2103141339651350646">Original post</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537"><img src="assets/covers/2102787937482252537.jpg" width="400" alt="A one-line prompt for an inference startup launch"><br><strong>A one-line prompt for an inference startup launch</strong><br><small>Click cover to play</small></a><br><sub>Product &amp; marketing · 26s · Bookmarks 4,697 · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537">▶ Open gallery to play</a> · <a href="cases/2102787937482252537.en.md">Case details & sources</a> · <a href="https://x.com/deedydas/status/2102787937482252537">Original post</a></td>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736"><img src="assets/covers/2104094723887501736.jpg" width="400" alt="An Explorable Raptor 3 Rocket Engine"><br><strong>An Explorable Raptor 3 Rocket Engine</strong><br><small>Click cover to play</small></a><br><sub>Education &amp; explainers · 35s · Bookmarks 4,758 · Details pending · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736">▶ Open gallery to play</a> · <a href="cases/2104094723887501736.en.md">Case details & sources</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post</a></td>
 </tr>
 </table>
 
@@ -62,7 +62,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 46 works →](browse/product.en.md)
+[Explore all 67 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -72,11 +72,11 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 <tr>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"><br><strong>An interactive camera lens lab</strong><br><small>Click cover to play</small></a><br><sub>Education &amp; explainers · 32s · Bookmarks 9,188 · <a href="https://x.com/RyanSael">@RyanSael</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Open gallery to play</a> · <a href="cases/2102591147927654847.en.md">Case details & sources</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646"><img src="assets/covers/2103141339651350646.jpg" width="400" alt="Eight minute research paper explainer"><br><strong>Eight minute research paper explainer</strong><br><small>Click cover to play</small></a><br><sub>Education &amp; explainers · 519s · Bookmarks 5,419 · Details pending · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646">▶ Open gallery to play</a> · <a href="cases/2103141339651350646.en.md">Case details & sources</a> · <a href="https://x.com/deedydas/status/2103141339651350646">Original post</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102737776219168939"><img src="assets/covers/2102737776219168939.jpg" width="400" alt="Pixel Art Neural Network Training"><br><strong>Pixel Art Neural Network Training</strong><br><small>Click cover to play</small></a><br><sub>Education &amp; explainers · 56s · Bookmarks 3,196 · Details pending · <a href="https://x.com/DotCSV">@DotCSV</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102737776219168939">▶ Open gallery to play</a> · <a href="cases/2102737776219168939.en.md">Case details & sources</a> · <a href="https://x.com/DotCSV/status/2102737776219168939">Original post</a></td>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736"><img src="assets/covers/2104094723887501736.jpg" width="400" alt="An Explorable Raptor 3 Rocket Engine"><br><strong>An Explorable Raptor 3 Rocket Engine</strong><br><small>Click cover to play</small></a><br><sub>Education &amp; explainers · 35s · Bookmarks 4,758 · Details pending · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736">▶ Open gallery to play</a> · <a href="cases/2104094723887501736.en.md">Case details & sources</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post</a></td>
 </tr>
 </table>
 
-[Explore all 55 works →](browse/education.en.md)
+[Explore all 63 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -90,7 +90,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 45 works →](browse/motion.en.md)
+[Explore all 54 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -99,12 +99,12 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102476258948927543"><img src="assets/covers/2102476258948927543.jpg" width="400" alt="A pixel wizard casting spells"><br><strong>A pixel wizard casting spells</strong><br><small>Click cover to play</small></a><br><sub>Pixel art &amp; characters · 11s · Bookmarks 2,639 · <a href="https://x.com/majidmanzarpour">@majidmanzarpour</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102476258948927543">▶ Open gallery to play</a> · <a href="cases/2102476258948927543.en.md">Case details & sources</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post</a></td>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923"><img src="assets/covers/2104008163561451923.jpg" width="400" alt="An AITuber Streaming and Explaining Prototype"><br><strong>An AITuber Streaming and Explaining Prototype</strong><br><small>Click cover to play</small></a><br><sub>Pixel art &amp; characters · 55s · Bookmarks 985 · Details pending · <a href="https://x.com/manaimovie">@manaimovie</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923">▶ Open gallery to play</a> · <a href="cases/2104008163561451923.en.md">Case details & sources</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">Original post</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"><br><strong>Pip travels through twelve visual styles</strong><br><small>Click cover to play</small></a><br><sub>Pixel art &amp; characters · 75s · Bookmarks 532 · <a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874">▶ Open gallery to play</a> · <a href="cases/2103099194693271874.en.md">Case details & sources</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102472218269900876"><img src="assets/covers/2102472218269900876.jpg" width="400" alt="Candy-Themed Character Animation"><br><strong>Candy-Themed Character Animation</strong><br><small>Click cover to play</small></a><br><sub>Pixel art &amp; characters · 30s · Bookmarks 350 · Details pending · <a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102472218269900876">▶ Open gallery to play</a> · <a href="cases/2102472218269900876.en.md">Case details & sources</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">Original post</a></td>
 </tr>
 </table>
 
-[Explore all 6 works →](browse/characters.en.md)
+[Explore all 15 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -118,7 +118,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 32 works →](browse/interactive.en.md)
+[Explore all 47 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -132,7 +132,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 59 works →](browse/stories.en.md)
+[Explore all 72 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -146,11 +146,11 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 22 works →](browse/music.en.md)
+[Explore all 25 works →](browse/music.en.md)
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [229 discovery records with details pending](browse/discoveries.en.md) · 265 original video sources
+36 catalogued records · [307 discovery records with details pending](browse/discoveries.en.md) · 343 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

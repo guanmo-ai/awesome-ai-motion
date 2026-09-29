@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-22 works. Click a cover to play; works without gallery video open on X.
+25 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tr>
@@ -46,7 +46,14 @@
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787420399825023"><img src="../assets/covers/2102787420399825023.jpg" width="400" alt="Procedural Music and Animation Film"><br><strong>Procedural Music and Animation Film</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 161s · Bookmarks 2 · Details pending · <a href="https://x.com/NoFollowers2023">@NoFollowers2023</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787420399825023">▶ Open gallery to play</a> · <a href="../cases/2102787420399825023.en.md">Case details & sources</a> · <a href="https://x.com/NoFollowers2023/status/2102787420399825023">Original post</a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104736947822645622"><img src="../assets/covers/2104736947822645622.jpg" width="400" alt="Ferrofluid with Original Music"><br><strong>Ferrofluid with Original Music</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 16s · Bookmarks 2 · Details pending · <a href="https://x.com/gogu_name">@gogu_name</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104736947822645622">▶ Open gallery to play</a> · <a href="../cases/2104736947822645622.en.md">Case details & sources</a> · <a href="https://x.com/gogu_name/status/2104736947822645622">Original post</a></td>
+<td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104145227573248467"><img src="../assets/covers/2104145227573248467.jpg" width="400" alt="A Mechanical Eye That Reacts to Music"><br><strong>A Mechanical Eye That Reacts to Music</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 28s · Bookmarks 1 · Details pending · <a href="https://x.com/Acoramaa">@Acoramaa</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104145227573248467">▶ Open gallery to play</a> · <a href="../cases/2104145227573248467.en.md">Case details & sources</a> · <a href="https://x.com/Acoramaa/status/2104145227573248467">Original post</a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="Song and Video-Model Short Film"><br><strong>Song and Video-Model Short Film</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 208s · Bookmarks 1 · Details pending · <a href="https://x.com/jantijssen">@jantijssen</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755">▶ Open gallery to play</a> · <a href="../cases/2102861462461124755.en.md">Case details & sources</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">Original post</a></td>
+<td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="400" alt="Strings, Flutes and Bubbles: Coded Sound"><br><strong>Strings, Flutes and Bubbles: Coded Sound</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 26s · Bookmarks 0 · Details pending · <a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104144532644544921">▶ Open gallery to play</a> · <a href="../cases/2104144532644544921.en.md">Case details & sources</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">Original post</a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103127192591065595"><img src="../assets/covers/2103127192591065595.jpg" width="400" alt="Child's Doodle Becomes a Music Video"><br><strong>Child's Doodle Becomes a Music Video</strong><br><small>Click cover to play</small></a><br><sub>Music &amp; lyrics · 227s · Bookmarks 0 · Details pending · <a href="https://x.com/coolbat1999">@coolbat1999</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103127192591065595">▶ Open gallery to play</a> · <a href="../cases/2103127192591065595.en.md">Case details & sources</a> · <a href="https://x.com/coolbat1999/status/2103127192591065595">Original post</a></td>
 </tr>
 </table>

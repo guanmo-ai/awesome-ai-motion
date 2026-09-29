@@ -50,7 +50,7 @@ function render() {
   if(focusedCategory) $('categories').querySelector(`[data-category="${focusedCategory}"]`)?.focus({preventScroll:true});
   const selected=selectCases(cases,state), category=CATEGORIES.find(c=>c.id===state.category),home=onHome();
   const visibleCategories=CATEGORIES.slice(1).filter(item=>counts[item.id]>0);
-  $('result-count').textContent=home?'':t(`${category.zh} · ${selected.length} 个作品`,`${category.en} · ${selected.length} works`);
+  $('result-count').textContent=home?'':t(`${category.zh} · ${selected.length} 个作品`,`${category.en} · ${selected.length} work${selected.length===1?'':'s'}`);
   document.querySelector('.results-bar').classList.toggle('home-results',home);
   $('sort-note').hidden=state.sort!=='bookmarks'; $('sort-note').textContent=t('按原帖收藏快照排序，非实时更新。','Based on bookmark snapshots, not live counts.');
   $('works').className=home?'home-sections':'grid';

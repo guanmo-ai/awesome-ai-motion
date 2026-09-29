@@ -10,7 +10,7 @@
 
 由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。
 
-265 个视频参考 · 56 份作者公开提示词 · 中英双语
+343 个视频参考 · 61 份作者公开提示词 · 中英双语
 
 <a id="browse"></a>
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop 混合制作 MV"><br><strong>Claude Pop 混合制作 MV</strong><br><small>点击封面播放</small></a><br><sub>音乐与歌词 · 142s · 收藏 8,096 · <a href="https://x.com/donaldjewkes">@donaldjewkes</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569">▶ 打开画廊播放</a> · <a href="cases/2102801274173587569.md">案例详情与来源</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">作者原帖</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646"><img src="assets/covers/2103141339651350646.jpg" width="400" alt="研究论文八分钟动画讲解"><br><strong>研究论文八分钟动画讲解</strong><br><small>点击封面播放</small></a><br><sub>知识讲解 · 519s · 收藏 5,419 · 资料待完善 · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646">▶ 打开画廊播放</a> · <a href="cases/2103141339651350646.md">案例详情与来源</a> · <a href="https://x.com/deedydas/status/2103141339651350646">作者原帖</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537"><img src="assets/covers/2102787937482252537.jpg" width="400" alt="用一句话介绍推理服务"><br><strong>用一句话介绍推理服务</strong><br><small>点击封面播放</small></a><br><sub>产品宣传 · 26s · 收藏 4,697 · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537">▶ 打开画廊播放</a> · <a href="cases/2102787937482252537.md">案例详情与来源</a> · <a href="https://x.com/deedydas/status/2102787937482252537">作者原帖</a></td>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104094723887501736"><img src="assets/covers/2104094723887501736.jpg" width="400" alt="可拆解的 Raptor 3 火箭发动机"><br><strong>可拆解的 Raptor 3 火箭发动机</strong><br><small>点击封面播放</small></a><br><sub>知识讲解 · 35s · 收藏 4,758 · 资料待完善 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104094723887501736">▶ 打开画廊播放</a> · <a href="cases/2104094723887501736.md">案例详情与来源</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">作者原帖</a></td>
 </tr>
 </table>
 
@@ -62,7 +62,7 @@
 </tr>
 </table>
 
-[查看全部 46 支 →](browse/product.md)
+[查看全部 67 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -72,11 +72,11 @@
 <tr>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="用镜头实验室解释对焦"><br><strong>用镜头实验室解释对焦</strong><br><small>点击封面播放</small></a><br><sub>知识讲解 · 32s · 收藏 9,188 · <a href="https://x.com/RyanSael">@RyanSael</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">▶ 打开画廊播放</a> · <a href="cases/2102591147927654847.md">案例详情与来源</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">作者原帖</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646"><img src="assets/covers/2103141339651350646.jpg" width="400" alt="研究论文八分钟动画讲解"><br><strong>研究论文八分钟动画讲解</strong><br><small>点击封面播放</small></a><br><sub>知识讲解 · 519s · 收藏 5,419 · 资料待完善 · <a href="https://x.com/deedydas">@deedydas</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646">▶ 打开画廊播放</a> · <a href="cases/2103141339651350646.md">案例详情与来源</a> · <a href="https://x.com/deedydas/status/2103141339651350646">作者原帖</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102737776219168939"><img src="assets/covers/2102737776219168939.jpg" width="400" alt="像素画神经网络训练过程"><br><strong>像素画神经网络训练过程</strong><br><small>点击封面播放</small></a><br><sub>知识讲解 · 56s · 收藏 3,196 · 资料待完善 · <a href="https://x.com/DotCSV">@DotCSV</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102737776219168939">▶ 打开画廊播放</a> · <a href="cases/2102737776219168939.md">案例详情与来源</a> · <a href="https://x.com/DotCSV/status/2102737776219168939">作者原帖</a></td>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104094723887501736"><img src="assets/covers/2104094723887501736.jpg" width="400" alt="可拆解的 Raptor 3 火箭发动机"><br><strong>可拆解的 Raptor 3 火箭发动机</strong><br><small>点击封面播放</small></a><br><sub>知识讲解 · 35s · 收藏 4,758 · 资料待完善 · <a href="https://x.com/konstantinsaifo">@konstantinsaifo</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104094723887501736">▶ 打开画廊播放</a> · <a href="cases/2104094723887501736.md">案例详情与来源</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">作者原帖</a></td>
 </tr>
 </table>
 
-[查看全部 55 支 →](browse/education.md)
+[查看全部 63 支 →](browse/education.md)
 
 <a id="category-motion"></a>
 
@@ -90,7 +90,7 @@
 </tr>
 </table>
 
-[查看全部 45 支 →](browse/motion.md)
+[查看全部 54 支 →](browse/motion.md)
 
 <a id="category-characters"></a>
 
@@ -99,12 +99,12 @@
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102476258948927543"><img src="assets/covers/2102476258948927543.jpg" width="400" alt="像素巫师的施法循环"><br><strong>像素巫师的施法循环</strong><br><small>点击封面播放</small></a><br><sub>角色动画 · 11s · 收藏 2,639 · <a href="https://x.com/majidmanzarpour">@majidmanzarpour</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102476258948927543">▶ 打开画廊播放</a> · <a href="cases/2102476258948927543.md">案例详情与来源</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">作者原帖</a></td>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923"><img src="assets/covers/2104008163561451923.jpg" width="400" alt="AITuber 系统：直播与讲解原型"><br><strong>AITuber 系统：直播与讲解原型</strong><br><small>点击封面播放</small></a><br><sub>角色动画 · 55s · 收藏 985 · 资料待完善 · <a href="https://x.com/manaimovie">@manaimovie</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923">▶ 打开画廊播放</a> · <a href="cases/2104008163561451923.md">案例详情与来源</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">作者原帖</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="机器人穿越十二种画风"><br><strong>机器人穿越十二种画风</strong><br><small>点击封面播放</small></a><br><sub>角色动画 · 75s · 收藏 532 · <a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874">▶ 打开画廊播放</a> · <a href="cases/2103099194693271874.md">案例详情与来源</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">作者原帖</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472218269900876"><img src="assets/covers/2102472218269900876.jpg" width="400" alt="糖果主题角色动画"><br><strong>糖果主题角色动画</strong><br><small>点击封面播放</small></a><br><sub>角色动画 · 30s · 收藏 350 · 资料待完善 · <a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472218269900876">▶ 打开画廊播放</a> · <a href="cases/2102472218269900876.md">案例详情与来源</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">作者原帖</a></td>
 </tr>
 </table>
 
-[查看全部 6 支 →](browse/characters.md)
+[查看全部 15 支 →](browse/characters.md)
 
 <a id="category-interactive"></a>
 
@@ -118,7 +118,7 @@
 </tr>
 </table>
 
-[查看全部 32 支 →](browse/interactive.md)
+[查看全部 47 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -132,7 +132,7 @@
 </tr>
 </table>
 
-[查看全部 59 支 →](browse/stories.md)
+[查看全部 72 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -146,11 +146,11 @@
 </tr>
 </table>
 
-[查看全部 22 支 →](browse/music.md)
+[查看全部 25 支 →](browse/music.md)
 
 首页及分类预览按收藏快照从多到少排列，并非实时榜单。
 
-36 条资料已编目 · [229 条发现池资料待完善](browse/discoveries.md) · 265 个原帖媒体入口
+36 条资料已编目 · [307 条发现池资料待完善](browse/discoveries.md) · 343 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 
