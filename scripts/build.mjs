@@ -132,13 +132,14 @@ function renderReadme(cases,en) {
   const playable=cases.filter(c=>c.webPlayback).length;
   const selected=cases.filter(c=>isFeatured(c) && !c.review?.later).sort((a,b)=>reviewRank(b)-reviewRank(a) || (FEATURED.includes(a.id)?FEATURED.indexOf(a.id):FEATURED.length)-(FEATURED.includes(b.id)?FEATURED.indexOf(b.id):FEATURED.length) || compareCases(a,b)).slice(0,6);
   let out=`# Awesome AI Motion\n\n`+
-    `[简体中文](README.md) · [English](README.en.md) · [${choose(en,'在线画廊','Online gallery')}](${SITE}${en?'?lang=en':''}) · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
+    `[简体中文](README.md) · [English](README.en.md)\n\n`+
     `**${choose(en,'发现喜欢的 AI 视频与动画。','Find AI videos and animations you love.')}**\n\n`+
-    `${choose(en,'从 X（Twitter）原作者公开帖子整理 AI 视频与动画。打开在线画廊，按类别看视频、认识作者、查看公开提示词。','AI videos and animations collected from creators’ public posts on X (Twitter). Open the gallery to watch by category, meet the creators and explore public prompts.')}\n\n`+
-    `**[▶ ${choose(en,'打开在线画廊','Open the gallery')}](${SITE}${en?'?lang=en':''})**\n\n`+
-    `${choose(en,'由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。','Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.')}\n\n`+
+    `## [▶ ${choose(en,'打开在线画廊','Explore the gallery')}](${SITE}${en?'?lang=en':''})\n\n`+
+    `${choose(en,'推荐直接在画廊浏览：按类别看视频、搜索作者，查找公开提示词与源码入口，无需安装。','Start in the gallery: watch videos by category, search for creators, and find public prompts and source links. No installation needed.')}\n\n`+
+    `[![${choose(en,'在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊','Gallery preview with category navigation, video covers and playback links. Click to explore.')}](assets/gallery-preview.jpg)](${SITE}${en?'?lang=en':''})\n\n`+
     `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
-    `[${choose(en,'源码、网页与工具','Source, web pages & tools')}](browse/resources${en?'.en':''}.md) · ${cases.filter(c=>resourceLinks(c).length).length} ${choose(en,'个作品有资源入口','works with resources')}\n\n`+
+    `[${choose(en,'源码、网页与工具','Source, web pages & tools')}](browse/resources${en?'.en':''}.md) · ${cases.filter(c=>resourceLinks(c).length).length} ${choose(en,'个作品有资源入口','works with resources')} · [${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
+    `${choose(en,'作品整理自 X（Twitter）原作者公开帖子。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。','Works are collected from creators’ public posts on X (Twitter). Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai).')}\n\n`+
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
     `## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+

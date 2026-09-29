@@ -1,18 +1,20 @@
 # Awesome AI Motion
 
-[简体中文](README.md) · [English](README.en.md) · [在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/) · [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+[简体中文](README.md) · [English](README.en.md)
 
 **发现喜欢的 AI 视频与动画。**
 
-从 X（Twitter）原作者公开帖子整理 AI 视频与动画。打开在线画廊，按类别看视频、认识作者、查看公开提示词。
+## [▶ 打开在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-**[▶ 打开在线画廊](https://guanmo-ai.github.io/awesome-ai-motion/)**
+推荐直接在画廊浏览：按类别看视频、搜索作者，查找公开提示词与源码入口，无需安装。
 
-由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。
+[![在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊](assets/gallery-preview.jpg)](https://guanmo-ai.github.io/awesome-ai-motion/)
 
 355 个视频参考 · 62 份作者公开提示词 · 中英双语
 
-[源码、网页与工具](browse/resources.md) · 38 个作品有资源入口
+[源码、网页与工具](browse/resources.md) · 38 个作品有资源入口 · [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+
+作品整理自 X（Twitter）原作者公开帖子。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。
 
 <a id="browse"></a>
 

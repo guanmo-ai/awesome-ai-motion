@@ -1,18 +1,20 @@
 # Awesome AI Motion
 
-[简体中文](README.md) · [English](README.en.md) · [Online gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en) · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+[简体中文](README.md) · [English](README.en.md)
 
 **Find AI videos and animations you love.**
 
-AI videos and animations collected from creators’ public posts on X (Twitter). Open the gallery to watch by category, meet the creators and explore public prompts.
+## [▶ Explore the gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-**[▶ Open the gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)**
+Start in the gallery: watch videos by category, search for creators, and find public prompts and source links. No installation needed.
 
-Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.
+[![Gallery preview with category navigation, video covers and playback links. Click to explore.](assets/gallery-preview.jpg)](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
 355 video references · 62 creator prompts · Chinese & English
 
-[Source, web pages & tools](browse/resources.en.md) · 38 works with resources
+[Source, web pages & tools](browse/resources.en.md) · 38 works with resources · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+
+Works are collected from creators’ public posts on X (Twitter). Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai).
 
 <a id="browse"></a>
 
