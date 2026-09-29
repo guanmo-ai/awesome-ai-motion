@@ -10,9 +10,9 @@
 
 由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。在 X 关注我的 AI 视频、动效与创作实践。
 
-346 个视频参考 · 62 份作者公开提示词 · 中英双语
+355 个视频参考 · 62 份作者公开提示词 · 中英双语
 
-[源码、网页与工具](browse/resources.md) · 28 个作品有资源入口
+[源码、网页与工具](browse/resources.md) · 38 个作品有资源入口
 
 <a id="browse"></a>
 
@@ -64,7 +64,7 @@
 </tr>
 </table>
 
-[查看全部 67 支 →](browse/product.md)
+[查看全部 68 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-[查看全部 63 支 →](browse/education.md)
+[查看全部 65 支 →](browse/education.md)
 
 <a id="category-motion"></a>
 
@@ -92,7 +92,7 @@
 </tr>
 </table>
 
-[查看全部 54 支 →](browse/motion.md)
+[查看全部 55 支 →](browse/motion.md)
 
 <a id="category-characters"></a>
 
@@ -114,13 +114,13 @@
 
 <table>
 <tr>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104001664793600012"><img src="assets/covers/2104001664793600012.jpg" width="400" alt="Spiderbench：浏览器里的城市荡行"><br><strong>Spiderbench：浏览器里的城市荡行</strong><br><small>点击封面播放</small></a><br><sub>交互演示 · 141s · 收藏 3,777 · 资料待完善 · <a href="https://x.com/xikhar">@xikhar</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104001664793600012">▶ 打开画廊播放</a> · <a href="cases/2104001664793600012.md">案例详情与来源</a> · <a href="https://x.com/xikhar/status/2104001664793600012">作者原帖</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096264296099459079"><img src="assets/covers/2096264296099459079.jpg" width="400" alt="会议演讲镜头的 Blender 复现"><br><strong>会议演讲镜头的 Blender 复现</strong><br><small>点击封面播放</small></a><br><sub>交互演示 · 20s · 收藏 3,710 · 资料待完善 · <a href="https://x.com/petergostev">@petergostev</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096264296099459079">▶ 打开画廊播放</a> · <a href="cases/2096264296099459079.md">案例详情与来源</a> · <a href="https://x.com/petergostev/status/2096264296099459079">作者原帖</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2095756085890310311"><img src="assets/covers/2095756085890310311.jpg" width="400" alt="手绘蒸汽列车变三维模型"><br><strong>手绘蒸汽列车变三维模型</strong><br><small>点击封面播放</small></a><br><sub>交互演示 · 34s · 收藏 3,540 · 资料待完善 · <a href="https://x.com/tomkrcha">@tomkrcha</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2095756085890310311">▶ 打开画廊播放</a> · <a href="cases/2095756085890310311.md">案例详情与来源</a> · <a href="https://x.com/tomkrcha/status/2095756085890310311">作者原帖</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102786378282987591"><img src="assets/covers/2102786378282987591.jpg" width="400" alt="Clearwater：实时浅水与交互涟漪"><br><strong>Clearwater：实时浅水与交互涟漪</strong><br><small>点击封面播放</small></a><br><sub>交互演示 · 27s · 收藏 2,612 · <a href="https://x.com/Aurelien_Gz">@Aurelien_Gz</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102786378282987591">▶ 打开画廊播放</a> · <a href="cases/2102786378282987591.md">案例详情与来源</a> · <a href="https://x.com/Aurelien_Gz/status/2102786378282987591">作者原帖</a></td>
 </tr>
 </table>
 
-[查看全部 49 支 →](browse/interactive.md)
+[查看全部 53 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -134,7 +134,7 @@
 </tr>
 </table>
 
-[查看全部 72 支 →](browse/stories.md)
+[查看全部 73 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -152,7 +152,7 @@
 
 首页及分类预览按收藏快照从多到少排列，并非实时榜单。
 
-36 条资料已编目 · [310 条发现池资料待完善](browse/discoveries.md) · 346 个原帖媒体入口
+36 条资料已编目 · [319 条发现池资料待完善](browse/discoveries.md) · 355 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

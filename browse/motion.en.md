@@ -2,7 +2,7 @@
 
 # Motion design
 
-54 works. Click a cover to play; works without gallery video open on X.
+55 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tr>
@@ -112,5 +112,8 @@
 <tr>
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104763812733981142"><img src="../assets/covers/2104763812733981142.jpg" width="400" alt="Gold Dust and Chladni Patterns"><br><strong>Gold Dust and Chladni Patterns</strong><br><small>Click cover to play</small></a><br><sub>Motion design · 30s · Bookmarks 0 · Details pending · <a href="https://x.com/park_danie36173">@park_danie36173</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104763812733981142">▶ Open gallery to play</a> · <a href="../cases/2104763812733981142.en.md">Case details & sources</a> · <a href="https://x.com/park_danie36173/status/2104763812733981142">Original post</a></td>
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104776177609293975"><img src="../assets/covers/2104776177609293975.jpg" width="400" alt="Design Builder Introduction"><br><strong>Design Builder Introduction</strong><br><small>Click cover to play</small></a><br><sub>Motion design · 15s · Bookmarks 0 · Details pending · <a href="https://x.com/Prathamesh_812">@Prathamesh_812</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104776177609293975">▶ Open gallery to play</a> · <a href="../cases/2104776177609293975.en.md">Case details & sources</a> · <a href="https://x.com/Prathamesh_812/status/2104776177609293975">Original post</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104837895773417649"><img src="../assets/covers/2104837895773417649.jpg" width="400" alt="A Paper-Folding Launch Film in One HTML Page"><br><strong>A Paper-Folding Launch Film in One HTML Page</strong><br><small>Click cover to play</small></a><br><sub>Motion design · 13s · Bookmarks 0 · Details pending · <a href="https://x.com/Vignesh_rav">@Vignesh_rav</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104837895773417649">▶ Open gallery to play</a> · <a href="../cases/2104837895773417649.en.md">Case details & sources</a> · <a href="https://x.com/Vignesh_rav/status/2104837895773417649">Original post</a></td>
 </tr>
 </table>

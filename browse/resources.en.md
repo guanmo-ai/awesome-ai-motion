@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-28 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+38 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -28,6 +28,12 @@ Public work pages also count as implementation references; a web link alone does
   Includes the web film engine, terrain data, audio and rendering tools; no overall license was found.
   [Link source](https://x.com/WinterArc2125/status/2103116235009347650) · Link checked 2026-09-29 05:50 UTC
 
+## [A Fully Coded Launch Film for a Fictional Calendar App](../cases/2104148233106723099.en.md) · @LexnLin
+
+- **Direct source**：[Tessel launch film source, soundtrack and video](https://github.com/Leonxlnx/claude-launchvideo) · [MIT](https://github.com/Leonxlnx/claude-launchvideo/blob/f0906e8629fa524c7cedc1ac959bf987005ee846/LICENSE)
+  Includes visual code, a procedural soundtrack and rendering scripts for the Tessel launch film.
+  [Link source](https://x.com/LexnLin/status/2104148235698774036) · Link checked 2026-09-29 08:35 UTC
+
 ## [Launch Animation of Claude Helping a Neighbourhood](../cases/2102370144546889735.en.md) · @chetaslua
 
 - **Direct source**：[Little Neighbourhood single-file project](https://github.com/ChetasLua/little-neighbourhood) · [MIT](https://github.com/ChetasLua/little-neighbourhood/blob/7888ed552f85d63a57351efc7a69345b791936eb/LICENSE)
@@ -42,6 +48,12 @@ Public work pages also count as implementation references; a web link alone does
   The tutorial’s tool collection, not the complete source of this Mac launch film.
   [Link source](https://x.com/charliejhills/status/2104204601553777129) · Link checked 2026-09-29 06:16 UTC
 
+## [An interactive camera lens lab](../cases/2102591147927654847.en.md) · @RyanSael
+
+- **Public web page**：[Plane of Focus lens lab](https://sael.net/plane-of-focus/)
+  The lens-lab URL in the creator’s post now redirects here.
+  [Link source](https://x.com/RyanSael/status/2102591147927654847) · Link checked 2026-09-29 08:35 UTC
+
 ## [An Explorable Raptor 3 Rocket Engine](../cases/2104094723887501736.en.md) · @konstantinsaifo
 
 - **Public web page**：[Interactive demo](https://airsup.ai/rocket-engine)
@@ -50,6 +62,20 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Related tool**：[Creator’s hand-drawn Canvas animation skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [Link source](https://x.com/superalesha/status/2102463796149440888) · Link checked 2026-09-29 06:18 UTC
+
+## [Lemo-Opuscar: A Whiteboard-Style Creation Tutorial](../cases/2104070024575242622.en.md) · @lemomo\_ai
+
+- **Related tool**：[Lemo-Opuscar video creation skill and style toolkit](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
+  The creator’s skill and style-sample collection; no separate project for this tutorial film was verified. Code is MIT; guides, style documents and films are CC BY 4.0.
+  [Link source](https://x.com/lemomo_ai/status/2103812417457463552) · Link checked 2026-09-29 08:35 UTC
+
+## [An Interactive 3D Atlas of 3,500 Integer Sequences](../cases/2104809653947265030.en.md) · @decompwlj
+
+- **Public web page**：[Integer-sequence 3D / 2D atlas](https://decompwlj.net/)
+  [Link source](https://x.com/decompwlj/status/2104809653947265030) · Link checked 2026-09-29 08:35 UTC
+- **Direct source**：[Sequence atlas source](https://github.com/decompwlj/decompwlj3dopus) · No license specified
+  No overall code license is specified; OEIS data and third-party dependencies have separate terms.
+  [Link source](https://github.com/decompwlj/decompwlj3dopus) · Link checked 2026-09-29 08:35 UTC
 
 ## [Opus visual design test](../cases/2102514581684052169.en.md) · @other\_\_reality
 
@@ -90,6 +116,12 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Interactive demo](https://blitastxyz.itch.io/catwalk)
 
+## [Spiderbench: Swinging Through a Browser City](../cases/2104001664793600012.en.md) · @xikhar
+
+- **Direct source**：[Spiderbench game source](https://github.com/xikhar/spiderbench) · [Source-Available, View-Only](https://github.com/xikhar/spiderbench/blob/4361e15951d98519ba515da3ec31d3e537cb4a10/LICENSE)
+  A custom view-only source license restricts commercial use and redistribution; it is not a standard open-source license.
+  [Link source](https://x.com/xikhar/status/2104093420654604766) · Link checked 2026-09-29 08:35 UTC
+
 ## [Clearwater: real-time shallow water and interactive ripples](../cases/2102786378282987591.en.md) · @Aurelien\_Gz
 
 - **Direct source**：[Creator’s source code](https://github.com/Aureliengmz/clearwater) · [MIT](https://github.com/Aureliengmz/clearwater/blob/4bc826134321043a25df3c2b6fed16fb7b9241e8/LICENSE)
@@ -128,11 +160,29 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Floorplan 2D / 3D demo](https://wy51ai.github.io/floorplan-3d/)
   [Link source](https://x.com/akokoi1/status/2104771886236553568) · Link checked 2026-09-29 05:50 UTC
 
+## [Rocket-Powered Car Soccer in the Browser](../cases/2104800823620632641.en.md) · @BlendiByl
+
+- **Public web page**：[Creator’s playable webpage](https://soccar-one.vercel.app/)
+  [Link source](https://x.com/BlendiByl/status/2104800823620632641) · Link checked 2026-09-29 08:35 UTC
+
 ## [Workspace: A 3D Office for Coding Sessions](../cases/2103998389058740521.en.md) · @kum1ta
 
 - **Direct source**：[Workspace 3D office project](https://github.com/Edd-io/Workspace) · [MIT](https://github.com/Edd-io/Workspace/blob/e50a203051a173f5191977d13e2259d1952de676/LICENSE)
   The interactive application source is MIT-licensed. Its README lists sounds as CC0 and fonts as OFL; assets and dependencies retain their own terms.
   [Link source](https://x.com/kum1ta/status/2103998991948005618) · Link checked 2026-09-29 06:16 UTC
+
+## [The Apex Rush: A Single-File 3D Browser Game](../cases/2104820347875045751.en.md) · @sidgiri2104
+
+- **Public web page**：[Creator’s playable webpage](https://the-apex-rush.vercel.app/)
+  [Link source](https://x.com/sidgiri2104/status/2104820351532437653) · Link checked 2026-09-29 08:35 UTC
+
+## [Dawnroll: A Beetle Rolling Its Sun Through a Miniature Garden](../cases/2102543530002456775.en.md) · @Nickxyzn
+
+- **Direct source**：[Dawnroll game source](https://github.com/Nickdevcode/dawnroll) · No license specified
+  The repository is publicly readable; no overall license was found.
+  [Link source](https://x.com/Nickxyzn/status/2104602475911098674) · Link checked 2026-09-29 08:35 UTC
+- **Public web page**：[Play Dawnroll online](https://dawnroll.vercel.app/)
+  [Link source](https://x.com/Nickxyzn/status/2104602475911098674) · Link checked 2026-09-29 08:35 UTC
 
 ## [Latentown: AI News as a 3D City](../cases/2104102479927620029.en.md) · @sanjay\_khadka07
 
@@ -146,6 +196,14 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Tekapo Polaris house walkthrough](https://tekapo-polaris.vercel.app/)
   [Link source](https://x.com/truenyl/status/2104242902218285246) · Link checked 2026-09-29 05:50 UTC
+
+## [Memory Fading into Watercolor: A Coded Short](../cases/2104186357824487573.en.md) · @techartist\_
+
+- **Direct source**：[Memory Fading into Watercolor source](https://github.com/iamtechartist/memory-fading-into-watercolor) · [MIT](https://github.com/iamtechartist/memory-fading-into-watercolor/blob/0bcc7cedfa9b0323437d746916174c9bba34026e/LICENSE)
+  The code is marked MIT; piano samples and other third-party resources have separate terms.
+  [Link source](https://x.com/techartist_/status/2104186357824487573) · Link checked 2026-09-29 08:35 UTC
+- **Public web page**：[Memory Fading into Watercolor live demo](https://iamtechartist.github.io/memory-fading-into-watercolor/)
+  [Link source](https://github.com/iamtechartist/memory-fading-into-watercolor) · Link checked 2026-09-29 08:35 UTC
 
 ## [District Seven: From 3D Previs to Video](../cases/2103997282270248974.en.md) · @akakuma0219
 
@@ -162,6 +220,12 @@ Public work pages also count as implementation references; a web link alone does
 ## [An Evangelion-Inspired Three.js Theatre](../cases/2104780688113455342.en.md) · @LuisBizarro
 
 - **Public web page**：[Interactive demo](https://theatre-fawn.vercel.app/)
+
+## [Music Film About Functional Emotions](../cases/2102610626321490404.en.md) · @eudaemonea
+
+- **Direct source**：[Functional Emotions animation source](https://github.com/ledbetterljoshua/functional-emotions-video) · [MIT](https://github.com/ledbetterljoshua/functional-emotions-video/blob/b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49/LICENSE)
+  The repository identifies itself as the source for this film and links the original post. MIT covers code; the song, lyrics and audio have separate rights.
+  [Link source](https://github.com/ledbetterljoshua/functional-emotions-video) · Link checked 2026-09-29 08:35 UTC
 
 ## [Neon Overdrive: Evangelion-Inspired Audiovisuals](../cases/2104111432149164474.en.md) · @LuisBizarro
 

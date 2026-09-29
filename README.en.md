@@ -10,9 +10,9 @@ AI videos and animations collected from creators’ public posts on X (Twitter).
 
 Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow my AI video, motion and creative experiments on X.
 
-346 video references · 62 creator prompts · Chinese & English
+355 video references · 62 creator prompts · Chinese & English
 
-[Source, web pages & tools](browse/resources.en.md) · 28 works with resources
+[Source, web pages & tools](browse/resources.en.md) · 38 works with resources
 
 <a id="browse"></a>
 
@@ -64,7 +64,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 67 works →](browse/product.en.md)
+[Explore all 68 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -78,7 +78,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 63 works →](browse/education.en.md)
+[Explore all 65 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -92,7 +92,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 54 works →](browse/motion.en.md)
+[Explore all 55 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -114,13 +114,13 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 
 <table>
 <tr>
+<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104001664793600012"><img src="assets/covers/2104001664793600012.jpg" width="400" alt="Spiderbench: Swinging Through a Browser City"><br><strong>Spiderbench: Swinging Through a Browser City</strong><br><small>Click cover to play</small></a><br><sub>3D &amp; interactive · 141s · Bookmarks 3,777 · Details pending · <a href="https://x.com/xikhar">@xikhar</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104001664793600012">▶ Open gallery to play</a> · <a href="cases/2104001664793600012.en.md">Case details & sources</a> · <a href="https://x.com/xikhar/status/2104001664793600012">Original post</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096264296099459079"><img src="assets/covers/2096264296099459079.jpg" width="400" alt="Blender Recreation of a Conference Clip"><br><strong>Blender Recreation of a Conference Clip</strong><br><small>Click cover to play</small></a><br><sub>3D &amp; interactive · 20s · Bookmarks 3,710 · Details pending · <a href="https://x.com/petergostev">@petergostev</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096264296099459079">▶ Open gallery to play</a> · <a href="cases/2096264296099459079.en.md">Case details & sources</a> · <a href="https://x.com/petergostev/status/2096264296099459079">Original post</a></td>
 <td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2095756085890310311"><img src="assets/covers/2095756085890310311.jpg" width="400" alt="Sketch Becomes a 3D Steam Train"><br><strong>Sketch Becomes a 3D Steam Train</strong><br><small>Click cover to play</small></a><br><sub>3D &amp; interactive · 34s · Bookmarks 3,540 · Details pending · <a href="https://x.com/tomkrcha">@tomkrcha</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2095756085890310311">▶ Open gallery to play</a> · <a href="cases/2095756085890310311.en.md">Case details & sources</a> · <a href="https://x.com/tomkrcha/status/2095756085890310311">Original post</a></td>
-<td width="33%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102786378282987591"><img src="assets/covers/2102786378282987591.jpg" width="400" alt="Clearwater: real-time shallow water and interactive ripples"><br><strong>Clearwater: real-time shallow water and interactive ripples</strong><br><small>Click cover to play</small></a><br><sub>3D &amp; interactive · 27s · Bookmarks 2,612 · <a href="https://x.com/Aurelien_Gz">@Aurelien_Gz</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102786378282987591">▶ Open gallery to play</a> · <a href="cases/2102786378282987591.en.md">Case details & sources</a> · <a href="https://x.com/Aurelien_Gz/status/2102786378282987591">Original post</a></td>
 </tr>
 </table>
 
-[Explore all 49 works →](browse/interactive.en.md)
+[Explore all 53 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -134,7 +134,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 </tr>
 </table>
 
-[Explore all 72 works →](browse/stories.en.md)
+[Explore all 73 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -152,7 +152,7 @@ Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai). Follow
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [310 discovery records with details pending](browse/discoveries.en.md) · 346 original video sources
+36 catalogued records · [319 discovery records with details pending](browse/discoveries.en.md) · 355 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

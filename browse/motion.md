@@ -2,7 +2,7 @@
 
 # 短动效
 
-54 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+55 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tr>
@@ -112,5 +112,8 @@
 <tr>
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104763812733981142"><img src="../assets/covers/2104763812733981142.jpg" width="400" alt="金粉振动板：克拉尼图形动画"><br><strong>金粉振动板：克拉尼图形动画</strong><br><small>点击封面播放</small></a><br><sub>短动效 · 30s · 收藏 0 · 资料待完善 · <a href="https://x.com/park_danie36173">@park_danie36173</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104763812733981142">▶ 打开画廊播放</a> · <a href="../cases/2104763812733981142.md">案例详情与来源</a> · <a href="https://x.com/park_danie36173/status/2104763812733981142">作者原帖</a></td>
 <td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104776177609293975"><img src="../assets/covers/2104776177609293975.jpg" width="400" alt="Design Builder 入职短片"><br><strong>Design Builder 入职短片</strong><br><small>点击封面播放</small></a><br><sub>短动效 · 15s · 收藏 0 · 资料待完善 · <a href="https://x.com/Prathamesh_812">@Prathamesh_812</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104776177609293975">▶ 打开画廊播放</a> · <a href="../cases/2104776177609293975.md">案例详情与来源</a> · <a href="https://x.com/Prathamesh_812/status/2104776177609293975">作者原帖</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104837895773417649"><img src="../assets/covers/2104837895773417649.jpg" width="400" alt="单页 HTML 折纸发布短片"><br><strong>单页 HTML 折纸发布短片</strong><br><small>点击封面播放</small></a><br><sub>短动效 · 13s · 收藏 0 · 资料待完善 · <a href="https://x.com/Vignesh_rav">@Vignesh_rav</a></sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104837895773417649">▶ 打开画廊播放</a> · <a href="../cases/2104837895773417649.md">案例详情与来源</a> · <a href="https://x.com/Vignesh_rav/status/2104837895773417649">作者原帖</a></td>
 </tr>
 </table>

@@ -3,6 +3,718 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2104837895773417649",
+      "stage": "discovery",
+      "title": "单页 HTML 折纸发布短片",
+      "titleEn": "A Paper-Folding Launch Film in One HTML Page",
+      "category": "短动效",
+      "summary": "作者先用 ChatGPT Images 2.5 制作分镜，再让 Opus 5.5 编写折纸、绘画切换与配乐同步的短片。原帖展示成片，暂未公开作品网页或源码地址。",
+      "summaryEn": "The creator storyboarded with ChatGPT Images 2.5, then used Opus 5.5 to code paper folding, painted transitions and synchronized music. The post shows the film but does not provide a public source or demo link.",
+      "author": {
+        "name": "Vignesh Ravichandran",
+        "handle": "Vignesh_rav",
+        "url": "https://x.com/Vignesh_rav"
+      },
+      "source": {
+        "url": "https://x.com/Vignesh_rav/status/2104837895773417649",
+        "publishedAt": "2026-09-29T07:37:15+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5 launch film with sound is 100% Code.",
+        "evidenceUrl": "https://x.com/Vignesh_rav/status/2104837895773417649"
+      },
+      "media": {
+        "durationSeconds": 13.454,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104837895773417649.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104837610330038273/img/SMYYzxMhwgAAss1u.jpg",
+        "kind": "source_thumbnail",
+        "width": 960,
+        "height": 720,
+        "bytes": 102717
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Vignesh_rav/status/2104837895773417649",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 22,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/Vignesh_rav/status/2104837895773417649"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104837610330038273/vid/avc1/960x720/GakKYvgjKanUPQWC.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/Vignesh_rav/status/2104837895773417649",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2104820347875045751",
+      "stage": "discovery",
+      "title": "The Apex Rush：单文件 3D 网页游戏",
+      "titleEn": "The Apex Rush: A Single-File 3D Browser Game",
+      "category": "3D 与交互",
+      "summary": "作者展示用 Opus 5.5 制作的 Three.js 网页游戏，并在同帖回复给出试玩页。作者称其包含在一个 HTML 文件中；当前只收录公开网页。",
+      "summaryEn": "The creator demonstrates a Three.js browser game made with Opus 5.5 and shares a playable page in a reply. The post describes a single HTML file; this entry links the public webpage.",
+      "author": {
+        "name": "Siddhant Giri",
+        "handle": "sidgiri2104",
+        "url": "https://x.com/sidgiri2104"
+      },
+      "source": {
+        "url": "https://x.com/sidgiri2104/status/2104820347875045751",
+        "publishedAt": "2026-09-29T06:27:31+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Build a full 3D game using Opus 5.5",
+        "evidenceUrl": "https://x.com/sidgiri2104/status/2104820347875045751"
+      },
+      "media": {
+        "durationSeconds": 66.516,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104820347875045751.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104820298671607808/img/c6ow8qiqvBdiHusR.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 462,
+        "bytes": 56969
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/sidgiri2104/status/2104820347875045751",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 3,
+        "views": 178,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/sidgiri2104/status/2104820347875045751"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104820298671607808/vid/avc1/1278x590/Xq6hGz3yJXyQInsb.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/sidgiri2104/status/2104820347875045751",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://the-apex-rush.vercel.app/",
+          "label": "作者公开试玩页",
+          "labelEn": "Creator’s playable webpage",
+          "evidenceUrl": "https://x.com/sidgiri2104/status/2104820351532437653",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2104809653947265030",
+      "stage": "discovery",
+      "title": "3500 条整数数列的交互式 3D 图谱",
+      "titleEn": "An Interactive 3D Atlas of 3,500 Integer Sequences",
+      "category": "知识讲解",
+      "summary": "作者将整数数列的 weight、level 与 jump 分解绘成可切换的二维图与三维点云，并公开 Three.js 网页和工程；原帖注明使用 Claude Code 与 Opus 5.5。",
+      "summaryEn": "The creator visualizes integer-sequence decompositions into weight, level and jump as switchable 2D plots and 3D point clouds, with a public Three.js website and repository. The post credits Claude Code and Opus 5.5.",
+      "author": {
+        "name": "Rémi Eismann",
+        "handle": "decompwlj",
+        "url": "https://x.com/decompwlj"
+      },
+      "source": {
+        "url": "https://x.com/decompwlj/status/2104809653947265030",
+        "publishedAt": "2026-09-29T05:45:01+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Code/Opus 5.5",
+        "evidenceUrl": "https://x.com/decompwlj/status/2104809653947265030"
+      },
+      "media": {
+        "durationSeconds": 28.566,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104809653947265030.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104808707057967105/img/nxMsyydowcOicqIt.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 928,
+        "bytes": 128987
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/decompwlj/status/2104809653947265030",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 142,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/decompwlj/status/2104809653947265030"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104808707057967105/vid/avc1/1400x1300/ZQ8N9qezsEVKO7ZP.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/decompwlj/status/2104809653947265030",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://decompwlj.net/",
+          "label": "整数数列 3D / 2D 图谱",
+          "labelEn": "Integer-sequence 3D / 2D atlas",
+          "evidenceUrl": "https://x.com/decompwlj/status/2104809653947265030",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/decompwlj/decompwlj3dopus",
+          "label": "数列图谱工程",
+          "labelEn": "Sequence atlas source",
+          "evidenceUrl": "https://github.com/decompwlj/decompwlj3dopus",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "not_specified",
+          "note": "仓库未标整体代码许可；OEIS 数据与第三方依赖另有条款。",
+          "noteEn": "No overall code license is specified; OEIS data and third-party dependencies have separate terms."
+        }
+      ]
+    },
+    {
+      "id": "2104800823620632641",
+      "stage": "discovery",
+      "title": "浏览器中的火箭车足球",
+      "titleEn": "Rocket-Powered Car Soccer in the Browser",
+      "category": "3D 与交互",
+      "summary": "作者展示用 Opus 5.5 制作的网页火箭车足球，重点呈现车辆运动、碰撞与球体物理，并给出试玩地址；作者标注为非官方同人项目。",
+      "summaryEn": "The creator demonstrates a browser car-soccer game built with Opus 5.5, focusing on movement, collisions and ball physics, and provides a playable link. The post identifies it as an unofficial fan project.",
+      "author": {
+        "name": "Blendi",
+        "handle": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "source": {
+        "url": "https://x.com/BlendiByl/status/2104800823620632641",
+        "publishedAt": "2026-09-29T05:09:56+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "i used Opus 5.5 to build a Rocket League clone that runs in the browser",
+        "evidenceUrl": "https://x.com/BlendiByl/status/2104800823620632641"
+      },
+      "media": {
+        "durationSeconds": 39.148,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104800823620632641.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104799970125926400/img/X_GxNlHqjWk-G4Sm.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 563,
+        "bytes": 139125
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/BlendiByl/status/2104800823620632641",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 83,
+        "likes": 155,
+        "views": 14076,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/BlendiByl/status/2104800823620632641"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104799970125926400/vid/avc1/2560x1440/U2sNu5RvMrGu0CI2.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/BlendiByl/status/2104800823620632641",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://soccar-one.vercel.app/",
+          "label": "作者公开试玩页",
+          "labelEn": "Creator’s playable webpage",
+          "evidenceUrl": "https://x.com/BlendiByl/status/2104800823620632641",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2104186357824487573",
+      "stage": "discovery",
+      "title": "记忆褪成水彩：代码绘制的短片",
+      "titleEn": "Memory Fading into Watercolor: A Coded Short",
+      "category": "叙事短片",
+      "summary": "作者用 Opus 5.5 编写水彩感画面，组合 Three.js、GLSL、Rough.js 与噪声生成，并以 Tone.js 和钢琴采样配声；原帖直接给出源码。",
+      "summaryEn": "The creator used Opus 5.5 to code watercolor-style imagery with Three.js, GLSL, Rough.js and noise, accompanied by Tone.js and piano samples. The original post links the source.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2104186357824487573",
+        "publishedAt": "2026-09-27T12:28:16+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Making art with code using Opus 5.5",
+        "evidenceUrl": "https://x.com/techartist_/status/2104186357824487573"
+      },
+      "media": {
+        "durationSeconds": 12.05,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104186357824487573.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104185406363455488/img/wD6sXr55jInJTY_X.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 673,
+        "bytes": 134320
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2104186357824487573",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 260,
+        "likes": 308,
+        "views": 13398,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2104186357824487573"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104185406363455488/vid/avc1/1744x1174/SMNR54ZopDpMoaZI.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2104186357824487573",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/iamtechartist/memory-fading-into-watercolor",
+          "label": "Memory Fading into Watercolor 源码",
+          "labelEn": "Memory Fading into Watercolor source",
+          "evidenceUrl": "https://x.com/techartist_/status/2104186357824487573",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/iamtechartist/memory-fading-into-watercolor/blob/0bcc7cedfa9b0323437d746916174c9bba34026e/LICENSE",
+          "note": "代码标为 MIT；钢琴采样等第三方资源另有条款。",
+          "noteEn": "The code is marked MIT; piano samples and other third-party resources have separate terms."
+        },
+        {
+          "kind": "demo",
+          "url": "https://iamtechartist.github.io/memory-fading-into-watercolor/",
+          "label": "Memory Fading into Watercolor 在线演示",
+          "labelEn": "Memory Fading into Watercolor live demo",
+          "evidenceUrl": "https://github.com/iamtechartist/memory-fading-into-watercolor",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2104148233106723099",
+      "stage": "discovery",
+      "title": "虚构日历 App 的全代码发布片",
+      "titleEn": "A Fully Coded Launch Film for a Fictional Calendar App",
+      "category": "产品宣传",
+      "summary": "作者让 Opus 5.5 为虚构日历 App 制作发布片，涵盖名称、标志、界面、动画与声效，并公开生成工程。制作时长与过程来自作者自述。",
+      "summaryEn": "The creator used Opus 5.5 to make a fictional calendar app launch film, covering the name, logo, interface, animation and sound, and shared the generated project. Timing and workflow are the creator’s account.",
+      "author": {
+        "name": "Leon Lin",
+        "handle": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source": {
+        "url": "https://x.com/LexnLin/status/2104148233106723099",
+        "publishedAt": "2026-09-27T09:56:46+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I asked Claude Code (Opus 5.5) to make a launch video for a fake calendar app",
+        "evidenceUrl": "https://x.com/LexnLin/status/2104148233106723099"
+      },
+      "media": {
+        "durationSeconds": 33,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104148233106723099.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2104148166450835456/vid/avc1/1920x1080/2VlZWulj4d68fccA.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 1000,
+        "height": 563,
+        "bytes": 47278,
+        "timeSeconds": 10
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LexnLin/status/2104148233106723099",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1240,
+        "likes": 1222,
+        "views": 81772,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/LexnLin/status/2104148233106723099"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104148166450835456/vid/avc1/1920x1080/2VlZWulj4d68fccA.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LexnLin/status/2104148233106723099",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Leonxlnx/claude-launchvideo",
+          "label": "Tessel 发布片源码、配乐与成片",
+          "labelEn": "Tessel launch film source, soundtrack and video",
+          "evidenceUrl": "https://x.com/LexnLin/status/2104148235698774036",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/Leonxlnx/claude-launchvideo/blob/f0906e8629fa524c7cedc1ac959bf987005ee846/LICENSE",
+          "note": "包含 Tessel 发布片的画面代码、程序化配乐和渲染脚本。",
+          "noteEn": "Includes visual code, a procedural soundtrack and rendering scripts for the Tessel launch film."
+        }
+      ]
+    },
+    {
+      "id": "2104070024575242622",
+      "stage": "discovery",
+      "title": "Lemo-Opuscar：白板风格创作教学片",
+      "titleEn": "Lemo-Opuscar: A Whiteboard-Style Creation Tutorial",
+      "category": "知识讲解",
+      "summary": "作者用 Opus 5.5 制作白板讲解风格的教学视频，展示如何使用其公开的 Lemo-Opuscar 创作资源；样片、风格提示和制作方法在作者项目中提供。",
+      "summaryEn": "The creator used Opus 5.5 for a whiteboard-style tutorial explaining the public Lemo-Opuscar resources. The project provides sample films, style prompts and production guidance.",
+      "author": {
+        "name": "Lemomo",
+        "handle": "lemomo_ai",
+        "url": "https://x.com/lemomo_ai"
+      },
+      "source": {
+        "url": "https://x.com/lemomo_ai/status/2104070024575242622",
+        "publishedAt": "2026-09-27T04:46:00+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Lemo-Opuscar Skill (Opus 5.5)",
+        "evidenceUrl": "https://x.com/lemomo_ai/status/2104070024575242622"
+      },
+      "media": {
+        "durationSeconds": 71.104,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104070024575242622.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104056361764216832/img/-M4LLJ0IjWLnB2g4.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 563,
+        "bytes": 78996
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/lemomo_ai/status/2104070024575242622",
+        "checkedAt": "2026-09-29T08:21:56.503766+00:00"
+      },
+      "metrics": {
+        "bookmarks": 16,
+        "likes": 17,
+        "views": 5258,
+        "checkedAt": "2026-09-29T08:21:56.503766+00:00",
+        "sourceUrl": "https://x.com/lemomo_ai/status/2104070024575242622"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:21:56.503766+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104056361764216832/vid/avc1/1920x1080/y6Ft48snH_vjdovx.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/lemomo_ai/status/2104070024575242622",
+        "checkedAt": "2026-09-29T08:21:56.503766+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/lemomo-ai/lemo-opuscar",
+          "label": "Lemo-Opuscar 视频制作 Skill 与风格工具集",
+          "labelEn": "Lemo-Opuscar video creation skill and style toolkit",
+          "evidenceUrl": "https://x.com/lemomo_ai/status/2103812417457463552",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE",
+          "note": "作者的制作 Skill 与风格样片集；未核得这支教学片的独立工程。代码 MIT，指南、风格文档与影片为 CC BY 4.0。",
+          "noteEn": "The creator’s skill and style-sample collection; no separate project for this tutorial film was verified. Code is MIT; guides, style documents and films are CC BY 4.0."
+        }
+      ]
+    },
+    {
+      "id": "2104001664793600012",
+      "stage": "discovery",
+      "title": "Spiderbench：浏览器里的城市荡行",
+      "titleEn": "Spiderbench: Swinging Through a Browser City",
+      "category": "3D 与交互",
+      "summary": "作者展示第三轮 Opus 5.5 制作的城市荡行场景，结合 Blender、图像生成与 Three.js，并在回复中公开工程。",
+      "summaryEn": "The creator shares a third iteration made with Opus 5.5, combining Blender, image generation and Three.js for a browser-based city traversal scene, with the project linked in a reply.",
+      "author": {
+        "name": "Shikhar",
+        "handle": "xikhar",
+        "url": "https://x.com/xikhar"
+      },
+      "source": {
+        "url": "https://x.com/xikhar/status/2104001664793600012",
+        "publishedAt": "2026-09-27T00:14:22+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Third iteration with Opus 5.5 medium.",
+        "evidenceUrl": "https://x.com/xikhar/status/2104001664793600012"
+      },
+      "media": {
+        "durationSeconds": 140.736,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104001664793600012.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103995292983193600/img/eI4itdxauhMqdVZU.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 627,
+        "bytes": 159231
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/xikhar/status/2104001664793600012",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 3777,
+        "likes": 8615,
+        "views": 1644260,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/xikhar/status/2104001664793600012"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2103995292983193600/vid/avc1/3024x1896/pePICR2xzpQTMgmy.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/xikhar/status/2104001664793600012",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/xikhar/spiderbench",
+          "label": "Spiderbench 游戏工程",
+          "labelEn": "Spiderbench game source",
+          "evidenceUrl": "https://x.com/xikhar/status/2104093420654604766",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "Source-Available, View-Only",
+          "licenseUrl": "https://github.com/xikhar/spiderbench/blob/4361e15951d98519ba515da3ec31d3e537cb4a10/LICENSE",
+          "note": "采用自定义只读源码许可，限制商业使用与再分发；不属于标准开源许可。",
+          "noteEn": "A custom view-only source license restricts commercial use and redistribution; it is not a standard open-source license."
+        }
+      ]
+    },
+    {
+      "id": "2102543530002456775",
+      "stage": "discovery",
+      "title": "Dawnroll：甲虫滚动小太阳的微缩花园",
+      "titleEn": "Dawnroll: A Beetle Rolling Its Sun Through a Miniature Garden",
+      "category": "3D 与交互",
+      "summary": "作者用 Opus 5.5 制作甲虫滚动球体的三维花园游戏，称模型、纹理与声音均由代码生成；后续公开试玩与工程。原帖视频对应早期版本，在线项目持续更新。",
+      "summaryEn": "The creator used Opus 5.5 for a 3D garden game about a beetle rolling a ball, describing its models, textures and sounds as code-generated. A later post links the game and repository. The post video shows an earlier version of the evolving project.",
+      "author": {
+        "name": "NickDev ♿ ➔ newsdev.com.br",
+        "handle": "Nickxyzn",
+        "url": "https://x.com/Nickxyzn"
+      },
+      "source": {
+        "url": "https://x.com/Nickxyzn/status/2102543530002456775",
+        "publishedAt": "2026-09-22T23:40:15+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Anthropic released Claude Opus 5.5 today.",
+        "evidenceUrl": "https://x.com/Nickxyzn/status/2102543530002456775"
+      },
+      "media": {
+        "durationSeconds": 29.6,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102543530002456775.jpg",
+        "sourceUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2102543475845558272/pu/img/FKitWonKszBHL-5-.jpg",
+        "kind": "source_thumbnail",
+        "width": 1000,
+        "height": 563,
+        "bytes": 59959
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Nickxyzn/status/2102543530002456775",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 65,
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "sourceUrl": "https://x.com/Nickxyzn/status/2102543530002456775"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-29T08:19:43.081458+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/ext_tw_video/2102543475845558272/pu/vid/avc1/1280x720/gqkVzYl9iXk_VgRW.mp4?tag=12",
+        "sourcePostUrl": "https://x.com/Nickxyzn/status/2102543530002456775",
+        "checkedAt": "2026-09-29T08:19:43.081458+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Nickdevcode/dawnroll",
+          "label": "Dawnroll 游戏工程",
+          "labelEn": "Dawnroll game source",
+          "evidenceUrl": "https://x.com/Nickxyzn/status/2104602475911098674",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "not_specified",
+          "note": "仓库公开可读，未发现整体许可证。",
+          "noteEn": "The repository is publicly readable; no overall license was found."
+        },
+        {
+          "kind": "demo",
+          "url": "https://dawnroll.vercel.app/",
+          "label": "Dawnroll 在线试玩",
+          "labelEn": "Play Dawnroll online",
+          "evidenceUrl": "https://x.com/Nickxyzn/status/2104602475911098674",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00"
+        }
+      ]
+    },
+    {
       "id": "2104520072014508316",
       "stage": "discovery",
       "title": "户型装修：从二维平面过渡到三维漫游",
@@ -5282,7 +5994,19 @@
         },
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://sael.net/plane-of-focus/",
+          "label": "镜头对焦实验室",
+          "labelEn": "Plane of Focus lens lab",
+          "evidenceUrl": "https://x.com/RyanSael/status/2102591147927654847",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "note": "作者原帖的镜头实验室地址现重定向至此页。",
+          "noteEn": "The lens-lab URL in the creator’s post now redirects here."
+        }
+      ]
     },
     {
       "id": "2102495989194236158",
@@ -17875,7 +18599,21 @@
         "contentType": "video/mp4",
         "reuploadPermission": "not_verified",
         "verificationLevel": "source_media_matched"
-      }
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/ledbetterljoshua/functional-emotions-video",
+          "label": "Functional Emotions 动画工程",
+          "labelEn": "Functional Emotions animation source",
+          "evidenceUrl": "https://github.com/ledbetterljoshua/functional-emotions-video",
+          "checkedAt": "2026-09-29T08:35:53.251800+00:00",
+          "license": "MIT",
+          "note": "仓库自述为该原帖作品源码，并链接原帖；MIT 仅覆盖代码，歌曲、歌词与音频另有权利。",
+          "noteEn": "The repository identifies itself as the source for this film and links the original post. MIT covers code; the song, lyrics and audio have separate rights.",
+          "licenseUrl": "https://github.com/ledbetterljoshua/functional-emotions-video/blob/b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49/LICENSE"
+        }
+      ]
     },
     {
       "id": "2102487989381156991",
