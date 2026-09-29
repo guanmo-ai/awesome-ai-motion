@@ -8,7 +8,9 @@
 
 推荐直接在画廊浏览：按类别看视频、搜索作者，查找公开提示词与源码入口，无需安装。
 
-[![在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊](assets/gallery-preview.jpg)](https://guanmo-ai.github.io/awesome-ai-motion/)
+[![在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/)
+
+[查看高清原图](assets/gallery-preview.png)
 
 355 个视频参考 · 62 份作者公开提示词 · 中英双语
 

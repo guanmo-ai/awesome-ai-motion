@@ -35,7 +35,8 @@ export function checkRelease(root=ROOT,{ci=process.env.GITHUB_ACTIONS==='true',c
   function inspect(file,version,buffer,{symlink=false}={}) {
     const label=fileLabel(file);
     if(symlink){errors.push(`符号链接：${label}（${version}）`);return;}
-    const limit=file==='data/cases.json'?2_000_000:500_000;
+    // README 的原尺寸 PNG 预览单独放宽，其他图片继续使用默认限制。
+    const limit=file==='assets/gallery-preview.png'?4_000_000:file==='data/cases.json'?2_000_000:500_000;
     if(buffer.length>limit)errors.push(`文件过大：${label}（${version}）`);
     const text=decodeText(buffer);
     if(text===null)return;
