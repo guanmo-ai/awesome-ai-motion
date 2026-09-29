@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#f8f7f3">
   <title>Awesome AI Motion · 作品画廊</title>
   <link rel="stylesheet" href="./assets/gallery.css?v=20260928-navigation">
-  <script type="module" src="./assets/gallery.mjs?v=20260929-catalog"></script>
+  <script type="module" src="./assets/gallery.mjs?v=20260929-filters"></script>
 </head>
 <body>
   <a class="skip-link" href="#works">跳到作品 / Skip to works</a>
@@ -37,7 +37,6 @@
         <label class="sort"><span class="sr-only" id="sort-label">排序</span><select id="sort" aria-labelledby="sort-label"><option value="bookmarks">收藏最多</option><option value="featured">推荐浏览</option><option value="latest">最新发布</option></select></label>
       </div>
       <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><details id="advanced-filters" class="advanced-filters"><summary id="filter-summary">筛选作品</summary><div class="filter-row">
-        <label class="filter-select"><span id="view-label">策展</span><select id="view" aria-labelledby="view-label"><option value="all">全部</option><option value="featured">精选</option><option value="catalogued">已编目</option><option value="discovery">发现池</option></select></label>
         <label class="filter-select"><span id="duration-label">时长</span><select id="duration" aria-labelledby="duration-label"><option value="all">全部时长</option><option value="short">30 秒以内</option><option value="medium">31–120 秒</option><option value="long">超过 120 秒</option></select></label>
         <label class="filter-select"><span id="prompt-label">提示词</span><select id="prompt" aria-labelledby="prompt-label"><option value="all">全部状态</option><option value="original">作者原文</option><option value="brief">任务描述</option><option value="unknown">尚未公开</option></select></label>
         <label class="playable-filter"><input id="playable" type="checkbox"><span id="playable-label">仅页内播放</span></label>

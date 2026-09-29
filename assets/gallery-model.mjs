@@ -13,9 +13,6 @@ export const isFeatured = item => !item.review?.later && (item.review?.featured 
 export const stageOf = item => item.stage === 'discovery' ? 'discovery' : 'catalogued';
 export const PAGE_SIZE = 36;
 export const pageCases = (items, limit = PAGE_SIZE) => ({visible:items.slice(0,limit),remaining:Math.max(0,items.length-limit)});
-export function curationCounts(items) {
-  return {all:items.length,featured:items.filter(isFeatured).length,catalogued:items.filter(item=>stageOf(item)==='catalogued').length,discovery:items.filter(item=>stageOf(item)==='discovery').length};
-}
 export const categoryOf = item => CATEGORIES.find(c => c.source === item.category)?.id || 'all';
 export function safeUrl(value) {
   try { const u = new URL(value); return u.protocol === 'https:' && !u.username && !u.password ? u.href : ''; } catch { return ''; }
@@ -33,18 +30,18 @@ export function tagsOf(item, lang = 'zh') {
 export function readState(input) {
   const url = input instanceof URL ? input : new URL(input, 'https://gallery.local');
   const p = url.searchParams;
+  // Retired collection-status links still open the list without filtering works.
   const hasListQuery=(p.has('category')&&CATEGORIES.some(c=>c.id===p.get('category'))) || Boolean(p.get('q')?.trim()) || ['featured','latest','bookmarks'].includes(p.get('sort')) || p.get('playable')==='1' || ['featured','catalogued','discovery','all'].includes(p.get('view')) || ['short','medium','long','all'].includes(p.get('duration')) || ['original','brief','unknown','all'].includes(p.get('prompt'));
-  return {page:p.get('page')==='all'||hasListQuery?'all':'home', category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', view:['featured','catalogued','discovery'].includes(p.get('view')) ? p.get('view') : 'all', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
+  return {page:p.get('page')==='all'||hasListQuery?'all':'home', category:CATEGORIES.some(c => c.id === p.get('category')) ? p.get('category') : 'all', query:p.get('q') || '', sort:['featured','latest','bookmarks'].includes(p.get('sort')) ? p.get('sort') : 'bookmarks', playable:p.get('playable') === '1', duration:['short','medium','long'].includes(p.get('duration')) ? p.get('duration') : 'all', prompt:['original','brief','unknown'].includes(p.get('prompt')) ? p.get('prompt') : 'all', lang:p.get('lang') === 'en' ? 'en' : 'zh', caseId:/^#case-\d+$/.test(url.hash) ? url.hash.slice(6) : null};
 }
 export function stateUrl(state, base) {
   const url = new URL(base);
   for (const key of ['page','category','q','sort','playable','view','duration','prompt','lang']) url.searchParams.delete(key);
-  if (state.page === 'all' || (state.category && state.category !== 'all') || state.query || (state.sort && state.sort !== 'bookmarks') || state.playable || (state.view && state.view !== 'all') || (state.duration && state.duration !== 'all') || (state.prompt && state.prompt !== 'all')) url.searchParams.set('page','all');
+  if (state.page === 'all' || (state.category && state.category !== 'all') || state.query || (state.sort && state.sort !== 'bookmarks') || state.playable || (state.duration && state.duration !== 'all') || (state.prompt && state.prompt !== 'all')) url.searchParams.set('page','all');
   if (state.category !== 'all') url.searchParams.set('category', state.category);
   if (state.query) url.searchParams.set('q', state.query);
   if (state.sort && state.sort !== 'bookmarks') url.searchParams.set('sort', state.sort);
   if (state.playable) url.searchParams.set('playable', '1');
-  if (state.view && state.view !== 'all') url.searchParams.set('view', state.view);
   if (state.duration && state.duration !== 'all') url.searchParams.set('duration', state.duration);
   if (state.prompt && state.prompt !== 'all') url.searchParams.set('prompt', state.prompt);
   if (state.lang === 'en') url.searchParams.set('lang', 'en');
@@ -53,8 +50,6 @@ export function stateUrl(state, base) {
 }
 export function matches(item, state, ignoreCategory = false) {
   if (!ignoreCategory && state.category !== 'all' && categoryOf(item) !== state.category) return false;
-  if (state.view === 'featured' && !isFeatured(item)) return false;
-  if (['catalogued','discovery'].includes(state.view) && stageOf(item) !== state.view) return false;
   if (state.prompt && state.prompt !== 'all' && item.prompt?.status !== state.prompt) return false;
   const seconds=item.media?.durationSeconds;
   if (state.duration && state.duration !== 'all' && (!Number.isFinite(seconds) || seconds < 0 || (state.duration === 'short' ? seconds > 30 : state.duration === 'medium' ? seconds <= 30 || seconds > 120 : seconds <= 120))) return false;

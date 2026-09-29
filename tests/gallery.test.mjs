@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {CATEGORIES,FEATURED,isFeatured,stageOf,curationCounts,PAGE_SIZE,pageCases,reviewRank,validReview,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration,introCases} from '../assets/gallery-model.mjs';
+import {CATEGORIES,FEATURED,isFeatured,stageOf,PAGE_SIZE,pageCases,reviewRank,validReview,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,categoryCounts,formatDuration,introCases} from '../assets/gallery-model.mjs';
 const {cases}=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url)));
 const defaults=readState('https://example.com/gallery/');
 test('默认按收藏排序，分享链接省略默认值并保留显式精选',()=>{
@@ -33,8 +33,8 @@ test('latest sorts by source timestamp; bookmarks distinguish zero from unknown'
   const mock=[{id:'1',source:{publishedAt:'2026-01-01'},metrics:{bookmarks:null}},{id:'2',source:{publishedAt:'2026-01-02'},metrics:{bookmarks:0}},{id:'3',source:{publishedAt:'2026-01-03'},metrics:{bookmarks:4}}];
   assert.deepEqual(selectCases(mock,{...defaults,sort:'bookmarks'}).map(c=>c.id),['3','2','1']);assert.deepEqual(selectCases(mock,{...defaults,sort:'latest'}).map(c=>c.id),['3','2','1']);
 });
-test('share URL round-trips category, curation, duration, prompt and detail without breaking subpaths',()=>{
-  const state={page:'all',category:'motion',query:'UI + 中文',sort:'latest',playable:true,view:'discovery',duration:'medium',prompt:'unknown',lang:'en',caseId:'123'};const url=stateUrl(state,'https://example.com/project/?unrelated=keep');assert.equal(url.pathname,'/project/');assert.equal(url.searchParams.get('unrelated'),'keep');assert.deepEqual(readState(url),state);
+test('share URL round-trips category, duration, prompt and detail without breaking subpaths',()=>{
+  const state={page:'all',category:'motion',query:'UI + 中文',sort:'latest',playable:true,duration:'medium',prompt:'unknown',lang:'en',caseId:'123'};const url=stateUrl(state,'https://example.com/project/?unrelated=keep');assert.equal(url.pathname,'/project/');assert.equal(url.searchParams.get('unrelated'),'keep');assert.deepEqual(readState(url),state);
   assert.deepEqual(readState('https://example.com/?category=bad&sort=bad&view=bad&duration=bad&prompt=bad&lang=bad#case-x'),defaults);
 });
 test('unsafe data URLs, protocols and cover traversal cannot become media sources',()=>{
@@ -70,17 +70,15 @@ test('明确精选可覆盖内置名单，取消精选保留优点评价且只�
   assert.equal(validReview({highlights:['motion'],later:false,featured:false}),true);
   assert.equal(validReview({highlights:[],later:true,featured:true}),false);
 });
-test('策展阶段、提示词和时长筛选可组合，边界 30 与 120 秒准确',()=>{
+test('提示词和时长筛选可组合，不按编目阶段隐藏作品，边界 30 与 120 秒准确',()=>{
   const row=(id,stage,prompt,seconds,featured)=>({id,stage,review:featured?{highlights:[],later:false,featured:true}:undefined,title:'测试作品',category:'短动效',prompt:{status:prompt},media:{durationSeconds:seconds},source:{publishedAt:'2026-01-01'},metrics:{bookmarks:0}});
   const input=[row('1',undefined,'original',30,true),row('2','discovery','unknown',31,false),row('3','discovery','brief',120,false),row('4','catalogued','unknown',121,false)];
   assert.equal(stageOf(input[0]),'catalogued');
-  assert.deepEqual(curationCounts(input),{all:4,featured:1,catalogued:2,discovery:2});
-  assert.deepEqual(selectCases(input,{...defaults,view:'featured'}).map(c=>c.id),['1']);
-  assert.deepEqual(selectCases(input,{...defaults,view:'discovery',duration:'medium'}).map(c=>c.id),['2','3']);
-  assert.deepEqual(selectCases(input,{...defaults,view:'discovery',duration:'medium',prompt:'unknown'}).map(c=>c.id),['2']);
+  assert.deepEqual(selectCases(input,{...defaults,duration:'medium'}).map(c=>c.id),['2','3']);
+  assert.deepEqual(selectCases(input,{...defaults,duration:'medium',prompt:'unknown'}).map(c=>c.id),['2']);
   assert.deepEqual(selectCases(input,{...defaults,duration:'short'}).map(c=>c.id),['1']);
   assert.deepEqual(selectCases(input,{...defaults,duration:'long'}).map(c=>c.id),['4']);
-  assert.equal(categoryCounts(input,{...defaults,view:'discovery',prompt:'unknown'}).motion,1);
+  assert.equal(categoryCounts(input,{...defaults,prompt:'unknown'}).motion,2);
 });
 test('分页首批 36 条，下一批只追加剩余项，边界不重复',()=>{
   const input=Array.from({length:73},(_,i)=>({id:String(i+1)}));

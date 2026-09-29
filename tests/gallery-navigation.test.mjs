@@ -33,6 +33,22 @@ test('旧的分类搜索和排序链接仍打开列表，无效参数不破坏�
   assert.equal(readState(stateUrl(queryState,base)).page,'all');
 });
 
+test('已移除的馆藏状态不再隐藏作品，旧分享链接保留其他筛选和详情',()=>{
+  const input=rows.map((row,index)=>({...row,stage:index%2?'discovery':'catalogued',review:{featured:index===0,highlights:[],later:false}}));
+  for(const view of ['all','featured','catalogued','discovery']) {
+    const state=readState(`${base}?view=${view}&category=motion&lang=en#case-71`);
+    const selected=selectCases(input,state);
+    assert.equal(state.page,'all');
+    assert.equal(selected.length,40);
+    assert.equal(detailNeighbors(input,state).total,40);
+    const url=stateUrl(state,`${base}?view=${view}&unrelated=keep`);
+    assert.equal(url.searchParams.has('view'),false);
+    assert.equal(url.searchParams.get('unrelated'),'keep');
+    assert.equal(url.hash,'#case-71');
+    assert.deepEqual(readState(url),state);
+  }
+});
+
 test('详情按完整筛选结果导航，跨过第 36 条仍有下一条',()=>{
   const state={...defaults,page:'all',category:'motion',caseId:'71'};
   const neighbors=detailNeighbors(rows,state);
