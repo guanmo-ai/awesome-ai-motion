@@ -1,5 +1,7 @@
 name: 发布作品画廊
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read

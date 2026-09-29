@@ -29,13 +29,13 @@ node scripts/package-site.mjs
 
 ## GitHub Pages
 
-仓库提供手动运行的「发布作品画廊」工作流，推送代码不会自动部署。
+推送到正式仓库 `main` 后，「发布作品画廊」工作流自动执行测试、生成一致性、公开文件与发布目标检查；全部通过后按白名单打包并更新网站。任何检查失败都会阻止部署，线上继续保留上一版。PR 和其他分支不会发布网站；工作流仍支持手动重试。
 
 修改画廊脚本或样式时，同步更新 `index.html` 中对应资源的 `v` 参数，避免访客缓存造成新页面与旧资源混用。
 
-获得项目所有者上线授权后，在仓库 Settings → Pages 将 Source 设为 GitHub Actions，再从 Actions 手动运行该工作流，选择 `main`。工作流先测试、校验并按白名单打包，随后发布静态文件。操作方式参考 [GitHub 官方文档](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
+首次配置时，在仓库 Settings → Pages 将 Source 设为 GitHub Actions。日常发布随获准的 `main` 推送一起完成；需要重试时，从 Actions 手动运行该工作流并选择 `main`。操作方式参考 [GitHub 官方文档](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
 
-部署完成后，实际打开输出地址，在桌面和手机尺寸验证封面、搜索、播放、分享直达、关闭返回与错误回退，再把确认可用的网址加入 README。没有实际部署和验证前，不宣称已经上线。
+推送后确认对应提交的部署工作流成功，并核对线上首页、脚本版本和案例数据与发布版本一致。实际打开网站，在桌面和手机尺寸验证本次改动影响的筛选、封面、搜索、播放、分享直达、关闭返回或错误回退。只有部署成功且线上核验完成，才报告网站已更新；若失败，修复或说明阻塞，不能只交付 Git 提交地址。
 
 ## 媒体检查与失效处理
 

@@ -7,7 +7,7 @@
 - 发现与核验见 `docs/DISCOVERY.md`，维护与发布见 `docs/MAINTAINING.md`。参考仓库只用于找原帖，不照搬收录判断。
 - `discovery` 表示来源已核对、编目资料待完善；`catalogued` 表示资料已整理。完整视听评价是可选记录，不是收录门槛；精选单独标记。
 - 保留 `.research/deleted-works/` 中的删除恢复记录；其他研究证据也只留在被忽略的 `.research/`，不公开提交。
-- 先查看工作树并保留已有改动。当前先本地审看，提交、推送、PR 和部署须获得用户授权。
+- 先查看工作树并保留已有改动。先本地审看，提交、推送和 PR 须获得用户授权；获准推送 `main` 时，同时完成网站自动部署与线上核验，不把网站更新拆为额外确认。仅推送成功不能视为发布完成。
 - 公开与本地资料边界见 `docs/PUBLIC_PRIVATE.md`。内部采集方法、任务分工及候选只放本地研究目录，公开文件只保留必要来源与核验结果。
 - 修改后执行受影响测试及 `node scripts/build.mjs --check`；发布准备执行 `node --test tests/*.test.mjs`、`node scripts/check-release.mjs` 和 `node scripts/check-target.mjs`。
 - 对外署名使用「观默 / @guanmo_ai」，本仓库提交使用公开署名与 GitHub noreply 邮箱；提交前检查作者和提交者身份，不使用自动生成的本机身份。不要将真实姓名、私人邮箱、机器名、私有路径、凭据和内部研究记录写入公开文件。
