@@ -108,15 +108,23 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
 function renderCards(cases,en,prefix='') {
   if(!cases.length)return choose(en,'此处暂无推荐，仍可进入分类浏览全部作品。','No recommendations here yet. Browse the category to see all works.');
   let out='<table>\n';
-  for(const c of cases) {
-    const detail=`${prefix}cases/${c.id}${en?'.en':''}.md`;
-    const watch=watchUrl(c,en);
-    const width=Math.min(200,c.cover.width,Math.round(112*c.cover.width/c.cover.height));
-    out+=`<tr>\n<td width="25%" align="center" valign="middle"><a href="${watch}"><img src="${prefix}${c.cover.path}" width="${width}" alt="${html(title(c,en))}"></a></td>\n`+
-      `<td width="75%" valign="middle"><strong>${html(title(c,en))}</strong><br>`+
-      `<sub><a href="${c.author.url}">@${html(c.author.handle)}</a> · ${html(category(c,en))}</sub><br>`+
-      `<sub>${formatDuration(c.media.durationSeconds)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'资料待完善','Details pending'):''}</sub><br>`+
-      `<a href="${watch}">${c.webPlayback?choose(en,'▶ 播放','▶ Play'):choose(en,'▶ 在 X 观看','▶ Watch on X')}</a> · <a href="${detail}">${choose(en,'详情','Details')}</a> · <a href="${c.source.url}">${choose(en,'原帖','Original post')}</a></td>\n</tr>\n`;
+  for(let i=0;i<cases.length;i+=2) {
+    const pair=cases.slice(i,i+2);
+    out+='<tbody>\n<tr>\n';
+    for(const c of pair) {
+      const width=Math.min(400,c.cover.width,Math.round(225*c.cover.width/c.cover.height));
+      out+=`<td width="50%" height="225" align="center" valign="middle"><a href="${watchUrl(c,en)}"><img src="${prefix}${c.cover.path}" width="${width}" alt="${html(title(c,en))}"></a></td>\n`;
+    }
+    if(pair.length===1)out+='<td width="50%"></td>\n';
+    out+='</tr>\n<tr>\n';
+    for(const c of pair) {
+      out+=`<td width="50%" valign="top"><strong>${html(title(c,en))}</strong><br>`+
+        `<sub><a href="${c.author.url}">@${html(c.author.handle)}</a> · ${html(category(c,en))}</sub><br>`+
+        `<sub>${formatDuration(c.media.durationSeconds)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'资料待完善','Details pending'):''}</sub><br>`+
+        `<a href="${watchUrl(c,en)}">${c.webPlayback?choose(en,'▶ 播放','▶ Play'):choose(en,'▶ 在 X 观看','▶ Watch on X')}</a> · <a href="${c.source.url}">${choose(en,'原帖','Original post')}</a></td>\n`;
+    }
+    if(pair.length===1)out+='<td width="50%"></td>\n';
+    out+='</tr>\n</tbody>\n';
   }
   return out+'</table>';
 }
@@ -150,7 +158,7 @@ function renderReadme(cases,en) {
   for(const [zh,english,slug] of CATEGORIES) {
     const group=cases.filter(c=>c.category===zh);if(!group.length)continue;
     out+=`<a id="category-${slug}"></a>\n\n## ${en?english:displayZh(zh)}\n\n`+
-      renderCards(recommendedCases(cases,zh,3,'bookmarks'),en)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
+      renderCards(recommendedCases(cases,zh,4,'bookmarks'),en)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
   }
   out+=`${choose(en,'首页及分类预览按收藏快照从多到少排列，并非实时榜单。','Homepage and category previews rank by bookmark snapshots, not live counts.')}\n\n`+
     `${catalogued} ${choose(en,'条资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池资料待完善','discovery records with details pending')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池资料待完善','0 discovery records with details pending')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+

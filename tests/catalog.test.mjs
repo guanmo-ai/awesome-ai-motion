@@ -8,6 +8,16 @@ import path from 'node:path';
 const root = path.resolve(import.meta.dirname, '..');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/cases.json'), 'utf8'));
 
+const coverIds=body=>[...body.matchAll(/assets\/covers\/(\d+)\.jpg/g)].map(m=>m[1]);
+function listingCards(body) {
+  return [...body.matchAll(/<tbody>(.*?)<\/tbody>/gs)].flatMap(([,group])=>{
+    const rows=[...group.matchAll(/<tr>(.*?)<\/tr>/gs)].map(m=>[...m[1].matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)].map(cell=>cell[1]));
+    assert.equal(rows.length,2,'每组分别排列封面和文字，使同排标题对齐');
+    assert.ok(rows.every(row=>row.length===2),'每排保留两列');
+    return rows[0].flatMap((cover,index)=>cover?[cover+rows[1][index]]:[]);
+  });
+}
+
 test('创作导览双语展示并保留作者原文，拒绝不完整建议和危险来源链接',()=>{
   const copy=structuredClone(catalog),c=copy.cases.find(item=>item.guide);
   const original=c.prompt.text;
@@ -86,7 +96,7 @@ test('首页先分类再精选，长提示词只出现在详情，brief 也保�
   assert.ok(!readme.includes('make a modern slick and punchy video'));
   for(const c of catalog.cases) {
     const browse=[...outputs].filter(([file])=>/^browse\/.*(?<!\.en)\.md$/.test(file)&&!['browse/discoveries.md','browse/resources.md'].includes(file));
-    assert.equal(browse.filter(([,body])=>body.includes(`cases/${c.id}.md`)).length,1,`${c.id} 必须归属唯一用途分类`);
+    assert.equal(browse.filter(([,body])=>body.includes(c.cover.path)).length,1,`${c.id} 必须归属唯一用途分类`);
     const detail=outputs.get(`cases/${c.id}.md`);
     assert.ok(!detail.includes("github.com/user-attachments/"));
   }
@@ -108,7 +118,7 @@ test('双语分类包含全部作品，详情和提示词完整，投稿仍指�
   for(const en of [false,true]) {
     const browse=[...outputs].filter(([file])=>file.startsWith('browse/')&&(file.endsWith('.en.md')===en));
     for(const c of catalog.cases) {
-      assert.ok(browse.some(([,text])=>text.includes(`cases/${c.id}${en?'.en':''}.md`)));
+      assert.ok(browse.some(([,text])=>text.includes(c.cover.path)));
       assert.ok(outputs.has(`cases/${c.id}${en?'.en':''}.md`));
     }
     const text=outputs.get(`README${en?'.en':''}.md`);
@@ -143,7 +153,7 @@ test('所有双语作品页的主观看入口和封面进入实际可用的观�
   }
 });
 
-test('README 与分类页双语卡片直接播放，并保留 GitHub 详情及作者原帖', () => {
+test('README 与分类页双语卡片分两列对齐，保留播放与原帖入口', () => {
   const outputs=buildOutputs(catalog);
   for(const en of [false,true]) for(const [file,body] of outputs) {
     if(/^browse\/resources(?:\.en)?\.md$/.test(file))continue;
@@ -151,20 +161,20 @@ test('README 与分类页双语卡片直接播放，并保留 GitHub 详情及�
     if(file.startsWith('browse/')&&file.endsWith('.en.md')!==en)continue;
     if(file.startsWith('README')&&file.endsWith('.en.md')!==en)continue;
     if(file.startsWith('README'))assert.ok(body.includes(en?'Click a cover to play in the gallery':'点击封面打开画廊播放'));
-    const cards=[...body.matchAll(/<tr>\s*(.*?)<\/tr>/gs)].map(m=>m[1]);
+    const cards=listingCards(body);
     assert.ok(cards.length,`${file}: 应包含可观看卡片`);
     for(const card of cards) {
-      const id=card.match(/cases\/(\d+)(?:\.en)?\.md/)?.[1];
-      assert.ok(id,`${file}: 卡片详情链接缺失`);
+      const id=coverIds(card)[0];
+      assert.ok(id,`${file}: 卡片封面缺失`);
       const c=catalog.cases.find(item=>item.id===id);
-      const detail=`${file.startsWith('browse/')?'../':''}cases/${id}${en?'.en':''}.md`;
       const watch=c.webPlayback?`https://guanmo-ai.github.io/awesome-ai-motion/${en?'?lang=en':''}#case-${id}`:c.source.url;
       const label=c.webPlayback?(en?'▶ Play':'▶ 播放'):(en?'▶ Watch on X':'▶ 在 X 观看');
       assert.ok(card.includes(`<a href="${watch}"><img `),`${file}: 封面必须进入实际观看入口`);
       const width=Number(card.match(/<img\b[^>]*width="(\d+)"/)?.[1]);
-      assert.ok(width>0&&width<=200&&width*c.cover.height/c.cover.width<=113,`${file}: 封面必须保持在统一预览范围内`);
+      assert.ok(width>0&&width<=400&&width*c.cover.height/c.cover.width<=226,`${file}: 封面必须保持在统一预览范围内`);
       assert.ok(card.includes(`<a href="${watch}">${label}</a>`));
-      assert.ok(card.includes(`<a href="${detail}">${en?'Details':'详情'}</a>`));
+      assert.doesNotMatch(card,/>详情<\/a>|>Details<\/a>/);
+      assert.ok(card.includes(`<a href="${c.author.url}">@${c.author.handle}</a>`));
       assert.ok(card.includes(`<a href="${c.source.url}">${en?'Original post':'原帖'}</a>`));
       if(c.webPlayback) {
         assert.deepEqual({caseId:readState(watch).caseId,lang:readState(watch).lang},{caseId:id,lang:en?'en':'zh'});
@@ -177,7 +187,7 @@ test('README 与分类页双语卡片直接播放，并保留 GitHub 详情及�
 test('没有画廊视频时双语详情、README 和分类页回退作者原帖', () => {
   const copy=structuredClone(catalog);
   const firstReadme=buildOutputs(copy).get('README.md');
-  const id=firstReadme.match(/cases\/(\d+)\.md/)?.[1];
+  const id=coverIds(firstReadme)[0];
   assert.ok(id,'README 应有可测试卡片');
   const c=copy.cases.find(item=>item.id===id);
   delete c.webPlayback;
@@ -191,13 +201,13 @@ test('没有画廊视频时双语详情、README 和分类页回退作者原帖'
     assert.ok(!caseBody.includes(en?'Open gallery to play':'打开画廊播放'));
     let browseCards=0;
     for(const file of [`README${en?'.en':''}.md`,...([...outputs.keys()].filter(name=>name.startsWith('browse/')&&(name.endsWith('.en.md')===en)))]) {
-      const card=[...outputs.get(file).matchAll(/<tr>\s*(.*?)<\/tr>/gs)].map(m=>m[1]).find(text=>text.includes(`${detail}`));
+      const card=listingCards(outputs.get(file)).find(text=>text.includes(c.cover.path));
       if(file.startsWith('README'))assert.ok(card,`${file}: 选中的案例应显示在首页`);
       if(!card)continue;
       if(file.startsWith('browse/'))browseCards++;
       assert.ok(card.includes(`<a href="${c.source.url}"><img `),`${file}: 无画廊视频的封面应去原帖`);
       assert.ok(card.includes(`<a href="${c.source.url}">${en?'▶ Watch on X':'▶ 在 X 观看'}</a>`));
-      assert.ok(card.includes(`<a href="${file.startsWith('browse/')?'../':''}${detail}">${en?'Details':'详情'}</a>`));
+      assert.ok(card.includes(`<a href="${c.source.url}">${en?'Original post':'原帖'}</a>`));
       assert.ok(!card.includes(`#case-${id}`),`${file}: 不应承诺画廊播放器`);
     }
     assert.ok(browseCards>=1,`双语分类应包含 ${id}`);
@@ -242,9 +252,9 @@ test('手动精选决定 README 选入，取消默认精选后不会重新自动
   for(const en of [false,true]) {
     const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
     const featuredSection=readme.split('<a id="featured"></a>')[1].split('<a id="category-')[0];
-    const cards=[...featuredSection.matchAll(/<tr>\s*(.*?)<\/tr>/gs)];
+    const cards=listingCards(featuredSection);
     assert.equal(cards.length,1);
-    assert.ok(cards[0][1].includes(`cases/${chosen.id}${en?'.en':''}.md`));
+    assert.ok(cards[0].includes(chosen.cover.path));
   }
 });
 
@@ -275,14 +285,14 @@ test('发现池按来源核对和编目进度标记，不把完整视听评价�
 });
 
 
-test('首页每个非空类别都有最多三张对应封面与完整分类入口',()=>{
+test('首页每个非空类别都有最多四张对应封面与完整分类入口',()=>{
   for(const en of [false,true]) {
     const readme=buildOutputs(catalog).get(`README${en?'.en':''}.md`);
     const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)];
     assert.equal(sections.length,new Set(catalog.cases.map(c=>c.category)).size);
     for(const [,slug,body] of sections) {
-      const ids=[...body.matchAll(/<a href="cases\/(\d+)(?:\.en)?\.md">(?:详情|Details)<\/a>/g)].map(m=>m[1]);
-      assert.ok(ids.length>0&&ids.length<=3);
+      const ids=coverIds(body);
+      assert.ok(ids.length>0&&ids.length<=4);
       assert.equal(new Set(ids).size,ids.length);
       assert.equal(new Set(ids.map(id=>catalog.cases.find(c=>c.id===id).category)).size,1);
       assert.ok(body.includes(`browse/${slug}${en?'.en':''}.md`));
@@ -295,7 +305,7 @@ test('首页和分类预览按收藏展示，人工排后不改变收藏榜，�
   const copy=structuredClone(catalog),category=copy.cases[0].category;
   for(const c of copy.cases)if(c.category===category)c.review={highlights:[],later:true,featured:false};
   const ranked=[...copy.cases].sort((a,b)=>(b.metrics.bookmarks??-1)-(a.metrics.bookmarks??-1)||Date.parse(b.source.publishedAt)-Date.parse(a.source.publishedAt)||a.id.localeCompare(b.id));
-  const ids=body=>[...body.matchAll(/<a href="cases\/(\d+)(?:\.en)?\.md">(?:详情|Details)<\/a>/g)].map(m=>m[1]);
+  const ids=coverIds;
   for(const en of [false,true]) {
     const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
     const intro=readme.split(`## ${en?'Most bookmarked':'收藏最多'}`)[1].split('<a id="featured">')[0];
@@ -304,7 +314,7 @@ test('首页和分类预览按收藏展示，人工排后不改变收藏榜，�
     assert.ok(readme.includes(`](browse/discoveries${en?'.en':''}.md)`));
     for(const [,body] of readme.matchAll(/<a id="category-[^"]+"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)) {
       const actual=ids(body),source=copy.cases.find(c=>c.id===actual[0]).category;
-      assert.deepEqual(actual,ranked.filter(c=>c.category===source).slice(0,3).map(c=>c.id));
+      assert.deepEqual(actual,ranked.filter(c=>c.category===source).slice(0,4).map(c=>c.id));
     }
     assert.doesNotMatch(readme,/<table>\s*<\/table>/);
   }
