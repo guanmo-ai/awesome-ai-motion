@@ -10,11 +10,9 @@
 
 [![在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-[查看高清原图](assets/gallery-preview.png)
-
 355 个视频参考 · 62 份作者公开提示词 · 中英双语
 
-[源码、网页与工具](browse/resources.md) · 38 个作品有资源入口 · [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+[提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
 作品整理自 X（Twitter）原作者公开帖子。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。
 

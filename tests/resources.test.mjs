@@ -45,7 +45,6 @@ test('双语资源索引包含新旧链接，许可与出处保留在详情且�
       assert.ok(!output.includes('<script>'));
       assert.ok(output.includes('[MIT](https://example.com/LICENSE)'));
     }
-    assert.ok(outputs.get(`README${suffix}.md`).includes(`browse/resources${suffix}.md`));
   }
 });
 

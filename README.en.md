@@ -10,11 +10,9 @@ Start in the gallery: watch videos by category, search for creators, and find pu
 
 [![Gallery preview with category navigation, video covers and playback links. Click to explore.](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-[View full-resolution image](assets/gallery-preview.png)
-
 355 video references · 62 creator prompts · Chinese & English
 
-[Source, web pages & tools](browse/resources.en.md) · 38 works with resources · [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+[Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
 Works are collected from creators’ public posts on X (Twitter). Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai).
 
