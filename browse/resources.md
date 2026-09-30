@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-38 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+47 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -28,6 +28,15 @@
   包含影片网页引擎、地形数据、声音与渲染工具；未见整体许可证。
   [链接出处](https://x.com/WinterArc2125/status/2103116235009347650) · 链接核对 2026-09-29 05:50 UTC
 
+## [One Prompt：p5.js 音乐视频](../cases/2105230653457650116.md) · @ppop123
+
+- **相关工具**：[作者使用的 ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
+  作者明确使用的通用动画基础工程；本链接不包含这支 MV 的完整场景工程。
+  [链接出处](https://x.com/ppop123/status/2105230653457650116) · 链接核对 2026-09-30 10:04 UTC
+- **公开网页**：[One Prompt 作品与制作说明](https://pdoomvideo.com/opus-5-5-video/?ref=x-post-oneprompt)
+  作者在回复中链接的制作文章，含对应作品视频和原始指令；完整 MV 工程未在此公开。
+  [链接出处](https://x.com/ppop123/status/2105230820327964758) · 链接核对 2026-09-30 10:06 UTC
+
 ## [虚构日历 App 的全代码发布片](../cases/2104148233106723099.md) · @LexnLin
 
 - **直接源码**：[Tessel 发布片源码、配乐与成片](https://github.com/Leonxlnx/claude-launchvideo) · [MIT](https://github.com/Leonxlnx/claude-launchvideo/blob/f0906e8629fa524c7cedc1ac959bf987005ee846/LICENSE)
@@ -47,6 +56,24 @@
 - **相关工具**：[作者分享的动效制作 Skills](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
   教程配套工具集，不是该 Mac 发布片的完整源码。
   [链接出处](https://x.com/charliejhills/status/2104204601553777129) · 链接核对 2026-09-29 06:16 UTC
+
+## [HyperFrames 风格化广告实验](../cases/2104595346882175311.md) · @washow\_cfo
+
+- **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  作者明确列为该视频制作所用工具之一；这是通用制作工具，不是该片工程源码。该固定提交标注 Apache-2.0。
+  [链接出处](https://x.com/washow_cfo/status/2104595346882175311) · 链接核对 2026-09-30 09:55 UTC
+
+## [Seedance 与 HyperFrames 的 SaaS 广告](../cases/2104548405565595747.md) · @farooqsheik
+
+- **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  作者称 HyperFrames 负责该广告的 motion graphics；这是工具关系，不是该广告工程源码。仓库固定提交许可为 Apache-2.0。
+  [链接出处](https://x.com/farooqsheik/status/2104548405565595747) · 链接核对 2026-09-30 09:55 UTC
+
+## [IdeaVim 产品宣传片](../cases/2105231699407986785.md) · @ideavim
+
+- **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  作者原帖注明使用 HyperFrames；此为通用制作工具。
+  [链接出处](https://x.com/ideavim/status/2105231699407986785) · 链接核对 2026-09-30 10:04 UTC
 
 ## [用镜头实验室解释对焦](../cases/2102591147927654847.md) · @RyanSael
 
@@ -71,8 +98,9 @@
 
 ## [3500 条整数数列的交互式 3D 图谱](../cases/2104809653947265030.md) · @decompwlj
 
-- **公开网页**：[整数数列 3D / 2D 图谱](https://decompwlj.net/)
-  [链接出处](https://x.com/decompwlj/status/2104809653947265030) · 链接核对 2026-09-29 08:35 UTC
+- **公开网页**：[整数数列 3D / 2D 图谱（5000 条）](https://decompwlj.net/)
+  作者后续更新至 5000 条数列；本案例的原始视频仍记录 3500 条版本。
+  [链接出处](https://x.com/decompwlj/status/2105171225945186525) · 链接核对 2026-09-30 10:04 UTC
 - **直接源码**：[数列图谱工程](https://github.com/decompwlj/decompwlj3dopus) · 未标明许可
   仓库未标整体代码许可；OEIS 数据与第三方依赖另有条款。
   [链接出处](https://github.com/decompwlj/decompwlj3dopus) · 链接核对 2026-09-29 08:35 UTC
@@ -111,6 +139,15 @@
   [链接出处](https://x.com/simonw/status/2104003079574306857) · 链接核对 2026-09-29 06:17 UTC
 - **公开网页**：[鸮鹦鹉派对：点击放彩纸](https://tools.simonwillison.net/kakapo-party)
   [链接出处](https://x.com/simonw/status/2104003079574306857) · 链接核对 2026-09-29 05:50 UTC
+
+## [OmaCRT：从关节曲线到像素步态](../cases/2105187523630944530.md) · @stefanomainardi
+
+- **直接源码**：[OmaCRT 源码（v0.11.1）](https://github.com/stefanomainardi/omacrt/tree/8a643fdeffc79f7cf965e68c5699caa0e1280771) · [MIT](https://github.com/stefanomainardi/omacrt/blob/8a643fdeffc79f7cf965e68c5699caa0e1280771/LICENSE)
+  文章直接链接此仓库及 v0.11.1，并说明 people.rs 中的人物动画实现随该版本发布。MIT 适用于仓库自有代码、文档及配套作品；不涵盖画面中第三方游戏、封面、专辑图等。文章另称 people.png、gait.csv 和两张研究图可复用，但未指定标准许可证；请勿将这些资产归入仓库 MIT。
+  [链接出处](https://omacrt.com/log/how-people-walk-in-the-hall/) · 链接核对 2026-09-30 09:55 UTC
+- **公开网页**：[步态交互图示与素材](https://omacrt.com/log/how-people-walk-in-the-hall/)
+  作者文章含五个交互图示和素材入口；素材复用条件见原文。
+  [链接出处](https://x.com/stefanomainardi/status/2105187523630944530) · 链接核对 2026-09-30 10:04 UTC
 
 ## [CatWalk：月夜运河边的黑猫](../cases/2104003920251257328.md) · @blitast\_studio
 
@@ -164,6 +201,15 @@
 
 - **公开网页**：[作者公开试玩页](https://soccar-one.vercel.app/)
   [链接出处](https://x.com/BlendiByl/status/2104800823620632641) · 链接核对 2026-09-29 08:35 UTC
+
+## [BLOCKWORLD：浏览器体素世界](../cases/2105020794602676465.md) · @L1vsun
+
+- **直接源码**：[BLOCKWORLD 游戏源码](https://github.com/L1vsun/BLOCKWORLD/tree/4d33550c023661beda4a012630e5d93819a6677e) · [MIT](https://github.com/L1vsun/BLOCKWORLD/blob/4d33550c023661beda4a012630e5d93819a6677e/LICENSE)
+  作者回复的 GitHub Pages 试玩页对应此仓库；固定提交的游戏代码采用 MIT。
+  [链接出处](https://x.com/L1vsun/status/2105020881894277419) · 链接核对 2026-09-30 10:14 UTC
+- **公开网页**：[BLOCKWORLD 试玩](https://l1vsun.github.io/BLOCKWORLD/)
+  作者同帖回复的公开网页，仓库另列代码许可。
+  [链接出处](https://x.com/L1vsun/status/2105020881894277419) · 链接核对 2026-09-30 10:13 UTC
 
 ## [Workspace：给编程会话一间三维办公室](../cases/2103998389058740521.md) · @kum1ta
 
@@ -221,6 +267,18 @@
 
 - **公开网页**：[交互体验](https://theatre-fawn.vercel.app/)
 
+## [HyperFrames 编排的混合素材短片](../cases/2104662818742309357.md) · @mattworkman
+
+- **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  作者明确列出 HyperFrames staging/edit、JavaScript 和 ThreeJS；仅将 HyperFrames 作为通用工具，不能据此认定该片源码已公开。
+  [链接出处](https://x.com/mattworkman/status/2104662818742309357) · 链接核对 2026-09-30 09:55 UTC
+
+## [Three.js 合作恐怖游戏展示片](../cases/2104747385692053930.md) · @AmaySignedIn
+
+- **相关工具**：[Three.js](https://github.com/mrdoob/three.js/tree/2db428484342e13fdfa9c2af62d5347da9426d9b) · [MIT](https://github.com/mrdoob/three.js/blob/2db428484342e13fdfa9c2af62d5347da9426d9b/LICENSE)
+  作者原帖称用 @threejs 制作合作恐怖游戏；此链接是通用 3D 库，不是该游戏源码。固定提交的 LICENSE 为 MIT。
+  [链接出处](https://x.com/AmaySignedIn/status/2104747385692053930) · 链接核对 2026-09-30 09:55 UTC
+
 ## [功能性情绪论文歌曲影像](../cases/2102610626321490404.md) · @eudaemonea
 
 - **直接源码**：[Functional Emotions 动画工程](https://github.com/ledbetterljoshua/functional-emotions-video) · [MIT](https://github.com/ledbetterljoshua/functional-emotions-video/blob/b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49/LICENSE)
@@ -234,3 +292,9 @@
   [链接出处](https://x.com/LuisBizarro/status/2104258849091793217) · 链接核对 2026-09-29 06:16 UTC
 - **公开网页**：[Neon Overdrive 在线音画](https://evangelion-neon-overdrive.vercel.app/)
   [链接出处](https://x.com/LuisBizarro/status/2104111432149164474) · 链接核对 2026-09-29 05:50 UTC
+
+## [MusicKit 与 WebGPU 交互歌词播放器](../cases/2105174061697618314.md) · @LuisBizarro
+
+- **公开网页**：[交互歌词播放器](https://player.bizar.ro/)
+  公开网页；作者说明本地演示中的失真及音频反应效果未包含在网页版本中。
+  [链接出处](https://x.com/LuisBizarro/status/2105174061697618314) · 链接核对 2026-09-30 10:04 UTC

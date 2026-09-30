@@ -10,7 +10,7 @@ Start in the gallery: watch videos by category, search for creators, and find pu
 
 [![Gallery preview with category navigation, video covers and playback links. Click to explore.](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-355 video references · 62 creator prompts · Chinese & English
+372 video references · 63 creator prompts · Chinese & English
 
 [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -122,7 +122,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 68 works →](browse/product.en.md)
+[Explore all 72 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -151,7 +151,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 65 works →](browse/education.en.md)
+[Explore all 67 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -209,7 +209,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 15 works →](browse/characters.en.md)
+[Explore all 18 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -238,7 +238,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 53 works →](browse/interactive.en.md)
+[Explore all 58 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -267,7 +267,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 73 works →](browse/stories.en.md)
+[Explore all 74 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -296,11 +296,11 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 26 works →](browse/music.en.md)
+[Explore all 28 works →](browse/music.en.md)
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [319 discovery records with details pending](browse/discoveries.en.md) · 355 original video sources
+36 catalogued records · [336 discovery records with details pending](browse/discoveries.en.md) · 372 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

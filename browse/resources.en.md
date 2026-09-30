@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-38 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+47 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -28,6 +28,15 @@ Public work pages also count as implementation references; a web link alone does
   Includes the web film engine, terrain data, audio and rendering tools; no overall license was found.
   [Link source](https://x.com/WinterArc2125/status/2103116235009347650) · Link checked 2026-09-29 05:50 UTC
 
+## [One Prompt: A p5.js Music Video](../cases/2105230653457650116.en.md) · @ppop123
+
+- **Related tool**：[ClaudeAnimationBase used by the creator](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
+  The general animation starter explicitly credited by the creator; this link does not contain the MV’s complete scene project.
+  [Link source](https://x.com/ppop123/status/2105230653457650116) · Link checked 2026-09-30 10:04 UTC
+- **Public web page**：[One Prompt video and making-of](https://pdoomvideo.com/opus-5-5-video/?ref=x-post-oneprompt)
+  The making-of article linked in the creator’s reply, with the matching video and instruction; it does not publish the complete MV project.
+  [Link source](https://x.com/ppop123/status/2105230820327964758) · Link checked 2026-09-30 10:06 UTC
+
 ## [A Fully Coded Launch Film for a Fictional Calendar App](../cases/2104148233106723099.en.md) · @LexnLin
 
 - **Direct source**：[Tessel launch film source, soundtrack and video](https://github.com/Leonxlnx/claude-launchvideo) · [MIT](https://github.com/Leonxlnx/claude-launchvideo/blob/f0906e8629fa524c7cedc1ac959bf987005ee846/LICENSE)
@@ -47,6 +56,24 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Motion graphics skills shared by the creator](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
   The tutorial’s tool collection, not the complete source of this Mac launch film.
   [Link source](https://x.com/charliejhills/status/2104204601553777129) · Link checked 2026-09-29 06:16 UTC
+
+## [A Stylized HyperFrames Commercial Experiment](../cases/2104595346882175311.en.md) · @washow\_cfo
+
+- **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  The creator explicitly lists it among the tools used for this video; this is a general production tool, not the film's project source. This pinned commit declares Apache-2.0.
+  [Link source](https://x.com/washow_cfo/status/2104595346882175311) · Link checked 2026-09-30 09:55 UTC
+
+## [A SaaS Ad with Seedance and HyperFrames](../cases/2104548405565595747.en.md) · @farooqsheik
+
+- **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  The creator says HyperFrames handled motion graphics for this ad; this establishes tool use, not access to the ad's project source. The pinned repository commit is Apache-2.0.
+  [Link source](https://x.com/farooqsheik/status/2104548405565595747) · Link checked 2026-09-30 09:55 UTC
+
+## [An IdeaVim Product Promo](../cases/2105231699407986785.en.md) · @ideavim
+
+- **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  The original post credits HyperFrames; this is the general production tool.
+  [Link source](https://x.com/ideavim/status/2105231699407986785) · Link checked 2026-09-30 10:04 UTC
 
 ## [An interactive camera lens lab](../cases/2102591147927654847.en.md) · @RyanSael
 
@@ -71,8 +98,9 @@ Public work pages also count as implementation references; a web link alone does
 
 ## [An Interactive 3D Atlas of 3,500 Integer Sequences](../cases/2104809653947265030.en.md) · @decompwlj
 
-- **Public web page**：[Integer-sequence 3D / 2D atlas](https://decompwlj.net/)
-  [Link source](https://x.com/decompwlj/status/2104809653947265030) · Link checked 2026-09-29 08:35 UTC
+- **Public web page**：[Integer-sequence 3D / 2D atlas (5,000 sequences)](https://decompwlj.net/)
+  The creator’s later update covers 5,000 sequences; this case’s original video records the 3,500-sequence version.
+  [Link source](https://x.com/decompwlj/status/2105171225945186525) · Link checked 2026-09-30 10:04 UTC
 - **Direct source**：[Sequence atlas source](https://github.com/decompwlj/decompwlj3dopus) · No license specified
   No overall code license is specified; OEIS data and third-party dependencies have separate terms.
   [Link source](https://github.com/decompwlj/decompwlj3dopus) · Link checked 2026-09-29 08:35 UTC
@@ -111,6 +139,15 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/simonw/status/2104003079574306857) · Link checked 2026-09-29 06:17 UTC
 - **Public web page**：[Kākāpō Party: click for confetti](https://tools.simonwillison.net/kakapo-party)
   [Link source](https://x.com/simonw/status/2104003079574306857) · Link checked 2026-09-29 05:50 UTC
+
+## [OmaCRT: Pixel Walking from Joint Curves](../cases/2105187523630944530.en.md) · @stefanomainardi
+
+- **Direct source**：[OmaCRT source (v0.11.1)](https://github.com/stefanomainardi/omacrt/tree/8a643fdeffc79f7cf965e68c5699caa0e1280771) · [MIT](https://github.com/stefanomainardi/omacrt/blob/8a643fdeffc79f7cf965e68c5699caa0e1280771/LICENSE)
+  The article links this repository and v0.11.1, and says the people animation in people.rs shipped in that release. MIT covers the repository's own code, documentation and accompanying work, but not third-party games, cover art or album art shown in captures. The article separately says people.png, gait.csv and two study plates are free to use, without naming a standard license; do not treat them as covered by the repository MIT license.
+  [Link source](https://omacrt.com/log/how-people-walk-in-the-hall/) · Link checked 2026-09-30 09:55 UTC
+- **Public web page**：[Interactive gait figures and assets](https://omacrt.com/log/how-people-walk-in-the-hall/)
+  The article provides five interactive figures and asset links; consult it for asset reuse terms.
+  [Link source](https://x.com/stefanomainardi/status/2105187523630944530) · Link checked 2026-09-30 10:04 UTC
 
 ## [CatWalk: A Black Cat by a Moonlit Canal](../cases/2104003920251257328.en.md) · @blitast\_studio
 
@@ -164,6 +201,15 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Creator’s playable webpage](https://soccar-one.vercel.app/)
   [Link source](https://x.com/BlendiByl/status/2104800823620632641) · Link checked 2026-09-29 08:35 UTC
+
+## [BLOCKWORLD: A Browser Voxel World](../cases/2105020794602676465.en.md) · @L1vsun
+
+- **Direct source**：[BLOCKWORLD game source](https://github.com/L1vsun/BLOCKWORLD/tree/4d33550c023661beda4a012630e5d93819a6677e) · [MIT](https://github.com/L1vsun/BLOCKWORLD/blob/4d33550c023661beda4a012630e5d93819a6677e/LICENSE)
+  This repository backs the GitHub Pages demo linked in the creator’s reply; the pinned game code is MIT-licensed.
+  [Link source](https://x.com/L1vsun/status/2105020881894277419) · Link checked 2026-09-30 10:14 UTC
+- **Public web page**：[Play BLOCKWORLD](https://l1vsun.github.io/BLOCKWORLD/)
+  The public page linked in the creator’s reply; code licensing is listed separately for the repository.
+  [Link source](https://x.com/L1vsun/status/2105020881894277419) · Link checked 2026-09-30 10:13 UTC
 
 ## [Workspace: A 3D Office for Coding Sessions](../cases/2103998389058740521.en.md) · @kum1ta
 
@@ -221,6 +267,18 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Interactive demo](https://theatre-fawn.vercel.app/)
 
+## [A Mixed-Media Clip Staged in HyperFrames](../cases/2104662818742309357.en.md) · @mattworkman
+
+- **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
+  The creator explicitly lists HyperFrames staging/edit, JavaScript and ThreeJS; HyperFrames is recorded only as a general tool, not as proof that this film's source is public.
+  [Link source](https://x.com/mattworkman/status/2104662818742309357) · Link checked 2026-09-30 09:55 UTC
+
+## [A Three.js Co-op Horror Game Showcase](../cases/2104747385692053930.en.md) · @AmaySignedIn
+
+- **Related tool**：[Three.js](https://github.com/mrdoob/three.js/tree/2db428484342e13fdfa9c2af62d5347da9426d9b) · [MIT](https://github.com/mrdoob/three.js/blob/2db428484342e13fdfa9c2af62d5347da9426d9b/LICENSE)
+  The creator says they built the co-op horror game using @threejs; this is the general 3D library, not the game's source. The pinned commit's LICENSE is MIT.
+  [Link source](https://x.com/AmaySignedIn/status/2104747385692053930) · Link checked 2026-09-30 09:55 UTC
+
 ## [Music Film About Functional Emotions](../cases/2102610626321490404.en.md) · @eudaemonea
 
 - **Direct source**：[Functional Emotions animation source](https://github.com/ledbetterljoshua/functional-emotions-video) · [MIT](https://github.com/ledbetterljoshua/functional-emotions-video/blob/b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49/LICENSE)
@@ -234,3 +292,9 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/LuisBizarro/status/2104258849091793217) · Link checked 2026-09-29 06:16 UTC
 - **Public web page**：[Neon Overdrive live audiovisual demo](https://evangelion-neon-overdrive.vercel.app/)
   [Link source](https://x.com/LuisBizarro/status/2104111432149164474) · Link checked 2026-09-29 05:50 UTC
+
+## [An Interactive MusicKit and WebGPU Lyrics Player](../cases/2105174061697618314.en.md) · @LuisBizarro
+
+- **Public web page**：[Interactive lyrics player](https://player.bizar.ro/)
+  Public player; the creator says the local demo’s distortion and audio reactivity are omitted from the web version.
+  [Link source](https://x.com/LuisBizarro/status/2105174061697618314) · Link checked 2026-09-30 10:04 UTC

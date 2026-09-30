@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-15 works. Click a cover to play; works without gallery video open on X.
+18 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -58,11 +58,21 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104773451265589544"><img src="../assets/covers/2104773451265589544.jpg" width="400" alt="Rigging a Tripo Character with Auto-Rig Pro"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104721373545558470"><img src="../assets/covers/2104721373545558470.jpg" width="400" alt="Fureha Fumu: Original Character in 3D"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105229630139502795"><img src="../assets/covers/2105229630139502795.jpg" width="225" alt="Jump Rope vs. the Cancan"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Rigging a Tripo Character with Auto-Rig Pro</strong><br><sub><a href="https://x.com/Mikami_Gugenka">@Mikami_Gugenka</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104773451265589544">▶ Play</a> · <a href="https://x.com/Mikami_Gugenka/status/2104773451265589544">Original post</a></td>
+<td width="50%" valign="top"><strong>Jump Rope vs. the Cancan</strong><br><sub><a href="https://x.com/koldo2k">@koldo2k</a> · Pixel art &amp; characters</sub><br><sub>0:40 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105229630139502795">▶ Play</a> · <a href="https://x.com/koldo2k/status/2105229630139502795">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104721373545558470"><img src="../assets/covers/2104721373545558470.jpg" width="400" alt="Fureha Fumu: Original Character in 3D"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105187523630944530"><img src="../assets/covers/2105187523630944530.jpg" width="400" alt="OmaCRT: Pixel Walking from Joint Curves"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Fureha Fumu: Original Character in 3D</strong><br><sub><a href="https://x.com/Kta_Z">@Kta_Z</a> · Pixel art &amp; characters</sub><br><sub>0:23 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104721373545558470">▶ Play</a> · <a href="https://x.com/Kta_Z/status/2104721373545558470">Original post</a></td>
+<td width="50%" valign="top"><strong>OmaCRT: Pixel Walking from Joint Curves</strong><br><sub><a href="https://x.com/stefanomainardi">@stefanomainardi</a> · Pixel art &amp; characters</sub><br><sub>0:44 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105187523630944530">▶ Play</a> · <a href="https://x.com/stefanomainardi/status/2105187523630944530">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -78,11 +88,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104719112803062038"><img src="../assets/covers/2104719112803062038.jpg" width="138" alt="A Blender Spider Animation Challenge"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105228931506852141"><img src="../assets/covers/2105228931506852141.jpg" width="400" alt="Sid: A Pixel Pet for a Homelab"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A Blender Spider Animation Challenge</strong><br><sub><a href="https://x.com/solvXuk">@solvXuk</a> · Pixel art &amp; characters</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104719112803062038">▶ Play</a> · <a href="https://x.com/solvXuk/status/2104719112803062038">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>Sid: A Pixel Pet for a Homelab</strong><br><sub><a href="https://x.com/m_deuce">@m_deuce</a> · Pixel art &amp; characters</sub><br><sub>1:36 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105228931506852141">▶ Play</a> · <a href="https://x.com/m_deuce/status/2105228931506852141">Original post</a></td>
 </tr>
 </tbody>
 </table>
