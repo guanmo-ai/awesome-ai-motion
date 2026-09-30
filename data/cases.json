@@ -19377,8 +19377,8 @@
       "title": "同一角色的多风格展示",
       "titleEn": "One Character Across Multiple Animation Styles",
       "category": "短动效",
-      "summary": "Ian Stiglingh 发布的同一角色的多风格展示。制作方式依据作者原帖说明；来源已核对，完整音画待审看。",
-      "summaryEn": "One Character Across Multiple Animation Styles, shared by Ian Stiglingh. Production attribution follows the creator’s post. Source verified; full viewing review pending.",
+      "summary": "Ian Stiglingh 展示同一角色在多种动画风格中的表现，并说明每帧由代码绘制、音效按同一代码定时。2026 年 9 月 30 日复查时，原帖及外部视频无法访问；保留作者原帖作为历史来源入口。",
+      "summaryEn": "Ian Stiglingh presents one character across several animation styles, stating that every frame is drawn in code and the sound effects are timed by the same code. The post and external video were unavailable when rechecked on September 30, 2026; the original post is retained as a historical source link.",
       "author": {
         "name": "Ian Stiglingh",
         "handle": "ianstig",
@@ -19425,16 +19425,7 @@
         "fullReview": false,
         "independentlyReproduced": false
       },
-      "discoveredVia": "https://github.com/athemeroy/awesome-opus-5-5-videos/blob/f0728e6fd1e5ec496815c1c7ba115bc70e3a31f9/data/cases.csv",
-      "webPlayback": {
-        "kind": "external_source_video",
-        "url": "https://video.twimg.com/amplify_video/2103169407128109056/vid/avc1/1280x720/MDotawGPvt-kmEhc.mp4?tag=14",
-        "sourcePostUrl": "https://x.com/ianstig/status/2103169675928764486",
-        "checkedAt": "2026-09-27T17:10:29.761041+00:00",
-        "contentType": "video/mp4",
-        "reuploadPermission": "not_verified",
-        "verificationLevel": "source_media_matched"
-      }
+      "discoveredVia": "https://github.com/athemeroy/awesome-opus-5-5-videos/blob/f0728e6fd1e5ec496815c1c7ba115bc70e3a31f9/data/cases.csv"
     },
     {
       "id": "2102849219388133592",

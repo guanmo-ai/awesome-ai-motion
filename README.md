@@ -300,7 +300,7 @@
 
 首页及分类预览按收藏快照从多到少排列，并非实时榜单。
 
-36 条资料已编目 · [348 条发现池资料待完善](browse/discoveries.md) · 384 个原帖媒体入口
+36 条资料已编目 · [348 条发现池资料待完善](browse/discoveries.md) · 383 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

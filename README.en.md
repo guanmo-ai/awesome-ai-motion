@@ -300,7 +300,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [348 discovery records with details pending](browse/discoveries.en.md) · 384 original video sources
+36 catalogued records · [348 discovery records with details pending](browse/discoveries.en.md) · 383 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 
