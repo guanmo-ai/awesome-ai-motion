@@ -3,6 +3,852 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2105361184543133877",
+      "stage": "discovery",
+      "title": "AI 时代，人类决定去向",
+      "titleEn": "Humans choose the direction in the AI era",
+      "category": "叙事短片",
+      "summary": "作者围绕「AI 时代人类能做什么」制作约 84 秒动效短片：Opus 5.5 负责企划、脚本和绘制动画的代码；ElevenLabs Eleven v4 负责旁白，Lyria 3.5 负责音乐，Epidemic Sound 提供音效。制作环境为 Claude Code。",
+      "summaryEn": "An approximately 84-second motion-graphics film about what humans can do in the AI era. Opus 5.5 handles the concept, script and animation code; ElevenLabs Eleven v4 provides narration, Lyria 3.5 the music, and Epidemic Sound the sound effects. The production environment is Claude Code.",
+      "author": {
+        "name": "中崎工房 | AIで1時間の仕事を5分で終わらせる人",
+        "handle": "nakazakifam",
+        "url": "https://x.com/nakazakifam"
+      },
+      "source": {
+        "url": "https://x.com/nakazakifam/status/2105361184543133877",
+        "publishedAt": "2026-09-30T18:16:36+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "企画・脚本から、アニメーションを描くコードまで全部Opus 5.5。",
+        "evidenceUrl": "https://x.com/nakazakifam/status/2105361184543133877"
+      },
+      "media": {
+        "durationSeconds": 84.053,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105361184543133877.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105361107485335552/vid/avc1/1920x1080/gXye9CKSeBspbGlv.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8,
+        "width": 800,
+        "height": 450,
+        "bytes": 6849
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/nakazakifam/status/2105361184543133877",
+        "checkedAt": "2026-09-30T18:22:27.699525+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 27,
+        "checkedAt": "2026-09-30T18:22:27.699525+00:00",
+        "sourceUrl": "https://x.com/nakazakifam/status/2105361184543133877"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:27.699525+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105361107485335552/vid/avc1/1920x1080/gXye9CKSeBspbGlv.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/nakazakifam/status/2105361184543133877",
+        "checkedAt": "2026-09-30T18:24:08.229769+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105361031371383180",
+      "stage": "discovery",
+      "title": "浏览器撞车赛：Demolition Derby",
+      "titleEn": "Demolition Derby in the browser",
+      "category": "3D 与交互",
+      "summary": "作者用 Claude Code 与 Opus 5.5 制作浏览器撞车游戏：五款概念车在八字赛道交叉处碰撞，演示车身凹陷、玻璃破裂及零件脱落。作者公开了游戏源码和试玩页；代码许可与汽车素材条款分开。",
+      "summaryEn": "The creator builds a browser demolition derby with Claude Code and Opus 5.5. Five concept cars collide on a figure-eight track, with dents, broken glass and detachable parts. Game source and a playable page are public; code and car assets have separate terms.",
+      "author": {
+        "name": "Dr Collect (fka Dr Profit)",
+        "handle": "drcollect",
+        "url": "https://x.com/drcollect"
+      },
+      "source": {
+        "url": "https://x.com/drcollect/status/2105361031371383180",
+        "publishedAt": "2026-09-30T18:16:00+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Just me talking to Claude Code + Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/drcollect/status/2105361031371383180"
+      },
+      "media": {
+        "durationSeconds": 16.433,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105361031371383180.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105302800569634817/vid/avc1/1920x1080/wx6jpyx_QLpd8CU8.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7,
+        "width": 800,
+        "height": 450,
+        "bytes": 41137
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/drcollect/status/2105361031824371910",
+        "checkedAt": "2026-09-30T18:27:41.881843+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 8,
+        "views": 215,
+        "checkedAt": "2026-09-30T18:22:27.731328+00:00",
+        "sourceUrl": "https://x.com/drcollect/status/2105361031371383180"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:27.731328+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105302800569634817/vid/avc1/1920x1080/wx6jpyx_QLpd8CU8.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/drcollect/status/2105361031371383180",
+        "checkedAt": "2026-09-30T18:24:08.229279+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/drcollect/demolition-derby/tree/f559fc60a7f2ee3a21a4faf77e998ae31ad67c43",
+          "label": "Demolition Derby 游戏源码",
+          "labelEn": "Demolition Derby game source",
+          "evidenceUrl": "https://x.com/drcollect/status/2105361035305656708",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/drcollect/demolition-derby/blob/f559fc60a7f2ee3a21a4faf77e998ae31ad67c43/LICENSE",
+          "note": "代码、Blender 车辆处理流程与工具采用 MIT；五款 Collect 汽车模型、车型设计及名称商标明确排除在 MIT 范围外，复用条件见原项目。",
+          "noteEn": "The code, Blender car-preparation pipeline and tooling are MIT. The five Collect car models, designs and marks are explicitly excluded; consult the original project for their reuse terms.",
+          "checkedAt": "2026-09-30T18:48:22.772669+00:00"
+        },
+        {
+          "kind": "demo",
+          "url": "https://drcollect.github.io/demolition-derby/",
+          "label": "Demolition Derby 在线游戏",
+          "labelEn": "Demolition Derby online game",
+          "evidenceUrl": "https://x.com/drcollect/status/2105361035305656708",
+          "checkedAt": "2026-09-30T18:48:22.772669+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2105360949888840080",
+      "stage": "discovery",
+      "title": "JavaScript 羊毛风 3D 世界",
+      "titleEn": "A JavaScript wool-art world",
+      "category": "3D 与交互",
+      "summary": "作者展示由纯 JavaScript 构成的羊毛风三维场景，并说明使用 Claude Opus 5.5 一次生成。当前已核对作者视频，未找到对应工程或可交互网页入口。",
+      "summaryEn": "A wool-art 3D scene built in pure JavaScript. The creator attributes it to a single Claude Opus 5.5 run. The original video is verified; a corresponding source project or interactive page was not found.",
+      "author": {
+        "name": "The Bugged Dev",
+        "handle": "thebuggeddev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "source": {
+        "url": "https://x.com/thebuggeddev/status/2105360949888840080",
+        "publishedAt": "2026-09-30T18:15:40+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "A 3D woolen art world built entirely in pure JavaScript with Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/thebuggeddev/status/2105360949888840080"
+      },
+      "media": {
+        "durationSeconds": 33.045,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105360949888840080.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105360572191744000/img/h6z_ivD566dm974B.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 495,
+        "bytes": 35975
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/thebuggeddev/status/2105360949888840080",
+        "checkedAt": "2026-09-30T18:22:27.670425+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 112,
+        "checkedAt": "2026-09-30T18:22:27.670425+00:00",
+        "sourceUrl": "https://x.com/thebuggeddev/status/2105360949888840080"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:27.670425+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105360572191744000/vid/avc1/2826x1750/30XWaDJnFXbV3pVW.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/thebuggeddev/status/2105360949888840080",
+        "checkedAt": "2026-09-30T18:24:08.228472+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105360011916697713",
+      "stage": "discovery",
+      "title": "三轮车急刹与碰撞示意动画",
+      "titleEn": "An auto-rickshaw braking and collision illustration",
+      "category": "知识讲解",
+      "summary": "作者使用 Opus 5.5 与 brag skill 制作三轮车急刹及碰撞的 30 秒示意片，并称消耗约 4.29 美元模型用量。本站记录的是作者制作演示，未核验其医学和力学结论。",
+      "summaryEn": "The creator uses Opus 5.5 and the brag skill for a 30-second illustration of sudden braking and a collision in an auto-rickshaw, reporting about $4.29 in model usage. This is a creator demo; its medical and mechanical claims have not been independently checked.",
+      "author": {
+        "name": "Shobhit - Building SuperCmd",
+        "handle": "nullbytes00",
+        "url": "https://x.com/nullbytes00"
+      },
+      "source": {
+        "url": "https://x.com/nullbytes00/status/2105360011916697713",
+        "publishedAt": "2026-09-30T18:11:57+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "opus 5.5 built this in $4.29 of token cost",
+        "evidenceUrl": "https://x.com/nullbytes00/status/2105360011916697713"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105360011916697713.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105355768669376512/img/X6WS8ON8mvtZX3bM.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 55564
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/nullbytes00/status/2105360011916697713",
+        "checkedAt": "2026-09-30T18:22:29.057116+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 65,
+        "checkedAt": "2026-09-30T18:22:29.057116+00:00",
+        "sourceUrl": "https://x.com/nullbytes00/status/2105360011916697713"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:29.057116+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105355768669376512/vid/avc1/1920x1080/Cfv9ujgosnOH_I4A.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/nullbytes00/status/2105360011916697713",
+        "checkedAt": "2026-09-30T18:24:08.737394+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105354745988927980",
+      "stage": "discovery",
+      "title": "Ctrl ALT Goodbye：多模型协作 MV",
+      "titleEn": "Ctrl ALT Goodbye: a multi-model music video",
+      "category": "音乐与歌词",
+      "summary": "约 3 分 28 秒的动效音乐视频。作者将 motion design 归于 Claude Opus 5.5，歌词和分镜分别归于 ChatGPT 5.6 Sol high、ChatGPT 5.5 Sol high，歌曲由 Suno 制作。当前只收录作者原视频及这些公开分工，未找到源码入口。",
+      "summaryEn": "An approximately 3:28 motion-design music video. The creator credits Claude Opus 5.5 for motion design, ChatGPT 5.6 Sol high for lyrics, ChatGPT 5.5 Sol high for the storyboard, and Suno for the song. The original video and stated roles are indexed; no source project was found.",
+      "author": {
+        "name": "NISSAN NS",
+        "handle": "NISSANNS2",
+        "url": "https://x.com/NISSANNS2"
+      },
+      "source": {
+        "url": "https://x.com/NISSANNS2/status/2105354745988927980",
+        "publishedAt": "2026-09-30T17:51:01+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Motion design by Claude opus 5.5",
+        "evidenceUrl": "https://x.com/NISSANNS2/status/2105354745988927980"
+      },
+      "media": {
+        "durationSeconds": 208.137,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105354745988927980.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105354438726868992/img/H9wup_HLnCZcrYGU.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 28215
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/NISSANNS2/status/2105354745988927980",
+        "checkedAt": "2026-09-30T18:28:48.468938+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 17,
+        "checkedAt": "2026-09-30T18:28:48.468938+00:00",
+        "sourceUrl": "https://x.com/NISSANNS2/status/2105354745988927980"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:28:48.468938+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105354438726868992/vid/avc1/1920x1080/ezTkcdW3z-xcUGwF.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/NISSANNS2/status/2105354745988927980",
+        "checkedAt": "2026-09-30T18:28:49.059473+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105354432460554648",
+      "stage": "discovery",
+      "title": "人类未来：Opus 与 Astra 同题对比",
+      "titleEn": "Humanity’s future: the same challenge for Opus and Astra",
+      "category": "叙事短片",
+      "summary": "作者让 Claude Opus 5.5 Max 与 GPT-6 Astra High 分别制作 30 秒「人类未来」影片。原帖有两段视频；第一段画面标注 Opus 5.5 Max，画廊播放这一段，完整双模型对比请看原帖。",
+      "summaryEn": "The creator gives Claude Opus 5.5 Max and GPT-6 Astra High the same 30-second film challenge about humanity’s future. The post contains two videos; the first is visibly labeled Opus 5.5 Max and is the one played in the gallery. Open the original post for the full comparison.",
+      "author": {
+        "name": "Yuli Kay",
+        "handle": "yulikay",
+        "url": "https://x.com/yulikay"
+      },
+      "source": {
+        "url": "https://x.com/yulikay/status/2105354432460554648",
+        "publishedAt": "2026-09-30T17:49:46+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 Max / GPT-6 Astra High",
+        "evidenceQuote": "I gave Claude Opus 5.5 Max and GPT-6 Astra High the same challenge",
+        "evidenceUrl": "https://x.com/yulikay/status/2105354432460554648"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 2
+      },
+      "cover": {
+        "path": "assets/covers/2105354432460554648.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105354189635190784/img/VrDurktbdu71UMKe.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 55459
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/yulikay/status/2105354432460554648",
+        "checkedAt": "2026-09-30T18:28:48.512998+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 13,
+        "views": 520,
+        "checkedAt": "2026-09-30T18:28:48.512998+00:00",
+        "sourceUrl": "https://x.com/yulikay/status/2105354432460554648"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:28:48.512998+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105354189635190784/vid/avc1/3840x2160/U8ZF2Vw0m5XigQsw.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/yulikay/status/2105354432460554648",
+        "checkedAt": "2026-09-30T18:28:48.944059+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105350783416021472",
+      "stage": "discovery",
+      "title": "从地基到竣工的交互住宅",
+      "titleEn": "An interactive house from foundation to finish",
+      "category": "3D 与交互",
+      "summary": "作者用 Opus 5.5、Three.js 与 WebGPU 展示住宅从地基、骨架、设备管线到围护与竣工的变化；剖视模式可查看供水、电力和通风。原帖含约 37 秒视频，未找到对应源码或在线作品页。",
+      "summaryEn": "The creator uses Opus 5.5, Three.js and WebGPU to show a house progressing through foundation, skeleton, building systems, envelope and finish. An X-ray view reveals plumbing, power and air. The post contains an approximately 37-second video; corresponding source or an online work page was not found.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2105350783416021472",
+        "publishedAt": "2026-09-30T17:35:16+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Made with Opus 5.5 using Three.js + WebGPU.",
+        "evidenceUrl": "https://x.com/techartist_/status/2105350783416021472"
+      },
+      "media": {
+        "durationSeconds": 36.616,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105350783416021472.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105350420080279554/img/6QGw9WGpKvbdm9U2.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 499,
+        "bytes": 52852
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2105350783416021472",
+        "checkedAt": "2026-09-30T18:22:29.197508+00:00"
+      },
+      "metrics": {
+        "bookmarks": 13,
+        "likes": 19,
+        "views": 639,
+        "checkedAt": "2026-09-30T18:22:29.197508+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2105350783416021472"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:29.197508+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105350420080279554/vid/avc1/1890x1180/Vp4VK-GqKfK3MefP.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2105350783416021472",
+        "checkedAt": "2026-09-30T18:24:08.770100+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105346791021629821",
+      "stage": "discovery",
+      "title": "LEGO 法拉利 F1 交互拼装",
+      "titleEn": "An interactive LEGO Ferrari F1 build",
+      "category": "3D 与交互",
+      "summary": "作者称 Opus 5.5 阅读了 312 页、1359 个零件的 LEGO 法拉利 F1 说明书，并将其转为交互应用。原帖提供约 39 秒演示；尚未找到该应用的公开工程或可访问作品页。",
+      "summaryEn": "The creator says Opus 5.5 reads a 312-page LEGO Ferrari F1 manual for 1,359 pieces and turns it into an interactive app. The original post provides an approximately 39-second demo; a public project or accessible work page was not found.",
+      "author": {
+        "name": "Georgij Emelyanov",
+        "handle": "eigeorguy",
+        "url": "https://x.com/eigeorguy"
+      },
+      "source": {
+        "url": "https://x.com/eigeorguy/status/2105346791021629821",
+        "publishedAt": "2026-09-30T17:19:25+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5 read the entire manual.",
+        "evidenceUrl": "https://x.com/eigeorguy/status/2105346791021629821"
+      },
+      "media": {
+        "durationSeconds": 39,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105346791021629821.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105346548179845120/vid/avc1/3840x2160/cc5FnThpBcjIdEvc.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 800,
+        "height": 450,
+        "bytes": 24347
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/eigeorguy/status/2105346791021629821",
+        "checkedAt": "2026-09-30T18:22:29.627747+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 42,
+        "checkedAt": "2026-09-30T18:22:29.627747+00:00",
+        "sourceUrl": "https://x.com/eigeorguy/status/2105346791021629821"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:29.627747+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105346548179845120/vid/avc1/3840x2160/cc5FnThpBcjIdEvc.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/eigeorguy/status/2105346791021629821",
+        "checkedAt": "2026-09-30T18:24:08.775711+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105346401878356252",
+      "stage": "discovery",
+      "title": "英国庇护申请动态条形图",
+      "titleEn": "An animated bar chart of UK asylum claims",
+      "category": "知识讲解",
+      "summary": "作者展示约 50 秒的英国庇护申请动态条形图，并明确说明用两句提示词、Opus 5.5 和 Remotion 制作。原帖未提供指令全文或场景工程；本站未独立核验图表统计数据。",
+      "summaryEn": "An approximately 50-second animated bar chart of UK asylum claims, which the creator says was made with a two-sentence prompt, Opus 5.5 and Remotion. The full prompt and scene project are not provided; the chart data has not been independently checked here.",
+      "author": {
+        "name": "Aylmer",
+        "handle": "AylmerTH",
+        "url": "https://x.com/AylmerTH"
+      },
+      "source": {
+        "url": "https://x.com/AylmerTH/status/2105346401878356252",
+        "publishedAt": "2026-09-30T17:17:52+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I made this with a two sentence prompt using Opus 5.5 and Remotion.",
+        "evidenceUrl": "https://x.com/AylmerTH/status/2105346401878356252"
+      },
+      "media": {
+        "durationSeconds": 50.048,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105346401878356252.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105346175637336064/img/4lNhIYLAUVhMgCvU.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 25968
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/AylmerTH/status/2105346401878356252",
+        "checkedAt": "2026-09-30T18:22:30.124817+00:00"
+      },
+      "metrics": {
+        "bookmarks": 3,
+        "likes": 20,
+        "views": 439,
+        "checkedAt": "2026-09-30T18:22:30.124817+00:00",
+        "sourceUrl": "https://x.com/AylmerTH/status/2105346401878356252"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:22:30.124817+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105346175637336064/vid/avc1/1920x1080/c8aj3kAeemXKbSxE.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AylmerTH/status/2105346401878356252",
+        "checkedAt": "2026-09-30T18:24:08.971204+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105346293724045443",
+      "stage": "discovery",
+      "title": "OpenSend 产品宣传动效",
+      "titleEn": "OpenSend product promo",
+      "category": "产品宣传",
+      "summary": "OpenSend 的约 46 秒产品宣传片。作者在引用自己发布帖的制作说明中明确使用 Claude Code、Opus 5.5、Remotion 与 flute；该说明对应本案例的原始视频帖。产品代码和通用工具不等同于这支宣传片的场景工程。",
+      "summaryEn": "An approximately 46-second OpenSend product promo. In a quote of their own launch post, the creator explicitly credits Claude Code, Opus 5.5, Remotion and flute; that statement refers to this original video. Product code and general tools are not the promo’s scene project.",
+      "author": {
+        "name": "Kamal Panara",
+        "handle": "codewithkamal",
+        "url": "https://x.com/codewithkamal"
+      },
+      "source": {
+        "url": "https://x.com/codewithkamal/status/2105346293724045443",
+        "publishedAt": "2026-09-30T17:17:26+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I made this promo with claude code opus 5.5 + remotion + flute",
+        "evidenceUrl": "https://x.com/codewithkamal/status/2105349988780068921"
+      },
+      "media": {
+        "durationSeconds": 46.3,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105346293724045443.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105346202854445056/vid/avc1/1920x1080/XT1TPx79f7zAOddN.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 16,
+        "width": 800,
+        "height": 450,
+        "bytes": 24110
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/codewithkamal/status/2105346293724045443",
+        "checkedAt": "2026-09-30T18:24:07.074715+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 64,
+        "checkedAt": "2026-09-30T18:24:07.074715+00:00",
+        "sourceUrl": "https://x.com/codewithkamal/status/2105346293724045443"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:24:07.074715+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105346202854445056/vid/avc1/1920x1080/XT1TPx79f7zAOddN.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/codewithkamal/status/2105346293724045443",
+        "checkedAt": "2026-09-30T18:24:08.965653+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105282502726484258",
+      "stage": "discovery",
+      "title": "GenMotion 制作的 P(doom) 音乐视频",
+      "titleEn": "A P(doom) music video made with GenMotion",
+      "category": "音乐与歌词",
+      "summary": "作者使用 Opus 5.5 与 GenMotion 制作约 2 分 37 秒音乐视频，说明输入四行指令、做过少量更正并花费数小时。作者回复公开完整场景工程和可 remix 的模板页。",
+      "summaryEn": "The creator uses Opus 5.5 and GenMotion for a roughly 2-minute-37-second music video, describing a four-line instruction, minor corrections and several hours of work. Creator replies link the complete scene project and a remixable template page.",
+      "author": {
+        "name": "Musthaq",
+        "handle": "haxzie_",
+        "url": "https://x.com/haxzie_"
+      },
+      "source": {
+        "url": "https://x.com/haxzie_/status/2105282502726484258",
+        "publishedAt": "2026-09-30T13:03:57+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5 on GenMotion with 4 lines of prompt, minor corrections and a few hours.",
+        "evidenceUrl": "https://x.com/haxzie_/status/2105282502726484258"
+      },
+      "media": {
+        "durationSeconds": 156.7,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105282502726484258.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105274479052304384/img/9pjljqXm0MR3PQUX.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 36590
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/haxzie_/status/2105282502726484258",
+        "checkedAt": "2026-09-30T18:31:38.387568+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 9,
+        "views": 444,
+        "checkedAt": "2026-09-30T18:31:38.387568+00:00",
+        "sourceUrl": "https://x.com/haxzie_/status/2105282502726484258"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:31:38.387568+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105274479052304384/vid/avc1/1920x1080/iTBDYHPrdh93kxtA.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/haxzie_/status/2105282502726484258",
+        "checkedAt": "2026-09-30T18:31:38.630372+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/haxzie/p-doom-ft-genmotion/tree/9e37882332bd132ed0ebf02512c0b3f67ef2a795",
+          "label": "p(doom) GenMotion 音乐视频源码",
+          "labelEn": "p(doom) GenMotion music-video source",
+          "evidenceUrl": "https://x.com/haxzie_/status/2105282504936845510",
+          "license": "not_specified",
+          "note": "作者提供的完整场景工程。仓库未声明整体许可证；歌曲及其他素材的权利须另行核对。",
+          "noteEn": "The complete scene project linked by the creator. No overall repository license is specified; song and other asset rights require separate checks.",
+          "checkedAt": "2026-09-30T18:31:20Z"
+        },
+        {
+          "kind": "demo",
+          "url": "https://genmotion.dev/templates/p-doom-music-video",
+          "label": "p(doom) 音乐视频与可 Remix 模板",
+          "labelEn": "p(doom) music video and remixable template",
+          "evidenceUrl": "https://x.com/haxzie_/status/2105282506979488095",
+          "note": "作品页提供视频预览与 Remix 模板入口；可访问不代表歌曲或模板素材已获复用许可。",
+          "noteEn": "The work page provides a video preview and a remix template; access alone does not establish reuse rights for the song or template assets.",
+          "checkedAt": "2026-09-30T18:31:20Z"
+        }
+      ]
+    },
+    {
+      "id": "2105245039521628213",
+      "stage": "discovery",
+      "title": "毛绒角色：Sol 与 Opus 同参考对比",
+      "titleEn": "A felt character: Sol and Opus with the same reference",
+      "category": "3D 与交互",
+      "summary": "作者用相同提示词与参考图对比 GPT 6.1 Sol 和 Opus 5.5 的 Three.js 交互毛绒角色，仅用代码与着色器。原帖明确左侧为 Sol、右侧为 Opus，并在回复公开提示词、两套工程和并排视频。",
+      "summaryEn": "The creator compares interactive Three.js felt characters made with GPT 6.1 Sol and Opus 5.5 using the same prompt and reference image, with code and shaders only. The post identifies Sol on the left and Opus on the right; a reply links the prompt, both projects and a side-by-side video.",
+      "author": {
+        "name": "Jacob",
+        "handle": "JakubAntowski",
+        "url": "https://x.com/JakubAntowski"
+      },
+      "source": {
+        "url": "https://x.com/JakubAntowski/status/2105245039521628213",
+        "publishedAt": "2026-09-30T10:35:05+00:00"
+      },
+      "model": {
+        "name": "GPT 6.1 Sol / Claude Opus 5.5",
+        "evidenceQuote": "GPT 6.1 Sol vs Opus 5.5",
+        "evidenceUrl": "https://x.com/JakubAntowski/status/2105245039521628213"
+      },
+      "media": {
+        "durationSeconds": 19.766,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105245039521628213.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105244326003404800/vid/avc1/1600x900/DIigi7-VEE1-bhqY.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7,
+        "width": 800,
+        "height": 450,
+        "bytes": 17271
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/JakubAntowski/status/2105245752889090529",
+        "checkedAt": "2026-09-30T18:31:39.233470+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 4,
+        "views": 291,
+        "checkedAt": "2026-09-30T18:31:38.445848+00:00",
+        "sourceUrl": "https://x.com/JakubAntowski/status/2105245039521628213"
+      },
+      "verification": {
+        "sourceReadAt": "2026-09-30T18:31:38.445848+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105244326003404800/vid/avc1/1600x900/DIigi7-VEE1-bhqY.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/JakubAntowski/status/2105245039521628213",
+        "checkedAt": "2026-09-30T18:31:38.595697+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/okonio/felt-dot-gpt-vs-opus/tree/7fbaf862bc8b92e481137fc11723a67cd7f881dc",
+          "label": "GPT 与 Opus 角色对照工程和提示词",
+          "labelEn": "GPT vs Opus character comparison source and prompt",
+          "evidenceUrl": "https://x.com/JakubAntowski/status/2105245752889090529",
+          "license": "not_specified",
+          "note": "作者回复提供完整提示词、两套实现和并排视频；仓库未声明整体许可证，没有公开互动网页。",
+          "noteEn": "The creator’s reply provides the full prompt, both implementations and a side-by-side video. No overall repository license or hosted interactive page is specified.",
+          "checkedAt": "2026-09-30T18:31:20Z"
+        }
+      ]
+    },
+    {
       "id": "2105020794602676465",
       "stage": "discovery",
       "title": "BLOCKWORLD：浏览器体素世界",

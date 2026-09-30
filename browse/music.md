@@ -2,7 +2,7 @@
 
 # 音乐与歌词
 
-28 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+30 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -127,22 +127,32 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105282502726484258"><img src="../assets/covers/2105282502726484258.jpg" width="400" alt="GenMotion 制作的 P(doom) 音乐视频"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104145227573248467"><img src="../assets/covers/2104145227573248467.jpg" width="400" alt="会听音乐的机械魔眼"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="歌曲与视频模型联动短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>GenMotion 制作的 P(doom) 音乐视频</strong><br><sub><a href="https://x.com/haxzie_">@haxzie_</a> · 音乐与歌词</sub><br><sub>2:37 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105282502726484258">▶ 播放</a> · <a href="https://x.com/haxzie_/status/2105282502726484258">原帖</a></td>
 <td width="50%" valign="top"><strong>会听音乐的机械魔眼</strong><br><sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · 音乐与歌词</sub><br><sub>0:28 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104145227573248467">▶ 播放</a> · <a href="https://x.com/Acoramaa/status/2104145227573248467">原帖</a></td>
-<td width="50%" valign="top"><strong>歌曲与视频模型联动短片</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755">▶ 播放</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="歌曲与视频模型联动短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="127" alt="弦、笛与水泡：代码物理合成音效"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103127192591065595"><img src="../assets/covers/2103127192591065595.jpg" width="400" alt="孩子的涂鸦变成音乐影像"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>歌曲与视频模型联动短片</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755">▶ 播放</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">原帖</a></td>
 <td width="50%" valign="top"><strong>弦、笛与水泡：代码物理合成音效</strong><br><sub><a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a> · 音乐与歌词</sub><br><sub>0:26 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921">▶ 播放</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103127192591065595"><img src="../assets/covers/2103127192591065595.jpg" width="400" alt="孩子的涂鸦变成音乐影像"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105354745988927980"><img src="../assets/covers/2105354745988927980.jpg" width="400" alt="Ctrl ALT Goodbye：多模型协作 MV"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>孩子的涂鸦变成音乐影像</strong><br><sub><a href="https://x.com/coolbat1999">@coolbat1999</a> · 音乐与歌词</sub><br><sub>3:47 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103127192591065595">▶ 播放</a> · <a href="https://x.com/coolbat1999/status/2103127192591065595">原帖</a></td>
+<td width="50%" valign="top"><strong>Ctrl ALT Goodbye：多模型协作 MV</strong><br><sub><a href="https://x.com/NISSANNS2">@NISSANNS2</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105354745988927980">▶ 播放</a> · <a href="https://x.com/NISSANNS2/status/2105354745988927980">原帖</a></td>
 </tr>
 </tbody>
 </table>

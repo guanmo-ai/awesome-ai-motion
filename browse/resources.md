@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-47 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+50 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -21,6 +21,12 @@
   [链接出处](https://x.com/dotey/status/2102995791778369982) · 链接核对 2026-09-29 05:50 UTC
 - **公开网页**：[桃花源记：循文入境](https://s.baoyu.io/files/taohuayuan/index.html)
   [链接出处](https://x.com/dotey/status/2102940980379017293) · 链接核对 2026-09-29 05:50 UTC
+
+## [毛绒角色：Sol 与 Opus 同参考对比](../cases/2105245039521628213.md) · @JakubAntowski
+
+- **直接源码**：[GPT 与 Opus 角色对照工程和提示词](https://github.com/okonio/felt-dot-gpt-vs-opus/tree/7fbaf862bc8b92e481137fc11723a67cd7f881dc) · 未标明许可
+  作者回复提供完整提示词、两套实现和并排视频；仓库未声明整体许可证，没有公开互动网页。
+  [链接出处](https://x.com/JakubAntowski/status/2105245752889090529) · 链接核对 2026-09-30 18:31 UTC
 
 ## [用代码讲述奥斯特里茨战役](../cases/2103116235009347650.md) · @WinterArc2125
 
@@ -222,6 +228,14 @@
 - **公开网页**：[作者公开试玩页](https://the-apex-rush.vercel.app/)
   [链接出处](https://x.com/sidgiri2104/status/2104820351532437653) · 链接核对 2026-09-29 08:35 UTC
 
+## [浏览器撞车赛：Demolition Derby](../cases/2105361031371383180.md) · @drcollect
+
+- **直接源码**：[Demolition Derby 游戏源码](https://github.com/drcollect/demolition-derby/tree/f559fc60a7f2ee3a21a4faf77e998ae31ad67c43) · [MIT](https://github.com/drcollect/demolition-derby/blob/f559fc60a7f2ee3a21a4faf77e998ae31ad67c43/LICENSE)
+  代码、Blender 车辆处理流程与工具采用 MIT；五款 Collect 汽车模型、车型设计及名称商标明确排除在 MIT 范围外，复用条件见原项目。
+  [链接出处](https://x.com/drcollect/status/2105361035305656708) · 链接核对 2026-09-30 18:48 UTC
+- **公开网页**：[Demolition Derby 在线游戏](https://drcollect.github.io/demolition-derby/)
+  [链接出处](https://x.com/drcollect/status/2105361035305656708) · 链接核对 2026-09-30 18:48 UTC
+
 ## [Dawnroll：甲虫滚动小太阳的微缩花园](../cases/2102543530002456775.md) · @Nickxyzn
 
 - **直接源码**：[Dawnroll 游戏工程](https://github.com/Nickdevcode/dawnroll) · 未标明许可
@@ -298,3 +312,12 @@
 - **公开网页**：[交互歌词播放器](https://player.bizar.ro/)
   公开网页；作者说明本地演示中的失真及音频反应效果未包含在网页版本中。
   [链接出处](https://x.com/LuisBizarro/status/2105174061697618314) · 链接核对 2026-09-30 10:04 UTC
+
+## [GenMotion 制作的 P(doom) 音乐视频](../cases/2105282502726484258.md) · @haxzie\_
+
+- **直接源码**：[p(doom) GenMotion 音乐视频源码](https://github.com/haxzie/p-doom-ft-genmotion/tree/9e37882332bd132ed0ebf02512c0b3f67ef2a795) · 未标明许可
+  作者提供的完整场景工程。仓库未声明整体许可证；歌曲及其他素材的权利须另行核对。
+  [链接出处](https://x.com/haxzie_/status/2105282504936845510) · 链接核对 2026-09-30 18:31 UTC
+- **公开网页**：[p(doom) 音乐视频与可 Remix 模板](https://genmotion.dev/templates/p-doom-music-video)
+  作品页提供视频预览与 Remix 模板入口；可访问不代表歌曲或模板素材已获复用许可。
+  [链接出处](https://x.com/haxzie_/status/2105282506979488095) · 链接核对 2026-09-30 18:31 UTC

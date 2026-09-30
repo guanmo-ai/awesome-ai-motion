@@ -2,7 +2,7 @@
 
 # Product & marketing
 
-72 works. Click a cover to play; works without gallery video open on X.
+73 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -337,32 +337,42 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346293724045443"><img src="../assets/covers/2105346293724045443.jpg" width="400" alt="OpenSend product promo"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103015561076564319"><img src="../assets/covers/2103015561076564319.jpg" width="400" alt="Short Film Introducing a New Project"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108551799632050"><img src="../assets/covers/2103108551799632050.jpg" width="400" alt="Bilingual Promo for a Reading App"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>OpenSend product promo</strong><br><sub><a href="https://x.com/codewithkamal">@codewithkamal</a> · Product &amp; marketing</sub><br><sub>0:46 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346293724045443">▶ Play</a> · <a href="https://x.com/codewithkamal/status/2105346293724045443">Original post</a></td>
 <td width="50%" valign="top"><strong>Short Film Introducing a New Project</strong><br><sub><a href="https://x.com/haidaulau">@haidaulau</a> · Product &amp; marketing</sub><br><sub>2:29 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103015561076564319">▶ Play</a> · <a href="https://x.com/haidaulau/status/2103015561076564319">Original post</a></td>
-<td width="50%" valign="top"><strong>Bilingual Promo for a Reading App</strong><br><sub><a href="https://x.com/WangYeruo">@WangYeruo</a> · Product &amp; marketing</sub><br><sub>0:44 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108551799632050">▶ Play</a> · <a href="https://x.com/WangYeruo/status/2103108551799632050">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108551799632050"><img src="../assets/covers/2103108551799632050.jpg" width="400" alt="Bilingual Promo for a Reading App"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104180455813812667"><img src="../assets/covers/2104180455813812667.jpg" width="400" alt="Editing a Catapult Sketch-to-Simulation Demo"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517"><img src="../assets/covers/2104240538941538517.jpg" width="400" alt="Moonshoot product launch video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Bilingual Promo for a Reading App</strong><br><sub><a href="https://x.com/WangYeruo">@WangYeruo</a> · Product &amp; marketing</sub><br><sub>0:44 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108551799632050">▶ Play</a> · <a href="https://x.com/WangYeruo/status/2103108551799632050">Original post</a></td>
 <td width="50%" valign="top"><strong>Editing a Catapult Sketch-to-Simulation Demo</strong><br><sub><a href="https://x.com/BrainWavePub">@BrainWavePub</a> · Product &amp; marketing</sub><br><sub>0:53 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104180455813812667">▶ Play</a> · <a href="https://x.com/BrainWavePub/status/2104180455813812667">Original post</a></td>
-<td width="50%" valign="top"><strong>Moonshoot product launch video</strong><br><sub><a href="https://x.com/bekamakhar">@bekamakhar</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517">▶ Play</a> · <a href="https://x.com/bekamakhar/status/2104240538941538517">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517"><img src="../assets/covers/2104240538941538517.jpg" width="400" alt="Moonshoot product launch video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104773492491346349"><img src="../assets/covers/2104773492491346349.jpg" width="400" alt="AKAI Cinematic Product Clip"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785"><img src="../assets/covers/2105231699407986785.jpg" width="400" alt="An IdeaVim Product Promo"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Moonshoot product launch video</strong><br><sub><a href="https://x.com/bekamakhar">@bekamakhar</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517">▶ Play</a> · <a href="https://x.com/bekamakhar/status/2104240538941538517">Original post</a></td>
 <td width="50%" valign="top"><strong>AKAI Cinematic Product Clip</strong><br><sub><a href="https://x.com/rao_abhi_17">@rao_abhi_17</a> · Product &amp; marketing</sub><br><sub>0:29 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104773492491346349">▶ Play</a> · <a href="https://x.com/rao_abhi_17/status/2104773492491346349">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785"><img src="../assets/covers/2105231699407986785.jpg" width="400" alt="An IdeaVim Product Promo"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>An IdeaVim Product Promo</strong><br><sub><a href="https://x.com/ideavim">@ideavim</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785">▶ Play</a> · <a href="https://x.com/ideavim/status/2105231699407986785">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

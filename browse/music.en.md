@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-28 works. Click a cover to play; works without gallery video open on X.
+30 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -127,22 +127,32 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105282502726484258"><img src="../assets/covers/2105282502726484258.jpg" width="400" alt="A P(doom) music video made with GenMotion"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104145227573248467"><img src="../assets/covers/2104145227573248467.jpg" width="400" alt="A Mechanical Eye That Reacts to Music"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="Song and Video-Model Short Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A P(doom) music video made with GenMotion</strong><br><sub><a href="https://x.com/haxzie_">@haxzie_</a> · Music &amp; lyrics</sub><br><sub>2:37 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105282502726484258">▶ Play</a> · <a href="https://x.com/haxzie_/status/2105282502726484258">Original post</a></td>
 <td width="50%" valign="top"><strong>A Mechanical Eye That Reacts to Music</strong><br><sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · Music &amp; lyrics</sub><br><sub>0:28 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104145227573248467">▶ Play</a> · <a href="https://x.com/Acoramaa/status/2104145227573248467">Original post</a></td>
-<td width="50%" valign="top"><strong>Song and Video-Model Short Film</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · Music &amp; lyrics</sub><br><sub>3:28 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755">▶ Play</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="Song and Video-Model Short Film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="127" alt="Strings, Flutes and Bubbles: Coded Sound"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103127192591065595"><img src="../assets/covers/2103127192591065595.jpg" width="400" alt="Child's Doodle Becomes a Music Video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Song and Video-Model Short Film</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · Music &amp; lyrics</sub><br><sub>3:28 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755">▶ Play</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">Original post</a></td>
 <td width="50%" valign="top"><strong>Strings, Flutes and Bubbles: Coded Sound</strong><br><sub><a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a> · Music &amp; lyrics</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104144532644544921">▶ Play</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103127192591065595"><img src="../assets/covers/2103127192591065595.jpg" width="400" alt="Child's Doodle Becomes a Music Video"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105354745988927980"><img src="../assets/covers/2105354745988927980.jpg" width="400" alt="Ctrl ALT Goodbye: a multi-model music video"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Child's Doodle Becomes a Music Video</strong><br><sub><a href="https://x.com/coolbat1999">@coolbat1999</a> · Music &amp; lyrics</sub><br><sub>3:47 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103127192591065595">▶ Play</a> · <a href="https://x.com/coolbat1999/status/2103127192591065595">Original post</a></td>
+<td width="50%" valign="top"><strong>Ctrl ALT Goodbye: a multi-model music video</strong><br><sub><a href="https://x.com/NISSANNS2">@NISSANNS2</a> · Music &amp; lyrics</sub><br><sub>3:28 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105354745988927980">▶ Play</a> · <a href="https://x.com/NISSANNS2/status/2105354745988927980">Original post</a></td>
 </tr>
 </tbody>
 </table>

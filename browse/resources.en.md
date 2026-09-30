@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-47 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+50 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -21,6 +21,12 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/dotey/status/2102995791778369982) · Link checked 2026-09-29 05:50 UTC
 - **Public web page**：[Peach Blossom Spring guided experience](https://s.baoyu.io/files/taohuayuan/index.html)
   [Link source](https://x.com/dotey/status/2102940980379017293) · Link checked 2026-09-29 05:50 UTC
+
+## [A felt character: Sol and Opus with the same reference](../cases/2105245039521628213.en.md) · @JakubAntowski
+
+- **Direct source**：[GPT vs Opus character comparison source and prompt](https://github.com/okonio/felt-dot-gpt-vs-opus/tree/7fbaf862bc8b92e481137fc11723a67cd7f881dc) · No license specified
+  The creator’s reply provides the full prompt, both implementations and a side-by-side video. No overall repository license or hosted interactive page is specified.
+  [Link source](https://x.com/JakubAntowski/status/2105245752889090529) · Link checked 2026-09-30 18:31 UTC
 
 ## [The Battle of Austerlitz in code](../cases/2103116235009347650.en.md) · @WinterArc2125
 
@@ -222,6 +228,14 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Creator’s playable webpage](https://the-apex-rush.vercel.app/)
   [Link source](https://x.com/sidgiri2104/status/2104820351532437653) · Link checked 2026-09-29 08:35 UTC
 
+## [Demolition Derby in the browser](../cases/2105361031371383180.en.md) · @drcollect
+
+- **Direct source**：[Demolition Derby game source](https://github.com/drcollect/demolition-derby/tree/f559fc60a7f2ee3a21a4faf77e998ae31ad67c43) · [MIT](https://github.com/drcollect/demolition-derby/blob/f559fc60a7f2ee3a21a4faf77e998ae31ad67c43/LICENSE)
+  The code, Blender car-preparation pipeline and tooling are MIT. The five Collect car models, designs and marks are explicitly excluded; consult the original project for their reuse terms.
+  [Link source](https://x.com/drcollect/status/2105361035305656708) · Link checked 2026-09-30 18:48 UTC
+- **Public web page**：[Demolition Derby online game](https://drcollect.github.io/demolition-derby/)
+  [Link source](https://x.com/drcollect/status/2105361035305656708) · Link checked 2026-09-30 18:48 UTC
+
 ## [Dawnroll: A Beetle Rolling Its Sun Through a Miniature Garden](../cases/2102543530002456775.en.md) · @Nickxyzn
 
 - **Direct source**：[Dawnroll game source](https://github.com/Nickdevcode/dawnroll) · No license specified
@@ -298,3 +312,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Interactive lyrics player](https://player.bizar.ro/)
   Public player; the creator says the local demo’s distortion and audio reactivity are omitted from the web version.
   [Link source](https://x.com/LuisBizarro/status/2105174061697618314) · Link checked 2026-09-30 10:04 UTC
+
+## [A P(doom) music video made with GenMotion](../cases/2105282502726484258.en.md) · @haxzie\_
+
+- **Direct source**：[p(doom) GenMotion music-video source](https://github.com/haxzie/p-doom-ft-genmotion/tree/9e37882332bd132ed0ebf02512c0b3f67ef2a795) · No license specified
+  The complete scene project linked by the creator. No overall repository license is specified; song and other asset rights require separate checks.
+  [Link source](https://x.com/haxzie_/status/2105282504936845510) · Link checked 2026-09-30 18:31 UTC
+- **Public web page**：[p(doom) music video and remixable template](https://genmotion.dev/templates/p-doom-music-video)
+  The work page provides a video preview and a remix template; access alone does not establish reuse rights for the song or template assets.
+  [Link source](https://x.com/haxzie_/status/2105282506979488095) · Link checked 2026-09-30 18:31 UTC
