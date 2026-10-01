@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-30 works. Click a cover to play; works without gallery video open on X.
+32 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -137,11 +137,21 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105304203770118434"><img src="../assets/covers/2105304203770118434.jpg" width="225" alt="Songbie: a snowman and a black cat at the piano"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="Song and Video-Model Short Film"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Songbie: a snowman and a black cat at the piano</strong><br><sub><a href="https://x.com/JohnnyWang8802">@JohnnyWang8802</a> · Music &amp; lyrics</sub><br><sub>1:13 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105304203770118434">▶ Play</a> · <a href="https://x.com/JohnnyWang8802/status/2105304203770118434">Original post</a></td>
+<td width="50%" valign="top"><strong>Song and Video-Model Short Film</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · Music &amp; lyrics</sub><br><sub>3:28 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755">▶ Play</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105590078638792932"><img src="../assets/covers/2105590078638792932.jpg" width="400" alt="Slip Out of the Frame: paper-theatre jazz arrangement"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="127" alt="Strings, Flutes and Bubbles: Coded Sound"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Song and Video-Model Short Film</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · Music &amp; lyrics</sub><br><sub>3:28 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102861462461124755">▶ Play</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">Original post</a></td>
+<td width="50%" valign="top"><strong>Slip Out of the Frame: paper-theatre jazz arrangement</strong><br><sub><a href="https://x.com/6_KAKUU">@6_KAKUU</a> · Music &amp; lyrics</sub><br><sub>1:07 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105590078638792932">▶ Play</a> · <a href="https://x.com/6_KAKUU/status/2105590078638792932">Original post</a></td>
 <td width="50%" valign="top"><strong>Strings, Flutes and Bubbles: Coded Sound</strong><br><sub><a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a> · Music &amp; lyrics</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104144532644544921">▶ Play</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">Original post</a></td>
 </tr>
 </tbody>

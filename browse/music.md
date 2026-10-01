@@ -2,7 +2,7 @@
 
 # 音乐与歌词
 
-30 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+32 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -137,11 +137,21 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105304203770118434"><img src="../assets/covers/2105304203770118434.jpg" width="225" alt="送别：雪人与黑猫的钢琴动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755"><img src="../assets/covers/2102861462461124755.jpg" width="400" alt="歌曲与视频模型联动短片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>送别：雪人与黑猫的钢琴动画</strong><br><sub><a href="https://x.com/JohnnyWang8802">@JohnnyWang8802</a> · 音乐与歌词</sub><br><sub>1:13 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105304203770118434">▶ 播放</a> · <a href="https://x.com/JohnnyWang8802/status/2105304203770118434">原帖</a></td>
+<td width="50%" valign="top"><strong>歌曲与视频模型联动短片</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755">▶ 播放</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105590078638792932"><img src="../assets/covers/2105590078638792932.jpg" width="400" alt="Slip Out of the Frame：纸戏爵士版"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="127" alt="弦、笛与水泡：代码物理合成音效"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>歌曲与视频模型联动短片</strong><br><sub><a href="https://x.com/jantijssen">@jantijssen</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102861462461124755">▶ 播放</a> · <a href="https://x.com/jantijssen/status/2102861462461124755">原帖</a></td>
+<td width="50%" valign="top"><strong>Slip Out of the Frame：纸戏爵士版</strong><br><sub><a href="https://x.com/6_KAKUU">@6_KAKUU</a> · 音乐与歌词</sub><br><sub>1:07 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105590078638792932">▶ 播放</a> · <a href="https://x.com/6_KAKUU/status/2105590078638792932">原帖</a></td>
 <td width="50%" valign="top"><strong>弦、笛与水泡：代码物理合成音效</strong><br><sub><a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a> · 音乐与歌词</sub><br><sub>0:26 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921">▶ 播放</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">原帖</a></td>
 </tr>
 </tbody>

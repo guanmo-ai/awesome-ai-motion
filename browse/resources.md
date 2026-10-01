@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-50 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+55 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -96,6 +96,12 @@
 - **相关工具**：[作者的手绘 Canvas 动画 Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [链接出处](https://x.com/superalesha/status/2102463796149440888) · 链接核对 2026-09-29 06:18 UTC
 
+## [品牌标志趋同的动效讲解](../cases/2105580875299836388.md) · @charliejhills
+
+- **相关工具**：[Charlie Hills Motion Graphics Skills 工具集](https://github.com/charlie947/motion-graphics-skills/tree/4cd156acdad0483884867c2d5a22268db66099d1) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/4cd156acdad0483884867c2d5a22268db66099d1/LICENSE)
+  作者回复直接链接此工具仓库。README 列出 13 个可安装的动效工作流 Skill；这是创作工具集，不是某支具体影片的源码。
+  [链接出处](https://x.com/charliejhills/status/2105580878042980554) · 链接核对 2026-10-01 16:08 UTC
+
 ## [Lemo-Opuscar：白板风格创作教学片](../cases/2104070024575242622.md) · @lemomo\_ai
 
 - **相关工具**：[Lemo-Opuscar 视频制作 Skill 与风格工具集](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
@@ -145,6 +151,12 @@
   [链接出处](https://x.com/simonw/status/2104003079574306857) · 链接核对 2026-09-29 06:17 UTC
 - **公开网页**：[鸮鹦鹉派对：点击放彩纸](https://tools.simonwillison.net/kakapo-party)
   [链接出处](https://x.com/simonw/status/2104003079574306857) · 链接核对 2026-09-29 05:50 UTC
+
+## [单张插画到可对话的 Live2D 风角色](../cases/2105556318132310361.md) · @shinshin86
+
+- **相关工具**：[AITuber OnAir 虚拟主播工具集](https://github.com/shinshin86/aituber-onair/tree/bf3452d0e4b743a40119c9d86ae02ff6bf1c0972) · [MIT](https://github.com/shinshin86/aituber-onair/blob/bf3452d0e4b743a40119c9d86ae02ff6bf1c0972/LICENSE)
+  作者原帖直接链接的是通用 AI 虚拟主播工具仓库。未找到与帖子中单图生成 Live2D 风格 avatar（眨眼、头发、表情、口型同步）精确对应的公开样本源码。node-live2d-newsdesk 是纵向新闻视频渲染示例，但要求用户自行提供已授权的 Cubism 4 模型和 Live2D Cubism Core；react-single-image-avatar-app 只让单张 PNG/JPG 做整体 Bounce 或 Puppet Wobble，不是 Live2D 生成器。因此仅索引为工具，不作为该具体头像作品源码，也不把原帖 URL 当作独立 demo 网页。MIT 覆盖仓库代码，不自动覆盖 avatar 原图、Live2D 模型或 SDK。
+  [链接出处](https://x.com/shinshin86/status/2105556318132310361) · 链接核对 2026-10-01 16:08 UTC
 
 ## [OmaCRT：从关节曲线到像素步态](../cases/2105187523630944530.md) · @stefanomainardi
 
@@ -223,6 +235,12 @@
   对应交互应用的源码采用 MIT；README 将声音列为 CC0、字体列为 OFL，素材与依赖按各自条款处理。
   [链接出处](https://x.com/kum1ta/status/2103998991948005618) · 链接核对 2026-09-29 06:16 UTC
 
+## [西瓜果冻：拖拽与切割实验](../cases/2105675232954474831.md) · @Abmankendrick
+
+- **公开网页**：[Melon Jelly 西瓜果冻交互网页](https://claude.ai/artifact/RiTbBMEqgfNwgMHMTAhf5P)
+  作者回复提供的作品网页；已确认果冻画面和交互控件。页面公开不代表已取得完整工程或复用许可。
+  [链接出处](https://x.com/Abmankendrick/status/2105675238855843960) · 链接核对 2026-10-01 16:08 UTC
+
 ## [The Apex Rush：单文件 3D 网页游戏](../cases/2104820347875045751.md) · @sidgiri2104
 
 - **公开网页**：[作者公开试玩页](https://the-apex-rush.vercel.app/)
@@ -235,6 +253,12 @@
   [链接出处](https://x.com/drcollect/status/2105361035305656708) · 链接核对 2026-09-30 18:48 UTC
 - **公开网页**：[Demolition Derby 在线游戏](https://drcollect.github.io/demolition-derby/)
   [链接出处](https://x.com/drcollect/status/2105361035305656708) · 链接核对 2026-09-30 18:48 UTC
+
+## [Casper：网页三维幽灵吉祥物](../cases/2105595903943774360.md) · @bazfurby
+
+- **公开网页**：[Casper 所在的 Ghost 作品网页](https://www.growwithghost.io/)
+  作者原帖提供的网站；已确认桌面页面中的三维幽灵角色。这里只索引该角色所在的网页，未核得完整工程或开源许可。
+  [链接出处](https://x.com/bazfurby/status/2105595903943774360) · 链接核对 2026-10-01 16:08 UTC
 
 ## [Dawnroll：甲虫滚动小太阳的微缩花园](../cases/2102543530002456775.md) · @Nickxyzn
 
@@ -321,3 +345,12 @@
 - **公开网页**：[p(doom) 音乐视频与可 Remix 模板](https://genmotion.dev/templates/p-doom-music-video)
   作品页提供视频预览与 Remix 模板入口；可访问不代表歌曲或模板素材已获复用许可。
   [链接出处](https://x.com/haxzie_/status/2105282506979488095) · 链接核对 2026-09-30 18:31 UTC
+
+## [送别：雪人与黑猫的钢琴动画](../cases/2105304203770118434.md) · @JohnnyWang8802
+
+- **直接源码**：[送别：雪人与黑猫钢琴动画源码](https://github.com/JohnnyWang8802/songbie/tree/97225eb54a351c9938ad896e04bef7a7020393fb) · [MIT](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/LICENSE)
+  GitHub 账号的公开 X 资料与作者一致；README、封面和分镜均与作者原帖中的 72 秒《送别》动画精确对应。MIT 适用于仓库代码。Apple Logic Pro 的 Steinway 钢琴采样未随仓库提供；README 说明已渲染音轨/视频在仓库内，但没有声明这些成品素材受 MIT 覆盖。
+  [链接出处](https://x.com/JohnnyWang8802/status/2105305390523322372) · 链接核对 2026-10-01 16:08 UTC
+- **公开网页**：[送别：72 秒蜡笔动画样片](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
+  固定 SHA 下 README 指向的作品视频；作者原帖提供外部演示证据。视频和音频输出含源代码许可之外的声音素材边界，勿据 MIT 推断成品媒体的再分发权。
+  [链接出处](https://x.com/JohnnyWang8802/status/2105304203770118434) · 链接核对 2026-10-01 16:08 UTC

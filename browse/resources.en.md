@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-50 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+55 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -96,6 +96,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Creator’s hand-drawn Canvas animation skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [Link source](https://x.com/superalesha/status/2102463796149440888) · Link checked 2026-09-29 06:18 UTC
 
+## [A motion explainer on similar-looking brand logos](../cases/2105580875299836388.en.md) · @charliejhills
+
+- **Related tool**：[Charlie Hills Motion Graphics Skills toolkit](https://github.com/charlie947/motion-graphics-skills/tree/4cd156acdad0483884867c2d5a22268db66099d1) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/4cd156acdad0483884867c2d5a22268db66099d1/LICENSE)
+  The creator's reply directly links this toolkit repository. Its README lists 13 installable motion-graphics workflow skills; it is a creation toolkit, not the source code for one specific film.
+  [Link source](https://x.com/charliejhills/status/2105580878042980554) · Link checked 2026-10-01 16:08 UTC
+
 ## [Lemo-Opuscar: A Whiteboard-Style Creation Tutorial](../cases/2104070024575242622.en.md) · @lemomo\_ai
 
 - **Related tool**：[Lemo-Opuscar video creation skill and style toolkit](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
@@ -145,6 +151,12 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/simonw/status/2104003079574306857) · Link checked 2026-09-29 06:17 UTC
 - **Public web page**：[Kākāpō Party: click for confetti](https://tools.simonwillison.net/kakapo-party)
   [Link source](https://x.com/simonw/status/2104003079574306857) · Link checked 2026-09-29 05:50 UTC
+
+## [A single illustration becomes a conversational avatar](../cases/2105556318132310361.en.md) · @shinshin86
+
+- **Related tool**：[AITuber OnAir virtual streamer toolkit](https://github.com/shinshin86/aituber-onair/tree/bf3452d0e4b743a40119c9d86ae02ff6bf1c0972) · [MIT](https://github.com/shinshin86/aituber-onair/blob/bf3452d0e4b743a40119c9d86ae02ff6bf1c0972/LICENSE)
+  The creator’s post links the general AI VTuber toolkit. No public sample source was found that precisely implements the post’s single-image Live2D-style avatar with blinking, hair, expressions, and lip-sync. node-live2d-newsdesk is a vertical-video rendering example, but requires users to provide an already licensed Cubism 4 model and Live2D Cubism Core. react-single-image-avatar-app only animates a single PNG/JPG as a whole with Bounce or Puppet Wobble; it is not a Live2D generator. Index this as a tool only, not as source for the specific avatar, and do not treat the X post as a separate demo webpage. MIT covers repository code, not avatar artwork, Live2D models, or SDKs.
+  [Link source](https://x.com/shinshin86/status/2105556318132310361) · Link checked 2026-10-01 16:08 UTC
 
 ## [OmaCRT: Pixel Walking from Joint Curves](../cases/2105187523630944530.en.md) · @stefanomainardi
 
@@ -223,6 +235,12 @@ Public work pages also count as implementation references; a web link alone does
   The interactive application source is MIT-licensed. Its README lists sounds as CC0 and fonts as OFL; assets and dependencies retain their own terms.
   [Link source](https://x.com/kum1ta/status/2103998991948005618) · Link checked 2026-09-29 06:16 UTC
 
+## [Melon Jelly: drag and cut experiment](../cases/2105675232954474831.en.md) · @Abmankendrick
+
+- **Public web page**：[Melon Jelly interactive page](https://claude.ai/artifact/RiTbBMEqgfNwgMHMTAhf5P)
+  The work page supplied in the creator’s reply, with the jelly visual and interaction controls verified. Public access does not establish a full source project or reuse license.
+  [Link source](https://x.com/Abmankendrick/status/2105675238855843960) · Link checked 2026-10-01 16:08 UTC
+
 ## [The Apex Rush: A Single-File 3D Browser Game](../cases/2104820347875045751.en.md) · @sidgiri2104
 
 - **Public web page**：[Creator’s playable webpage](https://the-apex-rush.vercel.app/)
@@ -235,6 +253,12 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/drcollect/status/2105361035305656708) · Link checked 2026-09-30 18:48 UTC
 - **Public web page**：[Demolition Derby online game](https://drcollect.github.io/demolition-derby/)
   [Link source](https://x.com/drcollect/status/2105361035305656708) · Link checked 2026-09-30 18:48 UTC
+
+## [Casper: a 3D ghost mascot on the web](../cases/2105595903943774360.en.md) · @bazfurby
+
+- **Public web page**：[Ghost page featuring Casper](https://www.growwithghost.io/)
+  The site supplied in the creator’s post, with the desktop 3D ghost character verified. This indexes the page featuring the character; a complete source project or open-source license is not established.
+  [Link source](https://x.com/bazfurby/status/2105595903943774360) · Link checked 2026-10-01 16:08 UTC
 
 ## [Dawnroll: A Beetle Rolling Its Sun Through a Miniature Garden](../cases/2102543530002456775.en.md) · @Nickxyzn
 
@@ -321,3 +345,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[p(doom) music video and remixable template](https://genmotion.dev/templates/p-doom-music-video)
   The work page provides a video preview and a remix template; access alone does not establish reuse rights for the song or template assets.
   [Link source](https://x.com/haxzie_/status/2105282506979488095) · Link checked 2026-09-30 18:31 UTC
+
+## [Songbie: a snowman and a black cat at the piano](../cases/2105304203770118434.en.md) · @JohnnyWang8802
+
+- **Direct source**：[Songbie: snowman and black-cat piano animation source](https://github.com/JohnnyWang8802/songbie/tree/97225eb54a351c9938ad896e04bef7a7020393fb) · [MIT](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/LICENSE)
+  The GitHub profile's public X handle matches the creator. The README, cover and storyboard match the 72-second Songbie animation in the creator's post. MIT applies to repository code. Apple Logic Pro Steinway piano samples are not included; the README says rendered audio/video are included but does not say those rendered assets are covered by MIT.
+  [Link source](https://x.com/JohnnyWang8802/status/2105305390523322372) · Link checked 2026-10-01 16:08 UTC
+- **Public web page**：[Songbie: 72-second crayon animation preview](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
+  The work video linked by the README at the pinned SHA; the creator's post is the external demo evidence. The rendered video/audio has sound-source boundaries outside the code license, so MIT should not be taken as a grant to redistribute the finished media.
+  [Link source](https://x.com/JohnnyWang8802/status/2105304203770118434) · Link checked 2026-10-01 16:08 UTC

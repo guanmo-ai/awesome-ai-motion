@@ -2,7 +2,7 @@
 
 # Motion design
 
-55 works. Click a cover to play; works without gallery video open on X.
+57 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -167,121 +167,131 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105606322310054044"><img src="../assets/covers/2105606322310054044.jpg" width="347" alt="A floral foil greeting card"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102717699600368045"><img src="../assets/covers/2102717699600368045.jpg" width="400" alt="Concept Film About an AI Work Plan"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103024907965612250"><img src="../assets/covers/2103024907965612250.jpg" width="400" alt="One-Prompt Animation Experiment"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A floral foil greeting card</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · Motion design</sub><br><sub>0:23 · Bookmarks 245 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105606322310054044">▶ Play</a> · <a href="https://x.com/ann_nnng/status/2105606322310054044">Original post</a></td>
 <td width="50%" valign="top"><strong>Concept Film About an AI Work Plan</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Motion design</sub><br><sub>3:18 · Bookmarks 234 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102717699600368045">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102717699600368045">Original post</a></td>
-<td width="50%" valign="top"><strong>One-Prompt Animation Experiment</strong><br><sub><a href="https://x.com/pivi___">@pivi___</a> · Motion design</sub><br><sub>0:33 · Bookmarks 233 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103024907965612250">▶ Play</a> · <a href="https://x.com/pivi___/status/2103024907965612250">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103024907965612250"><img src="../assets/covers/2103024907965612250.jpg" width="400" alt="One-Prompt Animation Experiment"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102788371114246177"><img src="../assets/covers/2102788371114246177.jpg" width="400" alt="Training Montage of an AI Model"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102724347446305104"><img src="../assets/covers/2102724347446305104.jpg" width="400" alt="Code Recreation of a Reference Film's Rhythm"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>One-Prompt Animation Experiment</strong><br><sub><a href="https://x.com/pivi___">@pivi___</a> · Motion design</sub><br><sub>0:33 · Bookmarks 233 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103024907965612250">▶ Play</a> · <a href="https://x.com/pivi___/status/2103024907965612250">Original post</a></td>
 <td width="50%" valign="top"><strong>Training Montage of an AI Model</strong><br><sub><a href="https://x.com/ishuagra02">@ishuagra02</a> · Motion design</sub><br><sub>0:30 · Bookmarks 195 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102788371114246177">▶ Play</a> · <a href="https://x.com/ishuagra02/status/2102788371114246177">Original post</a></td>
-<td width="50%" valign="top"><strong>Code Recreation of a Reference Film's Rhythm</strong><br><sub><a href="https://x.com/leo_xiaolei">@leo_xiaolei</a> · Motion design</sub><br><sub>0:28 · Bookmarks 140 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102724347446305104">▶ Play</a> · <a href="https://x.com/leo_xiaolei/status/2102724347446305104">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102724347446305104"><img src="../assets/covers/2102724347446305104.jpg" width="400" alt="Code Recreation of a Reference Film's Rhythm"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104213302624821647"><img src="../assets/covers/2104213302624821647.jpg" width="225" alt="Frame drawn narrated JavaScript animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103244081388503196"><img src="../assets/covers/2103244081388503196.jpg" width="400" alt="Line-Drawing Timing and Compositing Test"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Code Recreation of a Reference Film's Rhythm</strong><br><sub><a href="https://x.com/leo_xiaolei">@leo_xiaolei</a> · Motion design</sub><br><sub>0:28 · Bookmarks 140 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102724347446305104">▶ Play</a> · <a href="https://x.com/leo_xiaolei/status/2102724347446305104">Original post</a></td>
 <td width="50%" valign="top"><strong>Frame drawn narrated JavaScript animation</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · Motion design</sub><br><sub>1:20 · Bookmarks 80 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104213302624821647">▶ Play</a> · <a href="https://x.com/kevin_t_ngo/status/2104213302624821647">Original post</a></td>
-<td width="50%" valign="top"><strong>Line-Drawing Timing and Compositing Test</strong><br><sub><a href="https://x.com/araminta_k">@araminta_k</a> · Motion design</sub><br><sub>0:25 · Bookmarks 78 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103244081388503196">▶ Play</a> · <a href="https://x.com/araminta_k/status/2103244081388503196">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103244081388503196"><img src="../assets/covers/2103244081388503196.jpg" width="400" alt="Line-Drawing Timing and Compositing Test"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104728379798827135"><img src="../assets/covers/2104728379798827135.jpg" width="127" alt="A Single-Prompt HyperFrames Motion Test"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102742924148830211"><img src="../assets/covers/2102742924148830211.jpg" width="400" alt="Code Animation of an Ant Colony"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Line-Drawing Timing and Compositing Test</strong><br><sub><a href="https://x.com/araminta_k">@araminta_k</a> · Motion design</sub><br><sub>0:25 · Bookmarks 78 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103244081388503196">▶ Play</a> · <a href="https://x.com/araminta_k/status/2103244081388503196">Original post</a></td>
 <td width="50%" valign="top"><strong>A Single-Prompt HyperFrames Motion Test</strong><br><sub><a href="https://x.com/leandroriviello">@leandroriviello</a> · Motion design</sub><br><sub>0:14 · Bookmarks 52 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104728379798827135">▶ Play</a> · <a href="https://x.com/leandroriviello/status/2104728379798827135">Original post</a></td>
-<td width="50%" valign="top"><strong>Code Animation of an Ant Colony</strong><br><sub><a href="https://x.com/hanifproduktif">@hanifproduktif</a> · Motion design</sub><br><sub>0:32 · Bookmarks 31 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102742924148830211">▶ Play</a> · <a href="https://x.com/hanifproduktif/status/2102742924148830211">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102742924148830211"><img src="../assets/covers/2102742924148830211.jpg" width="400" alt="Code Animation of an Ant Colony"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103247490237825416"><img src="../assets/covers/2103247490237825416.jpg" width="400" alt="Local Session History Becomes Animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104231262600700140"><img src="../assets/covers/2104231262600700140.jpg" width="400" alt="Five angle AI avatar edit"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Code Animation of an Ant Colony</strong><br><sub><a href="https://x.com/hanifproduktif">@hanifproduktif</a> · Motion design</sub><br><sub>0:32 · Bookmarks 31 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102742924148830211">▶ Play</a> · <a href="https://x.com/hanifproduktif/status/2102742924148830211">Original post</a></td>
 <td width="50%" valign="top"><strong>Local Session History Becomes Animation</strong><br><sub><a href="https://x.com/jake11moran">@jake11moran</a> · Motion design</sub><br><sub>0:53 · Bookmarks 29 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103247490237825416">▶ Play</a> · <a href="https://x.com/jake11moran/status/2103247490237825416">Original post</a></td>
-<td width="50%" valign="top"><strong>Five angle AI avatar edit</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · Motion design</sub><br><sub>0:21 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104231262600700140">▶ Play</a> · <a href="https://x.com/nakazakifam/status/2104231262600700140">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104231262600700140"><img src="../assets/covers/2104231262600700140.jpg" width="400" alt="Five angle AI avatar edit"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102611841122017632"><img src="../assets/covers/2102611841122017632.jpg" width="400" alt="Animated Rain on a Street Photo"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103003425915195750"><img src="../assets/covers/2103003425915195750.jpg" width="400" alt="Code Extension of an Earlier Motion Piece"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Five angle AI avatar edit</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · Motion design</sub><br><sub>0:21 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104231262600700140">▶ Play</a> · <a href="https://x.com/nakazakifam/status/2104231262600700140">Original post</a></td>
 <td width="50%" valign="top"><strong>Animated Rain on a Street Photo</strong><br><sub><a href="https://x.com/yangfei33113">@yangfei33113</a> · Motion design</sub><br><sub>0:38 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102611841122017632">▶ Play</a> · <a href="https://x.com/yangfei33113/status/2102611841122017632">Original post</a></td>
-<td width="50%" valign="top"><strong>Code Extension of an Earlier Motion Piece</strong><br><sub><a href="https://x.com/elianiva_">@elianiva_</a> · Motion design</sub><br><sub>0:26 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103003425915195750">▶ Play</a> · <a href="https://x.com/elianiva_/status/2103003425915195750">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103003425915195750"><img src="../assets/covers/2103003425915195750.jpg" width="400" alt="Code Extension of an Earlier Motion Piece"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104347638883873255"><img src="../assets/covers/2104347638883873255.jpg" width="225" alt="A Chrome Knot: Bloom, Break and Reassemble"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102548178646016377"><img src="../assets/covers/2102548178646016377.jpg" width="180" alt="Animated Overlay on a Spinning Cup"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Code Extension of an Earlier Motion Piece</strong><br><sub><a href="https://x.com/elianiva_">@elianiva_</a> · Motion design</sub><br><sub>0:26 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103003425915195750">▶ Play</a> · <a href="https://x.com/elianiva_/status/2103003425915195750">Original post</a></td>
 <td width="50%" valign="top"><strong>A Chrome Knot: Bloom, Break and Reassemble</strong><br><sub><a href="https://x.com/gogu_name">@gogu_name</a> · Motion design</sub><br><sub>0:15 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104347638883873255">▶ Play</a> · <a href="https://x.com/gogu_name/status/2104347638883873255">Original post</a></td>
-<td width="50%" valign="top"><strong>Animated Overlay on a Spinning Cup</strong><br><sub><a href="https://x.com/AnduArtist">@AnduArtist</a> · Motion design</sub><br><sub>0:15 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102548178646016377">▶ Play</a> · <a href="https://x.com/AnduArtist/status/2102548178646016377">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102548178646016377"><img src="../assets/covers/2102548178646016377.jpg" width="180" alt="Animated Overlay on a Spinning Cup"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/ianstig/status/2103169675928764486"><img src="../assets/covers/2103169675928764486.jpg" width="400" alt="One Character Across Multiple Animation Styles"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104214763358015565"><img src="../assets/covers/2104214763358015565.jpg" width="400" alt="Drawn imaginary engraving animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Animated Overlay on a Spinning Cup</strong><br><sub><a href="https://x.com/AnduArtist">@AnduArtist</a> · Motion design</sub><br><sub>0:15 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102548178646016377">▶ Play</a> · <a href="https://x.com/AnduArtist/status/2102548178646016377">Original post</a></td>
 <td width="50%" valign="top"><strong>One Character Across Multiple Animation Styles</strong><br><sub><a href="https://x.com/ianstig">@ianstig</a> · Motion design</sub><br><sub>2:11 · Bookmarks 1 · Details pending</sub><br><a href="https://x.com/ianstig/status/2103169675928764486">▶ Watch on X</a> · <a href="https://x.com/ianstig/status/2103169675928764486">Original post</a></td>
-<td width="50%" valign="top"><strong>Drawn imaginary engraving animation</strong><br><sub><a href="https://x.com/illodevcode">@illodevcode</a> · Motion design</sub><br><sub>1:04 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104214763358015565">▶ Play</a> · <a href="https://x.com/illodevcode/status/2104214763358015565">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104214763358015565"><img src="../assets/covers/2104214763358015565.jpg" width="400" alt="Drawn imaginary engraving animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103992442072813651"><img src="../assets/covers/2103992442072813651.jpg" width="180" alt="A London Snow Globe in Swift"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104756133558984946"><img src="../assets/covers/2104756133558984946.jpg" width="400" alt="12,346 iPhones in a Domino Animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Drawn imaginary engraving animation</strong><br><sub><a href="https://x.com/illodevcode">@illodevcode</a> · Motion design</sub><br><sub>1:04 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104214763358015565">▶ Play</a> · <a href="https://x.com/illodevcode/status/2104214763358015565">Original post</a></td>
 <td width="50%" valign="top"><strong>A London Snow Globe in Swift</strong><br><sub><a href="https://x.com/eigeorguy">@eigeorguy</a> · Motion design</sub><br><sub>0:06 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103992442072813651">▶ Play</a> · <a href="https://x.com/eigeorguy/status/2103992442072813651">Original post</a></td>
-<td width="50%" valign="top"><strong>12,346 iPhones in a Domino Animation</strong><br><sub><a href="https://x.com/paojiaofty">@paojiaofty</a> · Motion design</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104756133558984946">▶ Play</a> · <a href="https://x.com/paojiaofty/status/2104756133558984946">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104756133558984946"><img src="../assets/covers/2104756133558984946.jpg" width="400" alt="12,346 iPhones in a Domino Animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102911234526048706"><img src="../assets/covers/2102911234526048706.jpg" width="400" alt="Multi-Round After Effects Production Test"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104235944383803495"><img src="../assets/covers/2104235944383803495.jpg" width="400" alt="HyperFrames motion graphics experiment"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>12,346 iPhones in a Domino Animation</strong><br><sub><a href="https://x.com/paojiaofty">@paojiaofty</a> · Motion design</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104756133558984946">▶ Play</a> · <a href="https://x.com/paojiaofty/status/2104756133558984946">Original post</a></td>
 <td width="50%" valign="top"><strong>Multi-Round After Effects Production Test</strong><br><sub><a href="https://x.com/throughiris_">@throughiris_</a> · Motion design</sub><br><sub>0:12 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102911234526048706">▶ Play</a> · <a href="https://x.com/throughiris_/status/2102911234526048706">Original post</a></td>
-<td width="50%" valign="top"><strong>HyperFrames motion graphics experiment</strong><br><sub><a href="https://x.com/mukhtharcm">@mukhtharcm</a> · Motion design</sub><br><sub>1:08 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104235944383803495">▶ Play</a> · <a href="https://x.com/mukhtharcm/status/2104235944383803495">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104235944383803495"><img src="../assets/covers/2104235944383803495.jpg" width="400" alt="HyperFrames motion graphics experiment"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104763812733981142"><img src="../assets/covers/2104763812733981142.jpg" width="127" alt="Gold Dust and Chladni Patterns"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104776177609293975"><img src="../assets/covers/2104776177609293975.jpg" width="400" alt="Design Builder Introduction"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>HyperFrames motion graphics experiment</strong><br><sub><a href="https://x.com/mukhtharcm">@mukhtharcm</a> · Motion design</sub><br><sub>1:08 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104235944383803495">▶ Play</a> · <a href="https://x.com/mukhtharcm/status/2104235944383803495">Original post</a></td>
 <td width="50%" valign="top"><strong>Gold Dust and Chladni Patterns</strong><br><sub><a href="https://x.com/park_danie36173">@park_danie36173</a> · Motion design</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104763812733981142">▶ Play</a> · <a href="https://x.com/park_danie36173/status/2104763812733981142">Original post</a></td>
-<td width="50%" valign="top"><strong>Design Builder Introduction</strong><br><sub><a href="https://x.com/Prathamesh_812">@Prathamesh_812</a> · Motion design</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104776177609293975">▶ Play</a> · <a href="https://x.com/Prathamesh_812/status/2104776177609293975">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104776177609293975"><img src="../assets/covers/2104776177609293975.jpg" width="400" alt="Design Builder Introduction"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104837895773417649"><img src="../assets/covers/2104837895773417649.jpg" width="300" alt="A Paper-Folding Launch Film in One HTML Page"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Design Builder Introduction</strong><br><sub><a href="https://x.com/Prathamesh_812">@Prathamesh_812</a> · Motion design</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104776177609293975">▶ Play</a> · <a href="https://x.com/Prathamesh_812/status/2104776177609293975">Original post</a></td>
+<td width="50%" valign="top"><strong>A Paper-Folding Launch Film in One HTML Page</strong><br><sub><a href="https://x.com/Vignesh_rav">@Vignesh_rav</a> · Motion design</sub><br><sub>0:13 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104837895773417649">▶ Play</a> · <a href="https://x.com/Vignesh_rav/status/2104837895773417649">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105683672737145017"><img src="../assets/covers/2105683672737145017.jpg" width="225" alt="From pencil architecture to a 3D model"></a></td>
 <td width="50%"></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>A Paper-Folding Launch Film in One HTML Page</strong><br><sub><a href="https://x.com/Vignesh_rav">@Vignesh_rav</a> · Motion design</sub><br><sub>0:13 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104837895773417649">▶ Play</a> · <a href="https://x.com/Vignesh_rav/status/2104837895773417649">Original post</a></td>
+<td width="50%" valign="top"><strong>From pencil architecture to a 3D model</strong><br><sub><a href="https://x.com/studiotimfu">@studiotimfu</a> · Motion design</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105683672737145017">▶ Play</a> · <a href="https://x.com/studiotimfu/status/2105683672737145017">Original post</a></td>
 <td width="50%"></td>
 </tr>
 </tbody>

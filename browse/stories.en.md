@@ -2,7 +2,7 @@
 
 # Narrative films
 
-76 works. Click a cover to play; works without gallery video open on X.
+77 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -357,32 +357,42 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105655716564656404"><img src="../assets/covers/2105655716564656404.jpg" width="400" alt="A late-night essay becomes a four-minute film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2014368636236874028"><img src="../assets/covers/2014368636236874028.jpg" width="225" alt="Ghost of PrivatBank: a Work-in-Progress Teaser"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="Three Everyday Coincidence Vignettes"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A late-night essay becomes a four-minute film</strong><br><sub><a href="https://x.com/wenbozhu0328">@wenbozhu0328</a> · Narrative films</sub><br><sub>4:09 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105655716564656404">▶ Play</a> · <a href="https://x.com/wenbozhu0328/status/2105655716564656404">Original post</a></td>
 <td width="50%" valign="top"><strong>Ghost of PrivatBank: a Work-in-Progress Teaser</strong><br><sub><a href="https://x.com/_YuliyaLev_">@_YuliyaLev_</a> · Narrative films</sub><br><sub>1:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2014368636236874028">▶ Play</a> · <a href="https://x.com/_YuliyaLev_/status/2014368636236874028">Original post</a></td>
-<td width="50%" valign="top"><strong>Three Everyday Coincidence Vignettes</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · Narrative films</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875">▶ Play</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="Three Everyday Coincidence Vignettes"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104419979924033781"><img src="../assets/covers/2104419979924033781.jpg" width="392" alt="Imagination Expired: a Seedance 2.5 Short"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775404368412946"><img src="../assets/covers/2104775404368412946.jpg" width="400" alt="Max Verstappen: A Footage Editing Experiment"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three Everyday Coincidence Vignettes</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · Narrative films</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875">▶ Play</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">Original post</a></td>
 <td width="50%" valign="top"><strong>Imagination Expired: a Seedance 2.5 Short</strong><br><sub><a href="https://x.com/HuskiStudio">@HuskiStudio</a> · Narrative films</sub><br><sub>2:31 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104419979924033781">▶ Play</a> · <a href="https://x.com/HuskiStudio/status/2104419979924033781">Original post</a></td>
-<td width="50%" valign="top"><strong>Max Verstappen: A Footage Editing Experiment</strong><br><sub><a href="https://x.com/salRoid">@salRoid</a> · Narrative films</sub><br><sub>1:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775404368412946">▶ Play</a> · <a href="https://x.com/salRoid/status/2104775404368412946">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775404368412946"><img src="../assets/covers/2104775404368412946.jpg" width="400" alt="Max Verstappen: A Footage Editing Experiment"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104792004978974928"><img src="../assets/covers/2104792004978974928.jpg" width="400" alt="Far from the Madding Crowd: A Space-Outpost Paper Film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="Humans choose the direction in the AI era"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Max Verstappen: A Footage Editing Experiment</strong><br><sub><a href="https://x.com/salRoid">@salRoid</a> · Narrative films</sub><br><sub>1:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775404368412946">▶ Play</a> · <a href="https://x.com/salRoid/status/2104775404368412946">Original post</a></td>
 <td width="50%" valign="top"><strong>Far from the Madding Crowd: A Space-Outpost Paper Film</strong><br><sub><a href="https://x.com/NoFollowers2023">@NoFollowers2023</a> · Narrative films</sub><br><sub>5:27 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104792004978974928">▶ Play</a> · <a href="https://x.com/NoFollowers2023/status/2104792004978974928">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="Humans choose the direction in the AI era"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Humans choose the direction in the AI era</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · Narrative films</sub><br><sub>1:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877">▶ Play</a> · <a href="https://x.com/nakazakifam/status/2105361184543133877">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>
