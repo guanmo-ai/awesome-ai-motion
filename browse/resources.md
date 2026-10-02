@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-55 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+56 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -345,6 +345,12 @@
 - **公开网页**：[p(doom) 音乐视频与可 Remix 模板](https://genmotion.dev/templates/p-doom-music-video)
   作品页提供视频预览与 Remix 模板入口；可访问不代表歌曲或模板素材已获复用许可。
   [链接出处](https://x.com/haxzie_/status/2105282506979488095) · 链接核对 2026-09-30 18:31 UTC
+
+## [EUDoom：欧洲版 P(doom) 音乐动画](../cases/2105926129567879524.md) · @JSalmisaari
+
+- **直接源码**：[I'm Upping My EU Doom 音乐视频源码](https://github.com/Salmisaari/eudoom-video/tree/a7bb5ed43644cb214bd3546266c8492914177f98) · [MIT](https://github.com/Salmisaari/eudoom-video/blob/a7bb5ed43644cb214bd3546266c8492914177f98/LICENSE)
+  作者 README 直接链接该作品原帖，GitHub 公开资料对应同一 X 作者。MIT 适用于仓库代码；歌曲、歌词及录音保留各自权利，图像与字体遵循 CREDITS 中列出的来源许可。
+  [链接出处](https://github.com/Salmisaari/eudoom-video/blob/a7bb5ed43644cb214bd3546266c8492914177f98/README.md) · 链接核对 2026-10-02 09:27 UTC
 
 ## [送别：雪人与黑猫的钢琴动画](../cases/2105304203770118434.md) · @JohnnyWang8802
 

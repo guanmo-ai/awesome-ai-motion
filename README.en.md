@@ -10,7 +10,7 @@ Start in the gallery: watch videos by category, search for creators, and find pu
 
 [![Gallery preview with category navigation, video covers and playback links. Click to explore.](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-409 video references · 66 creator prompts · Chinese & English
+421 video references · 67 creator prompts · Chinese & English
 
 [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -122,7 +122,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 76 works →](browse/product.en.md)
+[Explore all 77 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -180,7 +180,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 57 works →](browse/motion.en.md)
+[Explore all 59 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -190,26 +190,26 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102476258948927543"><img src="assets/covers/2102476258948927543.jpg" width="272" alt="A pixel wizard casting spells"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923"><img src="assets/covers/2104008163561451923.jpg" width="400" alt="An AITuber Streaming and Explaining Prototype"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862"><img src="assets/covers/2105757136219504862.jpg" width="400" alt="Superman across changing art styles"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A pixel wizard casting spells</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · Pixel art &amp; characters</sub><br><sub>0:11 · Bookmarks 2,639</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102476258948927543">▶ Play</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post</a></td>
-<td width="50%" valign="top"><strong>An AITuber Streaming and Explaining Prototype</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · Pixel art &amp; characters</sub><br><sub>0:55 · Bookmarks 985 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923">▶ Play</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">Original post</a></td>
+<td width="50%" valign="top"><strong>Superman across changing art styles</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Pixel art &amp; characters</sub><br><sub>0:40 · Bookmarks 1,278 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862">▶ Play</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102472218269900876"><img src="assets/covers/2102472218269900876.jpg" width="225" alt="Candy-Themed Character Animation"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105825930799432073"><img src="assets/covers/2105825930799432073.jpg" width="400" alt="A red dot’s small woodland adventure"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923"><img src="assets/covers/2104008163561451923.jpg" width="400" alt="An AITuber Streaming and Explaining Prototype"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Pip travels through twelve visual styles</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · Pixel art &amp; characters</sub><br><sub>1:15 · Bookmarks 532</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874">▶ Play</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
-<td width="50%" valign="top"><strong>Candy-Themed Character Animation</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · Pixel art &amp; characters</sub><br><sub>0:30 · Bookmarks 350 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102472218269900876">▶ Play</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">Original post</a></td>
+<td width="50%" valign="top"><strong>A red dot’s small woodland adventure</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 1,072 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105825930799432073">▶ Play</a> · <a href="https://x.com/cherry_mx_reds/status/2105825930799432073">Original post</a></td>
+<td width="50%" valign="top"><strong>An AITuber Streaming and Explaining Prototype</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · Pixel art &amp; characters</sub><br><sub>0:55 · Bookmarks 985 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923">▶ Play</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">Original post</a></td>
 </tr>
 </tbody>
 </table>
 
-[Explore all 20 works →](browse/characters.en.md)
+[Explore all 25 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -238,7 +238,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 74 works →](browse/interactive.en.md)
+[Explore all 76 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -267,7 +267,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 77 works →](browse/stories.en.md)
+[Explore all 78 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -296,11 +296,11 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 32 works →](browse/music.en.md)
+[Explore all 33 works →](browse/music.en.md)
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [373 discovery records with details pending](browse/discoveries.en.md) · 408 original video sources
+36 catalogued records · [385 discovery records with details pending](browse/discoveries.en.md) · 420 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

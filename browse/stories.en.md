@@ -2,7 +2,7 @@
 
 # Narrative films
 
-77 works. Click a cover to play; works without gallery video open on X.
+78 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -267,132 +267,132 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105850801663234374"><img src="../assets/covers/2105850801663234374.jpg" width="400" alt="Stay behind me: a nighttime tavern fight"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103153899431432535"><img src="../assets/covers/2103153899431432535.jpg" width="360" alt="Character Design to Realistic Film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104662818742309357"><img src="../assets/covers/2104662818742309357.jpg" width="400" alt="A Mixed-Media Clip Staged in HyperFrames"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Stay behind me: a nighttime tavern fight</strong><br><sub><a href="https://x.com/Chengzilhy">@Chengzilhy</a> · Narrative films</sub><br><sub>0:28 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105850801663234374">▶ Play</a> · <a href="https://x.com/Chengzilhy/status/2105850801663234374">Original post</a></td>
 <td width="50%" valign="top"><strong>Character Design to Realistic Film</strong><br><sub><a href="https://x.com/razeden0">@razeden0</a> · Narrative films</sub><br><sub>0:22 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103153899431432535">▶ Play</a> · <a href="https://x.com/razeden0/status/2103153899431432535">Original post</a></td>
-<td width="50%" valign="top"><strong>A Mixed-Media Clip Staged in HyperFrames</strong><br><sub><a href="https://x.com/mattworkman">@mattworkman</a> · Narrative films</sub><br><sub>0:30 · Bookmarks 5 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104662818742309357">▶ Play</a> · <a href="https://x.com/mattworkman/status/2104662818742309357">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104662818742309357"><img src="../assets/covers/2104662818742309357.jpg" width="400" alt="A Mixed-Media Clip Staged in HyperFrames"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102782449478668290"><img src="../assets/covers/2102782449478668290.jpg" width="400" alt="Ink-Painted Samurai Film Draft"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103039084944138621"><img src="../assets/covers/2103039084944138621.jpg" width="400" alt="Animated Comedy with a Dog and Cat"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Mixed-Media Clip Staged in HyperFrames</strong><br><sub><a href="https://x.com/mattworkman">@mattworkman</a> · Narrative films</sub><br><sub>0:30 · Bookmarks 5 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104662818742309357">▶ Play</a> · <a href="https://x.com/mattworkman/status/2104662818742309357">Original post</a></td>
 <td width="50%" valign="top"><strong>Ink-Painted Samurai Film Draft</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · Narrative films</sub><br><sub>1:30 · Bookmarks 5 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102782449478668290">▶ Play</a> · <a href="https://x.com/pradeepXkapoor/status/2102782449478668290">Original post</a></td>
-<td width="50%" valign="top"><strong>Animated Comedy with a Dog and Cat</strong><br><sub><a href="https://x.com/somasoma_blue">@somasoma_blue</a> · Narrative films</sub><br><sub>0:54 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103039084944138621">▶ Play</a> · <a href="https://x.com/somasoma_blue/status/2103039084944138621">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103039084944138621"><img src="../assets/covers/2103039084944138621.jpg" width="400" alt="Animated Comedy with a Dog and Cat"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103169764244017396"><img src="../assets/covers/2103169764244017396.jpg" width="400" alt="The Owl at the Night Post Office"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096055605127475262"><img src="../assets/covers/2096055605127475262.jpg" width="152" alt="Farida and Nyon: West African-Inspired Fantasy Concepts"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Animated Comedy with a Dog and Cat</strong><br><sub><a href="https://x.com/somasoma_blue">@somasoma_blue</a> · Narrative films</sub><br><sub>0:54 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103039084944138621">▶ Play</a> · <a href="https://x.com/somasoma_blue/status/2103039084944138621">Original post</a></td>
 <td width="50%" valign="top"><strong>The Owl at the Night Post Office</strong><br><sub><a href="https://x.com/SidMenonTM">@SidMenonTM</a> · Narrative films</sub><br><sub>0:24 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103169764244017396">▶ Play</a> · <a href="https://x.com/SidMenonTM/status/2103169764244017396">Original post</a></td>
-<td width="50%" valign="top"><strong>Farida and Nyon: West African-Inspired Fantasy Concepts</strong><br><sub><a href="https://x.com/Africanistkemte">@Africanistkemte</a> · Narrative films</sub><br><sub>0:06 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096055605127475262">▶ Play</a> · <a href="https://x.com/Africanistkemte/status/2096055605127475262">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096055605127475262"><img src="../assets/covers/2096055605127475262.jpg" width="152" alt="Farida and Nyon: West African-Inspired Fantasy Concepts"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104410980700889227"><img src="../assets/covers/2104410980700889227.jpg" width="400" alt="YOI: A Cigarette After the Wake"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104743033300242670"><img src="../assets/covers/2104743033300242670.jpg" width="400" alt="AI Doom: An Astra and Sonnet Short"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Farida and Nyon: West African-Inspired Fantasy Concepts</strong><br><sub><a href="https://x.com/Africanistkemte">@Africanistkemte</a> · Narrative films</sub><br><sub>0:06 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096055605127475262">▶ Play</a> · <a href="https://x.com/Africanistkemte/status/2096055605127475262">Original post</a></td>
 <td width="50%" valign="top"><strong>YOI: A Cigarette After the Wake</strong><br><sub><a href="https://x.com/AI__TSUBAKI">@AI__TSUBAKI</a> · Narrative films</sub><br><sub>0:30 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104410980700889227">▶ Play</a> · <a href="https://x.com/AI__TSUBAKI/status/2104410980700889227">Original post</a></td>
-<td width="50%" valign="top"><strong>AI Doom: An Astra and Sonnet Short</strong><br><sub><a href="https://x.com/miu21590">@miu21590</a> · Narrative films</sub><br><sub>2:39 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104743033300242670">▶ Play</a> · <a href="https://x.com/miu21590/status/2104743033300242670">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104743033300242670"><img src="../assets/covers/2104743033300242670.jpg" width="400" alt="AI Doom: An Astra and Sonnet Short"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775199698629064"><img src="../assets/covers/2104775199698629064.jpg" width="400" alt="Into the ANTVERSE: Animation Test"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1906062326140158099"><img src="../assets/covers/1906062326140158099.jpg" width="127" alt="Picture Perfect: an Animated Short by Jeff Sarris"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>AI Doom: An Astra and Sonnet Short</strong><br><sub><a href="https://x.com/miu21590">@miu21590</a> · Narrative films</sub><br><sub>2:39 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104743033300242670">▶ Play</a> · <a href="https://x.com/miu21590/status/2104743033300242670">Original post</a></td>
 <td width="50%" valign="top"><strong>Into the ANTVERSE: Animation Test</strong><br><sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · Narrative films</sub><br><sub>2:00 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775199698629064">▶ Play</a> · <a href="https://x.com/ChrisGPT/status/2104775199698629064">Original post</a></td>
-<td width="50%" valign="top"><strong>Picture Perfect: an Animated Short by Jeff Sarris</strong><br><sub><a href="https://x.com/jeffSARRIS">@jeffSARRIS</a> · Narrative films</sub><br><sub>0:17 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1906062326140158099">▶ Play</a> · <a href="https://x.com/jeffSARRIS/status/1906062326140158099">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1906062326140158099"><img src="../assets/covers/1906062326140158099.jpg" width="127" alt="Picture Perfect: an Animated Short by Jeff Sarris"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1980278377597571260"><img src="../assets/covers/1980278377597571260.jpg" width="400" alt="Cherry Picking: a Grok Imagine Short"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102561072624410878"><img src="../assets/covers/2102561072624410878.jpg" width="400" alt="Locally Rendered Felt-Fiber Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Picture Perfect: an Animated Short by Jeff Sarris</strong><br><sub><a href="https://x.com/jeffSARRIS">@jeffSARRIS</a> · Narrative films</sub><br><sub>0:17 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1906062326140158099">▶ Play</a> · <a href="https://x.com/jeffSARRIS/status/1906062326140158099">Original post</a></td>
 <td width="50%" valign="top"><strong>Cherry Picking: a Grok Imagine Short</strong><br><sub><a href="https://x.com/Ben__Springer">@Ben__Springer</a> · Narrative films</sub><br><sub>3:06 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1980278377597571260">▶ Play</a> · <a href="https://x.com/Ben__Springer/status/1980278377597571260">Original post</a></td>
-<td width="50%" valign="top"><strong>Locally Rendered Felt-Fiber Film</strong><br><sub><a href="https://x.com/Tariq_at">@Tariq_at</a> · Narrative films</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102561072624410878">▶ Play</a> · <a href="https://x.com/Tariq_at/status/2102561072624410878">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102561072624410878"><img src="../assets/covers/2102561072624410878.jpg" width="400" alt="Locally Rendered Felt-Fiber Film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104747385692053930"><img src="../assets/covers/2104747385692053930.jpg" width="400" alt="A Three.js Co-op Horror Game Showcase"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082248320766456"><img src="../assets/covers/2103082248320766456.jpg" width="400" alt="Wordless Film with a Red-Glove Character"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Locally Rendered Felt-Fiber Film</strong><br><sub><a href="https://x.com/Tariq_at">@Tariq_at</a> · Narrative films</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102561072624410878">▶ Play</a> · <a href="https://x.com/Tariq_at/status/2102561072624410878">Original post</a></td>
 <td width="50%" valign="top"><strong>A Three.js Co-op Horror Game Showcase</strong><br><sub><a href="https://x.com/AmaySignedIn">@AmaySignedIn</a> · Narrative films</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104747385692053930">▶ Play</a> · <a href="https://x.com/AmaySignedIn/status/2104747385692053930">Original post</a></td>
-<td width="50%" valign="top"><strong>Wordless Film with a Red-Glove Character</strong><br><sub><a href="https://x.com/yaakuups">@yaakuups</a> · Narrative films</sub><br><sub>2:18 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082248320766456">▶ Play</a> · <a href="https://x.com/yaakuups/status/2103082248320766456">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082248320766456"><img src="../assets/covers/2103082248320766456.jpg" width="400" alt="Wordless Film with a Red-Glove Character"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103154189064876406"><img src="../assets/covers/2103154189064876406.jpg" width="400" alt="Science Fiction Text Becomes Motion"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221177035940200"><img src="../assets/covers/2105221177035940200.jpg" width="310" alt="A Day in a Shopping Mall"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Wordless Film with a Red-Glove Character</strong><br><sub><a href="https://x.com/yaakuups">@yaakuups</a> · Narrative films</sub><br><sub>2:18 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082248320766456">▶ Play</a> · <a href="https://x.com/yaakuups/status/2103082248320766456">Original post</a></td>
 <td width="50%" valign="top"><strong>Science Fiction Text Becomes Motion</strong><br><sub><a href="https://x.com/N8Programs">@N8Programs</a> · Narrative films</sub><br><sub>10:09 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103154189064876406">▶ Play</a> · <a href="https://x.com/N8Programs/status/2103154189064876406">Original post</a></td>
-<td width="50%" valign="top"><strong>A Day in a Shopping Mall</strong><br><sub><a href="https://x.com/KanikaBK">@KanikaBK</a> · Narrative films</sub><br><sub>0:45 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221177035940200">▶ Play</a> · <a href="https://x.com/KanikaBK/status/2105221177035940200">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221177035940200"><img src="../assets/covers/2105221177035940200.jpg" width="310" alt="A Day in a Shopping Mall"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2091155876899959138"><img src="../assets/covers/2091155876899959138.jpg" width="400" alt="The Inheritance Engine: a Dialogue-Free Trailer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104207365008687553"><img src="../assets/covers/2104207365008687553.jpg" width="400" alt="A Mythic Action Game Trailer"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Day in a Shopping Mall</strong><br><sub><a href="https://x.com/KanikaBK">@KanikaBK</a> · Narrative films</sub><br><sub>0:45 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221177035940200">▶ Play</a> · <a href="https://x.com/KanikaBK/status/2105221177035940200">Original post</a></td>
 <td width="50%" valign="top"><strong>The Inheritance Engine: a Dialogue-Free Trailer</strong><br><sub><a href="https://x.com/mikevicenzino">@mikevicenzino</a> · Narrative films</sub><br><sub>1:04 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2091155876899959138">▶ Play</a> · <a href="https://x.com/mikevicenzino/status/2091155876899959138">Original post</a></td>
-<td width="50%" valign="top"><strong>A Mythic Action Game Trailer</strong><br><sub><a href="https://x.com/mayuresh_empire">@mayuresh_empire</a> · Narrative films</sub><br><sub>0:53 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104207365008687553">▶ Play</a> · <a href="https://x.com/mayuresh_empire/status/2104207365008687553">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104207365008687553"><img src="../assets/covers/2104207365008687553.jpg" width="400" alt="A Mythic Action Game Trailer"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105655716564656404"><img src="../assets/covers/2105655716564656404.jpg" width="400" alt="A late-night essay becomes a four-minute film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2014368636236874028"><img src="../assets/covers/2014368636236874028.jpg" width="225" alt="Ghost of PrivatBank: a Work-in-Progress Teaser"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Mythic Action Game Trailer</strong><br><sub><a href="https://x.com/mayuresh_empire">@mayuresh_empire</a> · Narrative films</sub><br><sub>0:53 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104207365008687553">▶ Play</a> · <a href="https://x.com/mayuresh_empire/status/2104207365008687553">Original post</a></td>
 <td width="50%" valign="top"><strong>A late-night essay becomes a four-minute film</strong><br><sub><a href="https://x.com/wenbozhu0328">@wenbozhu0328</a> · Narrative films</sub><br><sub>4:09 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105655716564656404">▶ Play</a> · <a href="https://x.com/wenbozhu0328/status/2105655716564656404">Original post</a></td>
-<td width="50%" valign="top"><strong>Ghost of PrivatBank: a Work-in-Progress Teaser</strong><br><sub><a href="https://x.com/_YuliyaLev_">@_YuliyaLev_</a> · Narrative films</sub><br><sub>1:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2014368636236874028">▶ Play</a> · <a href="https://x.com/_YuliyaLev_/status/2014368636236874028">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2014368636236874028"><img src="../assets/covers/2014368636236874028.jpg" width="225" alt="Ghost of PrivatBank: a Work-in-Progress Teaser"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="Three Everyday Coincidence Vignettes"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104419979924033781"><img src="../assets/covers/2104419979924033781.jpg" width="392" alt="Imagination Expired: a Seedance 2.5 Short"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Ghost of PrivatBank: a Work-in-Progress Teaser</strong><br><sub><a href="https://x.com/_YuliyaLev_">@_YuliyaLev_</a> · Narrative films</sub><br><sub>1:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2014368636236874028">▶ Play</a> · <a href="https://x.com/_YuliyaLev_/status/2014368636236874028">Original post</a></td>
 <td width="50%" valign="top"><strong>Three Everyday Coincidence Vignettes</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · Narrative films</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875">▶ Play</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">Original post</a></td>
-<td width="50%" valign="top"><strong>Imagination Expired: a Seedance 2.5 Short</strong><br><sub><a href="https://x.com/HuskiStudio">@HuskiStudio</a> · Narrative films</sub><br><sub>2:31 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104419979924033781">▶ Play</a> · <a href="https://x.com/HuskiStudio/status/2104419979924033781">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104419979924033781"><img src="../assets/covers/2104419979924033781.jpg" width="392" alt="Imagination Expired: a Seedance 2.5 Short"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775404368412946"><img src="../assets/covers/2104775404368412946.jpg" width="400" alt="Max Verstappen: A Footage Editing Experiment"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104792004978974928"><img src="../assets/covers/2104792004978974928.jpg" width="400" alt="Far from the Madding Crowd: A Space-Outpost Paper Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Imagination Expired: a Seedance 2.5 Short</strong><br><sub><a href="https://x.com/HuskiStudio">@HuskiStudio</a> · Narrative films</sub><br><sub>2:31 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104419979924033781">▶ Play</a> · <a href="https://x.com/HuskiStudio/status/2104419979924033781">Original post</a></td>
 <td width="50%" valign="top"><strong>Max Verstappen: A Footage Editing Experiment</strong><br><sub><a href="https://x.com/salRoid">@salRoid</a> · Narrative films</sub><br><sub>1:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104775404368412946">▶ Play</a> · <a href="https://x.com/salRoid/status/2104775404368412946">Original post</a></td>
-<td width="50%" valign="top"><strong>Far from the Madding Crowd: A Space-Outpost Paper Film</strong><br><sub><a href="https://x.com/NoFollowers2023">@NoFollowers2023</a> · Narrative films</sub><br><sub>5:27 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104792004978974928">▶ Play</a> · <a href="https://x.com/NoFollowers2023/status/2104792004978974928">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104792004978974928"><img src="../assets/covers/2104792004978974928.jpg" width="400" alt="Far from the Madding Crowd: A Space-Outpost Paper Film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="Humans choose the direction in the AI era"></a></td>
-<td width="50%"></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Far from the Madding Crowd: A Space-Outpost Paper Film</strong><br><sub><a href="https://x.com/NoFollowers2023">@NoFollowers2023</a> · Narrative films</sub><br><sub>5:27 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104792004978974928">▶ Play</a> · <a href="https://x.com/NoFollowers2023/status/2104792004978974928">Original post</a></td>
 <td width="50%" valign="top"><strong>Humans choose the direction in the AI era</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · Narrative films</sub><br><sub>1:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877">▶ Play</a> · <a href="https://x.com/nakazakifam/status/2105361184543133877">Original post</a></td>
-<td width="50%"></td>
 </tr>
 </tbody>
 </table>

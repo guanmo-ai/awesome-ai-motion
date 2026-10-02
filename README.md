@@ -10,7 +10,7 @@
 
 [![在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-409 个视频参考 · 66 份作者公开提示词 · 中英双语
+421 个视频参考 · 67 份作者公开提示词 · 中英双语
 
 [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -122,7 +122,7 @@
 </tbody>
 </table>
 
-[查看全部 76 支 →](browse/product.md)
+[查看全部 77 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -180,7 +180,7 @@
 </tbody>
 </table>
 
-[查看全部 57 支 →](browse/motion.md)
+[查看全部 59 支 →](browse/motion.md)
 
 <a id="category-characters"></a>
 
@@ -190,26 +190,26 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102476258948927543"><img src="assets/covers/2102476258948927543.jpg" width="272" alt="像素巫师的施法循环"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923"><img src="assets/covers/2104008163561451923.jpg" width="400" alt="AITuber 系统：直播与讲解原型"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862"><img src="assets/covers/2105757136219504862.jpg" width="400" alt="超人跨画风的连续动画"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>像素巫师的施法循环</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · 角色动画</sub><br><sub>0:11 · 收藏 2,639</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102476258948927543">▶ 播放</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">原帖</a></td>
-<td width="50%" valign="top"><strong>AITuber 系统：直播与讲解原型</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · 角色动画</sub><br><sub>0:55 · 收藏 985 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923">▶ 播放</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">原帖</a></td>
+<td width="50%" valign="top"><strong>超人跨画风的连续动画</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 角色动画</sub><br><sub>0:40 · 收藏 1,278 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="机器人穿越十二种画风"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472218269900876"><img src="assets/covers/2102472218269900876.jpg" width="225" alt="糖果主题角色动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105825930799432073"><img src="assets/covers/2105825930799432073.jpg" width="400" alt="一颗红点的森林小冒险"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923"><img src="assets/covers/2104008163561451923.jpg" width="400" alt="AITuber 系统：直播与讲解原型"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>机器人穿越十二种画风</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · 角色动画</sub><br><sub>1:15 · 收藏 532</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874">▶ 播放</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">原帖</a></td>
-<td width="50%" valign="top"><strong>糖果主题角色动画</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · 角色动画</sub><br><sub>0:30 · 收藏 350 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472218269900876">▶ 播放</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">原帖</a></td>
+<td width="50%" valign="top"><strong>一颗红点的森林小冒险</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · 角色动画</sub><br><sub>0:15 · 收藏 1,072 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105825930799432073">▶ 播放</a> · <a href="https://x.com/cherry_mx_reds/status/2105825930799432073">原帖</a></td>
+<td width="50%" valign="top"><strong>AITuber 系统：直播与讲解原型</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · 角色动画</sub><br><sub>0:55 · 收藏 985 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923">▶ 播放</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">原帖</a></td>
 </tr>
 </tbody>
 </table>
 
-[查看全部 20 支 →](browse/characters.md)
+[查看全部 25 支 →](browse/characters.md)
 
 <a id="category-interactive"></a>
 
@@ -238,7 +238,7 @@
 </tbody>
 </table>
 
-[查看全部 74 支 →](browse/interactive.md)
+[查看全部 76 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -267,7 +267,7 @@
 </tbody>
 </table>
 
-[查看全部 77 支 →](browse/stories.md)
+[查看全部 78 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -296,11 +296,11 @@
 </tbody>
 </table>
 
-[查看全部 32 支 →](browse/music.md)
+[查看全部 33 支 →](browse/music.md)
 
 首页及分类预览按收藏快照从多到少排列，并非实时榜单。
 
-36 条资料已编目 · [373 条发现池资料待完善](browse/discoveries.md) · 408 个原帖媒体入口
+36 条资料已编目 · [385 条发现池资料待完善](browse/discoveries.md) · 420 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

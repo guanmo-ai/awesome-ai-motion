@@ -3,6 +3,808 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2105926129567879524",
+      "stage": "discovery",
+      "title": "EUDoom：欧洲版 P(doom) 音乐动画",
+      "titleEn": "EUDoom: a European P(doom) music animation",
+      "category": "音乐与歌词",
+      "summary": "作者用 Opus 5.5 制作约 157 秒的欧洲主题 P(doom) 混音动画，原帖说明通过 ElevenLabs 与 Whisper 循环改写 Suno 中的歌词。公开工程提供对应代码和制作说明；代码 MIT 不覆盖歌曲、录音、歌词、图像及字体的独立权利。",
+      "summaryEn": "An approximately 157-second European P(doom) remix animation made with Opus 5.5. The creator describes ElevenLabs and Whisper loops rewriting lyrics in Suno. The matching public project provides code and production notes; its MIT code license does not cover separate rights in the song, recording, lyrics, images or fonts.",
+      "author": {
+        "name": "Johannes Salmisaari",
+        "handle": "JSalmisaari",
+        "url": "https://x.com/JSalmisaari"
+      },
+      "source": {
+        "url": "https://x.com/JSalmisaari/status/2105926129567879524",
+        "publishedAt": "2026-10-02T07:41:30+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Suno",
+        "evidenceQuote": "one prompt using Opus 5.5",
+        "evidenceUrl": "https://x.com/JSalmisaari/status/2105926129567879524"
+      },
+      "media": {
+        "durationSeconds": 156.65,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105926129567879524.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105914043252785153/img/hJ0B7kswVWOGsTAL.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 122540
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/JSalmisaari/status/2105926129567879524",
+        "checkedAt": "2026-10-02T09:21:25.479207+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 2,
+        "views": 58,
+        "checkedAt": "2026-10-02T09:21:25.479207+00:00",
+        "sourceUrl": "https://x.com/JSalmisaari/status/2105926129567879524"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:21:25.479207+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105914043252785153/vid/avc1/1280x720/z5n24bQDIswboqHd.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/JSalmisaari/status/2105926129567879524",
+        "checkedAt": "2026-10-02T09:21:26.056044+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Salmisaari/eudoom-video/tree/a7bb5ed43644cb214bd3546266c8492914177f98",
+          "label": "I'm Upping My EU Doom 音乐视频源码",
+          "labelEn": "I'm Upping My EU Doom music-video source",
+          "evidenceUrl": "https://github.com/Salmisaari/eudoom-video/blob/a7bb5ed43644cb214bd3546266c8492914177f98/README.md",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/Salmisaari/eudoom-video/blob/a7bb5ed43644cb214bd3546266c8492914177f98/LICENSE",
+          "note": "作者 README 直接链接该作品原帖，GitHub 公开资料对应同一 X 作者。MIT 适用于仓库代码；歌曲、歌词及录音保留各自权利，图像与字体遵循 CREDITS 中列出的来源许可。",
+          "noteEn": "The creator’s README directly links this work post, and the public GitHub profile identifies the same X creator. MIT applies to repository code; the song, lyrics and recording retain their respective rights, while images and fonts follow the source licenses listed in CREDITS.",
+          "checkedAt": "2026-10-02T09:27:19.541480+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2105850801663234374",
+      "stage": "discovery",
+      "title": "待在我身后：夜间酒馆打斗",
+      "titleEn": "Stay behind me: a nighttime tavern fight",
+      "category": "叙事短片",
+      "summary": "作者继续扩展夜间酒馆打斗场景，原帖称视频使用 Seedance 2.5，并由所称 Fable 5.5 编写提示词。这里记录提示词辅助与视频生成的分工，Fable 版本和此前“隐藏功能”的说法未独立核实。",
+      "summaryEn": "The creator expands a nighttime tavern-fight sequence, attributing the video to Seedance 2.5 and prompt writing to a reported Fable 5.5. This records their stated division between prompt assistance and video generation; the Fable version and earlier “hidden feature” claim are unverified.",
+      "author": {
+        "name": "小宇Chengzi",
+        "handle": "Chengzilhy",
+        "url": "https://x.com/Chengzilhy"
+      },
+      "source": {
+        "url": "https://x.com/Chengzilhy/status/2105850801663234374",
+        "publishedAt": "2026-10-02T02:42:10+00:00"
+      },
+      "model": {
+        "name": "Seedance 2.5 / Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5写Prompt",
+        "evidenceUrl": "https://x.com/Chengzilhy/status/2105850801663234374"
+      },
+      "media": {
+        "durationSeconds": 27.711,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105850801663234374.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105844635285487616/img/1obfesVusKLCMRQ8.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 105169
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Chengzilhy/status/2105850801663234374",
+        "checkedAt": "2026-10-02T09:20:29.609404+00:00"
+      },
+      "metrics": {
+        "bookmarks": 7,
+        "likes": 38,
+        "views": 1976,
+        "checkedAt": "2026-10-02T09:20:29.609404+00:00",
+        "sourceUrl": "https://x.com/Chengzilhy/status/2105850801663234374"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:29.609404+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105844635285487616/vid/avc1/3840x2160/QQQipZPsorGlslbl.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Chengzilhy/status/2105850801663234374",
+        "checkedAt": "2026-10-02T09:20:30.085014+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105839618872738138",
+      "stage": "discovery",
+      "title": "Minecraft 体素角色：同题模型对照",
+      "titleEn": "Minecraft voxel characters: a model comparison",
+      "category": "像素与角色",
+      "summary": "作者给模型 BlockBench MCP 和自定义 Minecraft 原版风格 Skill，展示两只体素角色的运动对照。Opus 5.5 与作者所称 Fable 5.5 的结果置于同一录屏；Fable 版本未独立核实，未取得具体工程或 Skill 链接。",
+      "summaryEn": "The creator supplies BlockBench MCP and a custom vanilla-Minecraft style skill, then compares two moving voxel characters in one recording. The results are labeled Opus 5.5 and a reported Fable 5.5; the latter version is unverified. Exact project and skill links are not established.",
+      "author": {
+        "name": "Albert",
+        "handle": "TOPSTR1X",
+        "url": "https://x.com/TOPSTR1X"
+      },
+      "source": {
+        "url": "https://x.com/TOPSTR1X/status/2105839618872738138",
+        "publishedAt": "2026-10-02T01:57:44+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5 Max just made Opus 5.5 Max",
+        "evidenceUrl": "https://x.com/TOPSTR1X/status/2105839618872738138"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105839618872738138.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105838374296670208/img/OHxqqN9lHue1UMAu.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 70683
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/TOPSTR1X/status/2105839618872738138",
+        "checkedAt": "2026-10-02T09:20:29.085934+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 11,
+        "likes": 19,
+        "views": 1497,
+        "checkedAt": "2026-10-02T09:20:29.085934+00:00",
+        "sourceUrl": "https://x.com/TOPSTR1X/status/2105839618872738138"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:29.085934+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105838374296670208/vid/avc1/1280x720/-oL2unNVO0d_sqXw.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/TOPSTR1X/status/2105839618872738138",
+        "checkedAt": "2026-10-02T09:20:29.255799+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105825930799432073",
+      "stage": "discovery",
+      "title": "一颗红点的森林小冒险",
+      "titleEn": "A red dot’s small woodland adventure",
+      "category": "像素与角色",
+      "summary": "作者说只请求了一颗点，结果得到红色小角色置身树林、蘑菇与日光的动画。Fable 5.5 归属来自作者原帖，具体版本未独立核实；未取得对应源码。",
+      "summaryEn": "The creator says a request for a dot produced an animated red character among trees, mushrooms and sunshine. The Fable 5.5 attribution comes from the post; the exact version is unverified, and matching source code is not established.",
+      "author": {
+        "name": "Tak 🦞",
+        "handle": "cherry_mx_reds",
+        "url": "https://x.com/cherry_mx_reds"
+      },
+      "source": {
+        "url": "https://x.com/cherry_mx_reds/status/2105825930799432073",
+        "publishedAt": "2026-10-02T01:03:20+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5 gave me",
+        "evidenceUrl": "https://x.com/cherry_mx_reds/status/2105825930799432073"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105825930799432073.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105822170077069313/vid/avc1/1920x1080/drY7Reou5Q9beWNz.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 67143,
+        "timeSeconds": 6
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/cherry_mx_reds/status/2105825930799432073",
+        "checkedAt": "2026-10-02T09:20:28.980738+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 1072,
+        "likes": 2969,
+        "views": 283705,
+        "checkedAt": "2026-10-02T09:20:28.980738+00:00",
+        "sourceUrl": "https://x.com/cherry_mx_reds/status/2105825930799432073"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:28.980738+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105822170077069313/vid/avc1/1920x1080/drY7Reou5Q9beWNz.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/cherry_mx_reds/status/2105825930799432073",
+        "checkedAt": "2026-10-02T09:20:29.154345+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105816670896009224",
+      "stage": "discovery",
+      "title": "茶杯角色与浮世绘海浪",
+      "titleEn": "A tea-drinking character beside ukiyo-e waves",
+      "category": "像素与角色",
+      "summary": "作者用“做一个酷动画”的短指令得到带茶杯角色、海浪与富士山图景的动画，原帖称制作约 15 分钟。作者称模型为 Fable 5.5，版本未独立核实；可从原帖查看指令。",
+      "summaryEn": "A short request for a cool animation produces a tea-drinking character alongside waves and a Mount Fuji scene. The creator reports about 15 minutes of work and attributes it to Fable 5.5, whose exact version is unverified. The request remains at the source post.",
+      "author": {
+        "name": "Tak 🦞",
+        "handle": "cherry_mx_reds",
+        "url": "https://x.com/cherry_mx_reds"
+      },
+      "source": {
+        "url": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+        "publishedAt": "2026-10-02T00:26:33+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "FABLE 5.5",
+        "evidenceUrl": "https://x.com/cherry_mx_reds/status/2105816670896009224"
+      },
+      "media": {
+        "durationSeconds": 17.066,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105816670896009224.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105815801198501888/img/ykn_wTXzU2IN_ooi.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 124789
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+        "checkedAt": "2026-10-02T09:20:28.970018+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 457,
+        "likes": 1216,
+        "views": 78912,
+        "checkedAt": "2026-10-02T09:20:28.970018+00:00",
+        "sourceUrl": "https://x.com/cherry_mx_reds/status/2105816670896009224"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:28.970018+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105815801198501888/vid/avc1/1920x1080/jh_w8kK8bBeturUV.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+        "checkedAt": "2026-10-02T09:20:29.146112+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105804692811137242",
+      "stage": "discovery",
+      "title": "漂浮体素世界中的模型自画像",
+      "titleEn": "A model self-portrait in a floating voxel world",
+      "category": "像素与角色",
+      "summary": "作者展示以模型自身为题的体素世界，浮岛、建筑与中央发光环组成场景。原帖用“maybe”限定 Fable 5.5 归属，本站同样保留版本不确定性。",
+      "summaryEn": "A voxel world based on a model self-portrait, with floating islands, buildings and a central glowing ring. The creator qualifies the Fable 5.5 attribution with “maybe”; that version uncertainty is retained here.",
+      "author": {
+        "name": "bluedev",
+        "handle": "blueemi99",
+        "url": "https://x.com/blueemi99"
+      },
+      "source": {
+        "url": "https://x.com/blueemi99/status/2105804692811137242",
+        "publishedAt": "2026-10-01T23:38:57+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5 (maybe)",
+        "evidenceUrl": "https://x.com/blueemi99/status/2105804692811137242"
+      },
+      "media": {
+        "durationSeconds": 25.966,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105804692811137242.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105804425365254144/img/ObHtBHb8X5tBbFtB.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 111927
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/blueemi99/status/2105804692811137242",
+        "checkedAt": "2026-10-02T09:20:28.427075+00:00"
+      },
+      "metrics": {
+        "bookmarks": 213,
+        "likes": 946,
+        "views": 72688,
+        "checkedAt": "2026-10-02T09:20:28.427075+00:00",
+        "sourceUrl": "https://x.com/blueemi99/status/2105804692811137242"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:28.427075+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105804425365254144/vid/avc1/1920x1080/2939gheaguFoFUbk.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/blueemi99/status/2105804692811137242",
+        "checkedAt": "2026-10-02T09:20:28.576159+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105783511433318451",
+      "stage": "discovery",
+      "title": "发光水母：Claude 与 Sol 交互对照",
+      "titleEn": "Glowing jellyfish: a Claude and Sol comparison",
+      "category": "3D 与交互",
+      "summary": "原帖以双屏录屏对照两只发光水母及触手运动，作者报告分别使用 Fable 5.5 XHigh 和 GPT-6.1 Sol Ultra。Fable 版本、耗时与额度占比均为作者记录，未在本站重测；尚无对应公开网页。",
+      "summaryEn": "A split-screen recording compares two glowing jellyfish and their tentacle motion, attributed to Fable 5.5 XHigh and GPT-6.1 Sol Ultra. The Fable version, timing and quota figures are creator reports and were not retested here. Matching public pages are not established.",
+      "author": {
+        "name": "Iam_",
+        "handle": "SPAC89",
+        "url": "https://x.com/SPAC89"
+      },
+      "source": {
+        "url": "https://x.com/SPAC89/status/2105783511433318451",
+        "publishedAt": "2026-10-01T22:14:47+00:00"
+      },
+      "model": {
+        "name": "GPT-6.1 Sol / Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5 XHigh vs GPT 6.1 Sol Ultra",
+        "evidenceUrl": "https://x.com/SPAC89/status/2105783511433318451"
+      },
+      "media": {
+        "durationSeconds": 20,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105783511433318451.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105782673482362880/img/s1RKjS4fVo_vUh-h.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 995,
+        "bytes": 72513
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/SPAC89/status/2105783511433318451",
+        "checkedAt": "2026-10-02T09:20:28.328870+00:00"
+      },
+      "metrics": {
+        "bookmarks": 69,
+        "likes": 298,
+        "views": 47547,
+        "checkedAt": "2026-10-02T09:20:28.328870+00:00",
+        "sourceUrl": "https://x.com/SPAC89/status/2105783511433318451"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:28.328870+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105782673482362880/vid/avc1/1184x1472/1jxx0CJu_TU3z-u6.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/SPAC89/status/2105783511433318451",
+        "checkedAt": "2026-10-02T09:20:28.480776+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105774088492916757",
+      "stage": "discovery",
+      "title": "The Loom：体素岛与产品网页试验",
+      "titleEn": "The Loom: a voxel-island landing-page experiment",
+      "category": "3D 与交互",
+      "summary": "作者展示带体素岛、树木和中央亭子的 The Loom 产品网页试验，并称测试了 Fable 5.5。已核对原帖录屏，未取得对应公开交互页；关于后台模型路由和版本的说法未独立核实。",
+      "summaryEn": "The creator demonstrates a The Loom landing-page experiment featuring a voxel island, trees and a central pavilion, describing it as a Fable 5.5 test. The recording is verified; a matching public interactive page is not established. Backend routing and version claims are unverified.",
+      "author": {
+        "name": "Salio",
+        "handle": "Mr_Salio",
+        "url": "https://x.com/Mr_Salio"
+      },
+      "source": {
+        "url": "https://x.com/Mr_Salio/status/2105774088492916757",
+        "publishedAt": "2026-10-01T21:37:20+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "I tested Fable 5.5",
+        "evidenceUrl": "https://x.com/Mr_Salio/status/2105774088492916757"
+      },
+      "media": {
+        "durationSeconds": 44.815,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105774088492916757.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105773954421915648/img/nc-QG8At25cdbrmO.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 394,
+        "bytes": 55735
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Mr_Salio/status/2105774088492916757",
+        "checkedAt": "2026-10-02T09:20:28.067954+00:00"
+      },
+      "metrics": {
+        "bookmarks": 52,
+        "likes": 378,
+        "views": 35210,
+        "checkedAt": "2026-10-02T09:20:28.067954+00:00",
+        "sourceUrl": "https://x.com/Mr_Salio/status/2105774088492916757"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:28.067954+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105773954421915648/vid/avc1/1280x630/dpyq4xb6ohxs87_C.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Mr_Salio/status/2105774088492916757",
+        "checkedAt": "2026-10-02T09:20:28.219493+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105771088374288692",
+      "stage": "discovery",
+      "title": "虚构模型发布片：双模型试验",
+      "titleEn": "A fictional model-launch video comparison",
+      "category": "产品宣传",
+      "summary": "作者让两个模型参考 Anthropic 视频制作虚构的 Fable 5.5 发布片，原帖明确数字是编造的，并允许用 Codex 生成图片。原帖含 80 秒与约 62 秒两支视频，画廊展示第一支；Fable 5.5 身份仅为作者自述，不能将片中功能或数字当作官方信息。",
+      "summaryEn": "Two models are asked to make fictional Fable 5.5 launch videos using Anthropic videos as references. The creator explicitly says the numbers are invented and permits image generation through Codex. The post includes 80-second and roughly 62-second videos; the gallery plays the first. The Fable version is a creator claim, and the depicted features and figures are not official information.",
+      "author": {
+        "name": "mesmer",
+        "handle": "mesmerlord",
+        "url": "https://x.com/mesmerlord"
+      },
+      "source": {
+        "url": "https://x.com/mesmerlord/status/2105771088374288692",
+        "publishedAt": "2026-10-01T21:25:25+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "both Fable 5.5 and Opus 5.5",
+        "evidenceUrl": "https://x.com/mesmerlord/status/2105771088374288692"
+      },
+      "media": {
+        "durationSeconds": 80,
+        "videoCount": 2
+      },
+      "cover": {
+        "path": "assets/covers/2105771088374288692.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105768408734187521/vid/avc1/1280x720/aGgS3ekgyj7AGa6n.mp4?tag=14",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 20996,
+        "timeSeconds": 35
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/mesmerlord/status/2105771088374288692",
+        "checkedAt": "2026-10-02T09:20:27.311355+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 122,
+        "likes": 331,
+        "views": 30064,
+        "checkedAt": "2026-10-02T09:20:27.311355+00:00",
+        "sourceUrl": "https://x.com/mesmerlord/status/2105771088374288692"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:27.311355+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105768408734187521/vid/avc1/1280x720/aGgS3ekgyj7AGa6n.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/mesmerlord/status/2105771088374288692",
+        "checkedAt": "2026-10-02T09:20:27.461016+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105766824558174486",
+      "stage": "discovery",
+      "title": "15 秒 Opus 几何动效对照",
+      "titleEn": "A 15-second Opus geometric-motion comparison",
+      "category": "短动效",
+      "summary": "作者补发 Opus 5.5 的 15 秒几何动效作为对照，旋转方框、文字与几何元素组成短片。速度感和声音优劣是作者的评价，本站未完成整片视听评价。",
+      "summaryEn": "The creator posts a 15-second Opus 5.5 geometric-motion result for comparison, with rotating frames, type and geometric elements. Comments about perceived speed and sound quality are the creator’s assessment; a full audiovisual review has not been completed here.",
+      "author": {
+        "name": "mesmer",
+        "handle": "mesmerlord",
+        "url": "https://x.com/mesmerlord"
+      },
+      "source": {
+        "url": "https://x.com/mesmerlord/status/2105766824558174486",
+        "publishedAt": "2026-10-01T21:08:28+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "opus 5.5 again for comparision",
+        "evidenceUrl": "https://x.com/mesmerlord/status/2105766824558174486"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105766824558174486.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105766763325505536/vid/avc1/1280x720/VtW4PeHZvMsZs-iq.mp4?tag=14",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 45694,
+        "timeSeconds": 6
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/mesmerlord/status/2105766824558174486",
+        "checkedAt": "2026-10-02T09:20:27.281659+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 4,
+        "views": 904,
+        "checkedAt": "2026-10-02T09:20:27.281659+00:00",
+        "sourceUrl": "https://x.com/mesmerlord/status/2105766824558174486"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:27.281659+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105766763325505536/vid/avc1/1280x720/VtW4PeHZvMsZs-iq.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/mesmerlord/status/2105766824558174486",
+        "checkedAt": "2026-10-02T09:20:27.809791+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105758042830549235",
+      "stage": "discovery",
+      "title": "15 秒动效：两次同题试验",
+      "titleEn": "Two 15-second motion-design trials",
+      "category": "短动效",
+      "summary": "作者展示同题的两支 15 秒动效，画面包含曲线、线性运动与文字排版，并讨论视觉焦点与节拍同步。画廊播放第一支，两支均可从原帖观看；作者称使用 Fable 5.5，版本未独立核实。",
+      "summaryEn": "Two 15-second motion-design trials using the same task, with curves, linear motion and typography. The creator discusses focal points and beat sync. The gallery plays the first; both are at the source post. The reported Fable 5.5 version is unverified.",
+      "author": {
+        "name": "mesmer",
+        "handle": "mesmerlord",
+        "url": "https://x.com/mesmerlord"
+      },
+      "source": {
+        "url": "https://x.com/mesmerlord/status/2105758042830549235",
+        "publishedAt": "2026-10-01T20:33:35+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5 early results",
+        "evidenceUrl": "https://x.com/mesmerlord/status/2105758042830549235"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 2
+      },
+      "cover": {
+        "path": "assets/covers/2105758042830549235.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105757409528487936/vid/avc1/1280x720/SNU688a8kdT9x3np.mp4?tag=14",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 30402,
+        "timeSeconds": 6
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/mesmerlord/status/2105758042830549235",
+        "checkedAt": "2026-10-02T09:20:27.142385+00:00"
+      },
+      "metrics": {
+        "bookmarks": 65,
+        "likes": 178,
+        "views": 17991,
+        "checkedAt": "2026-10-02T09:20:27.142385+00:00",
+        "sourceUrl": "https://x.com/mesmerlord/status/2105758042830549235"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:27.142385+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105757409528487936/vid/avc1/1280x720/SNU688a8kdT9x3np.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/mesmerlord/status/2105758042830549235",
+        "checkedAt": "2026-10-02T09:20:27.316770+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2105757136219504862",
+      "stage": "discovery",
+      "title": "超人跨画风的连续动画",
+      "titleEn": "Superman across changing art styles",
+      "category": "像素与角色",
+      "summary": "超人角色在不同画风中连续运动，原帖封面展示跨年代的视觉样式。作者将结果归于 Fable 5.5；具体模型版本未独立核实。",
+      "summaryEn": "A continuous Superman animation across different visual styles, with a cover presenting looks from different eras. The creator attributes it to Fable 5.5; the exact model version is not independently verified.",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2105757136219504862",
+        "publishedAt": "2026-10-01T20:29:59+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5",
+        "evidenceUrl": "https://x.com/chetaslua/status/2105757136219504862"
+      },
+      "media": {
+        "durationSeconds": 40,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2105757136219504862.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2105756947442257920/img/oLyYXG6pv6p-S7eC.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 105760
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetaslua/status/2105757136219504862",
+        "checkedAt": "2026-10-02T09:20:26.729162+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1278,
+        "likes": 3430,
+        "views": 396743,
+        "checkedAt": "2026-10-02T09:20:26.729162+00:00",
+        "sourceUrl": "https://x.com/chetaslua/status/2105757136219504862"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T09:20:26.729162+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105756947442257920/vid/avc1/1920x1080/Hl1_XXriVO_yB4Nv.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetaslua/status/2105757136219504862",
+        "checkedAt": "2026-10-02T09:20:26.876600+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
       "id": "2105685544906952811",
       "stage": "discovery",
       "title": "可漫步的卧室与熔岩灯",

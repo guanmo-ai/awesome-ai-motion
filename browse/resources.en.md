@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-55 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+56 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -345,6 +345,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[p(doom) music video and remixable template](https://genmotion.dev/templates/p-doom-music-video)
   The work page provides a video preview and a remix template; access alone does not establish reuse rights for the song or template assets.
   [Link source](https://x.com/haxzie_/status/2105282506979488095) · Link checked 2026-09-30 18:31 UTC
+
+## [EUDoom: a European P(doom) music animation](../cases/2105926129567879524.en.md) · @JSalmisaari
+
+- **Direct source**：[I'm Upping My EU Doom music-video source](https://github.com/Salmisaari/eudoom-video/tree/a7bb5ed43644cb214bd3546266c8492914177f98) · [MIT](https://github.com/Salmisaari/eudoom-video/blob/a7bb5ed43644cb214bd3546266c8492914177f98/LICENSE)
+  The creator’s README directly links this work post, and the public GitHub profile identifies the same X creator. MIT applies to repository code; the song, lyrics and recording retain their respective rights, while images and fonts follow the source licenses listed in CREDITS.
+  [Link source](https://github.com/Salmisaari/eudoom-video/blob/a7bb5ed43644cb214bd3546266c8492914177f98/README.md) · Link checked 2026-10-02 09:27 UTC
 
 ## [Songbie: a snowman and a black cat at the piano](../cases/2105304203770118434.en.md) · @JohnnyWang8802
 
