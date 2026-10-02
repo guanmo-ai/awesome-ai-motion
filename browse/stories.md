@@ -2,7 +2,7 @@
 
 # 叙事短片
 
-78 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+80 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -217,21 +217,31 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106041578204655748"><img src="../assets/covers/2106041578204655748.jpg" width="400" alt="人类：从古代到当代的代码动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1916852096852459617"><img src="../assets/covers/1916852096852459617.jpg" width="400" alt="Simon G. Farmer 的 Runway Gen-4 竞赛短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104039075175182487"><img src="../assets/covers/2104039075175182487.jpg" width="400" alt="黄色方块主角的个人经历动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>人类：从古代到当代的代码动画</strong><br><sub><a href="https://x.com/blueemi99">@blueemi99</a> · 叙事短片</sub><br><sub>2:00 · 收藏 28 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106041578204655748">▶ 播放</a> · <a href="https://x.com/blueemi99/status/2106041578204655748">原帖</a></td>
 <td width="50%" valign="top"><strong>Simon G. Farmer 的 Runway Gen-4 竞赛短片</strong><br><sub><a href="https://x.com/SimonGFarmer">@SimonGFarmer</a> · 叙事短片</sub><br><sub>4:00 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1916852096852459617">▶ 播放</a> · <a href="https://x.com/SimonGFarmer/status/1916852096852459617">原帖</a></td>
-<td width="50%" valign="top"><strong>黄色方块主角的个人经历动画</strong><br><sub><a href="https://x.com/servasyy">@servasyy</a> · 叙事短片</sub><br><sub>1:20 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104039075175182487">▶ 播放</a> · <a href="https://x.com/servasyy/status/2104039075175182487">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104039075175182487"><img src="../assets/covers/2104039075175182487.jpg" width="400" alt="黄色方块主角的个人经历动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2001379106970308918"><img src="../assets/covers/2001379106970308918.jpg" width="400" alt="《Override: The Two Sides of AI》短片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>黄色方块主角的个人经历动画</strong><br><sub><a href="https://x.com/servasyy">@servasyy</a> · 叙事短片</sub><br><sub>1:20 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104039075175182487">▶ 播放</a> · <a href="https://x.com/servasyy/status/2104039075175182487">原帖</a></td>
+<td width="50%" valign="top"><strong>《Override: The Two Sides of AI》短片</strong><br><sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · 叙事短片</sub><br><sub>4:50 · 收藏 12 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2001379106970308918">▶ 播放</a> · <a href="https://x.com/HashemGhaili/status/2001379106970308918">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106063015632158974"><img src="../assets/covers/2106063015632158974.jpg" width="400" alt="雨从哪里来：天空鲸鱼短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103505613846196323"><img src="../assets/covers/2103505613846196323.jpg" width="400" alt="中途岛海战代码短片"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>《Override: The Two Sides of AI》短片</strong><br><sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · 叙事短片</sub><br><sub>4:50 · 收藏 12 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2001379106970308918">▶ 播放</a> · <a href="https://x.com/HashemGhaili/status/2001379106970308918">原帖</a></td>
+<td width="50%" valign="top"><strong>雨从哪里来：天空鲸鱼短片</strong><br><sub><a href="https://x.com/theSethian">@theSethian</a> · 叙事短片</sub><br><sub>2:11 · 收藏 12 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106063015632158974">▶ 播放</a> · <a href="https://x.com/theSethian/status/2106063015632158974">原帖</a></td>
 <td width="50%" valign="top"><strong>中途岛海战代码短片</strong><br><sub><a href="https://x.com/WinterArc2125">@WinterArc2125</a> · 叙事短片</sub><br><sub>1:17 · 收藏 12 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103505613846196323">▶ 播放</a> · <a href="https://x.com/WinterArc2125/status/2103505613846196323">原帖</a></td>
 </tr>
 </tbody>

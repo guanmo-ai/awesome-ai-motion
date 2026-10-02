@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-33 works. Click a cover to play; works without gallery video open on X.
+35 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -168,10 +168,20 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105354745988927980"><img src="../assets/covers/2105354745988927980.jpg" width="400" alt="Ctrl ALT Goodbye: a multi-model music video"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106039413645996348"><img src="../assets/covers/2106039413645996348.jpg" width="400" alt="A music video in a pixel city"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Ctrl ALT Goodbye: a multi-model music video</strong><br><sub><a href="https://x.com/NISSANNS2">@NISSANNS2</a> · Music &amp; lyrics</sub><br><sub>3:28 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105354745988927980">▶ Play</a> · <a href="https://x.com/NISSANNS2/status/2105354745988927980">Original post</a></td>
+<td width="50%" valign="top"><strong>A music video in a pixel city</strong><br><sub><a href="https://x.com/91_elon">@91_elon</a> · Music &amp; lyrics</sub><br><sub>0:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106039413645996348">▶ Play</a> · <a href="https://x.com/91_elon/status/2106039413645996348">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106041581119971749"><img src="../assets/covers/2106041581119971749.jpg" width="400" alt="Just Predicting: a model-assisted music video"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Just Predicting: a model-assisted music video</strong><br><sub><a href="https://x.com/HarbingerDan">@HarbingerDan</a> · Music &amp; lyrics</sub><br><sub>3:46 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106041581119971749">▶ Play</a> · <a href="https://x.com/HarbingerDan/status/2106041581119971749">Original post</a></td>
 <td width="50%"></td>
 </tr>
 </tbody>

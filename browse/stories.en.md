@@ -2,7 +2,7 @@
 
 # Narrative films
 
-78 works. Click a cover to play; works without gallery video open on X.
+80 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -217,21 +217,31 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106041578204655748"><img src="../assets/covers/2106041578204655748.jpg" width="400" alt="Humanity: a code animation from ancient to modern times"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1916852096852459617"><img src="../assets/covers/1916852096852459617.jpg" width="400" alt="Simon G. Farmer’s Runway Gen-4 Contest Short"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039075175182487"><img src="../assets/covers/2104039075175182487.jpg" width="400" alt="A Personal Story Told by a Yellow Block"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Humanity: a code animation from ancient to modern times</strong><br><sub><a href="https://x.com/blueemi99">@blueemi99</a> · Narrative films</sub><br><sub>2:00 · Bookmarks 28 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106041578204655748">▶ Play</a> · <a href="https://x.com/blueemi99/status/2106041578204655748">Original post</a></td>
 <td width="50%" valign="top"><strong>Simon G. Farmer’s Runway Gen-4 Contest Short</strong><br><sub><a href="https://x.com/SimonGFarmer">@SimonGFarmer</a> · Narrative films</sub><br><sub>4:00 · Bookmarks 14 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-1916852096852459617">▶ Play</a> · <a href="https://x.com/SimonGFarmer/status/1916852096852459617">Original post</a></td>
-<td width="50%" valign="top"><strong>A Personal Story Told by a Yellow Block</strong><br><sub><a href="https://x.com/servasyy">@servasyy</a> · Narrative films</sub><br><sub>1:20 · Bookmarks 14 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039075175182487">▶ Play</a> · <a href="https://x.com/servasyy/status/2104039075175182487">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039075175182487"><img src="../assets/covers/2104039075175182487.jpg" width="400" alt="A Personal Story Told by a Yellow Block"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2001379106970308918"><img src="../assets/covers/2001379106970308918.jpg" width="400" alt="Override: The Two Sides of AI"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Personal Story Told by a Yellow Block</strong><br><sub><a href="https://x.com/servasyy">@servasyy</a> · Narrative films</sub><br><sub>1:20 · Bookmarks 14 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039075175182487">▶ Play</a> · <a href="https://x.com/servasyy/status/2104039075175182487">Original post</a></td>
+<td width="50%" valign="top"><strong>Override: The Two Sides of AI</strong><br><sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · Narrative films</sub><br><sub>4:50 · Bookmarks 12 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2001379106970308918">▶ Play</a> · <a href="https://x.com/HashemGhaili/status/2001379106970308918">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106063015632158974"><img src="../assets/covers/2106063015632158974.jpg" width="400" alt="Where the Rain Comes From: a sky-whale short"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103505613846196323"><img src="../assets/covers/2103505613846196323.jpg" width="400" alt="Code rendered Battle of Midway short"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Override: The Two Sides of AI</strong><br><sub><a href="https://x.com/HashemGhaili">@HashemGhaili</a> · Narrative films</sub><br><sub>4:50 · Bookmarks 12 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2001379106970308918">▶ Play</a> · <a href="https://x.com/HashemGhaili/status/2001379106970308918">Original post</a></td>
+<td width="50%" valign="top"><strong>Where the Rain Comes From: a sky-whale short</strong><br><sub><a href="https://x.com/theSethian">@theSethian</a> · Narrative films</sub><br><sub>2:11 · Bookmarks 12 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106063015632158974">▶ Play</a> · <a href="https://x.com/theSethian/status/2106063015632158974">Original post</a></td>
 <td width="50%" valign="top"><strong>Code rendered Battle of Midway short</strong><br><sub><a href="https://x.com/WinterArc2125">@WinterArc2125</a> · Narrative films</sub><br><sub>1:17 · Bookmarks 12 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103505613846196323">▶ Play</a> · <a href="https://x.com/WinterArc2125/status/2103505613846196323">Original post</a></td>
 </tr>
 </tbody>

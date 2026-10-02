@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-56 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+58 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -68,6 +68,12 @@
 - **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
   作者明确列为该视频制作所用工具之一；这是通用制作工具，不是该片工程源码。该固定提交标注 Apache-2.0。
   [链接出处](https://x.com/washow_cfo/status/2104595346882175311) · 链接核对 2026-09-30 09:55 UTC
+
+## [dplanner 项目说明视频](../cases/2106067189300113572.md) · @knutsi
+
+- **相关工具**：[DPlanner 开源项目（视频介绍对象）](https://github.com/Knutsi/app-dplanner/tree/d429f176b3b332a14c4909ef51ca5b8b7fc4baa2) · [GPL-3.0](https://github.com/Knutsi/app-dplanner/blob/d429f176b3b332a14c4909ef51ca5b8b7fc4baa2/LICENSE)
+  作者原帖称视频介绍自己持续开发中的 DPlanner，公开作者资料与该仓库对应。GPL-3.0 适用于被介绍的软件代码；仓库不是该 100 秒视频的制作工程，README 未提供托管演示页。
+  [链接出处](https://x.com/knutsi/status/2106067189300113572) · 链接核对 2026-10-02 17:18 UTC
 
 ## [Seedance 与 HyperFrames 的 SaaS 广告](../cases/2104548405565595747.md) · @farooqsheik
 
@@ -228,6 +234,12 @@
 - **公开网页**：[BLOCKWORLD 试玩](https://l1vsun.github.io/BLOCKWORLD/)
   作者同帖回复的公开网页，仓库另列代码许可。
   [链接出处](https://x.com/L1vsun/status/2105020881894277419) · 链接核对 2026-09-30 10:13 UTC
+
+## [Updraft：21 个世界的游戏宣传片](../cases/2106065029850091943.md) · @EMostaque
+
+- **公开网页**：[Updraft 公开游戏](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9)
+  作者原帖直接提供该网页。已在未登录状态核对主菜单、21 个 Boss 入口并进入一场游戏；数据面板要求登录。未取得对应完整工程或开源许可，3D 练习模式显示需先解锁。
+  [链接出处](https://x.com/EMostaque/status/2106065029850091943) · 链接核对 2026-10-02 17:18 UTC
 
 ## [Workspace：给编程会话一间三维办公室](../cases/2103998389058740521.md) · @kum1ta
 

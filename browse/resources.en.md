@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-56 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+58 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -68,6 +68,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
   The creator explicitly lists it among the tools used for this video; this is a general production tool, not the film's project source. This pinned commit declares Apache-2.0.
   [Link source](https://x.com/washow_cfo/status/2104595346882175311) · Link checked 2026-09-30 09:55 UTC
+
+## [An explainer for the dplanner project](../cases/2106067189300113572.en.md) · @knutsi
+
+- **Related tool**：[DPlanner open-source project (subject of the video)](https://github.com/Knutsi/app-dplanner/tree/d429f176b3b332a14c4909ef51ca5b8b7fc4baa2) · [GPL-3.0](https://github.com/Knutsi/app-dplanner/blob/d429f176b3b332a14c4909ef51ca5b8b7fc4baa2/LICENSE)
+  The creator describes this as a video about their ongoing DPlanner project, and their public profile matches the repository. GPL-3.0 applies to the software being introduced; this is not the source project for the 100-second film, and the README provides no hosted demo.
+  [Link source](https://x.com/knutsi/status/2106067189300113572) · Link checked 2026-10-02 17:18 UTC
 
 ## [A SaaS Ad with Seedance and HyperFrames](../cases/2104548405565595747.en.md) · @farooqsheik
 
@@ -228,6 +234,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Play BLOCKWORLD](https://l1vsun.github.io/BLOCKWORLD/)
   The public page linked in the creator’s reply; code licensing is listed separately for the repository.
   [Link source](https://x.com/L1vsun/status/2105020881894277419) · Link checked 2026-09-30 10:13 UTC
+
+## [Updraft: a game trailer for 21 worlds](../cases/2106065029850091943.en.md) · @EMostaque
+
+- **Public web page**：[Updraft public game](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9)
+  Directly linked by the creator. The menu, 21 boss entries and a playable run were checked while signed out; the data panel requests sign-in. Matching full project source and an open-source license are not established. The 3D practice mode is initially locked.
+  [Link source](https://x.com/EMostaque/status/2106065029850091943) · Link checked 2026-10-02 17:18 UTC
 
 ## [Workspace: A 3D Office for Coding Sessions](../cases/2103998389058740521.en.md) · @kum1ta
 

@@ -10,7 +10,7 @@
 
 [![在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-421 个视频参考 · 67 份作者公开提示词 · 中英双语
+441 个视频参考 · 69 份作者公开提示词 · 中英双语
 
 [提交作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -122,7 +122,7 @@
 </tbody>
 </table>
 
-[查看全部 77 支 →](browse/product.md)
+[查看全部 82 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -151,7 +151,7 @@
 </tbody>
 </table>
 
-[查看全部 73 支 →](browse/education.md)
+[查看全部 75 支 →](browse/education.md)
 
 <a id="category-motion"></a>
 
@@ -180,7 +180,7 @@
 </tbody>
 </table>
 
-[查看全部 59 支 →](browse/motion.md)
+[查看全部 62 支 →](browse/motion.md)
 
 <a id="category-characters"></a>
 
@@ -209,7 +209,7 @@
 </tbody>
 </table>
 
-[查看全部 25 支 →](browse/characters.md)
+[查看全部 26 支 →](browse/characters.md)
 
 <a id="category-interactive"></a>
 
@@ -238,7 +238,7 @@
 </tbody>
 </table>
 
-[查看全部 76 支 →](browse/interactive.md)
+[查看全部 81 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -267,7 +267,7 @@
 </tbody>
 </table>
 
-[查看全部 78 支 →](browse/stories.md)
+[查看全部 80 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -296,11 +296,11 @@
 </tbody>
 </table>
 
-[查看全部 33 支 →](browse/music.md)
+[查看全部 35 支 →](browse/music.md)
 
 首页及分类预览按收藏快照从多到少排列，并非实时榜单。
 
-36 条资料已编目 · [385 条发现池资料待完善](browse/discoveries.md) · 420 个原帖媒体入口
+36 条资料已编目 · [405 条发现池资料待完善](browse/discoveries.md) · 440 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

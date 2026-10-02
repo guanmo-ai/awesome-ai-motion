@@ -3,6 +3,1342 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2106068105894207525",
+      "stage": "discovery",
+      "title": "售货机式服务菜单动效",
+      "titleEn": "A vending-machine service-menu animation",
+      "category": "短动效",
+      "summary": "原帖展示把 B2B SaaS、移动应用和网站等服务做成售货机菜单的短动效。作者称由 Opus 5.5 制作，并提示打开声音；本站尚未完成整片视听评价。",
+      "summaryEn": "A short animation presents B2B SaaS, mobile-app and website services as a vending-machine menu. The creator credits Opus 5.5 and recommends sound on; a full audiovisual review is pending.",
+      "author": {
+        "name": "Vlad",
+        "handle": "ux_vlad",
+        "url": "https://x.com/ux_vlad"
+      },
+      "source": {
+        "url": "https://x.com/ux_vlad/status/2106068105894207525",
+        "publishedAt": "2026-10-02T17:05:39+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Made this with Opus 5.5",
+        "evidenceUrl": "https://x.com/ux_vlad/status/2106068105894207525"
+      },
+      "media": {
+        "durationSeconds": 14.933,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106068105894207525.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106067762426662912/img/CsL1kFjAxpOxmlOs.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 45863
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ux_vlad/status/2106068105894207525",
+        "checkedAt": "2026-10-02T17:11:30.569298+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 5,
+        "checkedAt": "2026-10-02T17:11:30.569298+00:00",
+        "sourceUrl": "https://x.com/ux_vlad/status/2106068105894207525"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:11:30.569298+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106067762426662912/vid/avc1/1920x1080/UREabdv8jkW4KwE3.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ux_vlad/status/2106068105894207525",
+        "checkedAt": "2026-10-02T17:11:31.551560+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106067189300113572",
+      "stage": "discovery",
+      "title": "dplanner 项目说明视频",
+      "titleEn": "An explainer for the dplanner project",
+      "category": "产品宣传",
+      "summary": "作者让 Opus 5.5 为自己正在开发的开源项目 dplanner 制作约 100 秒说明视频。应用工程与这支视频的具体源码分别核对，不因应用开源就推断视频也已开源。",
+      "summaryEn": "The creator asks Opus 5.5 to make an approximately 100-second explainer for their ongoing open-source project, dplanner. The application and this film’s source are separate resources; an open-source app does not establish that the film source is published.",
+      "author": {
+        "name": "Knut Åbjørsbråten",
+        "handle": "knutsi",
+        "url": "https://x.com/knutsi"
+      },
+      "source": {
+        "url": "https://x.com/knutsi/status/2106067189300113572",
+        "publishedAt": "2026-10-02T17:02:01+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Had it make a info-video for my ongoing open source project dplanner",
+        "evidenceUrl": "https://x.com/knutsi/status/2106067189300113572"
+      },
+      "media": {
+        "durationSeconds": 100.011,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106067189300113572.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106066957711618048/vid/avc1/1920x1080/pIWs6wjA61uHRoWL.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 35457,
+        "timeSeconds": 8
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/knutsi/status/2106067189300113572",
+        "checkedAt": "2026-10-02T17:11:30.188400+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 11,
+        "checkedAt": "2026-10-02T17:11:30.188400+00:00",
+        "sourceUrl": "https://x.com/knutsi/status/2106067189300113572"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:11:30.188400+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106066957711618048/vid/avc1/1920x1080/pIWs6wjA61uHRoWL.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/knutsi/status/2106067189300113572",
+        "checkedAt": "2026-10-02T17:11:30.812655+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/Knutsi/app-dplanner/tree/d429f176b3b332a14c4909ef51ca5b8b7fc4baa2",
+          "label": "DPlanner 开源项目（视频介绍对象）",
+          "labelEn": "DPlanner open-source project (subject of the video)",
+          "evidenceUrl": "https://x.com/knutsi/status/2106067189300113572",
+          "license": "GPL-3.0",
+          "licenseUrl": "https://github.com/Knutsi/app-dplanner/blob/d429f176b3b332a14c4909ef51ca5b8b7fc4baa2/LICENSE",
+          "note": "作者原帖称视频介绍自己持续开发中的 DPlanner，公开作者资料与该仓库对应。GPL-3.0 适用于被介绍的软件代码；仓库不是该 100 秒视频的制作工程，README 未提供托管演示页。",
+          "noteEn": "The creator describes this as a video about their ongoing DPlanner project, and their public profile matches the repository. GPL-3.0 applies to the software being introduced; this is not the source project for the 100-second film, and the README provides no hosted demo.",
+          "checkedAt": "2026-10-02T17:18:21.341404+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2106066980730011908",
+      "stage": "discovery",
+      "title": "应用广告：界面与动态图形",
+      "titleEn": "An app ad with interface motion graphics",
+      "category": "产品宣传",
+      "summary": "作者为自己的应用制作约 49 秒广告，并将动态图形归于 Opus 5.5。原帖附有对应视频，制作过程与具体工程仍待补充。",
+      "summaryEn": "An approximately 49-second ad for the creator’s app, with motion graphics attributed to Opus 5.5. The original post includes the matching video; detailed production materials are not established.",
+      "author": {
+        "name": "devanawithjacob",
+        "handle": "join_devana",
+        "url": "https://x.com/join_devana"
+      },
+      "source": {
+        "url": "https://x.com/join_devana/status/2106066980730011908",
+        "publishedAt": "2026-10-02T17:01:11+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I just built an ad for my app",
+        "evidenceUrl": "https://x.com/join_devana/status/2106066980730011908"
+      },
+      "media": {
+        "durationSeconds": 49,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106066980730011908.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106066740220207104/vid/avc1/640x360/IEmt270IRJE55mnB.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 640,
+        "height": 360,
+        "bytes": 22472,
+        "timeSeconds": 8
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/join_devana/status/2106066980730011908",
+        "checkedAt": "2026-10-02T17:11:30.262225+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": null,
+        "checkedAt": "2026-10-02T17:11:30.262225+00:00",
+        "sourceUrl": "https://x.com/join_devana/status/2106066980730011908"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:11:30.262225+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106066740220207104/vid/avc1/1920x1080/TqwuYNxmE3Iotti2.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/join_devana/status/2106066980730011908",
+        "checkedAt": "2026-10-02T17:11:31.236201+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106066675166531796",
+      "stage": "discovery",
+      "title": "Project256 网站转项目介绍片",
+      "titleEn": "A Project256 website-to-video explainer",
+      "category": "产品宣传",
+      "summary": "作者把 Project256 网站交给 Opus 5.5，要求制作项目介绍视频，原帖展示约 139 秒结果。这里记录作者的任务描述，未将它标成已公开完整提示词。",
+      "summaryEn": "The creator supplies the Project256 website to Opus 5.5 and requests a project explainer, posting an approximately 139-second result. This records the task description rather than a complete public prompt.",
+      "author": {
+        "name": "z",
+        "handle": "0xzxch",
+        "url": "https://x.com/0xzxch"
+      },
+      "source": {
+        "url": "https://x.com/0xzxch/status/2106066675166531796",
+        "publishedAt": "2026-10-02T16:59:58+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Gave Opus 5.5 the Project256 website",
+        "evidenceUrl": "https://x.com/0xzxch/status/2106066675166531796"
+      },
+      "media": {
+        "durationSeconds": 138.666,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106066675166531796.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106065930979553280/vid/avc1/1080x1080/41xqve4IX_f8TkLd.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 800,
+        "bytes": 50237,
+        "timeSeconds": 12
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/0xzxch/status/2106066675166531796",
+        "checkedAt": "2026-10-02T17:11:31.521428+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 21,
+        "checkedAt": "2026-10-02T17:11:31.521428+00:00",
+        "sourceUrl": "https://x.com/0xzxch/status/2106066675166531796"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:11:31.521428+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106065930979553280/vid/avc1/1080x1080/41xqve4IX_f8TkLd.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/0xzxch/status/2106066675166531796",
+        "checkedAt": "2026-10-02T17:11:32.458480+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106065282221424822",
+      "stage": "discovery",
+      "title": "棒球场景的代码视频原型",
+      "titleEn": "A code-video prototype in a baseball setting",
+      "category": "3D 与交互",
+      "summary": "视频展示棒球场与看台场景。作者称用 Python 编写视频原型，并提及 JavaScript、Three.js、Opus 5.5 和 6.1 Sol；各模型和语言的具体分工未说明。",
+      "summaryEn": "The video presents a baseball field and stands. The creator describes a Python-coded prototype and mentions JavaScript, Three.js, Opus 5.5 and 6.1 Sol without specifying their individual roles.",
+      "author": {
+        "name": "Rob",
+        "handle": "psicomante",
+        "url": "https://x.com/psicomante"
+      },
+      "source": {
+        "url": "https://x.com/psicomante/status/2106065282221424822",
+        "publishedAt": "2026-10-02T16:54:26+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / GPT-6.1 Sol (reported)",
+        "evidenceQuote": "video coded in python",
+        "evidenceUrl": "https://x.com/psicomante/status/2106065282221424822"
+      },
+      "media": {
+        "durationSeconds": 9.6,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106065282221424822.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106065232640491520/img/ay1q-DZTBCUdssZK.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 675,
+        "height": 1200,
+        "bytes": 180806
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/psicomante/status/2106065282221424822",
+        "checkedAt": "2026-10-02T17:11:31.814412+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 26,
+        "checkedAt": "2026-10-02T17:11:31.814412+00:00",
+        "sourceUrl": "https://x.com/psicomante/status/2106065282221424822"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:11:31.814412+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106065232640491520/vid/avc1/1080x1920/1DeNqNTcNyXCsNNj.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/psicomante/status/2106065282221424822",
+        "checkedAt": "2026-10-02T17:11:32.324211+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106065029850091943",
+      "stage": "discovery",
+      "title": "Updraft：21 个世界的游戏宣传片",
+      "titleEn": "Updraft: a game trailer for 21 worlds",
+      "category": "3D 与交互",
+      "summary": "作者展示 Updraft 游戏及约 59 秒宣传片，原帖称包含 21 个世界和 21 种 Boss 机制。公开游戏可在未登录状态进入关卡；作者所称 Fable 5.5 版本未独立核实，视频也被归于 Claude。",
+      "summaryEn": "The creator presents Updraft and an approximately 59-second trailer, describing 21 worlds and 21 boss mechanics. The linked game can enter a run while signed out. The reported Fable 5.5 version is unverified; the trailer is also credited to Claude.",
+      "author": {
+        "name": "Emad",
+        "handle": "EMostaque",
+        "url": "https://x.com/EMostaque"
+      },
+      "source": {
+        "url": "https://x.com/EMostaque/status/2106065029850091943",
+        "publishedAt": "2026-10-02T16:53:26+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5 is pretty great",
+        "evidenceUrl": "https://x.com/EMostaque/status/2106065029850091943"
+      },
+      "media": {
+        "durationSeconds": 58.95,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106065029850091943.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106064884798566400/img/NzZmyt4cTpUHGxBC.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 675,
+        "height": 1200,
+        "bytes": 224305
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/EMostaque/status/2106065029850091943",
+        "checkedAt": "2026-10-02T17:12:02.942935+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 12,
+        "views": 2266,
+        "checkedAt": "2026-10-02T17:12:02.942935+00:00",
+        "sourceUrl": "https://x.com/EMostaque/status/2106065029850091943"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:02.942935+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106064884798566400/vid/avc1/1080x1920/tF_RTq81VuMOpn-e.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/EMostaque/status/2106065029850091943",
+        "checkedAt": "2026-10-02T17:12:03.113115+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9",
+          "label": "Updraft 公开游戏",
+          "labelEn": "Updraft public game",
+          "evidenceUrl": "https://x.com/EMostaque/status/2106065029850091943",
+          "checkedAt": "2026-10-02T17:18:21.341404+00:00",
+          "note": "作者原帖直接提供该网页。已在未登录状态核对主菜单、21 个 Boss 入口并进入一场游戏；数据面板要求登录。未取得对应完整工程或开源许可，3D 练习模式显示需先解锁。",
+          "noteEn": "Directly linked by the creator. The menu, 21 boss entries and a playable run were checked while signed out; the data panel requests sign-in. Matching full project source and an open-source license are not established. The 3D practice mode is initially locked."
+        }
+      ]
+    },
+    {
+      "id": "2106064200535859685",
+      "stage": "discovery",
+      "title": "从进气到排气：喷气发动机 3D 演示",
+      "titleEn": "From intake to exhaust: a 3D jet-engine demo",
+      "category": "3D 与交互",
+      "summary": "作者用 Opus 5.5 和 Three.js 制作喷气发动机交互演示，录屏展示飞机、涡轮风扇与部件说明。原帖将它定位为工程学习参考；工程准确性尚未在本站验证。",
+      "summaryEn": "The creator uses Opus 5.5 and Three.js for an interactive jet-engine demonstration. The recording shows an aircraft, turbofan and component explanations. It is presented as an engineering-learning reference; technical accuracy is not verified here.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2106064200535859685",
+        "publishedAt": "2026-10-02T16:50:08+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Built with Claude Opus 5.5 using Three.js.",
+        "evidenceUrl": "https://x.com/techartist_/status/2106064200535859685"
+      },
+      "media": {
+        "durationSeconds": 23.95,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106064200535859685.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106062964206026755/img/v1YJJYplKWAb44Ui.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 443,
+        "bytes": 72389
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2106064200535859685",
+        "checkedAt": "2026-10-02T17:12:02.722264+00:00"
+      },
+      "metrics": {
+        "bookmarks": 3,
+        "likes": 20,
+        "views": 395,
+        "checkedAt": "2026-10-02T17:12:02.722264+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2106064200535859685"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:02.722264+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106062964206026755/vid/avc1/1920x1064/RHB3HRduVChYi0-D.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2106064200535859685",
+        "checkedAt": "2026-10-02T17:12:03.269364+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106063780891459846",
+      "stage": "discovery",
+      "title": "模型角色的四支抽卡风动效",
+      "titleEn": "Four gacha-style model-character animations",
+      "category": "像素与角色",
+      "summary": "作者发布四支抽卡风动效，原帖提及 Kimi、GLM、Qwen 和 MiniMax 主题角色，称均由 Opus 5.5 一次生成。画廊播放第一支，其余三支保留在原帖；角色品牌归属不表示官方制作或认可。",
+      "summaryEn": "The creator posts four gacha-style animations and names Kimi, GLM, Qwen and MiniMax themed characters. The creator reports one-shot Opus 5.5 generation. The gallery plays the first; the other three remain at the post. Brand references do not establish official production or endorsement.",
+      "author": {
+        "name": "david len",
+        "handle": "nelvOfficial",
+        "url": "https://x.com/nelvOfficial"
+      },
+      "source": {
+        "url": "https://x.com/nelvOfficial/status/2106063780891459846",
+        "publishedAt": "2026-10-02T16:48:28+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5 actualy zero-shotted",
+        "evidenceUrl": "https://x.com/nelvOfficial/status/2106063780891459846"
+      },
+      "media": {
+        "durationSeconds": 31.55,
+        "videoCount": 4
+      },
+      "cover": {
+        "path": "assets/covers/2106063780891459846.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106062279829749761/vid/avc1/1920x1080/kqkWGVNeu_fK0FK1.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 80644,
+        "timeSeconds": 10
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/nelvOfficial/status/2106063780891459846",
+        "checkedAt": "2026-10-02T17:12:02.621519+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 0,
+        "views": 19,
+        "checkedAt": "2026-10-02T17:12:02.621519+00:00",
+        "sourceUrl": "https://x.com/nelvOfficial/status/2106063780891459846"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:02.621519+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106062279829749761/vid/avc1/1920x1080/kqkWGVNeu_fK0FK1.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/nelvOfficial/status/2106063780891459846",
+        "checkedAt": "2026-10-02T17:12:03.281311+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106063015632158974",
+      "stage": "discovery",
+      "title": "雨从哪里来：天空鲸鱼短片",
+      "titleEn": "Where the Rain Comes From: a sky-whale short",
+      "category": "叙事短片",
+      "summary": "约 131 秒无对白短片讲述幼鲸坠入沙漠，鲸群将它带回天空并为山谷降雨。作者称 Claude Code 编写 JavaScript 画面和公式音乐，自己观看低清版本并提供修改意见；这些制作记录尚未独立复现。",
+      "summaryEn": "An approximately 131-second dialogue-free short follows a baby whale that falls into a desert before its herd returns it to the sky and brings rain to the valley. The creator credits Claude Code with JavaScript visuals and formula-generated music, while they reviewed low-resolution drafts and gave notes. This workflow has not been independently reproduced.",
+      "author": {
+        "name": "Sethian",
+        "handle": "theSethian",
+        "url": "https://x.com/theSethian"
+      },
+      "source": {
+        "url": "https://x.com/theSethian/status/2106063015632158974",
+        "publishedAt": "2026-10-02T16:45:26+00:00"
+      },
+      "model": {
+        "name": "Claude Code (model unspecified)",
+        "evidenceQuote": "EVERY FRAME AND EVERY NOTE IS CODE.",
+        "evidenceUrl": "https://x.com/theSethian/status/2106063015632158974"
+      },
+      "media": {
+        "durationSeconds": 131.3,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106063015632158974.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106062086111453184/img/KbbCwiTmE2SeKuBl.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 102250
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/theSethian/status/2106063015632158974",
+        "checkedAt": "2026-10-02T17:12:03.788092+00:00"
+      },
+      "metrics": {
+        "bookmarks": 12,
+        "likes": 13,
+        "views": 375,
+        "checkedAt": "2026-10-02T17:12:03.788092+00:00",
+        "sourceUrl": "https://x.com/theSethian/status/2106063015632158974"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:03.788092+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106062086111453184/vid/avc1/1920x1080/KHOpqjbz6qiUO1Nz.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/theSethian/status/2106063015632158974",
+        "checkedAt": "2026-10-02T17:12:05.104064+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106062220735963507",
+      "stage": "discovery",
+      "title": "浏览器水体：Sol 与 Fable 对照",
+      "titleEn": "Browser water tests: Sol and Fable",
+      "category": "3D 与交互",
+      "summary": "作者以分屏录屏展示 Three.js 浏览器水体，原帖将两侧归于 GPT-5.6 Sol 与 Claude Fable。具体模型版本和参数未独立核实，也未据录屏判断哪一侧更好。",
+      "summaryEn": "A split-screen recording demonstrates browser water tests using Three.js, attributed to GPT-5.6 Sol and Claude Fable. Exact versions and settings are unverified, and this listing does not rank the two outputs.",
+      "author": {
+        "name": "VizForge",
+        "handle": "NotionLab7",
+        "url": "https://x.com/NotionLab7"
+      },
+      "source": {
+        "url": "https://x.com/NotionLab7/status/2106062220735963507",
+        "publishedAt": "2026-10-02T16:42:16+00:00"
+      },
+      "model": {
+        "name": "GPT-5.6 Sol (reported) / Claude Fable (version unverified)",
+        "evidenceQuote": "GPT-5.6 Sol vs. Claude Fable.",
+        "evidenceUrl": "https://x.com/NotionLab7/status/2106062220735963507"
+      },
+      "media": {
+        "durationSeconds": 10.546,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106062220735963507.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106062147310546944/img/hCX9uYiXQ4ksQSdl.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 527,
+        "bytes": 120572
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/NotionLab7/status/2106062220735963507",
+        "checkedAt": "2026-10-02T17:12:03.765369+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 14,
+        "checkedAt": "2026-10-02T17:12:03.765369+00:00",
+        "sourceUrl": "https://x.com/NotionLab7/status/2106062220735963507"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:03.765369+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106062147310546944/vid/avc1/1092x720/KQD-uDx7RIaRYGas.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/NotionLab7/status/2106062220735963507",
+        "checkedAt": "2026-10-02T17:12:04.437745+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106060741732147653",
+      "stage": "discovery",
+      "title": "用 3D 动画解释 AI 量化",
+      "titleEn": "AI quantization explained with 3D animation",
+      "category": "知识讲解",
+      "summary": "作者将 AI 模型量化原理制作成约 71 秒 3D 解释视频，并称由 Opus 5.5 制作。原帖链接对应 YouTube 作品；提示词需私信索取，未作为已公开原文收录。",
+      "summaryEn": "An approximately 71-second 3D explainer about AI model quantization, credited to Opus 5.5. The source links the corresponding YouTube video. The prompt is offered through private messages and is not treated as publicly available text.",
+      "author": {
+        "name": "Juleboost",
+        "handle": "Juleboost3",
+        "url": "https://x.com/Juleboost3"
+      },
+      "source": {
+        "url": "https://x.com/Juleboost3/status/2106060741732147653",
+        "publishedAt": "2026-10-02T16:36:24+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5 just made this INSANE 3D Video",
+        "evidenceUrl": "https://x.com/Juleboost3/status/2106060741732147653"
+      },
+      "media": {
+        "durationSeconds": 71.188,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106060741732147653.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106060616125337600/img/fj8aU6zAUkDT445l.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 71024
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Juleboost3/status/2106060741732147653",
+        "checkedAt": "2026-10-02T17:12:04.877935+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 6,
+        "checkedAt": "2026-10-02T17:12:04.877935+00:00",
+        "sourceUrl": "https://x.com/Juleboost3/status/2106060741732147653"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:04.877935+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106060616125337600/vid/avc1/1280x720/6-B2WGGG5uGUDJu4.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/Juleboost3/status/2106060741732147653",
+        "checkedAt": "2026-10-02T17:12:05.819788+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106057217040368042",
+      "stage": "discovery",
+      "title": "Uptimepage：30 秒 Three.js 宣传片",
+      "titleEn": "Uptimepage: a 30-second Three.js promo",
+      "category": "产品宣传",
+      "summary": "作者公开一条西班牙语任务指令：为 Uptimepage 制作节奏易懂的 30 秒 Three.js 动效片。原帖称使用 Sonnet 5.5，并报告 1080p、60 fps 等制作数据；模型版本、耗时和成本未在本站重测。",
+      "summaryEn": "The creator publishes a Spanish task asking for a clear-paced 30-second Three.js motion video for Uptimepage. The post reports Sonnet 5.5, 1080p and 60 fps; the version, timing and cost have not been independently tested.",
+      "author": {
+        "name": "Kevin Moreira",
+        "handle": "kevindatas",
+        "url": "https://x.com/kevindatas"
+      },
+      "source": {
+        "url": "https://x.com/kevindatas/status/2106057217040368042",
+        "publishedAt": "2026-10-02T16:22:23+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Sonnet 5.5; version unverified)",
+        "evidenceQuote": "Sonnet 5.5",
+        "evidenceUrl": "https://x.com/kevindatas/status/2106057217040368042"
+      },
+      "media": {
+        "durationSeconds": 30.058,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106057217040368042.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106057181359394816/vid/avc1/1280x720/7aTqt3cJfV2tbfnz.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 88605,
+        "timeSeconds": 10
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/kevindatas/status/2106057217040368042",
+        "checkedAt": "2026-10-02T17:12:05.939041+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 8,
+        "views": 459,
+        "checkedAt": "2026-10-02T17:12:05.939041+00:00",
+        "sourceUrl": "https://x.com/kevindatas/status/2106057217040368042"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:05.939041+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106057181359394816/vid/avc1/1280x720/7aTqt3cJfV2tbfnz.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kevindatas/status/2106057217040368042",
+        "checkedAt": "2026-10-02T17:12:07.170834+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106056138894479482",
+      "stage": "discovery",
+      "title": "代码渲染的霓虹城市雨景",
+      "titleEn": "A code-rendered neon city in the rain",
+      "category": "短动效",
+      "summary": "作者展示 15 秒城市雨景，称由 Sonnet 5.5 生成代码画面及声音：城市保持静止，相机穿行，雨、蒸汽和闪电另行叠加。原帖记录了低配置渲染与多次中断；版本和性能数字均未独立核实。",
+      "summaryEn": "A 15-second rainy-city scene reportedly generated as visuals and sound through Sonnet 5.5 code. The creator describes a static city with a moving camera and composited rain, steam and lightning, plus low-resource rendering and interruptions. Version and performance figures are unverified.",
+      "author": {
+        "name": "0x Insider",
+        "handle": "0xInsiderf5",
+        "url": "https://x.com/0xInsiderf5"
+      },
+      "source": {
+        "url": "https://x.com/0xInsiderf5/status/2106056138894479482",
+        "publishedAt": "2026-10-02T16:18:06+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Sonnet 5.5; version unverified)",
+        "evidenceQuote": "Every frame and every sound came out of code it wrote.",
+        "evidenceUrl": "https://x.com/0xInsiderf5/status/2106056138894479482"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106056138894479482.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106055791207665665/img/Wj3FrNZY6a5iG6ZD.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 101976
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/0xInsiderf5/status/2106056138894479482",
+        "checkedAt": "2026-10-02T17:12:05.709865+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 80,
+        "checkedAt": "2026-10-02T17:12:05.709865+00:00",
+        "sourceUrl": "https://x.com/0xInsiderf5/status/2106056138894479482"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:05.709865+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106055791207665665/vid/avc1/1280x720/NW3hLNwSowSYWZcY.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/0xInsiderf5/status/2106056138894479482",
+        "checkedAt": "2026-10-02T17:12:06.592058+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106053810405654768",
+      "stage": "discovery",
+      "title": "从来不只有我们：人物关系教育短片",
+      "titleEn": "It’s never just us: an educational short",
+      "category": "知识讲解",
+      "summary": "作者发布题为“从来不只有我们”的约 161 秒教育短片，视频包含手机界面与层层扩展的人物图。原帖明确画面由 Claude 制作，声音除外；没有说明具体模型版本或公开完整制作指令。",
+      "summaryEn": "An approximately 161-second educational short described as “It’s never just us,” using a phone interface and an expanding diagram of people. The creator credits Claude for the video and explicitly excludes sound; an exact model version and complete production prompt are not specified.",
+      "author": {
+        "name": "Ali Kibao",
+        "handle": "AliKibao",
+        "url": "https://x.com/AliKibao"
+      },
+      "source": {
+        "url": "https://x.com/AliKibao/status/2106053810405654768",
+        "publishedAt": "2026-10-02T16:08:51+00:00"
+      },
+      "model": {
+        "name": "Claude (model unspecified)",
+        "evidenceQuote": "a small educational video made with claude - except sound.",
+        "evidenceUrl": "https://x.com/AliKibao/status/2106053810405654768"
+      },
+      "media": {
+        "durationSeconds": 160.747,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106053810405654768.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106052977530130432/vid/avc1/480x852/zl37rolnNmwAviYv.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 480,
+        "height": 852,
+        "bytes": 171262,
+        "timeSeconds": 45
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/AliKibao/status/2106053810405654768",
+        "checkedAt": "2026-10-02T17:12:06.362355+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 18,
+        "checkedAt": "2026-10-02T17:12:06.362355+00:00",
+        "sourceUrl": "https://x.com/AliKibao/status/2106053810405654768"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:06.362355+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106052977530130432/vid/avc1/1080x1920/jtbxbeiOeTmQt_nK.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AliKibao/status/2106053810405654768",
+        "checkedAt": "2026-10-02T17:12:07.237878+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106044513177194584",
+      "stage": "discovery",
+      "title": "手机消息界面的短视频试作",
+      "titleEn": "A short video built around mobile messaging",
+      "category": "产品宣传",
+      "summary": "原帖展示以手机消息界面为起点的约 44 秒视频，作者称用 Opus 5.5 在约 30 分钟内完成。制作时间是作者记录，本站未独立重测。",
+      "summaryEn": "An approximately 44-second video begins with a mobile messaging interface. The creator reports making it with Opus 5.5 in about 30 minutes; that timing was not independently retested.",
+      "author": {
+        "name": "Aeng",
+        "handle": "aeng_t5",
+        "url": "https://x.com/aeng_t5"
+      },
+      "source": {
+        "url": "https://x.com/aeng_t5/status/2106044513177194584",
+        "publishedAt": "2026-10-02T15:31:55+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Just cooked this video in 30inutes with opus 5.5",
+        "evidenceUrl": "https://x.com/aeng_t5/status/2106044513177194584"
+      },
+      "media": {
+        "durationSeconds": 44.01,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106044513177194584.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106044187040788481/img/gINerJ9PVZkS-7Fw.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 720,
+        "height": 720,
+        "bytes": 25557
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/aeng_t5/status/2106044513177194584",
+        "checkedAt": "2026-10-02T17:12:07.103156+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 19,
+        "checkedAt": "2026-10-02T17:12:07.103156+00:00",
+        "sourceUrl": "https://x.com/aeng_t5/status/2106044513177194584"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:07.103156+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106044187040788481/vid/avc1/720x720/3xeaPBf_JZNWbkA9.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/aeng_t5/status/2106044513177194584",
+        "checkedAt": "2026-10-02T17:12:07.723625+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106041581119971749",
+      "stage": "discovery",
+      "title": "Just Predicting：模型辅助音乐视频",
+      "titleEn": "Just Predicting: a model-assisted music video",
+      "category": "音乐与歌词",
+      "summary": "约 226 秒音乐视频《Just Predicting》，作者称由 Anthropic Fable 5.5 协助制作。具体协作范围与模型版本未独立核实；原帖的模型优劣提问不作为本站评价。",
+      "summaryEn": "The approximately 226-second music video Just Predicting is described as made with assistance from Anthropic Fable 5.5. Its exact assistance scope and model version are unverified, and the creator’s comparison question is not adopted as this site’s assessment.",
+      "author": {
+        "name": "Daniel ↗ Your AI Advantage",
+        "handle": "HarbingerDan",
+        "url": "https://x.com/HarbingerDan"
+      },
+      "source": {
+        "url": "https://x.com/HarbingerDan/status/2106041581119971749",
+        "publishedAt": "2026-10-02T15:20:15+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "made with assistance from Anthropic Fable 5.5",
+        "evidenceUrl": "https://x.com/HarbingerDan/status/2106041581119971749"
+      },
+      "media": {
+        "durationSeconds": 226.133,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106041581119971749.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106041060036120576/img/et8Ol1_jaQkY9o6U.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 35348
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/HarbingerDan/status/2106041581119971749",
+        "checkedAt": "2026-10-02T17:12:07.654046+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 63,
+        "checkedAt": "2026-10-02T17:12:07.654046+00:00",
+        "sourceUrl": "https://x.com/HarbingerDan/status/2106041581119971749"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:07.654046+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106041060036120576/vid/avc1/1280x720/VV9jSWFSDQLMURA5.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/HarbingerDan/status/2106041581119971749",
+        "checkedAt": "2026-10-02T17:12:08.170570+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106041578204655748",
+      "stage": "discovery",
+      "title": "人类：从古代到当代的代码动画",
+      "titleEn": "Humanity: a code animation from ancient to modern times",
+      "category": "叙事短片",
+      "summary": "作者展示两分钟的人类主题视频，从古代延伸到当代，称动画及模型均由代码制作，耗时约一小时。Fable 5.5 版本与制作时间保留为作者自述，未独立复现。",
+      "summaryEn": "A two-minute humanity-themed video spans ancient to modern times. The creator says its animations and models were made in code in about an hour. The reported Fable 5.5 version and timing remain creator claims and have not been independently reproduced.",
+      "author": {
+        "name": "bluedev",
+        "handle": "blueemi99",
+        "url": "https://x.com/blueemi99"
+      },
+      "source": {
+        "url": "https://x.com/blueemi99/status/2106041578204655748",
+        "publishedAt": "2026-10-02T15:20:15+00:00"
+      },
+      "model": {
+        "name": "Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Fable 5.5: a video about humanity",
+        "evidenceUrl": "https://x.com/blueemi99/status/2106041578204655748"
+      },
+      "media": {
+        "durationSeconds": 120,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106041578204655748.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106041378530643968/vid/avc1/1920x1080/X56mkorhqrw1f3I-.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 800,
+        "height": 450,
+        "bytes": 79619,
+        "timeSeconds": 25
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/blueemi99/status/2106041578204655748",
+        "checkedAt": "2026-10-02T17:12:07.735538+00:00"
+      },
+      "metrics": {
+        "bookmarks": 28,
+        "likes": 123,
+        "views": 5880,
+        "checkedAt": "2026-10-02T17:12:07.735538+00:00",
+        "sourceUrl": "https://x.com/blueemi99/status/2106041578204655748"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:07.735538+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106041378530643968/vid/avc1/1920x1080/X56mkorhqrw1f3I-.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/blueemi99/status/2106041578204655748",
+        "checkedAt": "2026-10-02T17:12:07.968343+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106040262245896675",
+      "stage": "discovery",
+      "title": "轨道邮局：黄铜与行星的小世界",
+      "titleEn": "The orbital post office: a brass-and-planet world",
+      "category": "3D 与交互",
+      "summary": "Codex 生成的轨道邮局小场景：绿色行星、黄铜环与绕行邮件舱构成转台展示。作者称提示词显示在视频中，并将它作为 OpenAI Side Quest 活动参赛作品发布；参赛身份不表示获奖。",
+      "summaryEn": "A Codex-generated orbital post-office scene combines a green planet, brass rings and orbiting mail pods in a turntable reveal. The creator says the prompt is shown in the video and posts it as an OpenAI Side Quest entry; entry does not establish a prize.",
+      "author": {
+        "name": "Oscar",
+        "handle": "allenrokxlate",
+        "url": "https://x.com/allenrokxlate"
+      },
+      "source": {
+        "url": "https://x.com/allenrokxlate/status/2106040262245896675",
+        "publishedAt": "2026-10-02T15:15:01+00:00"
+      },
+      "model": {
+        "name": "Codex (model unspecified)",
+        "evidenceQuote": "a tiny 3D world generated with Codex.",
+        "evidenceUrl": "https://x.com/allenrokxlate/status/2106040262245896675"
+      },
+      "media": {
+        "durationSeconds": 23.96,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106040262245896675.jpg",
+        "sourceUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2106040233816965120/pu/img/c8ZpvqpRCpt4eViw.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 65637
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/allenrokxlate/status/2106040262245896675",
+        "checkedAt": "2026-10-02T17:12:08.223017+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 21,
+        "checkedAt": "2026-10-02T17:12:08.223017+00:00",
+        "sourceUrl": "https://x.com/allenrokxlate/status/2106040262245896675"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:08.223017+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/ext_tw_video/2106040233816965120/pu/vid/avc1/1280x720/2Ka3b1QW4LReM1BL.mp4?tag=12",
+        "sourcePostUrl": "https://x.com/allenrokxlate/status/2106040262245896675",
+        "checkedAt": "2026-10-02T17:12:08.467549+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106040056616239235",
+      "stage": "discovery",
+      "title": "粒子排字：Opus 动画与 Fable 文案",
+      "titleEn": "Particle typography: Opus animation and Fable text",
+      "category": "短动效",
+      "summary": "作者展示粒子组成 Fable 5.5 字样的约 20 秒动效，原帖明确动画由 Opus 5.5 制作，文字由所称 Fable 5.5 提供。文字中的型号不当作官方发布信息，Fable 版本未独立核实。",
+      "summaryEn": "Particles form the words Fable 5.5 in an approximately 20-second motion piece. The post explicitly credits Opus 5.5 for animation and a reported Fable 5.5 for text. The depicted name is not official release information; the Fable version is unverified.",
+      "author": {
+        "name": "Manuel",
+        "handle": "mszzz0011",
+        "url": "https://x.com/mszzz0011"
+      },
+      "source": {
+        "url": "https://x.com/mszzz0011/status/2106040056616239235",
+        "publishedAt": "2026-10-02T15:14:12+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Claude (reported Fable 5.5; version unverified)",
+        "evidenceQuote": "Particle animation created with Opus 5.5. Text: Fable 5.5.",
+        "evidenceUrl": "https://x.com/mszzz0011/status/2106040056616239235"
+      },
+      "media": {
+        "durationSeconds": 19.862,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106040056616239235.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106039479148412928/img/zXGfqlV9eZFdpCs0.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 778,
+        "height": 468,
+        "bytes": 38522
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/mszzz0011/status/2106040056616239235",
+        "checkedAt": "2026-10-02T17:12:08.470654+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 99,
+        "checkedAt": "2026-10-02T17:12:08.470654+00:00",
+        "sourceUrl": "https://x.com/mszzz0011/status/2106040056616239235"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:08.470654+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106039479148412928/vid/avc1/778x468/zzdVkauHPAQXbiQT.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/mszzz0011/status/2106040056616239235",
+        "checkedAt": "2026-10-02T17:12:08.985947+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106039413645996348",
+      "stage": "discovery",
+      "title": "像素都市中的音乐视频",
+      "titleEn": "A music video in a pixel city",
+      "category": "音乐与歌词",
+      "summary": "原帖展示像素都市与表演角色的 16 秒音乐视频，作者称整支视频用 Opus 5.5 Medium 制作。本站记录该制作声明，尚未核得独立音轨来源或完成整片视听评价。",
+      "summaryEn": "A 16-second music video features a performer in a pixel city, attributed by the creator to Opus 5.5 Medium. This records that production claim; separate soundtrack provenance and a full audiovisual review are not established.",
+      "author": {
+        "name": "Elon_91",
+        "handle": "91_elon",
+        "url": "https://x.com/91_elon"
+      },
+      "source": {
+        "url": "https://x.com/91_elon/status/2106039413645996348",
+        "publishedAt": "2026-10-02T15:11:39+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "This whole music video was made with Opus 5.5 Medium.",
+        "evidenceUrl": "https://x.com/91_elon/status/2106039413645996348"
+      },
+      "media": {
+        "durationSeconds": 16,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106039413645996348.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106039286541815808/img/0iCV-Hgqf2QNdBqb.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 640,
+        "height": 360,
+        "bytes": 52798
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/91_elon/status/2106039413645996348",
+        "checkedAt": "2026-10-02T17:12:08.690753+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 15,
+        "checkedAt": "2026-10-02T17:12:08.690753+00:00",
+        "sourceUrl": "https://x.com/91_elon/status/2106039413645996348"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-02T17:12:08.690753+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106039286541815808/vid/avc1/640x360/yqjbdJdnjzvJPhje.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/91_elon/status/2106039413645996348",
+        "checkedAt": "2026-10-02T17:12:09.250373+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
       "id": "2105926129567879524",
       "stage": "discovery",
       "title": "EUDoom：欧洲版 P(doom) 音乐动画",

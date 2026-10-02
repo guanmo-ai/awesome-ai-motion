@@ -10,7 +10,7 @@ Start in the gallery: watch videos by category, search for creators, and find pu
 
 [![Gallery preview with category navigation, video covers and playback links. Click to explore.](assets/gallery-preview.png)](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-421 video references · 67 creator prompts · Chinese & English
+441 video references · 69 creator prompts · Chinese & English
 
 [Submit a case](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
@@ -122,7 +122,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 77 works →](browse/product.en.md)
+[Explore all 82 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -151,7 +151,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 73 works →](browse/education.en.md)
+[Explore all 75 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -180,7 +180,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 59 works →](browse/motion.en.md)
+[Explore all 62 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -209,7 +209,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 25 works →](browse/characters.en.md)
+[Explore all 26 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -238,7 +238,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 76 works →](browse/interactive.en.md)
+[Explore all 81 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -267,7 +267,7 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 78 works →](browse/stories.en.md)
+[Explore all 80 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -296,11 +296,11 @@ Works are collected from creators’ public posts on X (Twitter). Created and ma
 </tbody>
 </table>
 
-[Explore all 33 works →](browse/music.en.md)
+[Explore all 35 works →](browse/music.en.md)
 
 Homepage and category previews rank by bookmark snapshots, not live counts.
 
-36 catalogued records · [385 discovery records with details pending](browse/discoveries.en.md) · 420 original video sources
+36 catalogued records · [405 discovery records with details pending](browse/discoveries.en.md) · 440 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 
