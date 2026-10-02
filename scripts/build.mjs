@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import {publicCatalogIssues} from './catalog-privacy.mjs';
-import {recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl,resourceLinks,resourceLabel,formatDuration} from '../assets/gallery-model.mjs';
+import {coverPath,safeUrl,selectCases,recommendedCases,introCases,isFeatured,FEATURED,reviewRank,reviewLabels,validReview,stateUrl,resourceLinks,resourceLabel,formatDuration} from '../assets/gallery-model.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 
@@ -25,6 +25,26 @@ const isDiscovery=c=>c.stage==='discovery';
 const displayZh=zh=>({'像素与角色':'角色动画','3D 与交互':'交互演示'}[zh]||zh);
 const category=(c,en)=>en?CATEGORIES.find(x=>x[0]===c.category)[1]:displayZh(c.category);
 const duration=c=>Number.isFinite(c.media.durationSeconds)?`${Math.round(c.media.durationSeconds)}s`:'';
+
+// README introductions describe existing works without changing their review status.
+export const README_SPOTLIGHTS = [
+  {id:'2103918792845963545',zh:'角色、界面与排版，共同讲清一个产品。',en:'Character, interface and typography tell one product story.'},
+  {id:'2103315922098470926',zh:'15 秒，把几何、镜头与转场连成一段。',en:'Geometry, camera and transitions in one 15-second sequence.'},
+  {id:'2102786378282987591',zh:'波浪、折射与涟漪，在浏览器里实时响应。',en:'Waves, refraction and ripples respond in the browser.'},
+  {id:'2103099194693271874',zh:'同一个角色，穿过十二种视觉风格。',en:'One character travels through twelve visual styles.'},
+  {id:'2105304203770118434',zh:'用代码画出蜡笔质感，讲述一场温柔的告别。',en:'Code-drawn crayon textures tell a gentle story of farewell.'},
+  {id:'2102583898865873225',zh:'把五千年历史，化成一笔展开的线稿。',en:'Five thousand years of history unfold in line art.'},
+];
+export function spotlightCases(items) {
+  return README_SPOTLIGHTS.map(note=>({item:items.find(c=>c.id===note.id),note}))
+    .filter(({item})=>item && !item.review?.later && item.review?.featured!==false && coverPath(item.cover?.path) && safeUrl(item.source?.url));
+}
+export function catalogStats(items) {
+  return {works:items.length,prompts:items.filter(c=>c.prompt?.status==='original').length,code:items.filter(c=>resourceLinks(c).some(r=>r.kind==='code')).length};
+}
+export function sourceCases(items,limit=3) {
+  return selectCases(items,{category:'all',query:'',sort:'bookmarks',resource:'code'}).filter(c=>!c.review?.later).slice(0,limit);
+}
 
 export function compareCases(a,b) {
   const preference=reviewRank(b)-reviewRank(a);if(preference)return preference;
@@ -105,7 +125,7 @@ function renderCase(c,{en=false,prefix='',detail=false}={}) {
   if(!detail)out+=`[${choose(en,'案例详情与来源','Case details & sources')}](${prefix}cases/${c.id}${en?'.en':''}.md)`;
   return out+'\n';
 }
-function renderCards(cases,en,prefix='') {
+function renderCards(cases,en,prefix='',notes=null,showResources=false) {
   if(!cases.length)return choose(en,'此处暂无推荐，仍可进入分类浏览全部作品。','No recommendations here yet. Browse the category to see all works.');
   let out='<table>\n';
   for(let i=0;i<cases.length;i+=2) {
@@ -118,10 +138,15 @@ function renderCards(cases,en,prefix='') {
     if(pair.length===1)out+='<td width="50%"></td>\n';
     out+='</tr>\n<tr>\n';
     for(const c of pair) {
+      const note=notes?.get(c.id);
+      const resources=showResources?resourceLinks(c).filter(r=>['code','demo'].includes(r.kind)):[];
+      const actions=resources.map(r=>`<a href="${html(r.url)}">${choose(en,r.kind==='code'?'查看源码 ↗':'作品网页 ↗',r.kind==='code'?'Source code ↗':'Work page ↗')}</a>`);
+      if(showResources&&c.prompt.status==='original')actions.push(`<a href="${prefix}cases/${c.id}${en?'.en':''}.md">${choose(en,'查看提示词 ↗','View prompt ↗')}</a>`);
       out+=`<td width="50%" valign="top"><strong>${html(title(c,en))}</strong><br>`+
+        (note?`<sub>${html(note[en?'en':'zh'])}</sub><br>`:'')+
         `<sub><a href="${c.author.url}">@${html(c.author.handle)}</a> · ${html(category(c,en))}</sub><br>`+
         `<sub>${formatDuration(c.media.durationSeconds)} · ${choose(en,'收藏','Bookmarks')} ${number(c.metrics.bookmarks)}${isDiscovery(c)?' · '+choose(en,'资料待完善','Details pending'):''}</sub><br>`+
-        `<a href="${watchUrl(c,en)}">${c.webPlayback?choose(en,'▶ 播放','▶ Play'):choose(en,'▶ 在 X 观看','▶ Watch on X')}</a> · <a href="${c.source.url}">${choose(en,'原帖','Original post')}</a></td>\n`;
+        `<a href="${watchUrl(c,en)}">${c.webPlayback?choose(en,'▶ 播放','▶ Play'):choose(en,'▶ 在 X 观看','▶ Watch on X')}</a> · <a href="${c.source.url}">${choose(en,'原帖','Original post')}</a>${actions.length?'<br>'+actions.join(' · '):''}</td>\n`;
     }
     if(pair.length===1)out+='<td width="50%"></td>\n';
     out+='</tr>\n</tbody>\n';
@@ -135,32 +160,37 @@ function renderBrowse(cases,definition,en) {
     renderCards([...cases].sort(compareCases),en,'../')+'\n';
 }
 function renderReadme(cases,en) {
-  const originals=cases.filter(c=>c.prompt.status==='original');
+  const stats=catalogStats(cases),spotlights=spotlightCases(cases);
   const discoveries=cases.filter(isDiscovery);
   const catalogued=cases.length-discoveries.length;
   const playable=cases.filter(c=>c.webPlayback).length;
   const selected=cases.filter(c=>isFeatured(c) && !c.review?.later).sort((a,b)=>reviewRank(b)-reviewRank(a) || (FEATURED.includes(a.id)?FEATURED.indexOf(a.id):FEATURED.length)-(FEATURED.includes(b.id)?FEATURED.indexOf(b.id):FEATURED.length) || compareCases(a,b)).slice(0,6);
   let out=`# Awesome AI Motion\n\n`+
     `[简体中文](README.md) · [English](README.en.md)\n\n`+
-    `**${choose(en,'发现喜欢的 AI 视频与动画。','Find AI videos and animations you love.')}**\n\n`+
-    `## [▶ ${choose(en,'打开在线画廊','Explore the gallery')}](${SITE}${en?'?lang=en':''})\n\n`+
-    `${choose(en,'推荐直接在画廊浏览：按类别看视频、搜索作者，查找公开提示词与源码入口，无需安装。','Start in the gallery: watch videos by category, search for creators, and find public prompts and source links. No installation needed.')}\n\n`+
-    `[![${choose(en,'在线画廊预览：分类导航、作品封面与页内播放入口，点击进入画廊','Gallery preview with category navigation, video covers and playback links. Click to explore.')}](assets/gallery-preview.png)](${SITE}${en?'?lang=en':''})\n\n`+
-    `${cases.length} ${choose(en,'个视频参考','video references')} · ${originals.length} ${choose(en,'份作者公开提示词','creator prompts')} · ${choose(en,'中英双语','Chinese & English')}\n\n`+
-    `[${choose(en,'提交作品','Submit a case')}](${REPO}/issues/new?template=submit.yml)\n\n`+
-    `${choose(en,'作品整理自 X（Twitter）原作者公开帖子。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护。','Works are collected from creators’ public posts on X (Twitter). Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai).')}\n\n`+
+    `## ${choose(en,'发现惊艳动效，探索背后的代码与创意。','Extraordinary motion. Ideas you can build on.')}\n\n`+
+    `${choose(en,'动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。','An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.')}\n\n`+
+    `**${stats.works} ${choose(en,'个作品','works')} · ${stats.prompts} ${choose(en,'份公开提示词','public prompts')} · ${stats.code} ${choose(en,'个案例附源码','works with source code')}**\n\n`+
+    `**[▶ ${choose(en,'浏览作品','Explore the gallery')}](${SITE}${en?'?lang=en':''})** · **[${choose(en,'探索源码 ↗','Explore source ↗')}](${SITE}?resource=code${en?'&lang=en':''})** · **[${choose(en,'查看提示词 ↗','Find prompts ↗')}](${SITE}?prompt=original${en?'&lang=en':''})**\n\n`+
+    `${choose(en,'聚焦 AI 参与的动态视觉创作。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护 · 中英双语 · [推荐作品]','Exploring dynamic visual work made with AI. Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai) · Chinese & English · [Submit a work]')}(${REPO}/issues/new?template=submit.yml)\n\n`+
     `<a id="browse"></a>\n\n`+
-    CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`+
-    `## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+
-    renderCards(introCases(cases),en)+`\n\n`+
+    CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`;
+  if(spotlights.length)out+=`<a id="spotlights"></a>\n\n## ${choose(en,'从这些作品开始','A few places to begin')}\n\n`+
+    `${choose(en,'从产品动效到实时图形，顺着作品找到灵感与实现。','From product motion to real-time graphics, follow the work into the ideas and craft.')}\n\n`+
+    renderCards(spotlights.map(({item})=>item),en,'',new Map(spotlights.map(({item,note})=>[item.id,note])),true)+`\n\n`;
+  const sources=sourceCases(cases,2);
+  if(sources.length)out+=`<a id="source-code"></a>\n\n## ${choose(en,'喜欢这个效果？看看源码。','Love the result? Explore the source.')}\n\n`+
+    `${choose(en,'这些作品附有作者公开源码，可继续查看实现、工程结构与制作方式。','These works include public source links from their creators. Explore the implementation, project structure and approach.')}\n\n`+
+    renderCards(sources,en,'',null,true)+`\n\n[${choose(en,`探索全部 ${stats.code} 个源码案例 →`,`Explore all ${stats.code} works with source →`)}](${SITE}?resource=code${en?'&lang=en':''}) · [${choose(en,'源码、网页与工具索引','Source, web pages & tools index')}](browse/resources${en?'.en':''}.md)\n\n`;
+  out+=`<details>\n<summary>${choose(en,'继续发现：收藏最多的作品','Keep exploring: most-bookmarked works')}</summary>\n\n## ${choose(en,'收藏最多','Most bookmarked')}\n\n`+
+    renderCards(introCases(cases),en)+`\n\n</details>\n\n`+
     `<a id="featured"></a>\n\n<details>\n<summary>${choose(en,'策展人标记的作品','Curator selections')}</summary>\n\n`+
     renderCards(selected,en)+`\n\n</details>\n\n`;
   for(const [zh,english,slug] of CATEGORIES) {
     const group=cases.filter(c=>c.category===zh);if(!group.length)continue;
     out+=`<a id="category-${slug}"></a>\n\n## ${en?english:displayZh(zh)}\n\n`+
-      renderCards(recommendedCases(cases,zh,4,'bookmarks'),en)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
+      renderCards(recommendedCases(cases,zh,2,'bookmarks'),en)+`\n\n[${choose(en,`查看全部 ${group.length} 支 →`,`Explore all ${group.length} works →`)}](browse/${slug}${en?'.en':''}.md)\n\n`;
   }
-  out+=`${choose(en,'首页及分类预览按收藏快照从多到少排列，并非实时榜单。','Homepage and category previews rank by bookmark snapshots, not live counts.')}\n\n`+
+  out+=`${choose(en,'首页及分类预览中的收藏榜按快照排列，并非实时榜单；README 导览单独编排，不改变作品的精选或评价状态。','Homepage and category previews retain bookmark-snapshot sections, not live counts. README introductions are arranged separately and do not change review or featured status.')}\n\n`+
     `${catalogued} ${choose(en,'条资料已编目','catalogued records')} · ${discoveries.length ? `[${discoveries.length} ${choose(en,'条发现池资料待完善','discovery records with details pending')}](browse/discoveries${en?'.en':''}.md)` : choose(en,'0 条发现池资料待完善','0 discovery records with details pending')} · ${playable} ${choose(en,'个原帖媒体入口','original video sources')}\n\n`+
     `[${choose(en,'核验范围与统计','Verification scope and coverage')}](docs/COVERAGE.md) · [${choose(en,'收录说明','Collection criteria')}](docs/QUALITY.md)\n\n`+
     `${choose(en,'点击封面打开画廊播放；没有画廊视频时会前往作者 X 原帖。案例详情保留来源与提示词。','Click a cover to play in the gallery; works without gallery video open on the creator’s X post. Case pages retain sources and prompts.')}\n\n`+

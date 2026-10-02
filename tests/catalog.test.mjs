@@ -285,14 +285,14 @@ test('发现池按来源核对和编目进度标记，不把完整视听评价�
 });
 
 
-test('首页每个非空类别都有最多四张对应封面与完整分类入口',()=>{
+test('首页每个非空类别都有最多两张对应封面与完整分类入口',()=>{
   for(const en of [false,true]) {
     const readme=buildOutputs(catalog).get(`README${en?'.en':''}.md`);
     const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)];
     assert.equal(sections.length,new Set(catalog.cases.map(c=>c.category)).size);
     for(const [,slug,body] of sections) {
       const ids=coverIds(body);
-      assert.ok(ids.length>0&&ids.length<=4);
+      assert.ok(ids.length>0&&ids.length<=2);
       assert.equal(new Set(ids).size,ids.length);
       assert.equal(new Set(ids.map(id=>catalog.cases.find(c=>c.id===id).category)).size,1);
       assert.ok(body.includes(`browse/${slug}${en?'.en':''}.md`));
@@ -314,7 +314,7 @@ test('首页和分类预览按收藏展示，人工排后不改变收藏榜，�
     assert.ok(readme.includes(`](browse/discoveries${en?'.en':''}.md)`));
     for(const [,body] of readme.matchAll(/<a id="category-[^"]+"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)) {
       const actual=ids(body),source=copy.cases.find(c=>c.id===actual[0]).category;
-      assert.deepEqual(actual,ranked.filter(c=>c.category===source).slice(0,4).map(c=>c.id));
+      assert.deepEqual(actual,ranked.filter(c=>c.category===source).slice(0,2).map(c=>c.id));
     }
     assert.doesNotMatch(readme,/<table>\s*<\/table>/);
   }
