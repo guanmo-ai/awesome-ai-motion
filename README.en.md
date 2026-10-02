@@ -1,26 +1,12 @@
 # Awesome AI Motion
 
-[简体中文](README.md) · [English](README.en.md)
+Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 
-## Extraordinary motion. Ideas you can build on.
-
-An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.
+## [▶ Enter the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
 **441 works · 69 public prompts · 25 works with source code**
 
-**[▶ Explore the gallery](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
-
-Exploring dynamic visual work made with AI. Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai) · Chinese & English · [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
-
-<a id="browse"></a>
-
-[Product & marketing](#category-product) · [Education & explainers](#category-education) · [Motion design](#category-motion) · [Pixel art & characters](#category-characters) · [3D & interactive](#category-interactive) · [Narrative films](#category-stories) · [Music & lyrics](#category-music)
-
 <a id="spotlights"></a>
-
-## A few places to begin
-
-From product motion to real-time graphics, follow the work into the ideas and craft.
 
 <table>
 <tbody>
@@ -54,6 +40,16 @@ From product motion to real-time graphics, follow the work into the ideas and cr
 </tr>
 </tbody>
 </table>
+
+**[Browse all 441 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
+
+An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.
+
+Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai) · [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+
+<a id="browse"></a>
+
+[Product & marketing](#category-product) · [Education & explainers](#category-education) · [Motion design](#category-motion) · [Pixel art & characters](#category-characters) · [3D & interactive](#category-interactive) · [Narrative films](#category-stories) · [Music & lyrics](#category-music)
 
 <a id="source-code"></a>
 

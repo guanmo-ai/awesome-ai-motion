@@ -166,17 +166,16 @@ function renderReadme(cases,en) {
   const playable=cases.filter(c=>c.webPlayback).length;
   const selected=cases.filter(c=>isFeatured(c) && !c.review?.later).sort((a,b)=>reviewRank(b)-reviewRank(a) || (FEATURED.includes(a.id)?FEATURED.indexOf(a.id):FEATURED.length)-(FEATURED.includes(b.id)?FEATURED.indexOf(b.id):FEATURED.length) || compareCases(a,b)).slice(0,6);
   let out=`# Awesome AI Motion\n\n`+
-    `[简体中文](README.md) · [English](README.en.md)\n\n`+
-    `## ${choose(en,'发现惊艳动效，探索背后的代码与创意。','Extraordinary motion. Ideas you can build on.')}\n\n`+
+    `${choose(en,'发现惊艳动效，探索背后的代码与创意。','Extraordinary motion. Ideas you can build on.')} · [${en?'简体中文':'English'}](README${en?'':'.en'}.md)\n\n`+
+    `## [▶ ${choose(en,'进入作品画廊 →','Enter the gallery →')}](${SITE}${en?'?lang=en':''})\n\n`+
+    `**${stats.works} ${choose(en,'个作品','works')} · ${stats.prompts} ${choose(en,'份公开提示词','public prompts')} · ${stats.code} ${choose(en,'个案例附源码','works with source code')}**\n\n`;
+  if(spotlights.length)out+=`<a id="spotlights"></a>\n\n`+
+    renderCards(spotlights.map(({item})=>item),en,'',new Map(spotlights.map(({item,note})=>[item.id,note])),true)+`\n\n`;
+  out+=`**[${choose(en,`浏览全部 ${stats.works} 个作品 →`,`Browse all ${stats.works} works →`)}](${SITE}${en?'?lang=en':''})** · **[${choose(en,'探索源码 ↗','Explore source ↗')}](${SITE}?resource=code${en?'&lang=en':''})** · **[${choose(en,'查看提示词 ↗','Find prompts ↗')}](${SITE}?prompt=original${en?'&lang=en':''})**\n\n`+
     `${choose(en,'动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。','An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.')}\n\n`+
-    `**${stats.works} ${choose(en,'个作品','works')} · ${stats.prompts} ${choose(en,'份公开提示词','public prompts')} · ${stats.code} ${choose(en,'个案例附源码','works with source code')}**\n\n`+
-    `**[▶ ${choose(en,'浏览作品','Explore the gallery')}](${SITE}${en?'?lang=en':''})** · **[${choose(en,'探索源码 ↗','Explore source ↗')}](${SITE}?resource=code${en?'&lang=en':''})** · **[${choose(en,'查看提示词 ↗','Find prompts ↗')}](${SITE}?prompt=original${en?'&lang=en':''})**\n\n`+
-    `${choose(en,'聚焦 AI 参与的动态视觉创作。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护 · 中英双语 · [推荐作品]','Exploring dynamic visual work made with AI. Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai) · Chinese & English · [Submit a work]')}(${REPO}/issues/new?template=submit.yml)\n\n`+
+    `${choose(en,'由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护 · [推荐作品]','Created and maintained by [Guanmo / @guanmo_ai](https://x.com/guanmo_ai) · [Submit a work]')}(${REPO}/issues/new?template=submit.yml)\n\n`+
     `<a id="browse"></a>\n\n`+
     CATEGORIES.filter(([zh])=>cases.some(c=>c.category===zh)).map(([zh,english,slug])=>`[${en?english:displayZh(zh)}](#category-${slug})`).join(' · ')+`\n\n`;
-  if(spotlights.length)out+=`<a id="spotlights"></a>\n\n## ${choose(en,'从这些作品开始','A few places to begin')}\n\n`+
-    `${choose(en,'从产品动效到实时图形，顺着作品找到灵感与实现。','From product motion to real-time graphics, follow the work into the ideas and craft.')}\n\n`+
-    renderCards(spotlights.map(({item})=>item),en,'',new Map(spotlights.map(({item,note})=>[item.id,note])),true)+`\n\n`;
   const sources=sourceCases(cases,2);
   if(sources.length)out+=`<a id="source-code"></a>\n\n## ${choose(en,'喜欢这个效果？看看源码。','Love the result? Explore the source.')}\n\n`+
     `${choose(en,'这些作品附有作者公开源码，可继续查看实现、工程结构与制作方式。','These works include public source links from their creators. Explore the implementation, project structure and approach.')}\n\n`+

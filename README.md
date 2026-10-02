@@ -1,26 +1,12 @@
 # Awesome AI Motion
 
-[简体中文](README.md) · [English](README.en.md)
+发现惊艳动效，探索背后的代码与创意。 · [English](README.en.md)
 
-## 发现惊艳动效，探索背后的代码与创意。
-
-动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。
+## [▶ 进入作品画廊 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
 **441 个作品 · 69 份公开提示词 · 25 个案例附源码**
 
-**[▶ 浏览作品](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
-
-聚焦 AI 参与的动态视觉创作。由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护 · 中英双语 · [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
-
-<a id="browse"></a>
-
-[产品宣传](#category-product) · [知识讲解](#category-education) · [短动效](#category-motion) · [角色动画](#category-characters) · [交互演示](#category-interactive) · [叙事短片](#category-stories) · [音乐与歌词](#category-music)
-
 <a id="spotlights"></a>
-
-## 从这些作品开始
-
-从产品动效到实时图形，顺着作品找到灵感与实现。
 
 <table>
 <tbody>
@@ -54,6 +40,16 @@
 </tr>
 </tbody>
 </table>
+
+**[浏览全部 441 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
+
+动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。
+
+由 [观默 / @guanmo_ai](https://x.com/guanmo_ai) 发起与维护 · [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
+
+<a id="browse"></a>
+
+[产品宣传](#category-product) · [知识讲解](#category-education) · [短动效](#category-motion) · [角色动画](#category-characters) · [交互演示](#category-interactive) · [叙事短片](#category-stories) · [音乐与歌词](#category-music)
 
 <a id="source-code"></a>
 
