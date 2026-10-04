@@ -4,7 +4,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 
 ## [▶ Enter the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-**441 works · 69 public prompts · 25 works with source code**
+**464 works · 69 public prompts · 25 works with source code**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 </tbody>
 </table>
 
-**[Browse all 441 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
+**[Browse all 464 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
 
 An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.
 
@@ -90,22 +90,22 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879"><img src="assets/covers/2106426962738880879.jpg" width="390" alt="Wareflow: a strategy-game-style warehouse interface"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Wareflow: a strategy-game-style warehouse interface</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 3D &amp; interactive</sub><br><sub>1:12 · Bookmarks 10,714 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879">▶ Play</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">Original post</a></td>
 <td width="50%" valign="top"><strong>An interactive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Play</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
-<td width="50%" valign="top"><strong>Claude Pop: a mixed-workflow music video</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · Music &amp; lyrics</sub><br><sub>2:22 · Bookmarks 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">▶ Play</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646"><img src="assets/covers/2103141339651350646.jpg" width="400" alt="Eight minute research paper explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736"><img src="assets/covers/2104094723887501736.jpg" width="400" alt="An Explorable Raptor 3 Rocket Engine"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Claude Pop: a mixed-workflow music video</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · Music &amp; lyrics</sub><br><sub>2:22 · Bookmarks 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">▶ Play</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
 <td width="50%" valign="top"><strong>Eight minute research paper explainer</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>8:39 · Bookmarks 5,419 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646">▶ Play</a> · <a href="https://x.com/deedydas/status/2103141339651350646">Original post</a></td>
-<td width="50%" valign="top"><strong>An Explorable Raptor 3 Rocket Engine</strong><br><sub><a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · Education &amp; explainers</sub><br><sub>0:35 · Bookmarks 4,758 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736">▶ Play</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post</a></td>
 </tr>
 </tbody>
 </table>
@@ -169,7 +169,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 82 works →](browse/product.en.md)
+[Explore all 86 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -188,7 +188,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 75 works →](browse/education.en.md)
+[Explore all 78 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -207,7 +207,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 62 works →](browse/motion.en.md)
+[Explore all 63 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -226,7 +226,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 26 works →](browse/characters.en.md)
+[Explore all 27 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -235,17 +235,17 @@ These works include public source links from their creators. Explore the impleme
 <table>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879"><img src="assets/covers/2106426962738880879.jpg" width="390" alt="Wareflow: a strategy-game-style warehouse interface"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104001664793600012"><img src="assets/covers/2104001664793600012.jpg" width="359" alt="Spiderbench: Swinging Through a Browser City"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096264296099459079"><img src="assets/covers/2096264296099459079.jpg" width="180" alt="Blender Recreation of a Conference Clip"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Wareflow: a strategy-game-style warehouse interface</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 3D &amp; interactive</sub><br><sub>1:12 · Bookmarks 10,714 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879">▶ Play</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">Original post</a></td>
 <td width="50%" valign="top"><strong>Spiderbench: Swinging Through a Browser City</strong><br><sub><a href="https://x.com/xikhar">@xikhar</a> · 3D &amp; interactive</sub><br><sub>2:21 · Bookmarks 3,777 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104001664793600012">▶ Play</a> · <a href="https://x.com/xikhar/status/2104001664793600012">Original post</a></td>
-<td width="50%" valign="top"><strong>Blender Recreation of a Conference Clip</strong><br><sub><a href="https://x.com/petergostev">@petergostev</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks 3,710 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096264296099459079">▶ Play</a> · <a href="https://x.com/petergostev/status/2096264296099459079">Original post</a></td>
 </tr>
 </tbody>
 </table>
 
-[Explore all 81 works →](browse/interactive.en.md)
+[Explore all 90 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 80 works →](browse/stories.en.md)
+[Explore all 84 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -283,11 +283,11 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 35 works →](browse/music.en.md)
+[Explore all 36 works →](browse/music.en.md)
 
 Homepage and category previews retain bookmark-snapshot sections, not live counts. README introductions are arranged separately and do not change review or featured status.
 
-36 catalogued records · [405 discovery records with details pending](browse/discoveries.en.md) · 440 original video sources
+36 catalogued records · [428 discovery records with details pending](browse/discoveries.en.md) · 463 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

@@ -3,6 +3,1537 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2106659260683948113",
+      "stage": "discovery",
+      "title": "Hourline：世界时钟应用的 15 秒广告",
+      "titleEn": "Hourline: a 15-second world-clock app ad",
+      "category": "产品宣传",
+      "summary": "作者让 Claude 为自己的世界时钟应用制作 15 秒广告，并称模型自行编写了视频渲染器。原帖直链 Hourline 应用商店页面；未注明具体 Claude 版本，完整制作指令本轮尚未取得。",
+      "summaryEn": "The creator asks Claude for a 15-second ad for their world-clock app and says the model wrote its own video renderer. The post links Hourline’s App Store page; it does not identify the Claude version, and the full production prompt was not retrieved in this pass.",
+      "author": {
+        "name": "Live Transcriber",
+        "handle": "LiveTranscriber",
+        "url": "https://x.com/LiveTranscriber"
+      },
+      "source": {
+        "url": "https://x.com/LiveTranscriber/status/2106659260683948113",
+        "publishedAt": "2026-10-04T08:14:42+00:00"
+      },
+      "model": {
+        "name": "Claude（具体版本未注明）",
+        "evidenceQuote": "I asked Claude to make a 15-second ad for my app.",
+        "evidenceUrl": "https://x.com/LiveTranscriber/status/2106659260683948113"
+      },
+      "media": {
+        "durationSeconds": 15,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106659260683948113.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106655923804540928/vid/avc1/480x852/8763Uc9b4NuJHu55.mp4?tag=14",
+        "kind": "video_frame",
+        "width": 480,
+        "height": 852,
+        "bytes": 56486,
+        "timeSeconds": 6
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/LiveTranscriber/status/2106659260683948113",
+        "checkedAt": "2026-10-04T08:18:12.232933+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 3,
+        "checkedAt": "2026-10-04T08:18:12.232933+00:00",
+        "sourceUrl": "https://x.com/LiveTranscriber/status/2106659260683948113"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:12.232933+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106655923804540928/vid/avc1/720x1280/4XuT4VfI4RhBUoVB.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/LiveTranscriber/status/2106659260683948113",
+        "checkedAt": "2026-10-04T08:18:12.496356+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106657471150567512",
+      "stage": "discovery",
+      "title": "失去重心的相遇：人物短片",
+      "titleEn": "An encounter that shifts gravity: a character short",
+      "category": "叙事短片",
+      "summary": "作者以让世界失去重心的相遇为引子，公开人物短片并标注 GPT-6 Astra 与 Seedance 2.5。原帖没有进一步说明两种模型分别负责哪些环节，保留这一制作信息缺口。",
+      "summaryEn": "The creator frames this character short as an encounter that makes the world lose its balance, crediting GPT-6 Astra and Seedance 2.5. The post does not specify the individual production roles of the two models.",
+      "author": {
+        "name": "小宇Chengzi",
+        "handle": "Chengzilhy",
+        "url": "https://x.com/Chengzilhy"
+      },
+      "source": {
+        "url": "https://x.com/Chengzilhy/status/2106657471150567512",
+        "publishedAt": "2026-10-04T08:07:35+00:00"
+      },
+      "model": {
+        "name": "GPT-6 Astra + Seedance 2.5",
+        "evidenceQuote": "GPT 6 Astra + Seedance 2.5",
+        "evidenceUrl": "https://x.com/Chengzilhy/status/2106657471150567512"
+      },
+      "media": {
+        "durationSeconds": 22.783,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106657471150567512.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106654927351336960/img/_fMfac8XIXXQZhI7.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 66651
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Chengzilhy/status/2106657471150567512",
+        "checkedAt": "2026-10-04T08:18:12.488854+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 3,
+        "views": 84,
+        "checkedAt": "2026-10-04T08:18:12.488854+00:00",
+        "sourceUrl": "https://x.com/Chengzilhy/status/2106657471150567512"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:12.488854+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106654927351336960/vid/avc1/3840x2160/J1fN2mxydG3WJ5LB.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Chengzilhy/status/2106657471150567512",
+        "checkedAt": "2026-10-04T08:18:13.057880+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106616126776230055",
+      "stage": "discovery",
+      "title": "Inkwell：DeepSeek 品牌片头试验",
+      "titleEn": "Inkwell: a DeepSeek brand-intro experiment",
+      "category": "产品宣传",
+      "summary": "作者再次测试 DeepSeek V4.1 Flash 的品牌片头动画，称所有画面用 HTML 与 CSS 绘制，不使用外部素材，并通过录屏展示。视频取帧显示 Inkwell 标志；一次生成和一致性的评价来自作者，尚未独立复现。",
+      "summaryEn": "The creator tests DeepSeek V4.1 Flash for a brand-intro animation, describing visuals made entirely with HTML and CSS without external assets and presented as a screen recording. A frame shows the Inkwell mark. The one-shot and consistency claims remain unreplicated creator statements.",
+      "author": {
+        "name": "AJ",
+        "handle": "ItsmeAjayKV",
+        "url": "https://x.com/ItsmeAjayKV"
+      },
+      "source": {
+        "url": "https://x.com/ItsmeAjayKV/status/2106616126776230055",
+        "publishedAt": "2026-10-04T05:23:18+00:00"
+      },
+      "model": {
+        "name": "DeepSeek V4.1 Flash（作者标注）",
+        "evidenceQuote": "All in html,css btw, not a single external assets",
+        "evidenceUrl": "https://x.com/ItsmeAjayKV/status/2106616126776230055"
+      },
+      "media": {
+        "durationSeconds": 37.983,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106616126776230055.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106615641298071552/vid/avc1/640x360/F5AouM3hLqFNh2wT.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 640,
+        "height": 360,
+        "bytes": 17206,
+        "timeSeconds": 8
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ItsmeAjayKV/status/2106616126776230055",
+        "checkedAt": "2026-10-04T08:19:40.034408+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 12,
+        "views": 921,
+        "checkedAt": "2026-10-04T08:19:40.034408+00:00",
+        "sourceUrl": "https://x.com/ItsmeAjayKV/status/2106616126776230055"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:19:40.034408+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106615641298071552/vid/avc1/2560x1440/1luRiEJXyN9Kcv3O.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ItsmeAjayKV/status/2106616126776230055",
+        "checkedAt": "2026-10-04T08:19:40.491786+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106568339917324296",
+      "stage": "discovery",
+      "title": "Three.js 生物细胞演示课件",
+      "titleEn": "A Three.js biological-cell teaching demonstration",
+      "category": "知识讲解",
+      "summary": "作者公开生物细胞演示课件，说明使用 Opus 5.5 通过 Three.js 生成素材。原帖视频展示细胞结构与标注，记录代码生成的教学可视化方式。",
+      "summaryEn": "The creator shares a biological-cell teaching demonstration, saying Opus 5.5 generated its assets through Three.js. The video shows cell structures and labels, documenting a code-generated approach to educational visualization.",
+      "author": {
+        "name": "WY",
+        "handle": "akokoi1",
+        "url": "https://x.com/akokoi1"
+      },
+      "source": {
+        "url": "https://x.com/akokoi1/status/2106568339917324296",
+        "publishedAt": "2026-10-04T02:13:25+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "全部素材由Opus 5.5自己通过Three.js生成",
+        "evidenceUrl": "https://x.com/akokoi1/status/2106568339917324296"
+      },
+      "media": {
+        "durationSeconds": 37.025,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106568339917324296.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106568041651982336/img/O8qyb1TuUg2jlFuw.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 523,
+        "bytes": 63855
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/akokoi1/status/2106568339917324296",
+        "checkedAt": "2026-10-04T08:18:09.362454+00:00"
+      },
+      "metrics": {
+        "bookmarks": 45,
+        "likes": 53,
+        "views": 6912,
+        "checkedAt": "2026-10-04T08:18:09.362454+00:00",
+        "sourceUrl": "https://x.com/akokoi1/status/2106568339917324296"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:09.362454+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106568041651982336/vid/avc1/1652x1080/WBv-_eGS7KBQjx16.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/akokoi1/status/2106568339917324296",
+        "checkedAt": "2026-10-04T08:18:09.622805+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106557414992752745",
+      "stage": "discovery",
+      "title": "AI 开始构建自身：代码与时间线短片",
+      "titleEn": "AI starts building itself: a code-and-timeline short",
+      "category": "叙事短片",
+      "summary": "作者以 AI 开始构建自身为主题制作短片，说明使用 Opus 5.5、代码与免费素材，音频由 Suno 制作。免费素材的说法来自作者，不代表已核对每项素材的许可。",
+      "summaryEn": "The creator makes a short about AI starting to build itself, listing Opus 5.5, code and free assets, with audio from Suno. The free-asset description is the creator’s statement, rather than a verification of every asset’s license.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2106557414992752745",
+        "publishedAt": "2026-10-04T01:30:00+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 + Suno",
+        "evidenceQuote": "Made with Opus 5.5 using code and free assets",
+        "evidenceUrl": "https://x.com/techartist_/status/2106557414992752745"
+      },
+      "media": {
+        "durationSeconds": 96.458,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106557414992752745.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106461071062253568/vid/avc1/640x360/FoVSZN45dLplEk5U.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 640,
+        "height": 360,
+        "bytes": 25870,
+        "timeSeconds": 40
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2106557414992752745",
+        "checkedAt": "2026-10-04T08:18:11.688855+00:00"
+      },
+      "metrics": {
+        "bookmarks": 11,
+        "likes": 44,
+        "views": 1792,
+        "checkedAt": "2026-10-04T08:18:11.688855+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2106557414992752745"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:11.688855+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106461071062253568/vid/avc1/1920x1080/W_Fb77Zq_qGX_OPB.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2106557414992752745",
+        "checkedAt": "2026-10-04T08:18:12.226591+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106527292633825693",
+      "stage": "discovery",
+      "title": "Tripo 模型驱动的三维游戏原型",
+      "titleEn": "A 3D game prototype built around Tripo models",
+      "category": "3D 与交互",
+      "summary": "作者先用 Tripo AI 制作模型，再让 Opus 5.5 围绕这些模型搭建游戏原型。原帖展示角色与场景的游戏录屏；模型资产生成和游戏代码构建是两个明确的步骤。",
+      "summaryEn": "The creator first makes models with Tripo AI, then asks Opus 5.5 to build a game prototype around them. The post shows gameplay featuring a character and environment, separating asset generation from the game-code build.",
+      "author": {
+        "name": "Shikhar",
+        "handle": "xikhar",
+        "url": "https://x.com/xikhar"
+      },
+      "source": {
+        "url": "https://x.com/xikhar/status/2106527292633825693",
+        "publishedAt": "2026-10-03T23:30:18+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 + Tripo AI",
+        "evidenceQuote": "Created the models with Tripo AI.",
+        "evidenceUrl": "https://x.com/xikhar/status/2106527292633825693"
+      },
+      "media": {
+        "durationSeconds": 49.685,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106527292633825693.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106526170040979456/img/vBVzIdLRIlIJ23_6.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 120521
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/xikhar/status/2106527292633825693",
+        "checkedAt": "2026-10-04T08:18:06.726780+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 213,
+        "likes": 424,
+        "views": 17783,
+        "checkedAt": "2026-10-04T08:18:06.726780+00:00",
+        "sourceUrl": "https://x.com/xikhar/status/2106527292633825693"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:06.726780+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106526170040979456/vid/avc1/1920x1080/1k6eEHmEwjez6V5P.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/xikhar/status/2106527292633825693",
+        "checkedAt": "2026-10-04T08:18:07.334744+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106493673425047896",
+      "stage": "discovery",
+      "title": "Hollowmere：五种画风的可探索三维世界",
+      "titleEn": "Hollowmere: an explorable 3D world in five styles",
+      "category": "3D 与交互",
+      "summary": "作者称该三维世界完全由代码生成，使用 Opus 5.5，按 1–5 切换 Natural、Painterly、Anime、Cartoon 与 Ultra 五种画风。原帖直链公开 Claude Artifact；网页提供探索与画风切换入口，不据此推断已公开完整工程或开源许可。",
+      "summaryEn": "The creator attributes this entirely code-generated world to Opus 5.5, with keys 1–5 switching Natural, Painterly, Anime, Cartoon and Ultra styles. The post links a public Claude Artifact with exploration and style controls; this does not establish a complete published project or an open-source license.",
+      "author": {
+        "name": "Leon Lin",
+        "handle": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source": {
+        "url": "https://x.com/LexnLin/status/2106493673425047896",
+        "publishedAt": "2026-10-03T21:16:43+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 built this 3D world.",
+        "evidenceUrl": "https://x.com/LexnLin/status/2106493673425047896"
+      },
+      "media": {
+        "durationSeconds": 41.374,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106493673425047896.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106493544466698240/img/njFkEDHh_m7TJ9Id.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 98339
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LexnLin/status/2106493673425047896",
+        "checkedAt": "2026-10-04T08:18:10.486690+00:00"
+      },
+      "metrics": {
+        "bookmarks": 259,
+        "likes": 327,
+        "views": 30494,
+        "checkedAt": "2026-10-04T08:18:10.486690+00:00",
+        "sourceUrl": "https://x.com/LexnLin/status/2106493673425047896"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:10.486690+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106493544466698240/vid/avc1/1920x1080/p-pV3ZcvH4IPDEil.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LexnLin/status/2106493673425047896",
+        "checkedAt": "2026-10-04T08:18:10.803549+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://claude.ai/artifact/FTUS2WmKKUFaqTKVHE7k4f",
+          "label": "Hollowmere 公开交互世界",
+          "labelEn": "Hollowmere public interactive world",
+          "note": "作者原帖直链，网页提供探索控制与五种画风切换。已检查 Natural 到 Painterly 的界面切换；公开网页不代表完整工程或开源许可。",
+          "noteEn": "Linked directly by the creator, with exploration controls and five rendering styles. The Natural-to-Painterly interface switch was checked; the public page does not establish a complete project or an open-source license.",
+          "evidenceUrl": "https://x.com/LexnLin/status/2106493673425047896",
+          "checkedAt": "2026-10-04T08:31:00.258671+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2106466745661980904",
+      "stage": "discovery",
+      "title": "复古动画序列：Blender 与生成镜头协作",
+      "titleEn": "Retro anime sequence with Blender and generated shots",
+      "category": "叙事短片",
+      "summary": "作者公开一段复古动画序列，说明使用 Opus 5.5 与 Blender MCP、Seedance 2.5，以及由 Opus 驱动的 DaVinci Resolve Studio。记录混合制作流程，不将整个片段描述成纯代码渲染。",
+      "summaryEn": "The creator shares a retro anime sequence made with Opus 5.5 and Blender MCP, Seedance 2.5, and Opus-driven DaVinci Resolve Studio. It is a mixed production workflow rather than an entirely code-rendered film.",
+      "author": {
+        "name": "A.I.Warper",
+        "handle": "AIWarper",
+        "url": "https://x.com/AIWarper"
+      },
+      "source": {
+        "url": "https://x.com/AIWarper/status/2106466745661980904",
+        "publishedAt": "2026-10-03T19:29:43+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 + Seedance 2.5",
+        "evidenceQuote": "OPUS 5.5 + Blender MCP",
+        "evidenceUrl": "https://x.com/AIWarper/status/2106466745661980904"
+      },
+      "media": {
+        "durationSeconds": 25,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106466745661980904.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106464555870113792/img/Pci3ypStejmoTBq0.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 901,
+        "bytes": 120912
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/AIWarper/status/2106466745661980904",
+        "checkedAt": "2026-10-04T08:18:06.655173+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1577,
+        "likes": 2087,
+        "views": 240366,
+        "checkedAt": "2026-10-04T08:18:06.655173+00:00",
+        "sourceUrl": "https://x.com/AIWarper/status/2106466745661980904"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:06.655173+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106464555870113792/vid/avc1/1080x1216/acuxCfzWFn-fKVQG.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AIWarper/status/2106466745661980904",
+        "checkedAt": "2026-10-04T08:18:06.868582+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106462870745534946",
+      "stage": "discovery",
+      "title": "Gyroid 灵感的金属曲面穿越",
+      "titleEn": "A fly-through of a gyroid-inspired metallic form",
+      "category": "短动效",
+      "summary": "作者称 Codex 在 Blender 中设计了受 gyroid 启发的形体，并制作穿越几何内部的动画。原帖附件约 22 秒，展示金属曲面；不将灵感形体表述成经过数学检验的精确 gyroid 曲面。",
+      "summaryEn": "The creator says Codex designed a gyroid-inspired form in Blender and made a fly-through animation. The roughly 22-second video presents metallic surfaces; the inspired form is not described as a mathematically verified exact gyroid surface.",
+      "author": {
+        "name": "Csaplard",
+        "handle": "CsaplarD",
+        "url": "https://x.com/CsaplarD"
+      },
+      "source": {
+        "url": "https://x.com/CsaplarD/status/2106462870745534946",
+        "publishedAt": "2026-10-03T19:14:19+00:00"
+      },
+      "model": {
+        "name": "Codex（具体模型未注明）",
+        "evidenceQuote": "Codex designed this gyroid-inspired shape in Blender",
+        "evidenceUrl": "https://x.com/CsaplarD/status/2106462870745534946"
+      },
+      "media": {
+        "durationSeconds": 22,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106462870745534946.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106462802047115264/img/4KjTT_mFWF0WuSH0.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 51570
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/CsaplarD/status/2106462870745534946",
+        "checkedAt": "2026-10-04T08:19:40.071532+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 4,
+        "checkedAt": "2026-10-04T08:19:40.071532+00:00",
+        "sourceUrl": "https://x.com/CsaplarD/status/2106462870745534946"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:19:40.071532+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106462802047115264/vid/avc1/1280x720/nTJmGPVG3Moku6M8.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/CsaplarD/status/2106462870745534946",
+        "checkedAt": "2026-10-04T08:19:40.640157+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106449409978626416",
+      "stage": "discovery",
+      "title": "Mars GT：红色峡谷中的驾驶演示",
+      "titleEn": "Mars GT: a driving demo through red canyons",
+      "category": "3D 与交互",
+      "summary": "作者以 martianprompts 的一张参考图制作 Mars GT 驾驶演示，称汽车、地形、建筑与引擎声音均由代码生成，使用 Opus 5.5。原帖提供作品网页，网页同时标注制作作者与参考图作者。",
+      "summaryEn": "The creator builds the Mars GT driving demo from one reference image by martianprompts, saying its car, terrain, buildings and engine audio are generated in code with Opus 5.5. The post links the work page, which credits both the creator and the reference-image author.",
+      "author": {
+        "name": "Andrei Provkin",
+        "handle": "AndreiProvkin",
+        "url": "https://x.com/AndreiProvkin"
+      },
+      "source": {
+        "url": "https://x.com/AndreiProvkin/status/2106449409978626416",
+        "publishedAt": "2026-10-03T18:20:49+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Built with Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/AndreiProvkin/status/2106449409978626416"
+      },
+      "media": {
+        "durationSeconds": 65.689,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106449409978626416.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106445667245723648/img/gB32YWsmMznXXPen.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 413,
+        "bytes": 102978
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/AndreiProvkin/status/2106449409978626416",
+        "checkedAt": "2026-10-04T08:18:10.941767+00:00"
+      },
+      "metrics": {
+        "bookmarks": 33,
+        "likes": 53,
+        "views": 3544,
+        "checkedAt": "2026-10-04T08:18:10.941767+00:00",
+        "sourceUrl": "https://x.com/AndreiProvkin/status/2106449409978626416"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:10.941767+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106445667245723648/vid/avc1/2090x1080/O4e7LZql3bx-hTVP.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AndreiProvkin/status/2106449409978626416",
+        "checkedAt": "2026-10-04T08:18:11.174997+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://mars-gt.vercel.app/",
+          "label": "Mars GT 公开作品页",
+          "labelEn": "Mars GT public work page",
+          "note": "作者原帖提供该域名，HTTPS 页面署名为同一作者，并注明参考图作者。页面显示驾驶键位；本轮未完成驾驶操作核验。",
+          "noteEn": "The creator links this domain; its HTTPS page credits the same author and the reference-image creator. Driving controls are visible; driving interactions were not verified in this pass.",
+          "evidenceUrl": "https://x.com/AndreiProvkin/status/2106449409978626416",
+          "checkedAt": "2026-10-04T08:31:00.258671+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2106442652522885551",
+      "stage": "discovery",
+      "title": "Agent HUD：iPhone Duo 界面宣传动效",
+      "titleEn": "Agent HUD: motion graphics for an iPhone Duo interface",
+      "category": "产品宣传",
+      "summary": "作者说明用 Codex 与 GPT-6.1 Sol 调整 Agent HUD 界面，整理布局和交互设计，再制作动态图形视频。制作过程包含将三维模型导入 Blender、动画与渲染；iPhone Duo 是作者作品中的展示对象。",
+      "summaryEn": "The creator describes adapting Agent HUD with Codex and GPT-6.1 Sol, documenting layouts and interactions, then producing a motion-graphics video. The workflow includes importing a 3D model into Blender, animation and rendering. iPhone Duo is the presentation subject named in this work.",
+      "author": {
+        "name": "Jazzen Chen",
+        "handle": "Jazzen_Chen",
+        "url": "https://x.com/Jazzen_Chen"
+      },
+      "source": {
+        "url": "https://x.com/Jazzen_Chen/status/2106442652522885551",
+        "publishedAt": "2026-10-03T17:53:58+00:00"
+      },
+      "model": {
+        "name": "GPT-6.1 Sol / Codex",
+        "evidenceQuote": "Codex + GPT-6.1 Sol",
+        "evidenceUrl": "https://x.com/Jazzen_Chen/status/2106442652522885551"
+      },
+      "media": {
+        "durationSeconds": 30.144,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106442652522885551.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106442381667254272/img/XgkQ5lvK27oZxbEp.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 1067,
+        "bytes": 110995
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Jazzen_Chen/status/2106442652522885551",
+        "checkedAt": "2026-10-04T08:19:39.060414+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 90,
+        "checkedAt": "2026-10-04T08:19:39.060414+00:00",
+        "sourceUrl": "https://x.com/Jazzen_Chen/status/2106442652522885551"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:19:39.060414+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106442381667254272/vid/avc1/2160x2880/Q1BHX1YA0yfULwmk.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Jazzen_Chen/status/2106442652522885551",
+        "checkedAt": "2026-10-04T08:19:39.561699+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106426962738880879",
+      "stage": "discovery",
+      "title": "Wareflow：策略游戏式仓库管理界面",
+      "titleEn": "Wareflow: a strategy-game-style warehouse interface",
+      "category": "3D 与交互",
+      "summary": "作者把仓库管理设计成策略游戏式界面，以三维仓库、车辆和业务面板呈现操作，并说明使用 Opus 5.5 构建。当前已核对原帖演示视频，尚未找到与这项作品直接对应的公开工程。",
+      "summaryEn": "The creator presents warehouse management through a strategy-game-style interface, combining a 3D warehouse, vehicles and operational panels, and attributes the build to Opus 5.5. The original demonstration video is verified; a public source project for this exact work has not been established.",
+      "author": {
+        "name": "Dilum Sanjaya",
+        "handle": "DilumSanjaya",
+        "url": "https://x.com/DilumSanjaya"
+      },
+      "source": {
+        "url": "https://x.com/DilumSanjaya/status/2106426962738880879",
+        "publishedAt": "2026-10-03T16:51:38+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Built with Opus 5.5",
+        "evidenceUrl": "https://x.com/DilumSanjaya/status/2106426962738880879"
+      },
+      "media": {
+        "durationSeconds": 72.261,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106426962738880879.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106424641959186432/img/3yHxjLeUggq453eF.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 461,
+        "bytes": 125001
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/DilumSanjaya/status/2106426962738880879",
+        "checkedAt": "2026-10-04T08:18:06.655185+00:00"
+      },
+      "metrics": {
+        "bookmarks": 10714,
+        "likes": 13145,
+        "views": 805452,
+        "checkedAt": "2026-10-04T08:18:06.655185+00:00",
+        "sourceUrl": "https://x.com/DilumSanjaya/status/2106426962738880879"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:06.655185+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106424641959186432/vid/avc1/3456x1990/u621fCxI6iHtRNya.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/DilumSanjaya/status/2106426962738880879",
+        "checkedAt": "2026-10-04T08:18:06.893787+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106411941497389342",
+      "stage": "discovery",
+      "title": "The History of Light：约 36 分钟光学科普",
+      "titleEn": "The History of Light: an approximately 36-minute explainer",
+      "category": "知识讲解",
+      "summary": "作者让 Opus 5.5 编写并制作光的历史科普，原帖附件约 35 分 37 秒。作者列出 Gemini 3.8 Flash TTS 旁白、Lyrica 3 配乐及多种图像工具；本条核对制作声明与媒体来源，未评价全片的知识准确性。",
+      "summaryEn": "The creator asks Opus 5.5 to write and produce an explainer about the history of light; the attached film runs approximately 35 minutes 37 seconds. They list Gemini 3.8 Flash TTS narration, Lyrica 3 music and several image tools. This entry verifies the production claim and media source, without assessing the full film’s scientific accuracy.",
+      "author": {
+        "name": "am.will",
+        "handle": "LLMJunky",
+        "url": "https://x.com/LLMJunky"
+      },
+      "source": {
+        "url": "https://x.com/LLMJunky/status/2106411941497389342",
+        "publishedAt": "2026-10-03T15:51:56+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 + 多种图像与音频工具",
+        "evidenceQuote": "Opus 5.5 wrote and produced the entire film.",
+        "evidenceUrl": "https://x.com/LLMJunky/status/2106411941497389342"
+      },
+      "media": {
+        "durationSeconds": 2137.458,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106411941497389342.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106410146649833472/vid/avc1/640x360/V0tlgrdQTISfLrWl.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 640,
+        "height": 360,
+        "bytes": 36965,
+        "timeSeconds": 120
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/LLMJunky/status/2106411941497389342",
+        "checkedAt": "2026-10-04T08:18:09.246129+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 1470,
+        "likes": 1461,
+        "views": 72564,
+        "checkedAt": "2026-10-04T08:18:09.246129+00:00",
+        "sourceUrl": "https://x.com/LLMJunky/status/2106411941497389342"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:09.246129+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106410146649833472/vid/avc1/1920x1080/kWa1SO2quAqOq_F-.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LLMJunky/status/2106411941497389342",
+        "checkedAt": "2026-10-04T08:18:09.476345+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106402474676588632",
+      "stage": "discovery",
+      "title": "按节拍编排的像素角色短片",
+      "titleEn": "A beat-driven pixel character short",
+      "category": "像素与角色",
+      "summary": "作者说明画面、角色动画、配乐与音效均由代码生成，并分享按小节安排动作、限制色板、设置命中冻结帧及逐帧渲染的方法。正文提到 Opus 5.5 与 6.1 Sol 的比较；评论区完整指令本轮未取得，不补写为作者原文。",
+      "summaryEn": "The creator says the visuals, character animation, music and effects are generated in code, and describes bar-based choreography, palette limits, impact freeze frames and frame-by-frame rendering. The post compares Opus 5.5 with 6.1 Sol; the full prompt promised in replies was not retrieved in this pass.",
+      "author": {
+        "name": "余温",
+        "handle": "gkxspace",
+        "url": "https://x.com/gkxspace"
+      },
+      "source": {
+        "url": "https://x.com/gkxspace/status/2106402474676588632",
+        "publishedAt": "2026-10-03T15:14:19+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / GPT-6.1 Sol（作者对照）",
+        "evidenceQuote": "这条像素短片同时 Opus5.5 和 6.1Sol",
+        "evidenceUrl": "https://x.com/gkxspace/status/2106402474676588632"
+      },
+      "media": {
+        "durationSeconds": 27.433,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106402474676588632.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106400949342445568/img/GvRXQMDUh7wkMyU6.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 61383
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/gkxspace/status/2106402474676588632",
+        "checkedAt": "2026-10-04T08:18:08.332495+00:00"
+      },
+      "metrics": {
+        "bookmarks": 13,
+        "likes": 17,
+        "views": 5684,
+        "checkedAt": "2026-10-04T08:18:08.332495+00:00",
+        "sourceUrl": "https://x.com/gkxspace/status/2106402474676588632"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:08.332495+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106400949342445568/vid/avc1/1920x1080/eh6KxruVxgrkd0S3.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/gkxspace/status/2106402474676588632",
+        "checkedAt": "2026-10-04T08:18:08.958188+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106395987996536913",
+      "stage": "discovery",
+      "title": "人工艺术指导下的多工具音乐视频",
+      "titleEn": "A multi-tool music video under human art direction",
+      "category": "音乐与歌词",
+      "summary": "作者公开约 3 分 20 秒音乐视频，将构思、筛选与艺术指导归于人类，将歌曲、视频、剪辑、动效和调色归于 AI。制作列表包含 Opus 5.5、Higgsfield MCP、ElevenMusic、Seedance 及图像与音频分析工具；原帖也注明仍有少量跳帧与口型问题。",
+      "summaryEn": "The creator shares a roughly 3-minute-20-second music video, crediting humans for the idea, curation and art direction, and AI for the song, video, editing, motion graphics and grading. Their tool list includes Opus 5.5, Higgsfield MCP, ElevenMusic, Seedance and image/audio analysis tools; they also disclose skipped frames and lip-sync issues.",
+      "author": {
+        "name": "Alex Patrascu",
+        "handle": "maxescu",
+        "url": "https://x.com/maxescu"
+      },
+      "source": {
+        "url": "https://x.com/maxescu/status/2106395987996536913",
+        "publishedAt": "2026-10-03T14:48:33+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 + 多种视频与音频工具",
+        "evidenceQuote": "Claude Opus 5.5 Max",
+        "evidenceUrl": "https://x.com/maxescu/status/2106395987996536913"
+      },
+      "media": {
+        "durationSeconds": 200,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106395987996536913.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106392653386444800/img/xF8nxfJ_7BzYx6qc.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 77323
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/maxescu/status/2106395987996536913",
+        "checkedAt": "2026-10-04T08:18:11.694950+00:00"
+      },
+      "metrics": {
+        "bookmarks": 128,
+        "likes": 129,
+        "views": 6589,
+        "checkedAt": "2026-10-04T08:18:11.694950+00:00",
+        "sourceUrl": "https://x.com/maxescu/status/2106395987996536913"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:11.694950+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106392653386444800/vid/avc1/1920x1080/UtoyGBL1IE_FHAE0.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/maxescu/status/2106395987996536913",
+        "checkedAt": "2026-10-04T08:18:11.904443+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106387548486738010",
+      "stage": "discovery",
+      "title": "MOBA 与格斗游戏机制混合试验",
+      "titleEn": "An experiment combining MOBA and fighting-game mechanics",
+      "category": "3D 与交互",
+      "summary": "作者让 Opus 5.5 将《英雄联盟》与 Dragon Ball FighterZ 的游戏思路结合，公开了一段游戏原型录屏。原帖提供任务转述，尚未取得完整制作指令或工程。",
+      "summaryEn": "The creator asks Opus 5.5 to combine ideas from League of Legends and Dragon Ball FighterZ and shares a game-prototype recording. The post describes the task; a complete production prompt or project was not retrieved.",
+      "author": {
+        "name": "Aymane",
+        "handle": "GamefxAI",
+        "url": "https://x.com/GamefxAI"
+      },
+      "source": {
+        "url": "https://x.com/GamefxAI/status/2106387548486738010",
+        "publishedAt": "2026-10-03T14:15:01+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I asked Opus 5.5 to reverse engineer League of Legends",
+        "evidenceUrl": "https://x.com/GamefxAI/status/2106387548486738010"
+      },
+      "media": {
+        "durationSeconds": 102.533,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106387548486738010.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106387342000832512/img/LIvZT2Dt-SQD7A7I.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 139623
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/GamefxAI/status/2106387548486738010",
+        "checkedAt": "2026-10-04T08:18:10.243087+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 1009,
+        "likes": 4039,
+        "views": 419246,
+        "checkedAt": "2026-10-04T08:18:10.243087+00:00",
+        "sourceUrl": "https://x.com/GamefxAI/status/2106387548486738010"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:10.243087+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106387342000832512/vid/avc1/1280x720/XJUFBNwppHhjdOE1.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/GamefxAI/status/2106387548486738010",
+        "checkedAt": "2026-10-04T08:18:10.452417+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106375041269342691",
+      "stage": "discovery",
+      "title": "班加罗尔街区的 GTA 风游戏原型",
+      "titleEn": "A GTA-style Bangalore neighborhood game prototype",
+      "category": "3D 与交互",
+      "summary": "作者称让 Opus 5.5 在家用实验服务器上运行一夜，得到班加罗尔主题的 GTA 风游戏原型。原帖提供街区与角色录屏；具体部署方法和游戏源码本轮尚未取得。",
+      "summaryEn": "The creator says they gave Opus 5.5 a night on a homelab and obtained a GTA-style Bangalore game prototype. The post includes a neighborhood and character recording; the exact setup and game source were not retrieved in this pass.",
+      "author": {
+        "name": "axit",
+        "handle": "0xaxit",
+        "url": "https://x.com/0xaxit"
+      },
+      "source": {
+        "url": "https://x.com/0xaxit/status/2106375041269342691",
+        "publishedAt": "2026-10-03T13:25:19+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I gave Opus 5.5 one night and a homelab.",
+        "evidenceUrl": "https://x.com/0xaxit/status/2106375041269342691"
+      },
+      "media": {
+        "durationSeconds": 60.521,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106375041269342691.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106374936411680768/img/WFH09MQFztmi7tOz.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 103712
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/0xaxit/status/2106375041269342691",
+        "checkedAt": "2026-10-04T08:18:09.617777+00:00"
+      },
+      "metrics": {
+        "bookmarks": 299,
+        "likes": 552,
+        "views": 61941,
+        "checkedAt": "2026-10-04T08:18:09.617777+00:00",
+        "sourceUrl": "https://x.com/0xaxit/status/2106375041269342691"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:09.617777+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106374936411680768/vid/avc1/1280x720/lZdyHYLRJp3CsVXh.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/0xaxit/status/2106375041269342691",
+        "checkedAt": "2026-10-04T08:18:09.946789+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106323424473907257",
+      "stage": "discovery",
+      "title": "DeepSeek：天气应用的短动效试验",
+      "titleEn": "DeepSeek: a weather-app motion-graphics experiment",
+      "category": "产品宣传",
+      "summary": "作者展示 DeepSeek V4.1 Flash 的动态图形试验，称通过 API 以最高思考设置一次生成，使用 HTML、CSS、SVG、Canvas 2D 或 WebGL 绘制。视频取帧显示天气应用式界面；模型比较与一次成功的说法保留为作者陈述。",
+      "summaryEn": "The creator shares a DeepSeek V4.1 Flash motion-graphics experiment, describing a single API generation at maximum thinking using HTML, CSS, SVG, Canvas 2D or WebGL. A video frame shows a weather-app-style interface. The model comparison and one-shot claim remain the creator’s statements.",
+      "author": {
+        "name": "AJ",
+        "handle": "ItsmeAjayKV",
+        "url": "https://x.com/ItsmeAjayKV"
+      },
+      "source": {
+        "url": "https://x.com/ItsmeAjayKV/status/2106323424473907257",
+        "publishedAt": "2026-10-03T10:00:12+00:00"
+      },
+      "model": {
+        "name": "DeepSeek V4.1 Flash（作者标注）",
+        "evidenceQuote": "Created via deepseek api with max thinking.",
+        "evidenceUrl": "https://x.com/ItsmeAjayKV/status/2106323424473907257"
+      },
+      "media": {
+        "durationSeconds": 24.682,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106323424473907257.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106321214813982720/vid/avc1/640x360/m1JsjyQTuubKMl1W.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 640,
+        "height": 360,
+        "bytes": 28077,
+        "timeSeconds": 8
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ItsmeAjayKV/status/2106323424473907257",
+        "checkedAt": "2026-10-04T08:18:10.877218+00:00"
+      },
+      "metrics": {
+        "bookmarks": 43,
+        "likes": 125,
+        "views": 9947,
+        "checkedAt": "2026-10-04T08:18:10.877218+00:00",
+        "sourceUrl": "https://x.com/ItsmeAjayKV/status/2106323424473907257"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:10.877218+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106321214813982720/vid/avc1/2560x1440/H5EAbcEyBmYp36Dm.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ItsmeAjayKV/status/2106323424473907257",
+        "checkedAt": "2026-10-04T08:18:11.153739+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106313584829431901",
+      "stage": "discovery",
+      "title": "I Just Wanted to Fish：钓鱼游戏演示",
+      "titleEn": "I Just Wanted to Fish: a fishing game demonstration",
+      "category": "3D 与交互",
+      "summary": "作者展示钓鱼游戏，并称模型和动画由 Blender MCP 制作、工作流使用 Opus 5.5。原帖提供 Steam 产品页并写明试玩将随后推出，不能把该产品页当作已经可玩的浏览器演示。",
+      "summaryEn": "The creator demonstrates a fishing game and says its models and animations were made with Blender MCP in an Opus 5.5 workflow. The post links a Steam product page and says a playable demo is coming; that page does not establish an available browser demo.",
+      "author": {
+        "name": "Fork Dev",
+        "handle": "ForkedPush",
+        "url": "https://x.com/ForkedPush"
+      },
+      "source": {
+        "url": "https://x.com/ForkedPush/status/2106313584829431901",
+        "publishedAt": "2026-10-03T09:21:06+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "All models and animations made with blender mcp",
+        "evidenceUrl": "https://x.com/ForkedPush/status/2106313584829431901"
+      },
+      "media": {
+        "durationSeconds": 161.878,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106313584829431901.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106311947993927680/img/U6Kup8gtBgZcI6_u.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 85146
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ForkedPush/status/2106313584829431901",
+        "checkedAt": "2026-10-04T08:18:07.816156+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1096,
+        "likes": 1718,
+        "views": 100739,
+        "checkedAt": "2026-10-04T08:18:07.816156+00:00",
+        "sourceUrl": "https://x.com/ForkedPush/status/2106313584829431901"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:07.816156+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106311947993927680/vid/avc1/2560x1440/Fot8_lIkyzkKHYNQ.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ForkedPush/status/2106313584829431901",
+        "checkedAt": "2026-10-04T08:18:08.327580+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106307854085029889",
+      "stage": "discovery",
+      "title": "镜中奇遇：活花园交互章节",
+      "titleEn": "Through the Looking-Glass: the Garden of Live Flowers",
+      "category": "3D 与交互",
+      "summary": "作者公开爱丽丝交互小游戏的新章节：Opus 5.5 负责规划，MiniMax M3.1-Flash-Preview 负责后续实现，Gemini 3.8 Flash TTS 负责配音。Nomadic Tribe 被作者列为花朵生长交互的灵感来源，不是本作品的公开演示地址。",
+      "summaryEn": "The creator shares a new chapter of an Alice interactive game: Opus 5.5 handles planning, MiniMax M3.1-Flash-Preview handles implementation, and Gemini 3.8 Flash TTS supplies narration. Nomadic Tribe is credited as inspiration for flower-growth interaction, rather than as this work’s live demo.",
+      "author": {
+        "name": "Ring Hyacinth",
+        "handle": "ring_hyacinth",
+        "url": "https://x.com/ring_hyacinth"
+      },
+      "source": {
+        "url": "https://x.com/ring_hyacinth/status/2106307854085029889",
+        "publishedAt": "2026-10-03T08:58:20+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 + MiniMax M3.1-Flash-Preview",
+        "evidenceQuote": "后续的执行都是用 MiniMax M3.1 完成的",
+        "evidenceUrl": "https://x.com/ring_hyacinth/status/2106307854085029889"
+      },
+      "media": {
+        "durationSeconds": 115.078,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106307854085029889.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106306598536884224/img/rLEe8166VlDHMh8r.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 450,
+        "bytes": 97297
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ring_hyacinth/status/2106307854085029889",
+        "checkedAt": "2026-10-04T08:18:10.160004+00:00"
+      },
+      "metrics": {
+        "bookmarks": 99,
+        "likes": 167,
+        "views": 9229,
+        "checkedAt": "2026-10-04T08:18:10.160004+00:00",
+        "sourceUrl": "https://x.com/ring_hyacinth/status/2106307854085029889"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:10.160004+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106306598536884224/vid/avc1/1920x1080/nKJ5jr4vLVhZm9ng.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ring_hyacinth/status/2106307854085029889",
+        "checkedAt": "2026-10-04T08:18:10.385800+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106222619225895169",
+      "stage": "discovery",
+      "title": "Codex 的 Blender 魔方模型与动画",
+      "titleEn": "A Blender cube model and animation made with Codex",
+      "category": "3D 与交互",
+      "summary": "作者为 OpenAI SideQuest 展示由 Codex 完成的 Blender 三维模型与简单动画，原帖录屏显示魔方模型和 Blender 界面。未注明具体模型版本，未取得可下载的 Blender 工程。",
+      "summaryEn": "For OpenAI SideQuest, the creator shares a Blender 3D model and simple animation made with Codex. The recording shows a cube model and Blender interface. The underlying model version and a downloadable Blender project are not provided.",
+      "author": {
+        "name": "ky",
+        "handle": "Kyoung12292",
+        "url": "https://x.com/Kyoung12292"
+      },
+      "source": {
+        "url": "https://x.com/Kyoung12292/status/2106222619225895169",
+        "publishedAt": "2026-10-03T03:19:38+00:00"
+      },
+      "model": {
+        "name": "Codex（具体模型未注明）",
+        "evidenceQuote": "blender 3d model + simple animation done by codex.",
+        "evidenceUrl": "https://x.com/Kyoung12292/status/2106222619225895169"
+      },
+      "media": {
+        "durationSeconds": 25.455,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106222619225895169.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106222412643844096/img/IR7Ih-pwocXoIzXD.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 523,
+        "bytes": 55885
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Kyoung12292/status/2106222619225895169",
+        "checkedAt": "2026-10-04T08:19:39.118690+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 8,
+        "checkedAt": "2026-10-04T08:19:39.118690+00:00",
+        "sourceUrl": "https://x.com/Kyoung12292/status/2106222619225895169"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:19:39.118690+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106222412643844096/vid/avc1/1102x720/vhHtWWlXAq0ag1Og.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/Kyoung12292/status/2106222619225895169",
+        "checkedAt": "2026-10-04T08:19:39.695785+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106208810604081208",
+      "stage": "discovery",
+      "title": "How do LLMs work：可编辑代码讲解片",
+      "titleEn": "How do LLMs work: an editable code explainer",
+      "category": "知识讲解",
+      "summary": "作者用 Codex、GPT-6 Astra 与 HyperFrames 制作语言模型原理讲解片，ElevenLabs 提供旁白。作者称场景由 HTML、SVG 与 JavaScript 绘制并可编辑，原帖给出制作流程与渲染数据，尚未提供可核对的完整工程链接。",
+      "summaryEn": "The creator produces an explainer on how language models work using Codex, GPT-6 Astra and HyperFrames, with ElevenLabs narration. They describe editable scenes drawn in HTML, SVG and JavaScript and provide production/rendering figures, but an exact public project link has not been established.",
+      "author": {
+        "name": "Darcy",
+        "handle": "ItsDarcy_AI",
+        "url": "https://x.com/ItsDarcy_AI"
+      },
+      "source": {
+        "url": "https://x.com/ItsDarcy_AI/status/2106208810604081208",
+        "publishedAt": "2026-10-03T02:24:46+00:00"
+      },
+      "model": {
+        "name": "GPT-6 Astra / Codex",
+        "evidenceQuote": "The stack: Codex + Hyperframes, with ElevenLabs for narration.",
+        "evidenceUrl": "https://x.com/ItsDarcy_AI/status/2106208810604081208"
+      },
+      "media": {
+        "durationSeconds": 37.615,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106208810604081208.jpg",
+        "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2106208637773557760/img/5NiYm5S10qnjz8PY.jpg",
+        "kind": "original_post_thumbnail",
+        "width": 800,
+        "height": 451,
+        "bytes": 36266
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/ItsDarcy_AI/status/2106208810604081208",
+        "checkedAt": "2026-10-04T08:19:40.146690+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 12,
+        "views": 297,
+        "checkedAt": "2026-10-04T08:19:40.146690+00:00",
+        "sourceUrl": "https://x.com/ItsDarcy_AI/status/2106208810604081208"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:19:40.146690+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106208637773557760/vid/avc1/2274x1282/0yec8i-sB39CM2CU.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ItsDarcy_AI/status/2106208810604081208",
+        "checkedAt": "2026-10-04T08:19:40.643359+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106190496075035096",
+      "stage": "discovery",
+      "title": "2076：未来世界的 25 秒想象",
+      "titleEn": "2076: a 25-second imagined future",
+      "category": "叙事短片",
+      "summary": "作者称让 Fable 5.5 制作一支想象 2076 年世界的 25 秒视频，原帖附件约 26 秒。模型名称按作者标注记录，不将其与 Opus 的风格相似判断写成本站比较结论。",
+      "summaryEn": "The creator says they asked Fable 5.5 for a 25-second vision of the world in 2076; the attached video runs about 26 seconds. The model name is recorded as stated by the creator, and their comparison with Opus is not adopted as a catalog verdict.",
+      "author": {
+        "name": "Layton Gott",
+        "handle": "Layton_Gott",
+        "url": "https://x.com/Layton_Gott"
+      },
+      "source": {
+        "url": "https://x.com/Layton_Gott/status/2106190496075035096",
+        "publishedAt": "2026-10-03T01:12:00+00:00"
+      },
+      "model": {
+        "name": "Fable 5.5（作者标注）",
+        "evidenceQuote": "I asked it to make a 25 sec video",
+        "evidenceUrl": "https://x.com/Layton_Gott/status/2106190496075035096"
+      },
+      "media": {
+        "durationSeconds": 25.8,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2106190496075035096.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106189335095595009/vid/avc1/640x360/gIsuT2JHk4Ep-vvG.mp4?tag=29",
+        "kind": "video_frame",
+        "width": 640,
+        "height": 360,
+        "bytes": 36217,
+        "timeSeconds": 8
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/Layton_Gott/status/2106190496075035096",
+        "checkedAt": "2026-10-04T08:18:11.369152+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 74,
+        "likes": 281,
+        "views": 36427,
+        "checkedAt": "2026-10-04T08:18:11.369152+00:00",
+        "sourceUrl": "https://x.com/Layton_Gott/status/2106190496075035096"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-04T08:18:11.369152+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106189335095595009/vid/avc1/1920x1080/t0pB61oL0L-Oc-mN.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Layton_Gott/status/2106190496075035096",
+        "checkedAt": "2026-10-04T08:18:11.710455+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
       "id": "2106068105894207525",
       "stage": "discovery",
       "title": "售货机式服务菜单动效",

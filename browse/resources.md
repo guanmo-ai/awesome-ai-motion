@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-58 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+60 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -209,6 +209,12 @@
 
 - **公开网页**：[交互体验](https://datacenter.lab.sael.net/)
 
+## [Hollowmere：五种画风的可探索三维世界](../cases/2106493673425047896.md) · @LexnLin
+
+- **公开网页**：[Hollowmere 公开交互世界](https://claude.ai/artifact/FTUS2WmKKUFaqTKVHE7k4f)
+  作者原帖直链，网页提供探索控制与五种画风切换。已检查 Natural 到 Painterly 的界面切换；公开网页不代表完整工程或开源许可。
+  [链接出处](https://x.com/LexnLin/status/2106493673425047896) · 链接核对 2026-10-04 08:31 UTC
+
 ## [可拆解聚变反应堆讲解](../cases/2104216976801587629.md) · @konstantinsaifo
 
 - **公开网页**：[交互体验](https://airsup.ai/lab)
@@ -225,6 +231,12 @@
 
 - **公开网页**：[作者公开试玩页](https://soccar-one.vercel.app/)
   [链接出处](https://x.com/BlendiByl/status/2104800823620632641) · 链接核对 2026-09-29 08:35 UTC
+
+## [Mars GT：红色峡谷中的驾驶演示](../cases/2106449409978626416.md) · @AndreiProvkin
+
+- **公开网页**：[Mars GT 公开作品页](https://mars-gt.vercel.app/)
+  作者原帖提供该域名，HTTPS 页面署名为同一作者，并注明参考图作者。页面显示驾驶键位；本轮未完成驾驶操作核验。
+  [链接出处](https://x.com/AndreiProvkin/status/2106449409978626416) · 链接核对 2026-10-04 08:31 UTC
 
 ## [BLOCKWORLD：浏览器体素世界](../cases/2105020794602676465.md) · @L1vsun
 

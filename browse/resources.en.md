@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-58 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+60 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -209,6 +209,12 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Interactive demo](https://datacenter.lab.sael.net/)
 
+## [Hollowmere: an explorable 3D world in five styles](../cases/2106493673425047896.en.md) · @LexnLin
+
+- **Public web page**：[Hollowmere public interactive world](https://claude.ai/artifact/FTUS2WmKKUFaqTKVHE7k4f)
+  Linked directly by the creator, with exploration controls and five rendering styles. The Natural-to-Painterly interface switch was checked; the public page does not establish a complete project or an open-source license.
+  [Link source](https://x.com/LexnLin/status/2106493673425047896) · Link checked 2026-10-04 08:31 UTC
+
 ## [An Explorable Fusion Reactor](../cases/2104216976801587629.en.md) · @konstantinsaifo
 
 - **Public web page**：[Interactive demo](https://airsup.ai/lab)
@@ -225,6 +231,12 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Creator’s playable webpage](https://soccar-one.vercel.app/)
   [Link source](https://x.com/BlendiByl/status/2104800823620632641) · Link checked 2026-09-29 08:35 UTC
+
+## [Mars GT: a driving demo through red canyons](../cases/2106449409978626416.en.md) · @AndreiProvkin
+
+- **Public web page**：[Mars GT public work page](https://mars-gt.vercel.app/)
+  The creator links this domain; its HTTPS page credits the same author and the reference-image creator. Driving controls are visible; driving interactions were not verified in this pass.
+  [Link source](https://x.com/AndreiProvkin/status/2106449409978626416) · Link checked 2026-10-04 08:31 UTC
 
 ## [BLOCKWORLD: A Browser Voxel World](../cases/2105020794602676465.en.md) · @L1vsun
 

@@ -67,7 +67,11 @@ function fence(text) {
   return `${marker}text\n${text}\n${marker}`;
 }
 export function renderPrompt(prompt,plainPath,en=false) {
-  if(prompt.display==='source_link')return `${choose(en,'作者已公开指令；本站仅提供原帖入口，不再分发全文或译文。','The creator has shared instructions; this catalog links to the source without redistributing the full text or translation.')} [${choose(en,'查看作者原文','Read the creator’s original')}](${prompt.sourceUrl})\n`;
+  if(prompt.display==='source_link'){
+    const original=prompt.status==='original';
+    const note=original?choose(en,'作者已公开指令；本站仅提供原帖入口，不再分发全文或译文。','The creator has shared instructions; this catalog links to the source without redistributing the full text or translation.'):choose(en,'作者任务描述 · 非完整提示词。完整指令尚未取得，请查看作者原帖。','Author brief · not the complete prompt. The complete instructions have not been verified; see the creator’s post.');
+    return `${note} [${original?choose(en,'查看作者原文','Read the creator’s original'):choose(en,'查看作者原帖','View the original post')}](${prompt.sourceUrl})\n`;
+  }
   if(prompt.status==='unknown')return `${choose(en,'未取得作者公开提示词。','No public prompt has been verified.')} [${choose(en,'查看作者原帖','View the original post')}](${prompt.sourceUrl})\n`;
   const original=prompt.status==='original';
   const label=original?choose(en,'作者公开提示词','Creator’s public prompt'):choose(en,'作者任务描述 · 非完整提示词','Author brief · not the complete prompt');

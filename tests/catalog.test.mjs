@@ -263,7 +263,7 @@ test('发现池按来源核对和编目进度标记，不把完整视听评价�
   const copy=structuredClone(catalog),c=copy.cases[0];
   c.stage='discovery';c.verification.authorClaimConfirmed=true;c.verification.fullReview=false;
   c.model.name='Claude';c.model.evidenceQuote='I used Claude to make this animation';
-  c.prompt.status='unknown';c.prompt.text='';
+  c.prompt={status:'unknown',text:'',sourceUrl:c.prompt.sourceUrl,checkedAt:c.prompt.checkedAt};
   delete c.webPlayback;
   assert.deepEqual(validateCatalog(copy,root),[]);
   const outputs=buildOutputs(copy);

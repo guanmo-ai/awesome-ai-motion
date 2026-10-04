@@ -156,7 +156,8 @@ function showViewer(c,{autoplay=false}={}) {
   if(curator&&managing){const management=el('details','management-panel');management.append(el('summary','',t('管理作品','Manage work')),featuredControl(c),reviewControl(c),deleteControl(c));content.append(management);}
   if(url)content.append(el('p','detail-note',t('播放器引用作者原帖的外部视频媒体；若加载失败，请打开作者原帖。','The player uses external video media from the original post. If it fails to load, open the creator’s post.')));
   if(c.prompt.display==='source_link'){
-    content.append(details(t('作者公开指令 · 原帖入口','Creator instructions · source link'),t('作者已公开指令；本站仅链接原文，不再分发全文或译文。','The creator has shared instructions. This catalog links to the source without redistributing the full text or translation.'),{source:c.prompt.sourceUrl}));
+    const original=c.prompt.status==='original';
+    content.append(details(original?t('作者公开指令 · 原帖入口','Creator instructions · source link'):t('作者任务描述 · 非完整提示词','Author brief · not a complete prompt'),original?t('作者已公开指令；本站仅链接原文，不再分发全文或译文。','The creator has shared instructions. This catalog links to the source without redistributing the full text or translation.'):t('完整指令尚未取得，请查看作者原帖中的任务描述。','The complete instructions have not been verified; see the task brief in the creator’s post.'),{source:c.prompt.sourceUrl}));
   }else if(c.prompt.status==='unknown'){
     const unknown=el('div','prompt-unknown');unknown.append(el('strong','',t('作者提示词未公开／暂未核得','Creator prompt unpublished / not verified')),el('p','',t('目前没有可展示的作者原文或完整指令。','No creator prompt or complete instruction is available to show.')),link(t('查看作者原帖 ↗','View the creator’s post ↗'),c.prompt.sourceUrl));content.append(unknown);
   }else content.append(details(c.prompt.status==='original'?t('作者公开提示词','Creator’s public prompt'):t('作者任务描述 · 非完整提示词','Author brief · not a complete prompt'),c.prompt.text,{copyable:c.prompt.status==='original',source:c.prompt.sourceUrl}));
