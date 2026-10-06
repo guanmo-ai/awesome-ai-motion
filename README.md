@@ -4,7 +4,7 @@
 
 ## [▶ 进入作品画廊 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-**464 个作品 · 69 份公开提示词 · 25 个案例附源码**
+**581 个作品 · 83 份公开提示词 · 27 个案例附源码**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-**[浏览全部 464 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
+**[浏览全部 581 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
 
 动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。
 
@@ -70,7 +70,7 @@
 </tbody>
 </table>
 
-[探索全部 25 个源码案例 →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code) · [源码、网页与工具索引](browse/resources.md)
+[探索全部 27 个源码案例 →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code) · [源码、网页与工具索引](browse/resources.md)
 
 <details>
 <summary>继续发现：收藏最多的作品</summary>
@@ -169,7 +169,7 @@
 </tbody>
 </table>
 
-[查看全部 86 支 →](browse/product.md)
+[查看全部 110 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -188,7 +188,7 @@
 </tbody>
 </table>
 
-[查看全部 78 支 →](browse/education.md)
+[查看全部 97 支 →](browse/education.md)
 
 <a id="category-motion"></a>
 
@@ -207,7 +207,7 @@
 </tbody>
 </table>
 
-[查看全部 63 支 →](browse/motion.md)
+[查看全部 74 支 →](browse/motion.md)
 
 <a id="category-characters"></a>
 
@@ -217,16 +217,16 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102476258948927543"><img src="assets/covers/2102476258948927543.jpg" width="272" alt="像素巫师的施法循环"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862"><img src="assets/covers/2105757136219504862.jpg" width="400" alt="超人跨画风的连续动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107086714820870617"><img src="assets/covers/2107086714820870617.jpg" width="400" alt="Blender 中的圆润角色动画"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>像素巫师的施法循环</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · 角色动画</sub><br><sub>0:11 · 收藏 2,639</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102476258948927543">▶ 播放</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">原帖</a></td>
-<td width="50%" valign="top"><strong>超人跨画风的连续动画</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 角色动画</sub><br><sub>0:40 · 收藏 1,278 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">原帖</a></td>
+<td width="50%" valign="top"><strong>Blender 中的圆润角色动画</strong><br><sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · 角色动画</sub><br><sub>0:17 · 收藏 1,356 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107086714820870617">▶ 播放</a> · <a href="https://x.com/JaydenDavisNC/status/2107086714820870617">原帖</a></td>
 </tr>
 </tbody>
 </table>
 
-[查看全部 27 支 →](browse/characters.md)
+[查看全部 39 支 →](browse/characters.md)
 
 <a id="category-interactive"></a>
 
@@ -245,7 +245,7 @@
 </tbody>
 </table>
 
-[查看全部 90 支 →](browse/interactive.md)
+[查看全部 113 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@
 </tbody>
 </table>
 
-[查看全部 84 支 →](browse/stories.md)
+[查看全部 96 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -283,11 +283,11 @@
 </tbody>
 </table>
 
-[查看全部 36 支 →](browse/music.md)
+[查看全部 52 支 →](browse/music.md)
 
 首页及分类预览中的收藏榜按快照排列，并非实时榜单；README 导览单独编排，不改变作品的精选或评价状态。
 
-36 条资料已编目 · [428 条发现池资料待完善](browse/discoveries.md) · 463 个原帖媒体入口
+36 条资料已编目 · [545 条发现池资料待完善](browse/discoveries.md) · 580 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

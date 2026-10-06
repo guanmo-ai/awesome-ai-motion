@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-60 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+70 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -13,6 +13,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[DeckUse product source featured in the film](https://github.com/deckflow/deckuse) · [AGPL-3.0](https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE)
   The advertised product repository, not confirmed as the film project. It uses AGPL-3.0; modification, distribution and network-service deployment must follow its source and license obligations, not this catalog’s MIT license.
   [Link source](https://x.com/feiflow/status/2104039666093572362) · Link checked 2026-09-29 06:17 UTC
+
+## [Showtime: a motion-design skill sample](../cases/2107367735466573937.en.md) · @FavioVaz
+
+- **Related tool**：[Showtime video-production toolkit](https://github.com/FavioVazquez/showtime) · [MIT](https://github.com/FavioVazquez/showtime/blob/1c13d77844146927f5fe839afd0d05563691b970/LICENSE)
+  Linked by the creator; this is the general toolkit, not a verified project for this exact clip.
+  [Link source](https://x.com/FavioVaz/status/2107367735466573937) · Link checked 2026-10-06 16:26 UTC
 
 ## [Peach Blossom Spring: A Guided Three.js Journey](../cases/2102940980379017293.en.md) · @dotey
 
@@ -87,6 +93,12 @@ Public work pages also count as implementation references; a web link alone does
   The original post credits HyperFrames; this is the general production tool.
   [Link source](https://x.com/ideavim/status/2105231699407986785) · Link checked 2026-09-30 10:04 UTC
 
+## [docs-governance: a documentation-tool film](../cases/2107397947168362555.en.md) · @GdML1b0OFr90679
+
+- **Related tool**：[docs-governance repository](https://github.com/qshanx/docs-governance) · [MIT](https://github.com/qshanx/docs-governance/blob/520696eb519f2dd50531ba91abe5ad89478ffdf3/LICENSE)
+  The documentation-governance product linked by the creator; the film’s rendering project was not found.
+  [Link source](https://x.com/GdML1b0OFr90679/status/2107397947168362555) · Link checked 2026-10-06 16:26 UTC
+
 ## [An interactive camera lens lab](../cases/2102591147927654847.en.md) · @RyanSael
 
 - **Public web page**：[Plane of Focus lens lab](https://sael.net/plane-of-focus/)
@@ -101,6 +113,15 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Related tool**：[Creator’s hand-drawn Canvas animation skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [Link source](https://x.com/superalesha/status/2102463796149440888) · Link checked 2026-09-29 06:18 UTC
+
+## [Nine styles for explaining KV Cache](../cases/2107408409859359211.en.md) · @LufzzLiz
+
+- **Direct source**：[Source for nine KV Cache styles](https://github.com/cclank/lanshu-create-ai-presenter-video/tree/c24720a85d63b1bd494f6447e48a59384733647b/explainer/examples/kv-cache) · [MIT](https://github.com/cclank/lanshu-create-ai-presenter-video/blob/c24720a85d63b1bd494f6447e48a59384733647b/LICENSE)
+  The repository linked in the creator’s reply contains HTML, configuration and sound scripts for nine KV Cache styles. Files and topic were matched; the compilation was not independently rebuilt. External assets retain their own licenses.
+  [Link source](https://x.com/LufzzLiz/status/2107408413458309193) · Link checked 2026-10-06 16:26 UTC
+- **Related tool**：[Explainer and presenter-video skill](https://github.com/cclank/lanshu-create-ai-presenter-video) · [MIT](https://github.com/cclank/lanshu-create-ai-presenter-video/blob/c24720a85d63b1bd494f6447e48a59384733647b/LICENSE)
+  A general production skill, recorded separately from the KV Cache example source.
+  [Link source](https://x.com/LufzzLiz/status/2107408413458309193) · Link checked 2026-10-06 16:26 UTC
 
 ## [A motion explainer on similar-looking brand logos](../cases/2105580875299836388.en.md) · @charliejhills
 
@@ -137,6 +158,12 @@ Public work pages also count as implementation references; a web link alone does
   The creator’s complete visual and audio code; run the page or save the HTML. No redistribution license was found.
   [Link source](https://justinperea.com/lab/ex-nihilo) · Link checked 2026-09-29 05:50 UTC
 
+## [Anidoodle: code-drawn motion and music](../cases/2107086004964282814.en.md) · @alexgreensh
+
+- **Related tool**：[Anidoodle code-drawing toolkit](https://github.com/alexgreensh/anidoodle) · [Apache-2.0](https://github.com/alexgreensh/anidoodle/blob/f649db6eb823562ae41608119beb53f04d9d7c05/LICENSE)
+  Linked in the creator’s reply, with code-drawing, motion and sound tools.
+  [Link source](https://x.com/alexgreensh/status/2107088543902318759) · Link checked 2026-10-06 16:26 UTC
+
 ## [Code Animation of an Ant Colony](../cases/2102742924148830211.en.md) · @hanifproduktif
 
 - **Direct source**：[Ant-colony example film source](https://github.com/buildwithhanif/claude-animation-skill/tree/main/examples/ant-colony) · [MIT](https://github.com/buildwithhanif/claude-animation-skill/blob/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/LICENSE)
@@ -150,6 +177,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Session Story animation skill](https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story) · [Apache-2.0](https://github.com/heygen-com/hyperframes-community-skills/blob/ba7a0bb6d3567d124c51f6074625043bfe0b32eb/LICENSE)
   Provides the skill and example engine, not the creator’s private session history. The bundled engine has a separate MIT license.
   [Link source](https://x.com/jake11moran/status/2103247490237825416) · Link checked 2026-09-29 06:17 UTC
+
+## [A Roblox magical-effects refinement](../cases/2107484860717973791.en.md) · @JohnKlerAI
+
+- **Public web page**：[Roblox Effects Showcase](https://www.roblox.com/games/115404945679619/Effects-Showcase)
+  The creator links this showcase for other effects; the title was matched but the Roblox client was not launched.
+  [Link source](https://x.com/JohnKlerAI/status/2107484860717973791) · Link checked 2026-10-06 16:26 UTC
 
 ## [Kākāpō Celebration in Pixel Art](../cases/2104002636513206422.en.md) · @simonw
 
@@ -176,6 +209,12 @@ Public work pages also count as implementation references; a web link alone does
 ## [CatWalk: A Black Cat by a Moonlit Canal](../cases/2104003920251257328.en.md) · @blitast\_studio
 
 - **Public web page**：[Interactive demo](https://blitastxyz.itch.io/catwalk)
+
+## [Oh, the Places: an interactive storybook](../cases/2107139500980007379.en.md) · @EKeric13
+
+- **Public web page**：[Interactive storybook](https://oh-the-places-storybook-ek.ekeric13.chatgpt.site/)
+  The storybook page linked by the creator matches the work title; narration and interactions were not fully tested.
+  [Link source](https://x.com/EKeric13/status/2107139500980007379) · Link checked 2026-10-06 16:26 UTC
 
 ## [Spiderbench: Swinging Through a Browser City](../cases/2104001664793600012.en.md) · @xikhar
 
@@ -208,6 +247,12 @@ Public work pages also count as implementation references; a web link alone does
 ## [An Interactive 3D Tour Inside a Data Center](../cases/2102740041621762166.en.md) · @RyanSael
 
 - **Public web page**：[Interactive demo](https://datacenter.lab.sael.net/)
+
+## [Sunset Alley: a watercolor miniature world](../cases/2105990418886480092.en.md) · @akakuma0219
+
+- **Public web page**：[Sunset Alley public artifact](https://claude.ai/artifact/XwogHC9gVtAN469xv4Axf7)
+  Reached through item 25 of the diorama catalog linked by the creator; the title and Akakumaya attribution match. Scene interactions were not fully tested.
+  [Link source](https://claude.ai/artifact/PPSchejbnywNbPnAurCBSk) · Link checked 2026-10-06 16:26 UTC
 
 ## [Hollowmere: an explorable 3D world in five styles](../cases/2106493673425047896.en.md) · @LexnLin
 
@@ -246,6 +291,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Play BLOCKWORLD](https://l1vsun.github.io/BLOCKWORLD/)
   The public page linked in the creator’s reply; code licensing is listed separately for the repository.
   [Link source](https://x.com/L1vsun/status/2105020881894277419) · Link checked 2026-09-30 10:13 UTC
+
+## [Apple Park: a browser tour](../cases/2107499672915021992.en.md) · @RyanSael
+
+- **Public web page**：[Apple Park interactive tour](https://sael.net/apple-park/)
+  Direct creator link with matching attribution; switching from model to section view was visually checked.
+  [Link source](https://x.com/RyanSael/status/2107499672915021992) · Link checked 2026-10-06 16:26 UTC
 
 ## [Updraft: a game trailer for 21 worlds](../cases/2106065029850091943.en.md) · @EMostaque
 
@@ -304,6 +355,15 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Tekapo Polaris house walkthrough](https://tekapo-polaris.vercel.app/)
   [Link source](https://x.com/truenyl/status/2104242902218285246) · Link checked 2026-09-29 05:50 UTC
+
+## [Flying through rainy Kowloon](../cases/2107461457936093325.en.md) · @Billpwchan
+
+- **Public web page**：[NEON ZENITH browser city](https://zenith.billpwchan.art/)
+  Direct creator link; the city start screen and controls were viewed, but flight interactions were not verified.
+  [Link source](https://x.com/Billpwchan/status/2107461457936093325) · Link checked 2026-10-06 16:26 UTC
+- **Direct source**：[NEON ZENITH source project](https://github.com/billpwchan/neon-zenith) · [MIT](https://github.com/billpwchan/neon-zenith/blob/27ad04ef04aa9e1e1366fccc63e15a379b999f01/LICENSE)
+  Linked from the creator’s work page, with city, vehicle, input and rendering code. External models, textures and fonts retain their own licenses; the project was not independently run.
+  [Link source](https://zenith.billpwchan.art/) · Link checked 2026-10-06 16:28 UTC
 
 ## [Memory Fading into Watercolor: A Coded Short](../cases/2104186357824487573.en.md) · @techartist\_
 
@@ -384,3 +444,9 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Songbie: 72-second crayon animation preview](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
   The work video linked by the README at the pinned SHA; the creator's post is the external demo evidence. The rendered video/audio has sound-source boundaries outside the code license, so MIT should not be taken as a grant to redistribute the finished media.
   [Link source](https://x.com/JohnnyWang8802/status/2105304203770118434) · Link checked 2026-10-01 16:08 UTC
+
+## [Word Is Bond: The Merchant of Venice](../cases/2106883204762185728.en.md) · @DFakkeldy
+
+- **Related tool**：[Claude Animation Base toolkit](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
+  The credited p5.js and p5.brush animation base; not the complete project for this musical adaptation.
+  [Link source](https://x.com/DFakkeldy/status/2106883204762185728) · Link checked 2026-10-06 16:26 UTC

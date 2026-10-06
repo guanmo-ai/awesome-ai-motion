@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-60 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+70 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -13,6 +13,12 @@
 - **相关工具**：[宣传片所介绍的 DeckUse 产品源码](https://github.com/deckflow/deckuse) · [AGPL-3.0](https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE)
   被介绍的产品仓库，未确认包含该宣传片工程。采用 AGPL-3.0；修改、分发或部署网络服务须遵守其源码与许可义务，不能改标为本站 MIT。
   [链接出处](https://x.com/feiflow/status/2104039666093572362) · 链接核对 2026-09-29 06:17 UTC
+
+## [Showtime：动态设计技能样片](../cases/2107367735466573937.md) · @FavioVaz
+
+- **相关工具**：[Showtime 视频制作工具](https://github.com/FavioVazquez/showtime) · [MIT](https://github.com/FavioVazquez/showtime/blob/1c13d77844146927f5fe839afd0d05563691b970/LICENSE)
+  作者原帖直链；此项是通用工具，未核得本条样片的完整工程。
+  [链接出处](https://x.com/FavioVaz/status/2107367735466573937) · 链接核对 2026-10-06 16:26 UTC
 
 ## [桃花源记：循文入境的三维长卷](../cases/2102940980379017293.md) · @dotey
 
@@ -87,6 +93,12 @@
   作者原帖注明使用 HyperFrames；此为通用制作工具。
   [链接出处](https://x.com/ideavim/status/2105231699407986785) · 链接核对 2026-09-30 10:04 UTC
 
+## [docs-governance：文档治理宣传片](../cases/2107397947168362555.md) · @GdML1b0OFr90679
+
+- **相关工具**：[docs-governance 项目仓库](https://github.com/qshanx/docs-governance) · [MIT](https://github.com/qshanx/docs-governance/blob/520696eb519f2dd50531ba91abe5ad89478ffdf3/LICENSE)
+  作者原帖介绍的文档治理产品仓库；未核得宣传片的渲染工程。
+  [链接出处](https://x.com/GdML1b0OFr90679/status/2107397947168362555) · 链接核对 2026-10-06 16:26 UTC
+
 ## [用镜头实验室解释对焦](../cases/2102591147927654847.md) · @RyanSael
 
 - **公开网页**：[镜头对焦实验室](https://sael.net/plane-of-focus/)
@@ -101,6 +113,15 @@
 
 - **相关工具**：[作者的手绘 Canvas 动画 Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [链接出处](https://x.com/superalesha/status/2102463796149440888) · 链接核对 2026-09-29 06:18 UTC
+
+## [九种 KV Cache 讲解风格](../cases/2107408409859359211.md) · @LufzzLiz
+
+- **直接源码**：[KV Cache 九种风格示例源码](https://github.com/cclank/lanshu-create-ai-presenter-video/tree/c24720a85d63b1bd494f6447e48a59384733647b/explainer/examples/kv-cache) · [MIT](https://github.com/cclank/lanshu-create-ai-presenter-video/blob/c24720a85d63b1bd494f6447e48a59384733647b/LICENSE)
+  作者同帖回复链接的仓库提供九种风格的 HTML、配置与音效脚本。已核对文件及主题对应；尚未独立重建整段合集。代码许可不覆盖外部字体、音频或其他单独授权素材。
+  [链接出处](https://x.com/LufzzLiz/status/2107408413458309193) · 链接核对 2026-10-06 16:26 UTC
+- **相关工具**：[讲解视频与数字人制作 Skill](https://github.com/cclank/lanshu-create-ai-presenter-video) · [MIT](https://github.com/cclank/lanshu-create-ai-presenter-video/blob/c24720a85d63b1bd494f6447e48a59384733647b/LICENSE)
+  通用制作 Skill，与上面的 KV Cache 示例源码分开标记。
+  [链接出处](https://x.com/LufzzLiz/status/2107408413458309193) · 链接核对 2026-10-06 16:26 UTC
 
 ## [品牌标志趋同的动效讲解](../cases/2105580875299836388.md) · @charliejhills
 
@@ -137,6 +158,12 @@
   作者提供的完整画面与声音代码；网页可运行或另存为 HTML，未见再分发许可。
   [链接出处](https://justinperea.com/lab/ex-nihilo) · 链接核对 2026-09-29 05:50 UTC
 
+## [Anidoodle：代码绘制与配乐样片](../cases/2107086004964282814.md) · @alexgreensh
+
+- **相关工具**：[Anidoodle 代码绘画工具](https://github.com/alexgreensh/anidoodle) · [Apache-2.0](https://github.com/alexgreensh/anidoodle/blob/f649db6eb823562ae41608119beb53f04d9d7c05/LICENSE)
+  作者同帖回复提供链接，仓库包含绘画、动效和声音制作工具。
+  [链接出处](https://x.com/alexgreensh/status/2107088543902318759) · 链接核对 2026-10-06 16:26 UTC
+
 ## [蚂蚁群落的代码动画](../cases/2102742924148830211.md) · @hanifproduktif
 
 - **直接源码**：[蚂蚁群落示例影片源码](https://github.com/buildwithhanif/claude-animation-skill/tree/main/examples/ant-colony) · [MIT](https://github.com/buildwithhanif/claude-animation-skill/blob/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/LICENSE)
@@ -150,6 +177,12 @@
 - **相关工具**：[Session Story：会话动画 Skill](https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story) · [Apache-2.0](https://github.com/heygen-com/hyperframes-community-skills/blob/ba7a0bb6d3567d124c51f6074625043bfe0b32eb/LICENSE)
   提供制作工具和示例引擎；不包含作者的私人会话记录。内置引擎另附 MIT 许可。
   [链接出处](https://x.com/jake11moran/status/2103247490237825416) · 链接核对 2026-09-29 06:17 UTC
+
+## [Roblox 魔法特效修改试验](../cases/2107484860717973791.md) · @JohnKlerAI
+
+- **公开网页**：[Roblox 特效展示场](https://www.roblox.com/games/115404945679619/Effects-Showcase)
+  作者原帖提供的其他特效展示场，网页标题对应；本轮未启动 Roblox 客户端。
+  [链接出处](https://x.com/JohnKlerAI/status/2107484860717973791) · 链接核对 2026-10-06 16:26 UTC
 
 ## [鸮鹦鹉繁殖季：演讲结尾像素动画](../cases/2104002636513206422.md) · @simonw
 
@@ -176,6 +209,12 @@
 ## [CatWalk：月夜运河边的黑猫](../cases/2104003920251257328.md) · @blitast\_studio
 
 - **公开网页**：[交互体验](https://blitastxyz.itch.io/catwalk)
+
+## [Oh, the Places：交互式故事书](../cases/2107139500980007379.md) · @EKeric13
+
+- **公开网页**：[交互式故事书](https://oh-the-places-storybook-ek.ekeric13.chatgpt.site/)
+  作者原帖提供的故事书网页，标题与作品对应；本轮未完整验证朗读与互动功能。
+  [链接出处](https://x.com/EKeric13/status/2107139500980007379) · 链接核对 2026-10-06 16:26 UTC
 
 ## [Spiderbench：浏览器里的城市荡行](../cases/2104001664793600012.md) · @xikhar
 
@@ -208,6 +247,12 @@
 ## [数据中心内部的交互式 3D 导览](../cases/2102740041621762166.md) · @RyanSael
 
 - **公开网页**：[交互体验](https://datacenter.lab.sael.net/)
+
+## [夕阳小巷：水彩风箱庭](../cases/2105990418886480092.md) · @akakuma0219
+
+- **公开网页**：[夕阳小巷公开作品](https://claude.ai/artifact/XwogHC9gVtAN469xv4Axf7)
+  从作者原帖所链箱庭目录的第 25 项进入，作品名与 Akakumaya 署名对应；本轮未完整验证场景操作。
+  [链接出处](https://claude.ai/artifact/PPSchejbnywNbPnAurCBSk) · 链接核对 2026-10-06 16:26 UTC
 
 ## [Hollowmere：五种画风的可探索三维世界](../cases/2106493673425047896.md) · @LexnLin
 
@@ -246,6 +291,12 @@
 - **公开网页**：[BLOCKWORLD 试玩](https://l1vsun.github.io/BLOCKWORLD/)
   作者同帖回复的公开网页，仓库另列代码许可。
   [链接出处](https://x.com/L1vsun/status/2105020881894277419) · 链接核对 2026-09-30 10:13 UTC
+
+## [Apple Park：浏览器虚拟导览](../cases/2107499672915021992.md) · @RyanSael
+
+- **公开网页**：[Apple Park 交互导览](https://sael.net/apple-park/)
+  作者原帖直链，网页署名指向同一作者；已核验模型到剖面的切换与实际画面。
+  [链接出处](https://x.com/RyanSael/status/2107499672915021992) · 链接核对 2026-10-06 16:26 UTC
 
 ## [Updraft：21 个世界的游戏宣传片](../cases/2106065029850091943.md) · @EMostaque
 
@@ -304,6 +355,15 @@
 
 - **公开网页**：[Tekapo Polaris 房屋漫游](https://tekapo-polaris.vercel.app/)
   [链接出处](https://x.com/truenyl/status/2104242902218285246) · 链接核对 2026-09-29 05:50 UTC
+
+## [雨夜九龙的三维飞行](../cases/2107461457936093325.md) · @Billpwchan
+
+- **公开网页**：[NEON ZENITH 在线城市](https://zenith.billpwchan.art/)
+  作者原帖直链；已载入城市开始画面并查看控制说明，未完成飞行操作核验。
+  [链接出处](https://x.com/Billpwchan/status/2107461457936093325) · 链接核对 2026-10-06 16:26 UTC
+- **直接源码**：[NEON ZENITH 作品源码](https://github.com/billpwchan/neon-zenith) · [MIT](https://github.com/billpwchan/neon-zenith/blob/27ad04ef04aa9e1e1366fccc63e15a379b999f01/LICENSE)
+  作者作品页的源码直链；仓库含城市、车辆、输入控制与渲染代码。外部模型、纹理与字体保留各自授权。尚未独立运行工程。
+  [链接出处](https://zenith.billpwchan.art/) · 链接核对 2026-10-06 16:28 UTC
 
 ## [记忆褪成水彩：代码绘制的短片](../cases/2104186357824487573.md) · @techartist\_
 
@@ -384,3 +444,9 @@
 - **公开网页**：[送别：72 秒蜡笔动画样片](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
   固定 SHA 下 README 指向的作品视频；作者原帖提供外部演示证据。视频和音频输出含源代码许可之外的声音素材边界，勿据 MIT 推断成品媒体的再分发权。
   [链接出处](https://x.com/JohnnyWang8802/status/2105304203770118434) · 链接核对 2026-10-01 16:08 UTC
+
+## [Word Is Bond：威尼斯商人音乐改编](../cases/2106883204762185728.md) · @DFakkeldy
+
+- **相关工具**：[Claude Animation Base 动画基础](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
+  作者列明的动画基础工具，使用 p5.js 与 p5.brush；不是该音乐改编的完整工程。
+  [链接出处](https://x.com/DFakkeldy/status/2106883204762185728) · 链接核对 2026-10-06 16:26 UTC

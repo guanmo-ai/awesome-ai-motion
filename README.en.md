@@ -4,7 +4,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 
 ## [▶ Enter the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-**464 works · 69 public prompts · 25 works with source code**
+**581 works · 83 public prompts · 27 works with source code**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 </tbody>
 </table>
 
-**[Browse all 464 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
+**[Browse all 581 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
 
 An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.
 
@@ -70,7 +70,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 25 works with source →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en) · [Source, web pages & tools index](browse/resources.en.md)
+[Explore all 27 works with source →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en) · [Source, web pages & tools index](browse/resources.en.md)
 
 <details>
 <summary>Keep exploring: most-bookmarked works</summary>
@@ -169,7 +169,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 86 works →](browse/product.en.md)
+[Explore all 110 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -188,7 +188,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 78 works →](browse/education.en.md)
+[Explore all 97 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -207,7 +207,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 63 works →](browse/motion.en.md)
+[Explore all 74 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -217,16 +217,16 @@ These works include public source links from their creators. Explore the impleme
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102476258948927543"><img src="assets/covers/2102476258948927543.jpg" width="272" alt="A pixel wizard casting spells"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862"><img src="assets/covers/2105757136219504862.jpg" width="400" alt="Superman across changing art styles"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107086714820870617"><img src="assets/covers/2107086714820870617.jpg" width="400" alt="Rounded characters animated in Blender"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A pixel wizard casting spells</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · Pixel art &amp; characters</sub><br><sub>0:11 · Bookmarks 2,639</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102476258948927543">▶ Play</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post</a></td>
-<td width="50%" valign="top"><strong>Superman across changing art styles</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Pixel art &amp; characters</sub><br><sub>0:40 · Bookmarks 1,278 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862">▶ Play</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">Original post</a></td>
+<td width="50%" valign="top"><strong>Rounded characters animated in Blender</strong><br><sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · Pixel art &amp; characters</sub><br><sub>0:17 · Bookmarks 1,356 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107086714820870617">▶ Play</a> · <a href="https://x.com/JaydenDavisNC/status/2107086714820870617">Original post</a></td>
 </tr>
 </tbody>
 </table>
 
-[Explore all 27 works →](browse/characters.en.md)
+[Explore all 39 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -245,7 +245,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 90 works →](browse/interactive.en.md)
+[Explore all 113 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 84 works →](browse/stories.en.md)
+[Explore all 96 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -283,11 +283,11 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 36 works →](browse/music.en.md)
+[Explore all 52 works →](browse/music.en.md)
 
 Homepage and category previews retain bookmark-snapshot sections, not live counts. README introductions are arranged separately and do not change review or featured status.
 
-36 catalogued records · [428 discovery records with details pending](browse/discoveries.en.md) · 463 original video sources
+36 catalogued records · [545 discovery records with details pending](browse/discoveries.en.md) · 580 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 
