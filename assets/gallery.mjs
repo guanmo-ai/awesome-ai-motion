@@ -1,8 +1,9 @@
-import {resourceLinks,resourceLabel,REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs?v=20260929-source-web';
+import {resourceLinks,resourceLabel,REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs?v=20261009-filters';
 const $ = id => document.getElementById(id);
 let state = readState(location.href), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let curator=null,managing=false,mutationPending=false;
 let visibleCount=PAGE_SIZE;
+let searchTimer=null;
 let playbackTimer=null,playbackAbort=null;
 const PLAYBACK_TIMEOUT_MS=12000;
 const filterKeys=['category','query','sort','playable','duration','prompt','resource'];
@@ -14,7 +15,7 @@ function link(label,url,className='') { const node=el('a',className,label); cons
 function date(value) { const parsed=new Date(value); return Number.isNaN(parsed.valueOf()) ? '—' : new Intl.DateTimeFormat(state.lang === 'en' ? 'en-US' : 'zh-CN',{dateStyle:'medium',timeZone:'UTC'}).format(parsed); }
 function image(c, lazy=true) { const img=el('img'); img.alt=title(c); img.decoding='async'; if(lazy) img.loading='lazy'; const path=coverPath(c.cover?.path); if(path) img.src=path; img.addEventListener('error',()=>{img.replaceWith(el('span','cover-fallback',t('封面暂时无法显示','Preview unavailable')));},{once:true}); return img; }
 async function copy(text,button,label) { try { await navigator.clipboard.writeText(text); button.textContent=t('已复制','Copied'); } catch { button.textContent=t('复制失败，请选中文字复制','Copy failed; select and copy the text'); } setTimeout(()=>{if(button.isConnected) button.textContent=label;},2500); }
-function navigate(patch,{replace=false,detail=false}={}) { const next={...state,...patch},filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;history[replace?'replaceState':'pushState']({galleryDetail:replace ? Boolean(history.state?.galleryDetail) && Boolean(state.caseId) : detail},'',stateUrl(state,location.href));if(listChanged)render();syncViewer({autoplay:detail,refresh:languageChanged}); }
+function navigate(patch,{replace=false,detail=false}={}) { if(searchTimer){clearTimeout(searchTimer);searchTimer=null;patch={page:'all',query:$('search').value,...patch};}const next={...state,...patch},filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;history[replace?'replaceState':'pushState']({galleryDetail:replace ? Boolean(history.state?.galleryDetail) && Boolean(state.caseId) : detail},'',stateUrl(state,location.href));if(listChanged)render();syncViewer({autoplay:detail,refresh:languageChanged}); }
 function onHome() { return state.page==='home'; }
 function openCollection(patch) { navigate(patch);window.scrollTo(0,0); }
 function renderLanguage() {
@@ -23,15 +24,15 @@ function renderLanguage() {
   $('follow-creator').setAttribute('aria-label',t('在 X 关注观默 @guanmo_ai（新标签页）','Follow Guanmo @guanmo_ai on X (new tab)'));
   $('creator-role').textContent=t('发起与维护','Created & maintained by');
   $('creator-name').textContent=t('观默','Guanmo');
-  const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'intro-text':['看作品，认识作者，找到下一次创作的灵感。','Watch the work, meet its maker, find your next idea.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'duration-label':['时长','Duration'],'prompt-label':['提示词','Prompt'],'resource-label':['源码与网页','Source & web pages'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
+  const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'intro-text':['看作品，认识作者，找到下一次创作的灵感。','Watch the work, meet its maker, find your next idea.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'duration-label':['时长','Duration'],'prompt-label':['提示词资料','Prompt materials'],'resource-label':['可访问资源','Available resources'],'prompt-help':['提示词原文是作者公开的指令；创作描述是目标或做法的说明，不是提示词原文。','Original prompts are instructions shared by the creator. A description explains the goal or approach, rather than providing the prompt.'],'resource-help':['源码是作品工程或代码；作品网页可直接访问；相关工具不代表该作品源码。','Source code is the work’s project or code. A work page can be visited directly. Related tools are not the work’s source code.'],'clear-filters':['清除筛选','Clear filters'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
   for(const [id,words] of Object.entries(strings)) $(id).textContent=t(...words);
   $('page-home').textContent=t('首页','Home');$('page-all').textContent=t('全部作品','All works');
   $('search').placeholder=t('搜索作品、作者或风格…','Search works, creators or styles…');
   const sortLabels={bookmarks:['收藏最多','Most bookmarked'],featured:['推荐浏览','Recommended browsing'],latest:['最新发布','Newest posts']};
   [...$('sort').options].forEach(option=>{option.textContent=t(...sortLabels[option.value]);});
   [...$('duration').options].forEach((option,i)=>{option.textContent=t(...[['全部时长','Any length'],['30 秒以内','Up to 30s'],['31–120 秒','31–120s'],['超过 120 秒','Over 120s']][i]);});
-  [...$('prompt').options].forEach((option,i)=>{option.textContent=t(...[['全部状态','Any prompt'],['作者原文','Original prompt'],['任务描述','Creator brief'],['未公开／未核得','Unpublished / unverified']][i]);});
-  [...$('resource').options].forEach((option,i)=>{option.textContent=t(...[['全部作品','All works'],['源码或公开网页','Source or web page'],['直接源码','Direct source'],['公开网页','Public web page'],['相关工具','Related tools']][i]);});
+  [...$('prompt').options].forEach((option,i)=>{option.textContent=t(...[['不限资料','Any materials'],['有提示词原文','Original prompt'],['仅创作描述','Description only'],['未收录提示词','No prompt collected']][i]);});
+  [...$('resource').options].forEach((option,i)=>{option.textContent=t(...[['不限资源','Any resources'],['有源码或作品网页','Source or work page'],['有作品源码','Work source code'],['有作品网页','Work web page'],['有相关工具','Related tools']][i]);});
   $('page-resources').textContent=t('源码与网页','Source & web pages');
   $('close').setAttribute('aria-label',t('关闭作品详情','Close work details'));
 }
@@ -44,6 +45,7 @@ function render() {
   const activeFilters=Number(state.duration!=='all')+Number(state.prompt!=='all')+Number(state.playable)+Number(state.resource!=='all');
   $('filter-summary').textContent=activeFilters?t(`筛选作品 · ${activeFilters} 项已启用`,`Filters · ${activeFilters} active`):t('筛选作品','Filter works');
   if(activeFilters)$('advanced-filters').open=true;
+  $('clear-filters').hidden=!(activeFilters||state.category!=='all'||state.query.trim());
   $('coverage-count').textContent=t(`${cases.length} 个作品`,`${cases.length} works`);
   const focusedCategory=document.activeElement?.dataset.category;
   const counts=categoryCounts(cases,state);
@@ -70,11 +72,11 @@ function render() {
       return group;
     }));
     $('pagination').hidden=true;
-  } else { $('works').replaceChildren(...(state.category==='all'?selected:pageCases(selected,visibleCount).visible).map(c=>card(c)));renderPagination(selected); }
+  } else { $('works').replaceChildren(...pageCases(selected,visibleCount).visible.map(c=>card(c)));renderPagination(selected); }
   $('empty').hidden=selected.length!==0;
 }
 function renderPagination(selected) {
-  const {visible,remaining}=pageCases(selected,state.category==='all'?selected.length:visibleCount);
+  const {visible,remaining}=pageCases(selected,visibleCount);
   $('pagination').hidden=selected.length===0;
   $('shown-count').textContent=t(`已显示 ${visible.length} / ${selected.length}`,`Showing ${visible.length} of ${selected.length}`);
   $('load-more').hidden=remaining===0;
@@ -208,12 +210,18 @@ let backdropDown=false;$('viewer').addEventListener('pointerdown',event=>{const 
 $('page-home').addEventListener('click',()=>openCollection({page:'home',category:'all',query:'',sort:'bookmarks',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null}));
 $('page-resources').addEventListener('click',()=>openCollection({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'any',caseId:null}));
 $('page-all').addEventListener('click',()=>openCollection({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null}));
-$('search').addEventListener('input',()=>navigate({page:'all',query:$('search').value,caseId:null},{replace:state.page==='all'}));$('sort').addEventListener('change',()=>navigate({page:'all',sort:$('sort').value,caseId:null}));$('playable').addEventListener('change',()=>navigate({page:'all',playable:$('playable').checked,caseId:null}));
+function applySearch(){clearTimeout(searchTimer);searchTimer=null;navigate({page:'all',query:$('search').value,caseId:null},{replace:state.page==='all'});}
+function scheduleSearch(){clearTimeout(searchTimer);searchTimer=setTimeout(applySearch,140);}
+$('search').addEventListener('input',event=>{if(!event.isComposing)scheduleSearch();});
+$('search').addEventListener('compositionstart',()=>{clearTimeout(searchTimer);searchTimer=null;});
+$('search').addEventListener('compositionend',scheduleSearch);
+$('search').addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.isComposing)applySearch();});$('sort').addEventListener('change',()=>navigate({page:'all',sort:$('sort').value,caseId:null}));$('playable').addEventListener('change',()=>navigate({page:'all',playable:$('playable').checked,caseId:null}));
 for(const id of ['duration','prompt','resource'])$(id).addEventListener('change',()=>navigate({page:'all',[id]:$(id).value,caseId:null}));
-$('reset').addEventListener('click',()=>{$('advanced-filters').open=false;navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});});
+function clearFilters(){$('advanced-filters').open=false;navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});$('search').focus({preventScroll:true});}
+$('reset').addEventListener('click',clearFilters);$('clear-filters').addEventListener('click',clearFilters);
 $('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(c=>card(c)));renderPagination(selected);});
 $('language').addEventListener('click',()=>navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true}));
-function onLocation(){const next=readState(location.href),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
+function onLocation(){clearTimeout(searchTimer);searchTimer=null;const next=readState(location.href),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
 try { const response=await fetch('./data/cases.json');if(!response.ok)throw new Error('Catalog unavailable');const catalog=await response.json();if(!Array.isArray(catalog.cases))throw new Error('Invalid catalog');cases=catalog.cases;$('loading').hidden=true;render();syncViewer(); }catch { renderLanguage();$('loading').textContent=t('作品列表暂时无法载入。请刷新重试，或从上方 GitHub 入口浏览。若在本地打开，请使用 HTTP 静态服务器预览。','The catalog could not load. Refresh or browse via GitHub above. For a local preview, use an HTTP static server.'); }
 
 function renderCuration() {

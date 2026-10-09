@@ -62,6 +62,7 @@ export function matches(item, state, ignoreCategory = false) {
   const seconds=item.media?.durationSeconds;
   if (state.duration && state.duration !== 'all' && (!Number.isFinite(seconds) || seconds < 0 || (state.duration === 'short' ? seconds > 30 : state.duration === 'medium' ? seconds <= 30 || seconds > 120 : seconds <= 120))) return false;
   if (state.playable && !playbackUrl(item)) return false;
+  if(!state.query.trim())return true;
   const fields = [item.title,item.titleEn,item.summary,item.summaryEn,item.author?.name,item.author?.handle,item.category,...resourceLinks(item).flatMap(r=>[r.label,r.labelEn,r.url]),...tagsOf(item,'zh'),...tagsOf(item,'en'),CATEGORIES.find(c=>c.id===categoryOf(item))?.en].join(' ').toLocaleLowerCase();
   return state.query.trim().toLocaleLowerCase().split(/\s+/).every(term => fields.includes(term));
 }
