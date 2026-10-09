@@ -44,7 +44,7 @@ function render() {
   const activeFilters=Number(state.duration!=='all')+Number(state.prompt!=='all')+Number(state.playable)+Number(state.resource!=='all');
   $('filter-summary').textContent=activeFilters?t(`筛选作品 · ${activeFilters} 项已启用`,`Filters · ${activeFilters} active`):t('筛选作品','Filter works');
   if(activeFilters)$('advanced-filters').open=true;
-  $('coverage-count').textContent=t(`${cases.length} 个作品，按类别继续探索。`,`${cases.length} works to explore by category.`);
+  $('coverage-count').textContent=t(`${cases.length} 个作品`,`${cases.length} works`);
   const focusedCategory=document.activeElement?.dataset.category;
   const counts=categoryCounts(cases,state);
   $('categories').replaceChildren(...CATEGORIES.slice(1).map(category=>{ const button=el('button','category');button.type='button';button.dataset.category=category.id;button.setAttribute('aria-pressed',String(state.page==='all'&&state.category===category.id));button.append(el('span','',category[state.lang]),el('span','category-count',counts[category.id]));button.addEventListener('click',()=>openCollection({page:'all',category:category.id,caseId:null}));return button; }));

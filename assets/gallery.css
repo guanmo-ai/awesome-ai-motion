@@ -44,10 +44,13 @@ button:disabled{opacity:.55;cursor:wait}.delete-status{color:#a63827}
 /* Keep the maintainer visible without adding a separate promotional panel. */
 .header-links .follow-creator{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:9px 14px;border:1px solid #d8b8a9;border-radius:7px;background:#f0e3dc;color:#96341f;font-weight:650;white-space:nowrap}
 .header-links .follow-creator:hover{background:#ead5ca;border-color:#c99b86}
-.intro-meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 20px;margin-top:10px;font-size:11px;line-height:1.8;color:var(--muted)}
+.intro{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 24px;align-items:baseline}
+.intro h1{grid-column:1/-1;margin-bottom:0}.intro #intro-text{grid-column:1}
+.intro-meta{grid-column:2;display:flex;flex-wrap:wrap;align-items:center;gap:4px 16px;margin:0;font-size:11px;line-height:1.6;color:var(--muted)}
 .intro-meta p{margin:0}.creator-credit{display:flex;flex-wrap:wrap;gap:4px 8px}.creator-credit a{color:#96341f;text-decoration:underline;text-decoration-color:#d8b8a9;text-underline-offset:3px}.creator-credit a:hover{text-decoration-color:currentColor}
-@media(max-width:760px){.site-header{flex-wrap:wrap;gap:14px}.header-links{flex:1;justify-content:flex-end;flex-wrap:wrap;gap:10px 14px}.header-links .follow-creator{min-height:36px;padding:7px 10px;font-size:12px}.intro-meta{gap:3px 16px;margin-top:8px}}
-@media(max-width:520px){.header-links{flex-basis:100%;justify-content:flex-start}.header-links #language{margin-left:auto}.intro-meta{display:block}.creator-credit{margin-top:3px}}
+@media(max-width:1100px){.intro{grid-template-columns:minmax(0,1fr);row-gap:5px}.intro-meta{grid-column:1}}
+@media(max-width:760px){.site-header{flex-wrap:wrap;gap:14px}.header-links{flex:1;justify-content:flex-end;flex-wrap:wrap;gap:10px 14px}.header-links .follow-creator{min-height:36px;padding:7px 10px;font-size:12px}.intro-meta{gap:3px 16px}}
+@media(max-width:520px){.header-links{flex-basis:100%;justify-content:flex-start}.header-links #language{margin-left:auto}}
 
 .card-bookmarks{margin-left:auto;font-variant-numeric:tabular-nums;white-space:nowrap;color:#56584f}
 
