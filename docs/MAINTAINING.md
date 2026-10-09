@@ -1,6 +1,6 @@
 # 维护指南
 
-公开与本地资料的边界见[公开范围说明](PUBLIC_PRIVATE.md)。内容源为 `data/cases.json`。中英双语入口 README、`browse/` 分类页、`cases/` 详情和 `prompts/` 由脚本生成，编辑内容源后再生成，避免手工改动丢失。
+公开与本地资料的边界见[公开范围说明](PUBLIC_PRIVATE.md)。内容源为 `data/cases.json`。中英双语入口 README、`browse/` 分类页、`cases/` 详情、`prompts/` 和 `docs/COVERAGE.md` 统计由脚本生成，编辑内容源后再生成，避免手工改动丢失。
 
 ## 新增或更正案例
 

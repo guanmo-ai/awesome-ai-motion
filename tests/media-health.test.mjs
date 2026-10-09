@@ -50,3 +50,15 @@ test('批量检查限制并发，保留顺序和失败记录',async()=>{
   assert.match(result.scope,/不代表/);
   await assert.rejects(()=>checkCatalogMedia(cases,{concurrency:0}));
 });
+
+test('无页内媒体的原帖入口单独列出，已填写的错误地址仍导致失败',async()=>{
+  const fallback={id:'2',source:{url:'https://x.com/creator/status/2'}};
+  const invalid={...item,id:'3',webPlayback:{...item.webPlayback,url:'https://example.test/video.mp4'}};
+  let calls=0;
+  const report=await checkCatalogMedia([item,fallback,invalid],{fetcher:async()=>{calls++;return response();}});
+  assert.equal(calls,1);assert.equal(report.total,3);assert.equal(report.checked,2);
+  assert.equal(report.passed,1);assert.equal(report.failed,1);assert.equal(report.skipped,1);
+  assert.equal(report.results[1].ok,null);assert.equal(report.results[1].skipped,true);
+  assert.match(report.results[1].reason,/原帖/);assert.equal(report.results[2].ok,false);
+  assert.equal((await checkMedia({...item,webPlayback:null})).ok,false);
+});

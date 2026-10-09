@@ -58,7 +58,7 @@ test('缺少模型证据、错误作者来源、缺失封面和重复 ID 都不�
   const copy=structuredClone(catalog);
   const item=copy.cases.find(c=>c.stage!=='discovery');
   assert.ok(item,'需要已编目样本验证其模型依据要求');
-  item.model.evidenceQuote='unknown';
+  item.model.evidenceQuote='';
   item.prompt.sourceUrl='https://x.com/wrong_author/status/123';
   item.cover.path='assets/covers/missing.jpg';
   copy.cases.push(item);

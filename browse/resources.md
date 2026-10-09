@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-70 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+101 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -81,6 +81,15 @@
   作者原帖称视频介绍自己持续开发中的 DPlanner，公开作者资料与该仓库对应。GPL-3.0 适用于被介绍的软件代码；仓库不是该 100 秒视频的制作工程，README 未提供托管演示页。
   [链接出处](https://x.com/knutsi/status/2106067189300113572) · 链接核对 2026-10-02 17:18 UTC
 
+## [晨昏线：日报产品的代码动画](../cases/2107794301891842359.md) · @finderlzy
+
+- **相关工具**：[晨昏线产品网页](https://terminator-line.de5.net/) · 未标明许可
+  作者原帖链接的产品网页；不作为本条视频的工程或许可依据。
+  [链接出处](https://x.com/finderlzy/status/2107794301891842359) · 链接核对 2026-10-08 14:36 UTC
+- **相关工具**：[晨昏线产品源码](https://github.com/Finderlzy/terminator-line) · [MIT](https://github.com/Finderlzy/terminator-line/blob/228391951be6862f2543a98a870fcb94f97840ec/LICENSE)
+  产品仓库使用 MIT；品牌及第三方材料另有边界。本条宣传片工程及声音许可未核得。
+  [链接出处](https://x.com/finderlzy/status/2107794301891842359) · 链接核对 2026-10-08 14:49 UTC
+
 ## [Seedance 与 HyperFrames 的 SaaS 广告](../cases/2104548405565595747.md) · @farooqsheik
 
 - **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
@@ -98,6 +107,12 @@
 - **相关工具**：[docs-governance 项目仓库](https://github.com/qshanx/docs-governance) · [MIT](https://github.com/qshanx/docs-governance/blob/520696eb519f2dd50531ba91abe5ad89478ffdf3/LICENSE)
   作者原帖介绍的文档治理产品仓库；未核得宣传片的渲染工程。
   [链接出处](https://x.com/GdML1b0OFr90679/status/2107397947168362555) · 链接核对 2026-10-06 16:26 UTC
+
+## [OfficeLint：PPT 检查工具宣传片](../cases/2108102749493834189.md) · @feiflow
+
+- **相关工具**：[OfficeLint 产品网页](https://officelint.com/) · 未标明许可
+  作者原帖链接的产品网页；不作为本条视频的工程或许可依据。
+  [链接出处](https://x.com/feiflow/status/2108102749493834189) · 链接核对 2026-10-08 14:36 UTC
 
 ## [用镜头实验室解释对焦](../cases/2102591147927654847.md) · @RyanSael
 
@@ -123,11 +138,23 @@
   通用制作 Skill，与上面的 KV Cache 示例源码分开标记。
   [链接出处](https://x.com/LufzzLiz/status/2107408413458309193) · 链接核对 2026-10-06 16:26 UTC
 
+## [Huashu：白板式讲解样片](../cases/2107018546194882678.md) · @AlchainHust
+
+- **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
+  代码和文档为 MIT；字体、笔顺数据各有许可，花叔角色及其示范影像仅供演示。未核得本条视频整体复用许可。
+  [链接出处](https://x.com/AlchainHust/status/2107018546194882678) · 链接核对 2026-10-08 15:01 UTC
+
 ## [品牌标志趋同的动效讲解](../cases/2105580875299836388.md) · @charliejhills
 
 - **相关工具**：[Charlie Hills Motion Graphics Skills 工具集](https://github.com/charlie947/motion-graphics-skills/tree/4cd156acdad0483884867c2d5a22268db66099d1) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/4cd156acdad0483884867c2d5a22268db66099d1/LICENSE)
   作者回复直接链接此工具仓库。README 列出 13 个可安装的动效工作流 Skill；这是创作工具集，不是某支具体影片的源码。
   [链接出处](https://x.com/charliejhills/status/2105580878042980554) · 链接核对 2026-10-01 16:08 UTC
+
+## [秦帝国主题的历史解释动画](../cases/2107815114745487588.md) · @aiRobertDaily
+
+- **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
+  原帖注明使用此工具；代码和文档为 MIT，角色、字体等另有边界。本条历史讲解片的完整工程及整体许可未核得。
+  [链接出处](https://x.com/aiRobertDaily/status/2107815114745487588) · 链接核对 2026-10-08 14:49 UTC
 
 ## [Lemo-Opuscar：白板风格创作教学片](../cases/2104070024575242622.md) · @lemomo\_ai
 
@@ -143,6 +170,24 @@
 - **直接源码**：[数列图谱工程](https://github.com/decompwlj/decompwlj3dopus) · 未标明许可
   仓库未标整体代码许可；OEIS 数据与第三方依赖另有条款。
   [链接出处](https://github.com/decompwlj/decompwlj3dopus) · 链接核对 2026-09-29 08:35 UTC
+
+## [CMYK 从版到网点再到纸张](../cases/2107615935570084308.md) · @design\_oyaji
+
+- **公开网页**：[四色分解交互演示](https://four-color-separation.tomatomans.chatgpt.site/)
+  同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
+  [链接出处](https://x.com/design_oyaji/status/2107615938833207569) · 链接核对 2026-10-09 04:02 UTC
+
+## [数据库内部结构的三维交互导览](../cases/2107878084032753751.md) · @EKeric13
+
+- **公开网页**：[数据库结构交互导览](https://visualize-dbs.ekeric13.chatgpt.site/)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/EKeric13/status/2107878084032753751) · 链接核对 2026-10-08 14:36 UTC
+
+## [decompwlj：整数序列的三维图解](../cases/2108392469880832000.md) · @decompwlj
+
+- **公开网页**：[decompwlj 交互图表](https://decompwlj.net/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/decompwlj/status/2108392469880832000) · 链接核对 2026-10-09 04:12 UTC
 
 ## [Opus 视觉设计测试](../cases/2102514581684052169.md) · @other\_\_reality
 
@@ -184,6 +229,12 @@
   作者原帖提供的其他特效展示场，网页标题对应；本轮未启动 Roblox 客户端。
   [链接出处](https://x.com/JohnKlerAI/status/2107484860717973791) · 链接核对 2026-10-06 16:26 UTC
 
+## [同一角色穿越漫画、像素与蒸汽波](../cases/2107641558073803075.md) · @AlchainHust
+
+- **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
+  代码和文档为 MIT；字体、笔顺数据各有许可，花叔角色及其示范影像仅供演示。未核得本条视频整体复用许可。
+  [链接出处](https://x.com/AlchainHust/status/2107641558073803075) · 链接核对 2026-10-08 14:49 UTC
+
 ## [鸮鹦鹉繁殖季：演讲结尾像素动画](../cases/2104002636513206422.md) · @simonw
 
 - **直接源码**：[鸮鹦鹉派对 HTML 源码](https://github.com/simonw/tools/blob/main/kakapo-party.html) · [Apache-2.0](https://github.com/simonw/tools/blob/e12bd6da66e591ce2bc3fad88124e930126ac9eb/LICENSE)
@@ -215,6 +266,12 @@
 - **公开网页**：[交互式故事书](https://oh-the-places-storybook-ek.ekeric13.chatgpt.site/)
   作者原帖提供的故事书网页，标题与作品对应；本轮未完整验证朗读与互动功能。
   [链接出处](https://x.com/EKeric13/status/2107139500980007379) · 链接核对 2026-10-06 16:26 UTC
+
+## [NEO CRASH：横版动作游戏](../cases/2107496783635185802.md) · @the\_vibepreneur
+
+- **公开网页**：[NEO CRASH 试玩入口](https://thevibepreneur.com/neo-crash/)
+  同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
+  [链接出处](https://x.com/the_vibepreneur/status/2107496993111355645) · 链接核对 2026-10-09 04:02 UTC
 
 ## [Spiderbench：浏览器里的城市荡行](../cases/2104001664793600012.md) · @xikhar
 
@@ -272,6 +329,12 @@
 - **公开网页**：[户型装修 2D / 3D 演示](https://wy51ai.github.io/floorplan-3d/)
   [链接出处](https://x.com/akokoi1/status/2104771886236553568) · 链接核对 2026-09-29 05:50 UTC
 
+## [Heatsink：城市无人机竞速游戏](../cases/2107973550300856334.md) · @aniketjart
+
+- **公开网页**：[Heatsink 试玩](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/aniketjart/status/2107973550300856334) · 链接核对 2026-10-08 14:36 UTC
+
 ## [浏览器中的火箭车足球](../cases/2104800823620632641.md) · @BlendiByl
 
 - **公开网页**：[作者公开试玩页](https://soccar-one.vercel.app/)
@@ -282,6 +345,18 @@
 - **公开网页**：[Mars GT 公开作品页](https://mars-gt.vercel.app/)
   作者原帖提供该域名，HTTPS 页面署名为同一作者，并注明参考图作者。页面显示驾驶键位；本轮未完成驾驶操作核验。
   [链接出处](https://x.com/AndreiProvkin/status/2106449409978626416) · 链接核对 2026-10-04 08:31 UTC
+
+## [Skyhold：用建筑平衡浮空岛](../cases/2108495368585371666.md) · @0xbobaaa
+
+- **公开网页**：[Skyhold 作品与试玩](https://skyhold-ten.vercel.app/)
+  作者原帖提供对应作品页，网页正文已读取；完整游戏测试及整体复用许可另行核对。
+  [链接出处](https://x.com/0xbobaaa/status/2108495368585371666) · 链接核对 2026-10-09 11:48 UTC
+
+## [多模型迭代的恐怖游戏](../cases/2108301624515137601.md) · @LexnLin
+
+- **公开网页**：[恐怖游戏试玩](https://scare-test.vercel.app/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/LexnLin/status/2108301624515137601) · 链接核对 2026-10-09 04:12 UTC
 
 ## [BLOCKWORLD：浏览器体素世界](../cases/2105020794602676465.md) · @L1vsun
 
@@ -298,11 +373,41 @@
   作者原帖直链，网页署名指向同一作者；已核验模型到剖面的切换与实际画面。
   [链接出处](https://x.com/RyanSael/status/2107499672915021992) · 链接核对 2026-10-06 16:26 UTC
 
+## [ENDGAME：Spawn 恐怖游戏试玩](../cases/2107633024909377612.md) · @majidmanzarpour
+
+- **公开网页**：[ENDGAME 试玩](https://www.spawn.co/@majid/endgame/play)
+  同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
+  [链接出处](https://x.com/majidmanzarpour/status/2107633027920920824) · 链接核对 2026-10-09 04:02 UTC
+
+## [SOMNOLITH α：抽象探索游戏](../cases/2108481299707203767.md) · @minima\_ai
+
+- **公开网页**：[SOMNOLITH Artifact作品入口](https://claude.ai/artifact/RbtCujA2J6CpzJnxSEsYJ6)
+  作者原帖指向此 Artifact，页面标题与作品名对应；匿名正文未取得完整游戏内容，交互未作完整测试。
+  [链接出处](https://x.com/minima_ai/status/2108481299707203767) · 链接核对 2026-10-09 11:48 UTC
+
 ## [Updraft：21 个世界的游戏宣传片](../cases/2106065029850091943.md) · @EMostaque
 
 - **公开网页**：[Updraft 公开游戏](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9)
   作者原帖直接提供该网页。已在未登录状态核对主菜单、21 个 Boss 入口并进入一场游戏；数据面板要求登录。未取得对应完整工程或开源许可，3D 练习模式显示需先解锁。
   [链接出处](https://x.com/EMostaque/status/2106065029850091943) · 链接核对 2026-10-02 17:18 UTC
+
+## [崖上小屋的五参数变形](../cases/2108325457389359268.md) · @mizugame\_22
+
+- **公开网页**：[崖上小屋交互网页](https://kinou-to-chigau-ie.pages.dev/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/mizugame_22/status/2108325457389359268) · 链接核对 2026-10-09 04:12 UTC
+
+## [Clear Skies：粉色像素小游戏](../cases/2108332649802834104.md) · @oliveolveioveil
+
+- **公开网页**：[Clear Skies 游戏 Artifact](https://claude.ai/artifact/Ay2SYcTXztXQ2CfeeRXb1v)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/oliveolveioveil/status/2108332649802834104) · 链接核对 2026-10-09 04:12 UTC
+
+## [TRI-USAGI：侧视射击动作游戏](../cases/2108154705549656175.md) · @act\_pike
+
+- **公开网页**：[TRI-USAGI 作品与试玩](https://actpike.itch.io/tri-usagi)
+  同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
+  [链接出处](https://x.com/act_pike/status/2108154707923607592) · 链接核对 2026-10-09 04:09 UTC
 
 ## [Workspace：给编程会话一间三维办公室](../cases/2103998389058740521.md) · @kum1ta
 
@@ -315,6 +420,12 @@
 - **公开网页**：[Melon Jelly 西瓜果冻交互网页](https://claude.ai/artifact/RiTbBMEqgfNwgMHMTAhf5P)
   作者回复提供的作品网页；已确认果冻画面和交互控件。页面公开不代表已取得完整工程或复用许可。
   [链接出处](https://x.com/Abmankendrick/status/2105675238855843960) · 链接核对 2026-10-01 16:08 UTC
+
+## [折叠手机的结构与滚动循环演示](../cases/2108156566059020511.md) · @saitopatopo
+
+- **公开网页**：[折叠手机结构演示](https://demo.pa-to-po.com/demos/fold-anatomy/)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/saitopatopo/status/2108156566059020511) · 链接核对 2026-10-08 14:36 UTC
 
 ## [The Apex Rush：单文件 3D 网页游戏](../cases/2104820347875045751.md) · @sidgiri2104
 
@@ -329,11 +440,23 @@
 - **公开网页**：[Demolition Derby 在线游戏](https://drcollect.github.io/demolition-derby/)
   [链接出处](https://x.com/drcollect/status/2105361035305656708) · 链接核对 2026-09-30 18:48 UTC
 
+## [水彩蜂鸟的交互慢放](../cases/2108321415606968363.md) · @Tentamasoba1016
+
+- **公开网页**：[水彩蜂鸟交互演示](https://gamaccho.github.io/granular-flow/hummingbird/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/Tentamasoba1016/status/2108321415606968363) · 链接核对 2026-10-09 04:12 UTC
+
 ## [Casper：网页三维幽灵吉祥物](../cases/2105595903943774360.md) · @bazfurby
 
 - **公开网页**：[Casper 所在的 Ghost 作品网页](https://www.growwithghost.io/)
   作者原帖提供的网站；已确认桌面页面中的三维幽灵角色。这里只索引该角色所在的网页，未核得完整工程或开源许可。
   [链接出处](https://x.com/bazfurby/status/2105595903943774360) · 链接核对 2026-10-01 16:08 UTC
+
+## [雨夜西贡巷道](../cases/2107644521521807650.md) · @toankhontech
+
+- **公开网页**：[雨夜西贡交互场景](https://saigon-rain.toankhontech.com/)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/toankhontech/status/2107644521521807650) · 链接核对 2026-10-07 04:08 UTC
 
 ## [Dawnroll：甲虫滚动小太阳的微缩花园](../cases/2102543530002456775.md) · @Nickxyzn
 
@@ -346,6 +469,18 @@
 ## [Latentown：把 AI 新闻变成三维城市](../cases/2104102479927620029.md) · @sanjay\_khadka07
 
 - **公开网页**：[交互体验](https://latentown.lol/)
+
+## [深度图驱动的网页视差](../cases/2107566590799831417.md) · @\_\_\_sakurarin
+
+- **公开网页**：[深度图网页演示](https://the-depth-of-a-glance.pages.dev/)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/___sakurarin/status/2107566590799831417) · 链接核对 2026-10-07 04:08 UTC
+
+## [Astoro Racer：铃鹿赛道迭代](../cases/2108184032194576811.md) · @CHAPTER0423
+
+- **公开网页**：[AstoroRacer 试玩](https://chapter01.itch.io/astororacer)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/CHAPTER0423/status/2108184032194576811) · 链接核对 2026-10-08 14:36 UTC
 
 ## [自行车三维产品演示](../cases/2104211672370201053.md) · @EWashoku
 
@@ -364,6 +499,60 @@
 - **直接源码**：[NEON ZENITH 作品源码](https://github.com/billpwchan/neon-zenith) · [MIT](https://github.com/billpwchan/neon-zenith/blob/27ad04ef04aa9e1e1366fccc63e15a379b999f01/LICENSE)
   作者作品页的源码直链；仓库含城市、车辆、输入控制与渲染代码。外部模型、纹理与字体保留各自授权。尚未独立运行工程。
   [链接出处](https://zenith.billpwchan.art/) · 链接核对 2026-10-06 16:28 UTC
+
+## [可操作的等距 SVG 场景](../cases/2107668414424830249.md) · @\_drishtantk
+
+- **相关工具**：[IsometricAnimation Skill](https://github.com/DrishtantKaushal/IsometricAnimation) · [MIT](https://github.com/DrishtantKaushal/IsometricAnimation/blob/c65ccaf09c7f7e2084034fb5d5c8aa3e0a498b5a/LICENSE)
+  作者链接的通用 SVG 场景 Skill，含示例。许可包含集成与上游 MIT 声明；不据此确认视频、声音或外部参考可再分发。
+  [链接出处](https://x.com/_drishtantk/status/2107668414424830249) · 链接核对 2026-10-07 04:08 UTC
+
+## [整数序列的 3D 分解图](../cases/2107671507078156328.md) · @decompwlj
+
+- **公开网页**：[整数序列交互网页](https://decompwlj.net/)
+  作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
+  [链接出处](https://x.com/decompwlj/status/2107671507078156328) · 链接核对 2026-10-07 04:08 UTC
+
+## [Sky Runner：竖屏飞行游戏](../cases/2108337781198217451.md) · @JohnSlagboom1
+
+- **公开网页**：[Sky Runner 试玩](https://games.johnslagboom.com/skyrunner/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/JohnSlagboom1/status/2108337781198217451) · 链接核对 2026-10-09 04:12 UTC
+
+## [等距小屋的个人作品集入口](../cases/2108357235625873419.md) · @TrevinWisaksana
+
+- **公开网页**：[Trevin 个人作品集](https://trevin.codes/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/TrevinWisaksana/status/2108357235625873419) · 链接核对 2026-10-09 04:12 UTC
+
+## [日溜まり沼：可旅行的钓鱼游戏](../cases/2108402902666756345.md) · @seicolor
+
+- **公开网页**：[日溜まり系列作品入口](https://seicolor.github.io/hidamari-numa-site/series/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/seicolor/status/2108402902666756345) · 链接核对 2026-10-09 04:12 UTC
+- **直接源码**：[日溜まり沼与浜游戏源码](https://github.com/seicolor/hidamari-numa-site/tree/1cae629f0fe0add6f19babf62efd22716e46f08d/play) · 未标明许可
+  作者链接的网站对应此仓库；README 指向 play/，已核对入口与主程序。代码和图像的整体复用条款未指定，不能视为已获开源许可。
+  [链接出处](https://x.com/seicolor/status/2108402902666756345) · 链接核对 2026-10-09 04:16 UTC
+
+## [Pixshard：多人元素装备游戏](../cases/2108405098565029986.md) · @0xRayer
+
+- **公开网页**：[Pixshard 试玩](https://pixshard.com/)
+  作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
+  [链接出处](https://x.com/0xRayer/status/2108405098565029986) · 链接核对 2026-10-09 04:12 UTC
+
+## [Roadster：飞行汽车游戏预告](../cases/2108490551385624581.md) · @k\_millionaire\_
+
+- **公开网页**：[Roadster 飞行汽车游戏](https://roadster-the-flying-car-gamev28.vercel.app/)
+  作者原帖提供对应作品页，网页正文已读取；完整游戏测试及整体复用许可另行核对。
+  [链接出处](https://x.com/k_millionaire_/status/2108490551385624581) · 链接核对 2026-10-09 11:48 UTC
+
+## [Alley Cat：CGA 与高清重制对照](../cases/2108521844819337635.md) · @davidkal88
+
+- **直接源码**：[Alley Cat重制源码](https://github.com/dk8827/alleycat-remastered/tree/43d7374dd5138145495704ea5e81737a863f8f7a) · 未标明许可
+  同作者回复提供此仓库。已核对浏览器入口、运行代码、汇编与转换工具；未发现整体许可证。原游戏数据、图像、音乐与新增高清素材的权利范围分开，公开可读不代表已获复用许可。
+  [链接出处](https://x.com/davidkal88/status/2108521847365001631) · 链接核对 2026-10-09 11:59 UTC
+- **公开网页**：[Alley Cat浏览器试玩](https://dk8827.github.io/alleycat-remastered/web/)
+  同作者直接回复中的试玩地址，HTTP已核对；完整游戏验收另行记录。
+  [链接出处](https://x.com/davidkal88/status/2108521847365001631) · 链接核对 2026-10-09 11:56 UTC
 
 ## [记忆褪成水彩：代码绘制的短片](../cases/2104186357824487573.md) · @techartist\_
 
@@ -444,6 +633,12 @@
 - **公开网页**：[送别：72 秒蜡笔动画样片](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
   固定 SHA 下 README 指向的作品视频；作者原帖提供外部演示证据。视频和音频输出含源代码许可之外的声音素材边界，勿据 MIT 推断成品媒体的再分发权。
   [链接出处](https://x.com/JohnnyWang8802/status/2105304203770118434) · 链接核对 2026-10-01 16:08 UTC
+
+## [RIGHT CAN WAIT：AI音乐视频片段](../cases/2108497504576917621.md) · @SomASonI51
+
+- **公开网页**：[RIGHT CAN WAIT完整MV](https://youtu.be/G36wyDpJOFg)
+  作者原帖直接链接，YouTube标题对应；本站原帖片段与完整MV入口分开，尚未完整视听审看。
+  [链接出处](https://x.com/SomASonI51/status/2108497504576917621) · 链接核对 2026-10-09 11:56 UTC
 
 ## [Word Is Bond：威尼斯商人音乐改编](../cases/2106883204762185728.md) · @DFakkeldy
 

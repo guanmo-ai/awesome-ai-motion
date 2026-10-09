@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-70 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+101 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -81,6 +81,15 @@ Public work pages also count as implementation references; a web link alone does
   The creator describes this as a video about their ongoing DPlanner project, and their public profile matches the repository. GPL-3.0 applies to the software being introduced; this is not the source project for the 100-second film, and the README provides no hosted demo.
   [Link source](https://x.com/knutsi/status/2106067189300113572) · Link checked 2026-10-02 17:18 UTC
 
+## [Terminator Line: a Code-made News Product Ad](../cases/2107794301891842359.en.md) · @finderlzy
+
+- **Related tool**：[Terminator Line product website](https://terminator-line.de5.net/) · No license specified
+  A creator-linked product page, not evidence of this video project or its reuse license.
+  [Link source](https://x.com/finderlzy/status/2107794301891842359) · Link checked 2026-10-08 14:36 UTC
+- **Related tool**：[Terminator Line product source](https://github.com/Finderlzy/terminator-line) · [MIT](https://github.com/Finderlzy/terminator-line/blob/228391951be6862f2543a98a870fcb94f97840ec/LICENSE)
+  The product repository uses MIT, with separate brand and third-party restrictions. This ad project and audio license are unverified.
+  [Link source](https://x.com/finderlzy/status/2107794301891842359) · Link checked 2026-10-08 14:49 UTC
+
 ## [A SaaS Ad with Seedance and HyperFrames](../cases/2104548405565595747.en.md) · @farooqsheik
 
 - **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
@@ -98,6 +107,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[docs-governance repository](https://github.com/qshanx/docs-governance) · [MIT](https://github.com/qshanx/docs-governance/blob/520696eb519f2dd50531ba91abe5ad89478ffdf3/LICENSE)
   The documentation-governance product linked by the creator; the film’s rendering project was not found.
   [Link source](https://x.com/GdML1b0OFr90679/status/2107397947168362555) · Link checked 2026-10-06 16:26 UTC
+
+## [OfficeLint: a Presentation-checking Tool Promo](../cases/2108102749493834189.en.md) · @feiflow
+
+- **Related tool**：[OfficeLint product website](https://officelint.com/) · No license specified
+  A creator-linked product page, not evidence of this video project or its reuse license.
+  [Link source](https://x.com/feiflow/status/2108102749493834189) · Link checked 2026-10-08 14:36 UTC
 
 ## [An interactive camera lens lab](../cases/2102591147927654847.en.md) · @RyanSael
 
@@ -123,11 +138,23 @@ Public work pages also count as implementation references; a web link alone does
   A general production skill, recorded separately from the KV Cache example source.
   [Link source](https://x.com/LufzzLiz/status/2107408413458309193) · Link checked 2026-10-06 16:26 UTC
 
+## [Huashu: a whiteboard explainer sample](../cases/2107018546194882678.en.md) · @AlchainHust
+
+- **Related tool**：[huashu-art-motion animation toolkit](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
+  Code and docs use MIT; fonts and stroke data have separate licenses, while the Huashu character and its demo imagery are demonstration-only. Overall reuse rights for this video are unverified.
+  [Link source](https://x.com/AlchainHust/status/2107018546194882678) · Link checked 2026-10-08 15:01 UTC
+
 ## [A motion explainer on similar-looking brand logos](../cases/2105580875299836388.en.md) · @charliejhills
 
 - **Related tool**：[Charlie Hills Motion Graphics Skills toolkit](https://github.com/charlie947/motion-graphics-skills/tree/4cd156acdad0483884867c2d5a22268db66099d1) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/4cd156acdad0483884867c2d5a22268db66099d1/LICENSE)
   The creator's reply directly links this toolkit repository. Its README lists 13 installable motion-graphics workflow skills; it is a creation toolkit, not the source code for one specific film.
   [Link source](https://x.com/charliejhills/status/2105580878042980554) · Link checked 2026-10-01 16:08 UTC
+
+## [A Historical Explainer about the Qin Empire](../cases/2107815114745487588.en.md) · @aiRobertDaily
+
+- **Related tool**：[huashu-art-motion animation toolkit](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
+  The creator identifies this toolkit. Code and docs use MIT, with separate character and font restrictions. The full history-video project and its overall license are unverified.
+  [Link source](https://x.com/aiRobertDaily/status/2107815114745487588) · Link checked 2026-10-08 14:49 UTC
 
 ## [Lemo-Opuscar: A Whiteboard-Style Creation Tutorial](../cases/2104070024575242622.en.md) · @lemomo\_ai
 
@@ -143,6 +170,24 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[Sequence atlas source](https://github.com/decompwlj/decompwlj3dopus) · No license specified
   No overall code license is specified; OEIS data and third-party dependencies have separate terms.
   [Link source](https://github.com/decompwlj/decompwlj3dopus) · Link checked 2026-09-29 08:35 UTC
+
+## [CMYK plates, halftones and paper](../cases/2107615935570084308.en.md) · @design\_oyaji
+
+- **Public web page**：[Four-color separation interactive demo](https://four-color-separation.tomatomans.chatgpt.site/)
+  The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
+  [Link source](https://x.com/design_oyaji/status/2107615938833207569) · Link checked 2026-10-09 04:02 UTC
+
+## [An Interactive 3D Guide to Database Structures](../cases/2107878084032753751.en.md) · @EKeric13
+
+- **Public web page**：[Database structure interactive guide](https://visualize-dbs.ekeric13.chatgpt.site/)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/EKeric13/status/2107878084032753751) · Link checked 2026-10-08 14:36 UTC
+
+## [decompwlj: Integer Sequences in 3D](../cases/2108392469880832000.en.md) · @decompwlj
+
+- **Public web page**：[decompwlj interactive graphs](https://decompwlj.net/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/decompwlj/status/2108392469880832000) · Link checked 2026-10-09 04:12 UTC
 
 ## [Opus visual design test](../cases/2102514581684052169.en.md) · @other\_\_reality
 
@@ -184,6 +229,12 @@ Public work pages also count as implementation references; a web link alone does
   The creator links this showcase for other effects; the title was matched but the Roblox client was not launched.
   [Link source](https://x.com/JohnKlerAI/status/2107484860717973791) · Link checked 2026-10-06 16:26 UTC
 
+## [One Character across Comics, Pixels and Vaporwave](../cases/2107641558073803075.en.md) · @AlchainHust
+
+- **Related tool**：[huashu-art-motion animation toolkit](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
+  Code and docs use MIT; fonts and stroke data have separate licenses, while the Huashu character and its demo imagery are demonstration-only. Overall reuse rights for this video are unverified.
+  [Link source](https://x.com/AlchainHust/status/2107641558073803075) · Link checked 2026-10-08 14:49 UTC
+
 ## [Kākāpō Celebration in Pixel Art](../cases/2104002636513206422.en.md) · @simonw
 
 - **Direct source**：[Kākāpō Party HTML source](https://github.com/simonw/tools/blob/main/kakapo-party.html) · [Apache-2.0](https://github.com/simonw/tools/blob/e12bd6da66e591ce2bc3fad88124e930126ac9eb/LICENSE)
@@ -215,6 +266,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Interactive storybook](https://oh-the-places-storybook-ek.ekeric13.chatgpt.site/)
   The storybook page linked by the creator matches the work title; narration and interactions were not fully tested.
   [Link source](https://x.com/EKeric13/status/2107139500980007379) · Link checked 2026-10-06 16:26 UTC
+
+## [NEO CRASH: a side-scrolling action game](../cases/2107496783635185802.en.md) · @the\_vibepreneur
+
+- **Public web page**：[NEO CRASH playable entrance](https://thevibepreneur.com/neo-crash/)
+  The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
+  [Link source](https://x.com/the_vibepreneur/status/2107496993111355645) · Link checked 2026-10-09 04:02 UTC
 
 ## [Spiderbench: Swinging Through a Browser City](../cases/2104001664793600012.en.md) · @xikhar
 
@@ -272,6 +329,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Floorplan 2D / 3D demo](https://wy51ai.github.io/floorplan-3d/)
   [Link source](https://x.com/akokoi1/status/2104771886236553568) · Link checked 2026-09-29 05:50 UTC
 
+## [Heatsink: a City Drone Racing Game](../cases/2107973550300856334.en.md) · @aniketjart
+
+- **Public web page**：[Heatsink playable work](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/aniketjart/status/2107973550300856334) · Link checked 2026-10-08 14:36 UTC
+
 ## [Rocket-Powered Car Soccer in the Browser](../cases/2104800823620632641.en.md) · @BlendiByl
 
 - **Public web page**：[Creator’s playable webpage](https://soccar-one.vercel.app/)
@@ -282,6 +345,18 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Mars GT public work page](https://mars-gt.vercel.app/)
   The creator links this domain; its HTTPS page credits the same author and the reference-image creator. Driving controls are visible; driving interactions were not verified in this pass.
   [Link source](https://x.com/AndreiProvkin/status/2106449409978626416) · Link checked 2026-10-04 08:31 UTC
+
+## [Skyhold: Balancing a Floating Island](../cases/2108495368585371666.en.md) · @0xbobaaa
+
+- **Public web page**：[Skyhold work and playable page](https://skyhold-ten.vercel.app/)
+  The creator links this work page, whose text was read. Full gameplay testing and overall reuse rights remain separate.
+  [Link source](https://x.com/0xbobaaa/status/2108495368585371666) · Link checked 2026-10-09 11:48 UTC
+
+## [A Horror Game Refined with Two Models](../cases/2108301624515137601.en.md) · @LexnLin
+
+- **Public web page**：[Horror-game playable work](https://scare-test.vercel.app/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/LexnLin/status/2108301624515137601) · Link checked 2026-10-09 04:12 UTC
 
 ## [BLOCKWORLD: A Browser Voxel World](../cases/2105020794602676465.en.md) · @L1vsun
 
@@ -298,11 +373,41 @@ Public work pages also count as implementation references; a web link alone does
   Direct creator link with matching attribution; switching from model to section view was visually checked.
   [Link source](https://x.com/RyanSael/status/2107499672915021992) · Link checked 2026-10-06 16:26 UTC
 
+## [ENDGAME: a Horror-game Experiment on Spawn](../cases/2107633024909377612.en.md) · @majidmanzarpour
+
+- **Public web page**：[ENDGAME playable work](https://www.spawn.co/@majid/endgame/play)
+  The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
+  [Link source](https://x.com/majidmanzarpour/status/2107633027920920824) · Link checked 2026-10-09 04:02 UTC
+
+## [SOMNOLITH α: an Abstract Exploration Game](../cases/2108481299707203767.en.md) · @minima\_ai
+
+- **Public web page**：[SOMNOLITH artifact entrance](https://claude.ai/artifact/RbtCujA2J6CpzJnxSEsYJ6)
+  The creator links this artifact and its page title matches the work. Anonymous text extraction did not expose the full game; interaction has not been fully tested.
+  [Link source](https://x.com/minima_ai/status/2108481299707203767) · Link checked 2026-10-09 11:48 UTC
+
 ## [Updraft: a game trailer for 21 worlds](../cases/2106065029850091943.en.md) · @EMostaque
 
 - **Public web page**：[Updraft public game](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9)
   Directly linked by the creator. The menu, 21 boss entries and a playable run were checked while signed out; the data panel requests sign-in. Matching full project source and an open-source license are not established. The 3D practice mode is initially locked.
   [Link source](https://x.com/EMostaque/status/2106065029850091943) · Link checked 2026-10-02 17:18 UTC
+
+## [Five Controls Transform a Cliffside House](../cases/2108325457389359268.en.md) · @mizugame\_22
+
+- **Public web page**：[Cliffside house interactive page](https://kinou-to-chigau-ie.pages.dev/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/mizugame_22/status/2108325457389359268) · Link checked 2026-10-09 04:12 UTC
+
+## [Clear Skies: a Pink Pixel Mini-game](../cases/2108332649802834104.en.md) · @oliveolveioveil
+
+- **Public web page**：[Clear Skies game artifact](https://claude.ai/artifact/Ay2SYcTXztXQ2CfeeRXb1v)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/oliveolveioveil/status/2108332649802834104) · Link checked 2026-10-09 04:12 UTC
+
+## [TRI-USAGI: a Side-view Shooting Action Game](../cases/2108154705549656175.en.md) · @act\_pike
+
+- **Public web page**：[TRI-USAGI work and playable page](https://actpike.itch.io/tri-usagi)
+  The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
+  [Link source](https://x.com/act_pike/status/2108154707923607592) · Link checked 2026-10-09 04:09 UTC
 
 ## [Workspace: A 3D Office for Coding Sessions](../cases/2103998389058740521.en.md) · @kum1ta
 
@@ -315,6 +420,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Melon Jelly interactive page](https://claude.ai/artifact/RiTbBMEqgfNwgMHMTAhf5P)
   The work page supplied in the creator’s reply, with the jelly visual and interaction controls verified. Public access does not establish a full source project or reuse license.
   [Link source](https://x.com/Abmankendrick/status/2105675238855843960) · Link checked 2026-10-01 16:08 UTC
+
+## [A Folding-phone Anatomy and Scroll Loop](../cases/2108156566059020511.en.md) · @saitopatopo
+
+- **Public web page**：[Folding-phone anatomy demo](https://demo.pa-to-po.com/demos/fold-anatomy/)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/saitopatopo/status/2108156566059020511) · Link checked 2026-10-08 14:36 UTC
 
 ## [The Apex Rush: A Single-File 3D Browser Game](../cases/2104820347875045751.en.md) · @sidgiri2104
 
@@ -329,11 +440,23 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Demolition Derby online game](https://drcollect.github.io/demolition-derby/)
   [Link source](https://x.com/drcollect/status/2105361035305656708) · Link checked 2026-09-30 18:48 UTC
 
+## [An Interactive Watercolor Hummingbird](../cases/2108321415606968363.en.md) · @Tentamasoba1016
+
+- **Public web page**：[Watercolor hummingbird interactive demo](https://gamaccho.github.io/granular-flow/hummingbird/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/Tentamasoba1016/status/2108321415606968363) · Link checked 2026-10-09 04:12 UTC
+
 ## [Casper: a 3D ghost mascot on the web](../cases/2105595903943774360.en.md) · @bazfurby
 
 - **Public web page**：[Ghost page featuring Casper](https://www.growwithghost.io/)
   The site supplied in the creator’s post, with the desktop 3D ghost character verified. This indexes the page featuring the character; a complete source project or open-source license is not established.
   [Link source](https://x.com/bazfurby/status/2105595903943774360) · Link checked 2026-10-01 16:08 UTC
+
+## [A rainy Saigon alley](../cases/2107644521521807650.en.md) · @toankhontech
+
+- **Public web page**：[Rainy Saigon interactive scene](https://saigon-rain.toankhontech.com/)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/toankhontech/status/2107644521521807650) · Link checked 2026-10-07 04:08 UTC
 
 ## [Dawnroll: A Beetle Rolling Its Sun Through a Miniature Garden](../cases/2102543530002456775.en.md) · @Nickxyzn
 
@@ -346,6 +469,18 @@ Public work pages also count as implementation references; a web link alone does
 ## [Latentown: AI News as a 3D City](../cases/2104102479927620029.en.md) · @sanjay\_khadka07
 
 - **Public web page**：[Interactive demo](https://latentown.lol/)
+
+## [Depth-map motion on a web page](../cases/2107566590799831417.en.md) · @\_\_\_sakurarin
+
+- **Public web page**：[Depth-map web demonstration](https://the-depth-of-a-glance.pages.dev/)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/___sakurarin/status/2107566590799831417) · Link checked 2026-10-07 04:08 UTC
+
+## [Astoro Racer: a Suzuka Circuit Iteration](../cases/2108184032194576811.en.md) · @CHAPTER0423
+
+- **Public web page**：[AstoroRacer playable work](https://chapter01.itch.io/astororacer)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/CHAPTER0423/status/2108184032194576811) · Link checked 2026-10-08 14:36 UTC
 
 ## [A 3D Bicycle Product Demo](../cases/2104211672370201053.en.md) · @EWashoku
 
@@ -364,6 +499,60 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[NEON ZENITH source project](https://github.com/billpwchan/neon-zenith) · [MIT](https://github.com/billpwchan/neon-zenith/blob/27ad04ef04aa9e1e1366fccc63e15a379b999f01/LICENSE)
   Linked from the creator’s work page, with city, vehicle, input and rendering code. External models, textures and fonts retain their own licenses; the project was not independently run.
   [Link source](https://zenith.billpwchan.art/) · Link checked 2026-10-06 16:28 UTC
+
+## [Interactive isometric SVG scenes](../cases/2107668414424830249.en.md) · @\_drishtantk
+
+- **Related tool**：[IsometricAnimation skill](https://github.com/DrishtantKaushal/IsometricAnimation) · [MIT](https://github.com/DrishtantKaushal/IsometricAnimation/blob/c65ccaf09c7f7e2084034fb5d5c8aa3e0a498b5a/LICENSE)
+  The creator-linked general SVG-scene skill includes examples and integration/upstream MIT notices. This does not establish redistribution rights for video, audio or external references.
+  [Link source](https://x.com/_drishtantk/status/2107668414424830249) · Link checked 2026-10-07 04:08 UTC
+
+## [Integer sequences in interactive 3D](../cases/2107671507078156328.en.md) · @decompwlj
+
+- **Public web page**：[Integer-sequence interactive page](https://decompwlj.net/)
+  The creator links the work page; a complete project and overall reuse license are unverified.
+  [Link source](https://x.com/decompwlj/status/2107671507078156328) · Link checked 2026-10-07 04:08 UTC
+
+## [Sky Runner: a Vertical Flight Game](../cases/2108337781198217451.en.md) · @JohnSlagboom1
+
+- **Public web page**：[Sky Runner playable work](https://games.johnslagboom.com/skyrunner/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/JohnSlagboom1/status/2108337781198217451) · Link checked 2026-10-09 04:12 UTC
+
+## [An Isometric Cottage Portfolio Entrance](../cases/2108357235625873419.en.md) · @TrevinWisaksana
+
+- **Public web page**：[Trevin portfolio](https://trevin.codes/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/TrevinWisaksana/status/2108357235625873419) · Link checked 2026-10-09 04:12 UTC
+
+## [Hidamari Numa: a Fishing Game with Travel](../cases/2108402902666756345.en.md) · @seicolor
+
+- **Public web page**：[Hidamari series work entrance](https://seicolor.github.io/hidamari-numa-site/series/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/seicolor/status/2108402902666756345) · Link checked 2026-10-09 04:12 UTC
+- **Direct source**：[Hidamari Numa and Hama game source](https://github.com/seicolor/hidamari-numa-site/tree/1cae629f0fe0add6f19babf62efd22716e46f08d/play) · No license specified
+  The creator-linked site corresponds to this repository; its README identifies play/, and the entry and main program were checked. Overall reuse terms for code and images are unspecified.
+  [Link source](https://x.com/seicolor/status/2108402902666756345) · Link checked 2026-10-09 04:16 UTC
+
+## [Pixshard: a Multiplayer Elemental-gear Game](../cases/2108405098565029986.en.md) · @0xRayer
+
+- **Public web page**：[Pixshard playable work](https://pixshard.com/)
+  The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
+  [Link source](https://x.com/0xRayer/status/2108405098565029986) · Link checked 2026-10-09 04:12 UTC
+
+## [Roadster: a Flying-Car Game Trailer](../cases/2108490551385624581.en.md) · @k\_millionaire\_
+
+- **Public web page**：[Roadster flying-car game](https://roadster-the-flying-car-gamev28.vercel.app/)
+  The creator links this work page, whose text was read. Full gameplay testing and overall reuse rights remain separate.
+  [Link source](https://x.com/k_millionaire_/status/2108490551385624581) · Link checked 2026-10-09 11:48 UTC
+
+## [Alley Cat: CGA and HD Remaster Comparison](../cases/2108521844819337635.en.md) · @davidkal88
+
+- **Direct source**：[Alley Cat remaster source](https://github.com/dk8827/alleycat-remastered/tree/43d7374dd5138145495704ea5e81737a863f8f7a) · No license specified
+  Linked in the creator’s direct reply. Browser entry, runtime, assembly and translator were checked; no overall license was found. Original game data, graphics, music and new HD art have separate rights; public source access does not establish reuse permission.
+  [Link source](https://x.com/davidkal88/status/2108521847365001631) · Link checked 2026-10-09 11:59 UTC
+- **Public web page**：[Alley Cat browser player](https://dk8827.github.io/alleycat-remastered/web/)
+  The playable address in the creator’s direct reply was checked over HTTP. Complete gameplay review is separate.
+  [Link source](https://x.com/davidkal88/status/2108521847365001631) · Link checked 2026-10-09 11:56 UTC
 
 ## [Memory Fading into Watercolor: A Coded Short](../cases/2104186357824487573.en.md) · @techartist\_
 
@@ -444,6 +633,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Songbie: 72-second crayon animation preview](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
   The work video linked by the README at the pinned SHA; the creator's post is the external demo evidence. The rendered video/audio has sound-source boundaries outside the code license, so MIT should not be taken as a grant to redistribute the finished media.
   [Link source](https://x.com/JohnnyWang8802/status/2105304203770118434) · Link checked 2026-10-01 16:08 UTC
+
+## [RIGHT CAN WAIT: an AI Music-video Excerpt](../cases/2108497504576917621.en.md) · @SomASonI51
+
+- **Public web page**：[RIGHT CAN WAIT full music video](https://youtu.be/G36wyDpJOFg)
+  Directly linked by the creator, with a matching YouTube title. The original-post excerpt and full MV are separate entrances; complete audiovisual review has not been performed.
+  [Link source](https://x.com/SomASonI51/status/2108497504576917621) · Link checked 2026-10-09 11:56 UTC
 
 ## [Word Is Bond: The Merchant of Venice](../cases/2106883204762185728.en.md) · @DFakkeldy
 

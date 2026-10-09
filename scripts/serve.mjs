@@ -28,7 +28,7 @@ export function createGalleryServer(base=root) {
       if(req.headers['x-curation-token']!==token || req.headers['content-type']!=='application/json')return json(403,{error:'请刷新页面后重试。'});
       let raw='';for await(const chunk of req){raw+=chunk;if(raw.length>4096)return json(413,{error:'请求过大。'});}
       let body;try{body=JSON.parse(raw);}catch{return json(400,{error:'请求格式无效。'});}
-      if(!['delete','restore','review'].includes(body.action)||typeof body.id!=='string'||typeof body.revision!=='string')return json(400,{error:'请求格式无效。'});
+      if(!body||typeof body!=='object'||Array.isArray(body)||!['delete','restore','review'].includes(body.action)||typeof body.id!=='string'||typeof body.revision!=='string')return json(400,{error:'请求格式无效。'});
       return json(200,{token,...curator.mutate(body.action,body.id,body.revision,body.review)});
     }catch(error){return json(error.status||500,{error:error.status?error.message:'保存失败，已尝试回退，请检查本地文件后重试。'});}
   }

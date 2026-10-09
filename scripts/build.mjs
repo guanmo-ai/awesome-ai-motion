@@ -209,9 +209,26 @@ function renderReadme(cases,en) {
     `<sub>${choose(en,'策展','Curated by')} [观默 / @guanmo_ai](https://x.com/guanmo_ai) · [MIT](LICENSE) ${choose(en,'仅适用于原创脚本','for original scripts only')}</sub>\n`;
   return out;
 }
+function renderCoverage(cases) {
+  const count=test=>cases.filter(test).length;
+  const original=count(c=>c.prompt.status==='original');
+  const sourceOnly=count(c=>c.prompt.status==='original'&&c.prompt.display==='source_link');
+  const reviewed=count(c=>c.verification.fullReview===true);
+  return `# 覆盖范围与核验状态\n\n以下数字由生成器从当前仓库的 \`data/cases.json\` 统计；作品跨帖子出现或仅有制作说明的回复不重复计数。\`discovery\` 表示来源已核对、编目资料待完善，\`catalogued\` 表示资料已整理。\n\n`+
+    `| 项目 | 数量 | 含义 |\n| --- | ---: | --- |\n`+
+    `| 公开案例 | ${cases.length} | 均有原作者 X（Twitter）帖子链接。 |\n`+
+    `| 原帖媒体入口 | ${count(c=>Boolean(c.webPlayback))} | 已记录与原帖对应的外部视频；地址是否持续可用需重新检查。 |\n`+
+    `| 已编目 | ${count(c=>!isDiscovery(c))} | 来源资料已整理；精选另行标记。 |\n`+
+    `| 发现池 | ${count(isDiscovery)} | 来源已核对，编目资料待完善。 |\n`+
+    `| 公开提示词 | ${original} | 作者公开了指令；其中 ${sourceOnly} 条仅链接原文，其余按核得原文展示。不保证完整对话已公开。 |\n`+
+    `| 任务描述 | ${count(c=>c.prompt.status==='brief')} | 记录作者对制作任务的转述，不作为逐字指令。 |\n`+
+    `| 未取得提示词 | ${count(c=>c.prompt.status==='unknown')} | 没有可核对的原始指令。 |\n\n`+
+    `上述三种提示词状态合计 ${cases.length} 条。完整视听评价是可选记录，不影响收录；当前数据有 ${reviewed} 个作品标为已完成这项评价。精选属于编辑选择，不代表获得转载许可。收藏等互动数字是带采集时间的快照，不代表实时表现。具体来源与收录规则见[来源与排序](SOURCES.md)、[发现与核验](DISCOVERY.md)和[收录说明](QUALITY.md)。\n`;
+}
 export function buildOutputs(catalog) {
   const cases=sortedCases(catalog.cases);const outputs=new Map();
   outputs.set('README.md',renderReadme(cases,false));outputs.set('README.en.md',renderReadme(cases,true));
+  outputs.set('docs/COVERAGE.md',renderCoverage(cases));
   for(const definition of CATEGORIES) for(const en of [false,true]) {
     const group=cases.filter(c=>c.category===definition[0]);
     if(group.length)outputs.set(`browse/${definition[2]}${en?'.en':''}.md`,renderBrowse(group,definition,en));
@@ -227,7 +244,7 @@ export function buildOutputs(catalog) {
       let doc=`[← ${choose(en,'返回图库','Back to gallery')}](../browse/${CATEGORIES.find(x=>x[0]===c.category)[2]}${en?'.en':''}.md) · [${en?'简体中文':'English'}](${c.id}${en?'':'.en'}.md)\n\n`+renderCase(c,{en,prefix:'../',detail:true});
       doc+=`\n## ${choose(en,'来源记录','Source record')}\n\n`+
         `- ${choose(en,'作品原帖','Original post')}: [@${md(c.author.handle)}](${c.source.url}) · ${md(c.source.publishedAt)}\n`+
-        `- ${choose(en,'模型归因','Model attribution')}: ${c.model.name} · [${choose(en,'作者说明','Creator’s statement')}](${c.model.evidenceUrl})\n`+
+        `- ${choose(en,'模型归因','Model attribution')}: ${md(c.model.name)} · [${choose(en,'作者说明','Creator’s statement')}](${c.model.evidenceUrl})\n`+
         `- ${c.prompt.status==='unknown'?choose(en,'提示词查阅记录','Prompt lookup'):choose(en,'提示词出处','Prompt source')}: [${choose(en,'作者原帖','Creator post')}](${c.prompt.sourceUrl}) · ${utc(c.prompt.checkedAt)}\n`+
         `- ${choose(en,'封面来源','Cover source')}: [${choose(en,'原帖封面来源','Original cover source')}](${c.cover.sourceUrl.includes('video.twimg.com')?c.source.url:c.cover.sourceUrl})${c.cover.timeSeconds!=null?` · ${c.cover.timeSeconds}s`:''}\n`+
         `- ${choose(en,'互动快照','Metrics snapshot')}: [${choose(en,'X 原帖','Original X post')}](${c.source.url}) · ${utc(c.metrics.checkedAt)}\n`;
@@ -241,17 +258,27 @@ export function buildOutputs(catalog) {
   return outputs;
 }
 export function validateCatalog(catalog,root=ROOT) {
-  const errors=publicCatalogIssues(catalog);const seen=new Set();
+  const errors=publicCatalogIssues(catalog);const seen=new Set(),seenMedia=new Set();
+  if(!catalog||typeof catalog!=='object'||Array.isArray(catalog))return errors;
   if(catalog.repository!==REPOSITORY)errors.push('目标仓库配置不一致');
   if(!Array.isArray(catalog.cases))return ['案例数据必须是数组'];
   for(const c of catalog.cases) {
+    if(!c||typeof c!=='object'||Array.isArray(c)){errors.push('案例记录必须是对象');continue;}
     const fail=message=>errors.push(`${c.id}: ${message}`);
+    if(['author','source','model','media','cover','prompt','metrics','verification'].some(key=>!c[key]||typeof c[key]!=='object'||Array.isArray(c[key]))){fail('案例必要字段必须是对象');continue;}
+    const text=value=>typeof value==='string'&&value.trim().length>0;
+    if(['title','titleEn','summary','summaryEn'].some(key=>!text(c[key]))||!text(c.author.name)||!text(c.author.handle))fail('编目标题、说明与作者必须为非空文本');
+    if([c.author.handle,c.source.url,c.source.publishedAt,c.prompt.sourceUrl,c.model.name,c.model.evidenceUrl,c.model.evidenceQuote,c.prompt.text,c.cover.sourceUrl].some(value=>typeof value!=='string')){fail('来源、模型与提示词字段类型无效');continue;}
+    if(Number.isNaN(Date.parse(c.source.publishedAt)))fail('原帖发布时间无效');
+    if(c.media.durationSeconds!==null&&(!Number.isFinite(c.media.durationSeconds)||c.media.durationSeconds<=0))fail('媒体时长必须为正数或 null');
+    if(!Number.isSafeInteger(c.media.videoCount)||c.media.videoCount<1)fail('视频数量必须为正整数');
+    for(const key of ['videoAttachmentConfirmed','authorClaimConfirmed','promptMatchedSource','independentlyReproduced'])if(c.verification[key]!==undefined&&typeof c.verification[key]!=='boolean')fail('来源核验状态必须为布尔值');
     if(c.stage!==undefined&&!['catalogued','discovery'].includes(c.stage))fail('编目阶段无效');
-    if(isDiscovery(c)&&!c.verification?.authorClaimConfirmed)fail('发现池需核对原作者声明');
+    if(isDiscovery(c)&&c.verification?.authorClaimConfirmed!==true)fail('发现池需核对原作者声明');
     if(c.verification?.fullReview!==undefined&&typeof c.verification.fullReview!=='boolean')fail('可选视听评价状态无效');
     if(c.review!==undefined&&!validReview(c.review))fail('策展评价无效');
     if(seen.has(c.id))fail('重复作品 ID');seen.add(c.id);
-    if(!/^\d+$/.test(c.id))fail('作品 ID 无效');
+    if(typeof c.id!=='string'||!/^\d+$/.test(c.id))fail('作品 ID 无效');
     if(!CATEGORY_ORDER.includes(c.category))fail('用途分类无效');
     if(!c.title||!c.titleEn||!c.summary||!c.summaryEn)fail('缺少编目标题或说明');
     if(c.guide!==undefined) {
@@ -265,7 +292,7 @@ export function validateCatalog(catalog,root=ROOT) {
     if(!work||work[2]!==c.id||work[1].toLowerCase()!==c.author?.handle?.toLowerCase())fail('作品来源与作者不一致');
     const prompt=c.prompt?.sourceUrl?.match(/^https:\/\/x\.com\/([\w]+)\/status\/(\d+)$/);
     if(!prompt||prompt[1].toLowerCase()!==c.author?.handle?.toLowerCase())fail('提示词作者不一致');
-    if(!c.model?.name?.trim()||!c.model?.evidenceUrl||!c.model?.evidenceQuote?.trim()||(!isDiscovery(c)&&!/opus\s*5\.5/i.test(c.model.evidenceQuote||'')))fail('模型依据缺失');
+    if(!c.model?.name?.trim()||!c.model?.evidenceUrl||!c.model?.evidenceQuote?.trim())fail('模型依据缺失');
     const sourceOnly=c.prompt?.display==='source_link';
     if(c.prompt?.display!==undefined&&!sourceOnly)fail('提示词展示方式无效');
     if(!['original','brief','unknown'].includes(c.prompt?.status)||(c.prompt.status!=='unknown'&&!sourceOnly&&!c.prompt?.text?.trim())||(c.prompt.status==='unknown'&&c.prompt.text))fail('提示词状态或内容缺失');
@@ -273,7 +300,7 @@ export function validateCatalog(catalog,root=ROOT) {
     for(const key of ['bookmarks','likes','views']) {
       const value=c.metrics?.[key];if(value!==null&&(!Number.isSafeInteger(value)||value<0))fail(`${key} 不是非负整数或 null`);
     }
-    for(const date of [c.metrics?.checkedAt,c.prompt?.checkedAt,c.verification?.sourceReadAt])if(!date||Number.isNaN(Date.parse(date)))fail('核对时间缺失');
+    for(const date of [c.metrics?.checkedAt,c.prompt?.checkedAt,c.verification?.sourceReadAt])if(!text(date)||Number.isNaN(Date.parse(date)))fail('核对时间缺失');
     if(c.metrics?.sourceUrl!==c.source?.url)fail('互动快照来源必须为对应作者原帖');
     const cover=c.cover?.path;
     if(!/^assets\/covers\/\d+\.jpg$/.test(cover||'')||!fs.existsSync(path.join(root,cover)))fail('封面缺失');
@@ -298,16 +325,18 @@ export function validateCatalog(catalog,root=ROOT) {
       try {demo=new URL(c.demoUrl);} catch {}
       if(typeof c.demoUrl!=='string'||!demo||demo.protocol!=='https:'||demo.username||demo.password||demo.href!==c.demoUrl||/[()\[\]<>\s]/.test(c.demoUrl))fail('交互体验地址无效');
     }
-    if(!c.verification?.videoAttachmentConfirmed)fail('视频附件未经核对');
+    if(c.verification?.videoAttachmentConfirmed!==true)fail('视频附件未经核对');
     if(c.playback!==undefined)fail('播放来源必须使用作者原帖媒体，不接受参考仓库附件');
     if(c.webPlayback) {
       const v=c.webPlayback;
       let url;
       try {url=new URL(v.url);} catch {}
-      if(v.kind!=='external_source_video'||!url||url.protocol!=='https:'||url.hostname!=='video.twimg.com'||url.username||url.password||!url.pathname.endsWith('.mp4')||[...url.searchParams.keys()].some(key=>key!=='tag'))fail('画廊原媒体地址无效');
+      if(v.kind!=='external_source_video'||!url||url.protocol!=='https:'||url.host!=='video.twimg.com'||url.username||url.password||url.hash||!url.pathname.endsWith('.mp4')||[...url.searchParams.keys()].some(key=>key!=='tag'))fail('画廊原媒体地址无效');
       if(v.sourcePostUrl!==c.source.url)fail('画廊媒体与原帖记录不一致');
       if(v.contentType!=='video/mp4'||!v.checkedAt||Number.isNaN(Date.parse(v.checkedAt))||v.verificationLevel!=='source_media_matched')fail('画廊媒体核对记录缺失');
       if(v.reuploadPermission!=='not_verified')fail('画廊媒体只支持外部引用');
+      const mediaId=url?.pathname.match(/^\/(?:amplify_video|ext_tw_video)\/(\d+)\//)?.[1];
+      if(mediaId){if(seenMedia.has(mediaId))fail('重复作品媒体');seenMedia.add(mediaId);}
     }
     if(!['width','height'].every(key=>Number.isSafeInteger(c.cover?.[key])&&c.cover[key]>0))fail('封面尺寸无效');
     if(c.author?.url!==`https://x.com/${c.author?.handle}`)fail('作者主页不一致');

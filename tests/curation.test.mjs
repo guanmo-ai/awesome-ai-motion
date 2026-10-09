@@ -43,7 +43,7 @@ test('拒绝旧版本和手改生成文件，失败不留下半次删除',t=>{
   assert.equal(fs.readFileSync(path.join(root,'cases/1.md'),'utf8'),'manual change');
 });
 test('校验失败回滚数据、生成页和封面',t=>{
-  const {root,write,catalog}=fixture(t);catalog.cases[1].model.evidenceQuote='missing';
+  const {root,write,catalog}=fixture(t);catalog.cases[1].model.evidenceQuote='';
   write('data/cases.json',JSON.stringify(catalog));for(const [file,body] of buildOutputs(catalog))write(file,body);
   const editor=createCuration(root),s=editor.snapshot();
   assert.throws(()=>editor.mutate('delete','1',s.revision),/模型依据/);
@@ -59,6 +59,8 @@ test('本地 API 拒绝跨站请求、伪造 Host 和缺失令牌，合法请求
   assert.equal((await fetch(url,{headers:{'Sec-Fetch-Site':'cross-site'}})).status,403);
   let state=await(await fetch(url)).json();
   const send=(token,body)=>fetch(url,{method:'POST',headers:{'Content-Type':'application/json','X-Curation-Token':token},body:JSON.stringify(body)});
+  for(const body of [null,12,[],{}])assert.equal((await send(state.token,body)).status,400);
+  assert.equal((await(await fetch(url)).json()).revision,state.revision);
   assert.equal((await send('bad',{action:'delete',id:'1',revision:state.revision})).status,403);
   const rated=await send(state.token,{action:'review',id:'1',review:{highlights:['motion'],later:false},revision:state.revision});assert.equal(rated.status,200);state=await rated.json();assert.deepEqual(state.catalog.cases[0].review.highlights,['motion']);
   const selected=await send(state.token,{action:'review',id:'1',review:{highlights:['motion'],later:false,featured:true},revision:state.revision});assert.equal(selected.status,200);state=await selected.json();assert.equal(state.catalog.cases[0].review.featured,true);

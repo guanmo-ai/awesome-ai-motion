@@ -15,6 +15,7 @@ export function originalMediaUrl(item) {
 // A bounded prefix check, deliberately not a browser or full audiovisual review.
 export async function checkMedia(item,{fetcher=fetch,timeoutMs=10000}={}) {
   const result={id:item.id,sourceUrl:item.source?.url,checkedAt:new Date().toISOString()};
+  if(item.webPlayback===undefined)return {...result,ok:null,skipped:true,reason:'未设置页内媒体，保留原帖观看入口'};
   const url=originalMediaUrl(item);
   if(!url)return {...result,ok:false,reason:'原帖媒体地址无效或缺失'};
   const controller=new AbortController();
@@ -52,7 +53,7 @@ export async function checkCatalogMedia(cases,{concurrency=4,...options}={}) {
   await Promise.all(Array.from({length:Math.min(concurrency,cases.length)},async()=>{
     while(cursor<cases.length) {const index=cursor++;results[index]=await checkMedia(cases[index],options);}
   }));
-  return {checkedAt:new Date().toISOString(),scope:'仅检查原帖 MP4 文件头和响应，不代表浏览器起播或完整视听审看',total:results.length,passed:results.filter(row=>row.ok).length,failed:results.filter(row=>!row.ok).length,results};
+  return {checkedAt:new Date().toISOString(),scope:'仅检查已设置原帖 MP4 的文件头和响应；无页内媒体的原帖入口单独列出，不代表浏览器起播或完整视听审看',total:results.length,checked:results.filter(row=>!row.skipped).length,skipped:results.filter(row=>row.skipped).length,passed:results.filter(row=>row.ok===true).length,failed:results.filter(row=>row.ok===false).length,results};
 }
 
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)) {
@@ -67,8 +68,8 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
     const destination=path.join(ROOT,'.research/media-health.json');
     await fs.mkdir(path.dirname(destination),{recursive:true});
     await fs.writeFile(destination,JSON.stringify(report,null,2)+'\n');
-    console.log(`原帖媒体检查：${report.passed}/${report.total} 通过；报告 .research/media-health.json`);
-    for(const row of report.results.filter(row=>!row.ok))console.error(`${row.id}: ${row.reason}`);
+    console.log(`原帖媒体检查：${report.passed}/${report.checked} 通过；${report.skipped} 条保留原帖入口；报告 .research/media-health.json`);
+    for(const row of report.results.filter(row=>row.ok===false))console.error(`${row.id}: ${row.reason}`);
     process.exitCode=report.failed?1:0;
   } catch(error) {console.error(error.message);process.exitCode=2;}
 }
