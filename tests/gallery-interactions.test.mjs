@@ -7,13 +7,19 @@ import * as model from '../assets/gallery-model.mjs';
 // Run the real gallery event handlers with a small DOM and a controlled clock.
 async function gallery(search='?page=all',rows=[]) {
   class Node {
-    constructor(){this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.classList={toggle(){}};}
+    constructor(){this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.children=[];this.classList={toggle(){}};}
     addEventListener(type,listener){this.listeners.set(type,listener);}
     setAttribute(){}
     removeAttribute(){}
-    replaceChildren(){}
-    append(){}
-    querySelector(){return null;}
+    replaceChildren(...children){this.children=children;}
+    append(...children){this.children.push(...children);}
+    querySelector(selector){
+      const id=selector.match(/data-case-id="([^"]*)"/)?.[1];
+      const visit=children=>{for(const child of children){if(selector.startsWith('.card-open')&&child.className==='card-open'&&(id===undefined||child.dataset.caseId===id))return child;const nested=visit(child.children||[]);if(nested)return nested;}return null;};
+      return visit(this.children);
+    }
+    showModal(){this.open=true;}
+    close(){this.open=false;document.activeElement=null;}
     focus(){document.activeElement=this;}
     send(type,event={}){this.listeners.get(type)?.(event);}
   }
@@ -105,4 +111,38 @@ test('旧链接同时限定源码和提示词原文时，标题说明全部集�
   assert.equal(app.nodes.get('collection-title').textContent,'短动效 · 作品源码 · 提示词原文');
   assert.equal(app.location.searchParams.get('resource'),'code');
   assert.equal(app.location.searchParams.get('prompt'),'original');
+});
+
+test('分享直达的详情关闭后聚焦对应作品，作品不在首批时聚焦浏览区域',async()=>{
+  const sample=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url))).cases[0];
+  const rows=Array.from({length:37},(_,i)=>({...sample,id:String(i+1),webPlayback:undefined,metrics:{...sample.metrics,bookmarks:1000-i}}));
+  const visible=await gallery('?page=all#case-1',rows);
+  assert.equal(visible.nodes.get('viewer').open,true);
+  visible.nodes.get('close').send('click');
+  assert.equal(visible.location.hash,'');
+  assert.equal(visible.document.activeElement?.dataset.caseId,'1');
+  const later=await gallery('?page=all#case-37',rows);
+  later.nodes.get('close').send('click');
+  assert.equal(later.document.activeElement,later.nodes.get('works'));
+});
+
+test('不存在作品的分享提示关闭后保留分类并恢复浏览焦点',async()=>{
+  const app=await gallery('?category=characters#case-404');
+  assert.equal(app.nodes.get('viewer').open,true);
+  app.nodes.get('close').send('click');
+  assert.equal(app.location.hash,'');
+  assert.equal(app.location.searchParams.get('category'),'characters');
+  assert.equal(app.document.activeElement,app.nodes.get('works'));
+});
+
+test('加载更多后聚焦第一张新增作品，最后一批按钮消失也不丢失焦点',async()=>{
+  const rows=Array.from({length:73},(_,i)=>({id:String(i+1),title:'测试作品',category:'短动效',author:{handle:'maker'},metrics:{bookmarks:1000-i}}));
+  const app=await gallery('?page=all',rows),more=app.nodes.get('load-more');
+  more.focus();more.send('click');
+  assert.equal(app.nodes.get('works').children.length,72);
+  assert.equal(app.document.activeElement?.dataset.caseId,'37');
+  more.focus();more.send('click');
+  assert.equal(app.nodes.get('works').children.length,73);
+  assert.equal(more.hidden,true);
+  assert.equal(app.document.activeElement?.dataset.caseId,'73');
 });

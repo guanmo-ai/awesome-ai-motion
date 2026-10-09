@@ -190,7 +190,15 @@ function showMissingViewer() {
   if(!$('viewer').open){savedOverflow=document.body.style.overflow;savedScroll=window.scrollY;document.body.style.overflow='hidden';$('viewer').showModal();} $('viewer').scrollTop=0;
 }
 function unload() {clearPlaybackTimer();playbackAbort?.abort();playbackAbort=null;const video=$('viewer').querySelector('video');if(video){video.pause();video.removeAttribute('src');video.load();}}
-function hideViewer(){unload();activeId=null;activeMissing=false;if($('viewer').open)$('viewer').close();$('viewer-content').replaceChildren();document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');document.body.style.overflow=savedOverflow;window.scrollTo(0,savedScroll);const target=returnFocus?.isConnected?returnFocus:$('works').querySelector(`.card-open[data-case-id="${returnFocus?.dataset.caseId || ''}"]`);target?.focus({preventScroll:true});returnFocus=null;}
+function hideViewer(){
+  const closingId=activeId;
+  unload();activeId=null;activeMissing=false;
+  if($('viewer').open)$('viewer').close();
+  $('viewer-content').replaceChildren();document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');
+  document.body.style.overflow=savedOverflow;window.scrollTo(0,savedScroll);
+  const target=returnFocus?.isConnected?returnFocus:$('works').querySelector(`.card-open[data-case-id="${returnFocus?.dataset.caseId || closingId || ''}"]`)||$('works');
+  target.focus({preventScroll:true});returnFocus=null;
+}
 function syncViewer({refresh=false,...options}={}){const c=cases.find(c=>c.id===state.caseId);if(c){if(activeId!==c.id || activeMissing || !$('viewer').open || refresh){unload();document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');showViewer(c,options);}}else if(state.caseId){if(activeId!==state.caseId || !activeMissing || !$('viewer').open || refresh){unload();showMissingViewer();}}else if(activeId) hideViewer();}
 function closeViewer(){if(history.state?.galleryDetail && state.caseId) history.back();else navigate({caseId:null},{replace:true});}
 function stepViewer(direction) {
@@ -220,7 +228,12 @@ $('search').addEventListener('compositionend',scheduleSearch);
 $('search').addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.isComposing)applySearch();});$('sort').addEventListener('change',()=>navigate({page:'all',sort:$('sort').value,caseId:null}));
 function resetCollection(){navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});$('search').focus({preventScroll:true});}
 $('reset').addEventListener('click',resetCollection);
-$('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(c=>card(c)));renderPagination(selected);});
+$('load-more').addEventListener('click',()=>{
+  const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;
+  const added=selected.slice(previous,visibleCount).map(c=>card(c));
+  $('works').append(...added);renderPagination(selected);
+  added[0]?.querySelector('.card-open')?.focus({preventScroll:true});
+});
 $('language').addEventListener('click',()=>navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true}));
 function onLocation(){clearTimeout(searchTimer);searchTimer=null;const next=readLocation(),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
 try { const response=await fetch('./data/cases.json');if(!response.ok)throw new Error('Catalog unavailable');const catalog=await response.json();if(!Array.isArray(catalog.cases))throw new Error('Invalid catalog');cases=catalog.cases;$('loading').hidden=true;render();syncViewer(); }catch { renderLanguage();$('loading').textContent=t('作品列表暂时无法载入。请刷新重试，或从上方 GitHub 入口浏览。若在本地打开，请使用 HTTP 静态服务器预览。','The catalog could not load. Refresh or browse via GitHub above. For a local preview, use an HTTP static server.'); }
