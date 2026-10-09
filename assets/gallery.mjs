@@ -121,11 +121,17 @@ function showViewer(c,{autoplay=false}={}) {
     const controller=new AbortController();playbackAbort=controller;
     const fail=(zh,en)=>{clearPlaybackTimer();if(controller.signal.aborted)return;error.textContent=t(zh,en);error.hidden=retry.hidden=false;};
     const recover=()=>{clearPlaybackTimer();error.hidden=retry.hidden=true;};
-    const arm=()=>{clearPlaybackTimer();if(controller.signal.aborted)return;playbackTimer=setTimeout(()=>fail('视频加载超时，可重试或到作者原帖观看。','Video loading timed out. Retry or watch the original post.'),PLAYBACK_TIMEOUT_MS);};
+    const arm=()=>{
+      clearPlaybackTimer();if(controller.signal.aborted)return;
+      playbackTimer=setTimeout(()=>{
+        if(!video.error&&(video.readyState>=3||(video.paused&&video.readyState>=1))){recover();return;}
+        fail('视频加载超时，可重试或到作者原帖观看。','Video loading timed out. Retry or watch the original post.');
+      },PLAYBACK_TIMEOUT_MS);
+    };
     video.addEventListener('error',()=>fail('视频暂时无法载入，可重试或到作者原帖观看。','The video could not load. Retry or watch the original post.'),{signal:controller.signal});
     video.addEventListener('loadstart',arm,{signal:controller.signal});
     video.addEventListener('play',()=>{if(video.readyState<3)arm();},{signal:controller.signal});
-    for(const event of ['waiting','stalled'])video.addEventListener(event,()=>{if(!video.paused)arm();},{signal:controller.signal});
+    for(const event of ['waiting','stalled'])video.addEventListener(event,()=>{if(!video.paused&&video.readyState<3)arm();},{signal:controller.signal});
     video.addEventListener('loadedmetadata',()=>{if(video.paused)recover();},{signal:controller.signal});
     for(const event of ['canplay','playing'])video.addEventListener(event,recover,{signal:controller.signal});
     for(const event of ['pause','ended'])video.addEventListener(event,clearPlaybackTimer,{signal:controller.signal});
@@ -212,7 +218,7 @@ $('viewer-next').addEventListener('click',()=>stepViewer('next'));
 document.addEventListener('keydown',event=>{
   if(!['ArrowLeft','ArrowRight'].includes(event.key) || !$('viewer').open || $('trash').open || event.defaultPrevented || event.isComposing || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || document.fullscreenElement || document.pictureInPictureElement)return;
   const target=event.target;
-  if(target instanceof Element && (target.isContentEditable || target.closest('input,textarea,select,[contenteditable]')))return;
+  if(target instanceof Element && (target.isContentEditable || target.closest('input,textarea,select,video,[contenteditable]')))return;
   event.preventDefault();event.stopPropagation();
   if(!event.repeat)stepViewer(event.key==='ArrowLeft'?'previous':'next');
 },true);

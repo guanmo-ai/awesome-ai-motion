@@ -7,17 +7,23 @@ import * as model from '../assets/gallery-model.mjs';
 // Run the real gallery event handlers with a small DOM and a controlled clock.
 async function gallery(search='?page=all',rows=[]) {
   class Node {
-    constructor(){this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.children=[];this.classList={toggle(){}};}
+    constructor(tagName='div'){this.tagName=tagName.toUpperCase();this.paused=true;this.readyState=0;this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.children=[];this.classList={toggle(){}};}
     addEventListener(type,listener){this.listeners.set(type,listener);}
     setAttribute(){}
     removeAttribute(){}
     replaceChildren(...children){this.children=children;}
-    append(...children){this.children.push(...children);}
+    append(...children){this.children.push(...children);for(const child of children)child.parentElement=this;}
+    contains(node){return this===node||this.children.some(child=>child.contains?.(node));}
+    closest(selector){for(let node=this;node;node=node.parentElement){if(selector.split(',').includes(node.tagName.toLowerCase())||(selector.includes('[contenteditable]')&&node.isContentEditable))return node;}return null;}
     querySelector(selector){
       const id=selector.match(/data-case-id="([^"]*)"/)?.[1];
-      const visit=children=>{for(const child of children){if(selector.startsWith('.card-open')&&child.className==='card-open'&&(id===undefined||child.dataset.caseId===id))return child;const nested=visit(child.children||[]);if(nested)return nested;}return null;};
+      const className=selector.match(/^\.([\w-]+)/)?.[1];
+      const visit=children=>{for(const child of children){if(((className&&child.className===className)||selector===child.tagName.toLowerCase())&&(id===undefined||child.dataset.caseId===id))return child;const nested=visit(child.children||[]);if(nested)return nested;}return null;};
       return visit(this.children);
     }
+    pause(){this.paused=true;}
+    play(){this.paused=false;return Promise.resolve();}
+    load(){}
     showModal(){this.open=true;}
     close(){this.open=false;document.activeElement=null;}
     focus(){document.activeElement=this;}
@@ -25,12 +31,14 @@ async function gallery(search='?page=all',rows=[]) {
   }
   const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
   const nodes=new Map([...html.matchAll(/id="([^"]+)"/g)].map(([,id])=>[id,new Node()]));
+  nodes.get('viewer').append(nodes.get('viewer-content'));
   for(const [,id,body] of html.matchAll(/<select id="([^"]+)"[^>]*>(.*?)<\/select>/gs))nodes.get(id).options=[...body.matchAll(/<option value="([^"]+)"/g)].map(([,value])=>({value}));
-  const document={getElementById:id=>nodes.get(id),createElement:()=>new Node(),querySelector:()=>new Node(),documentElement:{},body:{style:{}},addEventListener(){},activeElement:null};
+  const documentListeners=new Map();
+  const document={getElementById:id=>nodes.get(id),createElement:tagName=>new Node(tagName),querySelector:()=>new Node(),documentElement:{},body:{style:{}},addEventListener:(type,listener)=>documentListeners.set(type,listener),activeElement:null};
   const location=new URL(`https://gallery.test/${search}`);
   const timers=new Map(),windowListeners=new Map();let timerId=0;
   const history={state:null,pushState(data,_,url){this.state=data;location.href=url;},replaceState(data,_,url){this.state=data;location.href=url;}};
-  const context={...model,document,location,history,Element:Node,URL,Intl,Date,console,
+  const context={...model,document,location,history,Element:Node,URL,Intl,Date,console,AbortController,
     window:{addEventListener:(type,listener)=>windowListeners.set(type,listener),scrollTo(){}},
     fetch:async()=>({ok:true,json:async()=>({cases:rows})}),
     setTimeout:callback=>{timers.set(++timerId,callback);return timerId;},clearTimeout:id=>timers.delete(id),
@@ -40,7 +48,7 @@ async function gallery(search='?page=all',rows=[]) {
   assert.equal(nodes.get('loading').hidden,true,'真实页面初始化应成功');
   const flush=()=>{for(const [id,callback] of [...timers]){timers.delete(id);callback();}};
   const input=(value,event={})=>{nodes.get('search').value=value;nodes.get('search').send('input',event);};
-  return {nodes,location,timers,flush,input,document,windowListeners};
+  return {nodes,location,timers,flush,input,document,windowListeners,documentListeners};
 }
 
 test('连续搜索只应用最后一个值，Enter 立即查询且不会留下延迟更新',async()=>{
@@ -145,4 +153,39 @@ test('加载更多后聚焦第一张新增作品，最后一批按钮消失也�
   assert.equal(app.nodes.get('works').children.length,73);
   assert.equal(more.hidden,true);
   assert.equal(app.document.activeElement?.dataset.caseId,'73');
+});
+
+test('播放器方向键保留快进快退，详情其他控件仍可切换作品',async()=>{
+  const sample=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url))).cases[0];
+  const rows=[1,2].map(id=>({...sample,id:String(id),webPlayback:undefined,metrics:{...sample.metrics,bookmarks:1000-id}}));
+  const app=await gallery('?page=all#case-1',rows);
+  const keydown=(target,key)=>{const event={target,key,defaultPrevented:false,preventDefault(){this.defaultPrevented=true;},stopPropagation(){}};app.documentListeners.get('keydown')(event);return event;};
+  const video=app.document.createElement('video'),control=app.document.createElement('button');
+  video.append(control);
+  for(const target of [video,control,app.document.createElement('input')]){
+    for(const key of ['ArrowLeft','ArrowRight']){
+      assert.equal(keydown(target,key).defaultPrevented,false,'原生控件应收到方向键');
+      assert.equal(app.location.hash,'#case-1','操作播放器不能切换作品');
+    }
+  }
+  assert.equal(keydown(app.nodes.get('close'),'ArrowRight').defaultPrevented,true);
+  assert.equal(app.location.hash,'#case-2');
+  keydown(app.nodes.get('close'),'ArrowLeft');
+  assert.equal(app.location.hash,'#case-1');
+});
+
+test('视频已有播放数据时不误报网络停滞，真正缓冲超时仍可重试并恢复',async()=>{
+  const sample=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url))).cases.find(c=>c.webPlayback);
+  const app=await gallery(`?page=all#case-${sample.id}`,[sample]);
+  const content=app.nodes.get('viewer-content'),video=content.querySelector('video'),error=content.querySelector('.playback-error'),retry=content.querySelector('.playback-retry');
+  video.paused=false;video.readyState=4;video.send('canplay');video.send('stalled');app.flush();
+  assert.equal(error.hidden,true,'已经能播放时，网络stalled不能变成播放超时');
+  video.readyState=2;video.send('waiting');video.readyState=4;app.flush();
+  assert.equal(error.hidden,true,'计时器到期时重新检查已恢复的播放状态');
+  video.readyState=2;video.send('waiting');app.flush();
+  assert.equal(error.hidden,false,'真正缺少后续数据仍报告超时');
+  assert.equal(retry.hidden,false);
+  video.readyState=4;video.send('canplay');
+  assert.equal(error.hidden,true);
+  assert.equal(retry.hidden,true);
 });
