@@ -1,12 +1,12 @@
 import {resourceLinks,resourceLabel,REVIEW_OPTIONS,reviewLabels,CATEGORIES,isFeatured,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,recommendedCases,introCases,relatedCases} from './gallery-model.mjs?v=20261009-filters';
 const $ = id => document.getElementById(id);
-let state = readState(location.href), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
+let state = readLocation(), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let curator=null,managing=false,mutationPending=false;
 let visibleCount=PAGE_SIZE;
 let searchTimer=null;
 let playbackTimer=null,playbackAbort=null;
 const PLAYBACK_TIMEOUT_MS=12000;
-const filterKeys=['category','query','sort','playable','duration','prompt','resource'];
+const filterKeys=['category','query','sort','prompt','resource'];
 const listKeys=['page',...filterKeys,'lang'];
 const t = (zh,en) => state.lang === 'en' ? en : zh;
 const title = c => state.lang === 'en' ? c.titleEn || c.title : c.title;
@@ -15,6 +15,15 @@ function link(label,url,className='') { const node=el('a',className,label); cons
 function date(value) { const parsed=new Date(value); return Number.isNaN(parsed.valueOf()) ? '—' : new Intl.DateTimeFormat(state.lang === 'en' ? 'en-US' : 'zh-CN',{dateStyle:'medium',timeZone:'UTC'}).format(parsed); }
 function image(c, lazy=true) { const img=el('img'); img.alt=title(c); img.decoding='async'; if(lazy) img.loading='lazy'; const path=coverPath(c.cover?.path); if(path) img.src=path; img.addEventListener('error',()=>{img.replaceWith(el('span','cover-fallback',t('封面暂时无法显示','Preview unavailable')));},{once:true}); return img; }
 async function copy(text,button,label) { try { await navigator.clipboard.writeText(text); button.textContent=t('已复制','Copied'); } catch { button.textContent=t('复制失败，请选中文字复制','Copy failed; select and copy the text'); } setTimeout(()=>{if(button.isConnected) button.textContent=label;},2500); }
+// Retire manual filter links while keeping the README's source and prompt collections.
+function readLocation() {
+  const next=readState(location.href);
+  next.playable=false;next.duration='all';
+  if(next.prompt!=='original')next.prompt='all';
+  const url=stateUrl(next,location.href);
+  if(url.href!==location.href)history.replaceState(history.state,'',url);
+  return next;
+}
 function navigate(patch,{replace=false,detail=false}={}) { if(searchTimer){clearTimeout(searchTimer);searchTimer=null;patch={page:'all',query:$('search').value,...patch};}const next={...state,...patch},filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;history[replace?'replaceState':'pushState']({galleryDetail:replace ? Boolean(history.state?.galleryDetail) && Boolean(state.caseId) : detail},'',stateUrl(state,location.href));if(listChanged)render();syncViewer({autoplay:detail,refresh:languageChanged}); }
 function onHome() { return state.page==='home'; }
 function openCollection(patch) { navigate(patch);window.scrollTo(0,0); }
@@ -22,40 +31,33 @@ function renderLanguage() {
   document.documentElement.lang=state.lang==='en'?'en':'zh-CN'; document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');
   $('follow-creator').textContent=t('关注观默 ↗','Follow on X ↗');
   $('follow-creator').setAttribute('aria-label',t('在 X 关注观默 @guanmo_ai（新标签页）','Follow Guanmo @guanmo_ai on X (new tab)'));
-  $('creator-role').textContent=t('发起与维护','Created & maintained by');
-  $('creator-name').textContent=t('观默','Guanmo');
-  const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'intro-label':['作品与创作线索','WATCH. EXPLORE. CREATE.'],'intro-text':['看作品，认识作者，找到下一次创作的灵感。','Watch the work, meet its maker, find your next idea.'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'duration-label':['时长','Duration'],'prompt-label':['提示词资料','Prompt materials'],'resource-label':['可访问资源','Available resources'],'prompt-help':['提示词原文是作者公开的指令；创作描述是目标或做法的说明，不是提示词原文。','Original prompts are instructions shared by the creator. A description explains the goal or approach, rather than providing the prompt.'],'resource-help':['源码是作品工程或代码；作品网页可直接访问；相关工具不代表该作品源码。','Source code is the work’s project or code. A work page can be visited directly. Related tools are not the work’s source code.'],'clear-filters':['清除筛选','Clear filters'],'playable-label':['仅页内播放','Inline player only'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试另一个关键词，或清除筛选重新发现。','Try another keyword or clear the filters to keep exploring.'],reset:['清除筛选','Clear filters'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
+  const strings={language:['English','中文'], 'browse-label':['按类别浏览','BROWSE BY CATEGORY'], 'curation-note':['看见好作品，找到下一次创作的灵感。','Good work. Fresh inspiration for your next creation.'],submit:['推荐作品 ↗','Submit a work ↗'],'search-label':['搜索作品、作者或风格','Search works, creators or styles'],'sort-label':['排序','Sort works'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试其他关键词，或查看全部作品。','Try another keyword or browse all works.'],reset:['查看全部作品','Browse all works'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
   for(const [id,words] of Object.entries(strings)) $(id).textContent=t(...words);
   $('page-home').textContent=t('首页','Home');$('page-all').textContent=t('全部作品','All works');
-  $('search').placeholder=t('搜索作品、作者或风格…','Search works, creators or styles…');
-  const sortLabels={bookmarks:['收藏最多','Most bookmarked'],featured:['推荐浏览','Recommended browsing'],latest:['最新发布','Newest posts']};
+  $('search').placeholder=t('搜索作品…','Search…');
+  const sortLabels={bookmarks:['收藏最多','Most saved'],featured:['推荐浏览','Recommended'],latest:['最新发布','Newest posts']};
   [...$('sort').options].forEach(option=>{option.textContent=t(...sortLabels[option.value]);});
-  [...$('duration').options].forEach((option,i)=>{option.textContent=t(...[['全部时长','Any length'],['30 秒以内','Up to 30s'],['31–120 秒','31–120s'],['超过 120 秒','Over 120s']][i]);});
-  [...$('prompt').options].forEach((option,i)=>{option.textContent=t(...[['不限资料','Any materials'],['有提示词原文','Original prompt'],['仅创作描述','Description only'],['未收录提示词','No prompt collected']][i]);});
-  [...$('resource').options].forEach((option,i)=>{option.textContent=t(...[['不限资源','Any resources'],['有源码或作品网页','Source or work page'],['有作品源码','Work source code'],['有作品网页','Work web page'],['有相关工具','Related tools']][i]);});
   $('page-resources').textContent=t('源码与网页','Source & web pages');
   $('close').setAttribute('aria-label',t('关闭作品详情','Close work details'));
 }
 function render() {
-  renderLanguage(); renderCuration(); $('search').value=state.query; $('sort').value=state.sort; $('playable').checked=state.playable;$('duration').value=state.duration;$('prompt').value=state.prompt;$('resource').value=state.resource;
+  renderLanguage(); renderCuration(); $('search').value=state.query; $('sort').value=state.sort;
   const activePage=state.page==='home'?'home':state.resource==='all'?'all':'resources';
   for(const page of ['home','all','resources']) {const button=$(`page-${page}`);if(activePage===page)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');}
   const currentCategory=CATEGORIES.find(c=>c.id===state.category);
-  $('collection-title').textContent=onHome()?t('值得一看的 AI 动效。','AI motion worth watching.'):state.category==='all'?(state.resource==='all'?t('全部作品','All works'):t('源码与网页','Source & web pages')):currentCategory[state.lang];
-  const activeFilters=Number(state.duration!=='all')+Number(state.prompt!=='all')+Number(state.playable)+Number(state.resource!=='all');
-  $('filter-summary').textContent=activeFilters?t(`筛选作品 · ${activeFilters} 项已启用`,`Filters · ${activeFilters} active`):t('筛选作品','Filter works');
-  if(activeFilters)$('advanced-filters').open=true;
-  $('clear-filters').hidden=!(activeFilters||state.category!=='all'||state.query.trim());
-  $('coverage-count').textContent=t(`${cases.length} 个作品`,`${cases.length} works`);
+  const collections={any:['源码与网页','Source & web pages'],code:['作品源码','Source code'],demo:['作品网页','Work web pages'],tool:['创作工具','Creative tools']};
+  const collectionName=[collections[state.resource],state.prompt==='original'?['提示词原文','Original prompts']:null].filter(Boolean).map(words=>t(...words)).join(' · ');
+  $('collection-title').textContent=onHome()?t('值得一看的 AI 动效。','AI motion worth watching.'):state.category!=='all'?currentCategory[state.lang]+(collectionName?` · ${collectionName}`:''):collectionName||t('全部作品','All works');
   const focusedCategory=document.activeElement?.dataset.category;
   const counts=categoryCounts(cases,state);
   $('categories').replaceChildren(...CATEGORIES.slice(1).map(category=>{ const button=el('button','category');button.type='button';button.dataset.category=category.id;button.setAttribute('aria-pressed',String(state.page==='all'&&state.category===category.id));button.append(el('span','',category[state.lang]),el('span','category-count',counts[category.id]));button.addEventListener('click',()=>openCollection({page:'all',category:category.id,caseId:null}));return button; }));
   if(focusedCategory) $('categories').querySelector(`[data-category="${focusedCategory}"]`)?.focus({preventScroll:true});
-  const selected=selectCases(cases,state), category=CATEGORIES.find(c=>c.id===state.category),home=onHome();
+  const selected=selectCases(cases,state),home=onHome();
   const visibleCategories=CATEGORIES.slice(1).filter(item=>counts[item.id]>0);
-  $('result-count').textContent=home?'':t(`${category.zh} · ${selected.length} 个作品`,`${category.en} · ${selected.length} work${selected.length===1?'':'s'}`);
+  $('result-count').textContent=home?'':t(`${selected.length} 个作品`,`${selected.length} work${selected.length===1?'':'s'}`);
   document.querySelector('.results-bar').classList.toggle('home-results',home);
-  $('sort-note').hidden=state.sort!=='bookmarks'; $('sort-note').textContent=t('按原帖收藏快照排序，非实时更新。','Based on bookmark snapshots, not live counts.');
+  const sortNote=state.sort==='bookmarks'?t('按原帖收藏快照排序，非实时更新。','Based on bookmark snapshots, not live counts.'):'';
+  $('sort-note').hidden=!sortNote;$('sort-note').textContent=sortNote;$('sort').title=sortNote;
   $('works').className=home?'home-sections':'grid';
   if(home) {
     const intro=el('section','home-section intro-section'),introHeading=el('div','home-heading'),introTitle=el('h2','home-title',t('收藏最多','Most bookmarked'));
@@ -86,7 +88,7 @@ function card(c,home=false,eager=false) {
   const article=el('article','card'), button=el('button','card-open');article.dataset.caseId=c.id;button.type='button';button.dataset.caseId=c.id;button.setAttribute('aria-label',t(`打开作品：${title(c)}`,`Open work: ${title(c)}`));
   const thumb=el('div','thumbnail'), playable=Boolean(playbackUrl(c));thumb.append(image(c,!eager));
   const play=el('span','card-play');play.setAttribute('aria-hidden','true');play.append(el('span','',playable?'▶':'↗'));thumb.append(play);
-  thumb.append(el('span','watch-mode',playable?t('页内播放','Inline player'):t('原帖观看 ↗','Watch original ↗')));
+  if(!playable)thumb.append(el('span','watch-mode',t('在 X 观看 ↗','Watch on X ↗')));
   const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
   button.append(thumb,el(home?'h3':'h2','card-title',title(c)));button.addEventListener('click',()=>{returnFocus=button;navigate({caseId:c.id},{detail:true});});
   const meta=el('div','card-meta');meta.append(el('span','',`@${c.author.handle}`));if(!home)meta.append(el('span','dot','·'),el('span','',CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]));for(const tag of tagsOf(c,state.lang)) meta.append(el('span','card-tag',tag));if(state.sort==='bookmarks'){const count=Number.isFinite(c.metrics?.bookmarks)?new Intl.NumberFormat(state.lang==='en'?'en-US':'zh-CN').format(c.metrics.bookmarks):'—';meta.append(el('span','card-bookmarks',t(`收藏 ${count}`,`${count} bookmarks`)));}const kinds=new Set(resourceLinks(c).map(r=>r.kind));for(const kind of kinds)meta.append(el('span','card-tag',kind==='demo'&&!kinds.has('code')?t('仅公开网页','Web page only'):resourceLabel(kind,state.lang)));article.append(button,meta);if(curator&&managing){const actions=el('div','card-actions');actions.append(featuredControl(c,true),deleteControl(c,true));article.append(actions);}return article;
@@ -215,13 +217,12 @@ function scheduleSearch(){clearTimeout(searchTimer);searchTimer=setTimeout(apply
 $('search').addEventListener('input',event=>{if(!event.isComposing)scheduleSearch();});
 $('search').addEventListener('compositionstart',()=>{clearTimeout(searchTimer);searchTimer=null;});
 $('search').addEventListener('compositionend',scheduleSearch);
-$('search').addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.isComposing)applySearch();});$('sort').addEventListener('change',()=>navigate({page:'all',sort:$('sort').value,caseId:null}));$('playable').addEventListener('change',()=>navigate({page:'all',playable:$('playable').checked,caseId:null}));
-for(const id of ['duration','prompt','resource'])$(id).addEventListener('change',()=>navigate({page:'all',[id]:$(id).value,caseId:null}));
-function clearFilters(){$('advanced-filters').open=false;navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});$('search').focus({preventScroll:true});}
-$('reset').addEventListener('click',clearFilters);$('clear-filters').addEventListener('click',clearFilters);
+$('search').addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.isComposing)applySearch();});$('sort').addEventListener('change',()=>navigate({page:'all',sort:$('sort').value,caseId:null}));
+function resetCollection(){navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});$('search').focus({preventScroll:true});}
+$('reset').addEventListener('click',resetCollection);
 $('load-more').addEventListener('click',()=>{const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;$('works').append(...selected.slice(previous,visibleCount).map(c=>card(c)));renderPagination(selected);});
 $('language').addEventListener('click',()=>navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true}));
-function onLocation(){clearTimeout(searchTimer);searchTimer=null;const next=readState(location.href),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
+function onLocation(){clearTimeout(searchTimer);searchTimer=null;const next=readLocation(),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
 try { const response=await fetch('./data/cases.json');if(!response.ok)throw new Error('Catalog unavailable');const catalog=await response.json();if(!Array.isArray(catalog.cases))throw new Error('Invalid catalog');cases=catalog.cases;$('loading').hidden=true;render();syncViewer(); }catch { renderLanguage();$('loading').textContent=t('作品列表暂时无法载入。请刷新重试，或从上方 GitHub 入口浏览。若在本地打开，请使用 HTTP 静态服务器预览。','The catalog could not load. Refresh or browse via GitHub above. For a local preview, use an HTTP static server.'); }
 
 function renderCuration() {
