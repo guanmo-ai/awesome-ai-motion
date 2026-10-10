@@ -24,7 +24,7 @@ node scripts/build.mjs --check
 node scripts/check-release.mjs
 ```
 
-README、`cases/` 和 `prompts/` 都由脚本生成。提交时同时包含数据和生成文件，避免下次生成覆盖手工修改。工具无需依赖包，不需要模型 API Key。
+README、`cases/` 和 `prompts/` 都由脚本生成。提交时同时包含数据和生成文件，避免下次生成覆盖手工修改。需要 Node.js 22 或更新版本；工具无需依赖包，不需要模型 API Key。
 
 维护与播放来源字段见 [维护指南](docs/MAINTAINING.md)。
 
