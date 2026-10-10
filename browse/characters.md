@@ -2,7 +2,7 @@
 
 # 角色动画
 
-82 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+85 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -198,31 +198,41 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103028027861152225"><img src="../assets/covers/2103028027861152225.jpg" width="400" alt="复古电脑演示场景"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108306366771413034"><img src="../assets/covers/2108306366771413034.jpg" width="400" alt="Opus 的 Blender 角色动画测试"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108924733588906180"><img src="../assets/covers/2108924733588906180.jpg" width="400" alt="一镜呈现三种情绪"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>复古电脑演示场景</strong><br><sub><a href="https://x.com/cromwellian">@cromwellian</a> · 角色动画</sub><br><sub>2:44 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103028027861152225">▶ 播放</a> · <a href="https://x.com/cromwellian/status/2103028027861152225">原帖</a></td>
-<td width="50%" valign="top"><strong>Opus 的 Blender 角色动画测试</strong><br><sub><a href="https://x.com/DaraChaww">@DaraChaww</a> · 角色动画</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108306366771413034">▶ 播放</a> · <a href="https://x.com/DaraChaww/status/2108306366771413034">原帖</a></td>
+<td width="50%" valign="top"><strong>一镜呈现三种情绪</strong><br><sub><a href="https://x.com/azed_ai">@azed_ai</a> · 角色动画</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108924733588906180">▶ 播放</a> · <a href="https://x.com/azed_ai/status/2108924733588906180">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108306366771413034"><img src="../assets/covers/2108306366771413034.jpg" width="400" alt="Opus 的 Blender 角色动画测试"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108359012328849486"><img src="../assets/covers/2108359012328849486.jpg" width="400" alt="骑士猫的短片试验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106061225851568278"><img src="../assets/covers/2106061225851568278.jpg" width="400" alt="Claude Code 吉祥物角色短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Opus 的 Blender 角色动画测试</strong><br><sub><a href="https://x.com/DaraChaww">@DaraChaww</a> · 角色动画</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108306366771413034">▶ 播放</a> · <a href="https://x.com/DaraChaww/status/2108306366771413034">原帖</a></td>
 <td width="50%" valign="top"><strong>骑士猫的短片试验</strong><br><sub><a href="https://x.com/yesand_ai">@yesand_ai</a> · 角色动画</sub><br><sub>0:24 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108359012328849486">▶ 播放</a> · <a href="https://x.com/yesand_ai/status/2108359012328849486">原帖</a></td>
-<td width="50%" valign="top"><strong>Claude Code 吉祥物角色短片</strong><br><sub><a href="https://x.com/rishit30g">@rishit30g</a> · 角色动画</sub><br><sub>0:10 · 收藏 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106061225851568278">▶ 播放</a> · <a href="https://x.com/rishit30g/status/2106061225851568278">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106061225851568278"><img src="../assets/covers/2106061225851568278.jpg" width="400" alt="Claude Code 吉祥物角色短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106743642668875913"><img src="../assets/covers/2106743642668875913.jpg" width="400" alt="Inkrunner：画出通关路径"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107541364841820482"><img src="../assets/covers/2107541364841820482.jpg" width="127" alt="Neon Shadows 角色服装转身测试"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Claude Code 吉祥物角色短片</strong><br><sub><a href="https://x.com/rishit30g">@rishit30g</a> · 角色动画</sub><br><sub>0:10 · 收藏 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106061225851568278">▶ 播放</a> · <a href="https://x.com/rishit30g/status/2106061225851568278">原帖</a></td>
 <td width="50%" valign="top"><strong>Inkrunner：画出通关路径</strong><br><sub><a href="https://x.com/cryptowluha">@cryptowluha</a> · 角色动画</sub><br><sub>0:27 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106743642668875913">▶ 播放</a> · <a href="https://x.com/cryptowluha/status/2106743642668875913">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107541364841820482"><img src="../assets/covers/2107541364841820482.jpg" width="127" alt="Neon Shadows 角色服装转身测试"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108920625972891677"><img src="../assets/covers/2108920625972891677.jpg" width="127" alt="Chuka 的俯拍换装动画"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Neon Shadows 角色服装转身测试</strong><br><sub><a href="https://x.com/JaviRandomXI">@JaviRandomXI</a> · 角色动画</sub><br><sub>0:05 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107541364841820482">▶ 播放</a> · <a href="https://x.com/JaviRandomXI/status/2107541364841820482">原帖</a></td>
+<td width="50%" valign="top"><strong>Chuka 的俯拍换装动画</strong><br><sub><a href="https://x.com/shellys_arts">@shellys_arts</a> · 角色动画</sub><br><sub>0:19 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108920625972891677">▶ 播放</a> · <a href="https://x.com/shellys_arts/status/2108920625972891677">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -413,6 +423,16 @@
 <tr>
 <td width="50%" valign="top"><strong>山脉上空的鹰</strong><br><sub><a href="https://x.com/saribali808">@saribali808</a> · 角色动画</sub><br><sub>0:05 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108416863294435536">▶ 播放</a> · <a href="https://x.com/saribali808/status/2108416863294435536">原帖</a></td>
 <td width="50%" valign="top"><strong>邮筒里的故事：世界邮政日动画</strong><br><sub><a href="https://x.com/Colorinmyspirit">@Colorinmyspirit</a> · 角色动画</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108486059562782790">▶ 播放</a> · <a href="https://x.com/Colorinmyspirit/status/2108486059562782790">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108927579503681764"><img src="../assets/covers/2108927579503681764.jpg" width="400" alt="FarmGirl 在 Godot 组装椅子"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>FarmGirl 在 Godot 组装椅子</strong><br><sub><a href="https://x.com/alexerichter">@alexerichter</a> · 角色动画</sub><br><sub>4:38 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108927579503681764">▶ 播放</a> · <a href="https://x.com/alexerichter/status/2108927579503681764">原帖</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

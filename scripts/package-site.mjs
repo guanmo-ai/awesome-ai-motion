@@ -5,7 +5,7 @@ import {publicCatalogIssues} from './catalog-privacy.mjs';
 import {decodeText,textPrivacyIssues} from './privacy.mjs';
 
 const ROOT=path.resolve(import.meta.dirname,'..');
-const CORE=['index.html','assets/gallery.css','assets/gallery.mjs','assets/gallery-model.mjs','data/cases.json'];
+const CORE=['index.html','assets/gallery.css','assets/gallery.mjs','assets/gallery-model.mjs','data/cases.json','assets/fonts/DMSans-latin.woff2','assets/fonts/Newsreader-latin.woff2','assets/fonts/OFL-DMSans.txt','assets/fonts/OFL-Newsreader.txt'];
 const MARKER='.gallery-package';
 
 export async function packageSite(root=ROOT) {

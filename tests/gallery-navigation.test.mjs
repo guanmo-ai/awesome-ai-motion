@@ -11,22 +11,19 @@ const rows=Array.from({length:80},(_,index)=>({
   source:{publishedAt:new Date(Date.UTC(2026,0,index+1)).toISOString()},
 }));
 
-test('首页与完整目录有独立可刷新的地址，语言与深链接保留当前页面',()=>{
-  assert.equal(defaults.page,'home');
-  const all={...defaults,page:'all'};
-  const url=stateUrl(all,base);
-  assert.equal(url.searchParams.get('page'),'all');
-  assert.deepEqual(readState(url),all);
-  for(const page of ['home','all']){
-    const state={...defaults,page,lang:'en',caseId:'123'};
-    assert.deepEqual(readState(stateUrl(state,base)),state);
+test('默认直接打开作品目录，旧首页链接归一且语言与作品深链接可刷新',()=>{
+  assert.equal(defaults.page,'all');
+  const url=stateUrl(defaults,base+'?page=home');
+  assert.equal(url.searchParams.has('page'),false);
+  assert.deepEqual(readState(url),defaults);
+  for(const suffix of ['', '?page=home', '?page=all']){
+    assert.deepEqual(readState(base+suffix),defaults);
+    const state={...defaults,lang:'en',caseId:'123'};
+    assert.deepEqual(readState(stateUrl(state,base+suffix)),state);
   }
-  const homeUrl=stateUrl(defaults,url);
-  assert.equal(homeUrl.searchParams.has('page'),false);
-  assert.deepEqual(readState(homeUrl),defaults);
 });
 
-test('旧的分类搜索和排序链接仍打开列表，无效参数不破坏首页',()=>{
+test('旧的分类搜索和排序链接仍打开列表，无效参数不破坏目录',()=>{
   for(const suffix of ['?category=motion','?category=all','?q=Video','?sort=latest','?view=discovery','?duration=short','?prompt=original','?playable=1'])assert.equal(readState(base+suffix).page,'all',suffix);
   assert.deepEqual(readState(base+'?page=bad&category=bad&sort=bad&view=bad&duration=bad&prompt=bad&playable=bad'),defaults);
   const queryState={...defaults,query:'Video'};
@@ -76,7 +73,7 @@ test('首尾不循环；单个、空列表和筛选外深链接不会跳到无�
   }
 });
 
-test('首页详情按全库收藏顺序切换，且不修改原始目录',()=>{
+test('默认目录详情按全库收藏顺序切换，且不修改原始目录',()=>{
   const before=structuredClone(rows);
   const neighbors=detailNeighbors(rows,{...defaults,caseId:'7'});
   assert.equal(neighbors.total,80);assert.equal(neighbors.index,6);

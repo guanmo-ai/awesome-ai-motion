@@ -2,7 +2,7 @@
 
 # Narrative films
 
-162 works. Click a cover to play; works without gallery video open on X.
+164 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -813,6 +813,16 @@
 <tr>
 <td width="50%" valign="top"><strong>DON’T LOOK UP: Suspense Near the Exit</strong><br><sub><a href="https://x.com/Castuananh">@Castuananh</a> · Narrative films</sub><br><sub>0:33 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108420740383223854">▶ Play</a> · <a href="https://x.com/Castuananh/status/2108420740383223854">Original post</a></td>
 <td width="50%" valign="top"><strong>SCHOOL HUSTLE: THE EX — Part 3</strong><br><sub><a href="https://x.com/promodenstudio">@promodenstudio</a> · Narrative films</sub><br><sub>2:45 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108509389938119127">▶ Play</a> · <a href="https://x.com/promodenstudio/status/2108509389938119127">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108932673813311706"><img src="../assets/covers/2108932673813311706.jpg" width="400" alt="White Rabbit Dream: Emma and Her Choker"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108935203507069157"><img src="../assets/covers/2108935203507069157.jpg" width="127" alt="The Hole in His Pocket"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>White Rabbit Dream: Emma and Her Choker</strong><br><sub><a href="https://x.com/AI__TSUBAKI">@AI__TSUBAKI</a> · Narrative films</sub><br><sub>3:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108932673813311706">▶ Play</a> · <a href="https://x.com/AI__TSUBAKI/status/2108932673813311706">Original post</a></td>
+<td width="50%" valign="top"><strong>The Hole in His Pocket</strong><br><sub><a href="https://x.com/NOBYZONEai">@NOBYZONEai</a> · Narrative films</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108935203507069157">▶ Play</a> · <a href="https://x.com/NOBYZONEai/status/2108935203507069157">Original post</a></td>
 </tr>
 </tbody>
 </table>

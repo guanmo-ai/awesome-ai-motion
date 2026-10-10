@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-110 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+111 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -258,6 +258,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[huashu-art-motion animation toolkit](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
   Code and docs use MIT; fonts and stroke data have separate licenses, while the Huashu character and its demo imagery are demonstration-only. Overall reuse rights for this video are unverified.
   [Link source](https://x.com/AlchainHust/status/2107641558073803075) · Link checked 2026-10-08 14:49 UTC
+
+## [Roblox Radial Effects Showcase](../cases/2108929788517789892.en.md) · @JohnKlerAI
+
+- **Public web page**：[Effects Showcase work page](https://www.roblox.com/games/115404945679619/Effects-Showcase)
+  Directly linked in the creator’s post. The work page was readable; playing requires the Roblox client and platform eligibility. Full gameplay has not been tested.
+  [Link source](https://x.com/JohnKlerAI/status/2108929788517789892) · Link checked 2026-10-10 15:00 UTC
 
 ## [Kākāpō Celebration in Pixel Art](../cases/2104002636513206422.en.md) · @simonw
 

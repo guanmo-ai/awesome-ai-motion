@@ -3,6 +3,752 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2108935203507069157",
+      "stage": "discovery",
+      "title": "口袋里的破洞",
+      "titleEn": "The Hole in His Pocket",
+      "category": "叙事短片",
+      "summary": "作者发布十五秒卡通短片《The Hole In His Pocket》，说明使用 Nano Banana 2、Seedance 2.5 与 Suno，并通过 OpenArt 制作。原帖没有完整指令。",
+      "summaryEn": "A fifteen-second cartoon short titled The Hole In His Pocket. The creator credits Nano Banana 2, Seedance 2.5 and Suno, using OpenArt; the post does not provide a complete prompt.",
+      "author": {
+        "name": "NOBY ZONE",
+        "handle": "NOBYZONEai",
+        "url": "https://x.com/NOBYZONEai"
+      },
+      "source": {
+        "url": "https://x.com/NOBYZONEai/status/2108935203507069157",
+        "publishedAt": "2026-10-10T14:58:29+00:00"
+      },
+      "model": {
+        "name": "Nano Banana 2 / Seedance 2.5 / Suno",
+        "evidenceQuote": "Made with Nano Banana 2 - Seedance 2.5",
+        "evidenceUrl": "https://x.com/NOBYZONEai/status/2108935203507069157"
+      },
+      "media": {
+        "durationSeconds": 15.041,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108933258620604416/vid/avc1/720x1280/aFv8D_BDp9tOMzqM.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 1.0,
+        "width": 640,
+        "height": 1138,
+        "bytes": 48422,
+        "path": "assets/covers/2108935203507069157.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/NOBYZONEai/status/2108935203507069157",
+        "checkedAt": "2026-10-10T15:00:26.655473+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 4,
+        "checkedAt": "2026-10-10T15:00:26.655473+00:00",
+        "sourceUrl": "https://x.com/NOBYZONEai/status/2108935203507069157"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:26.655473+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108933258620604416/vid/avc1/720x1280/aFv8D_BDp9tOMzqM.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/NOBYZONEai/status/2108935203507069157",
+        "checkedAt": "2026-10-10T15:00:35.504766+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108932673813311706",
+      "stage": "discovery",
+      "title": "《白兔之梦》：Emma 与颈饰",
+      "titleEn": "White Rabbit Dream: Emma and Her Choker",
+      "category": "叙事短片",
+      "summary": "作者发布短片《White Rabbit Dream》，以 Emma 为什么不摘下颈饰为引子；原帖说明使用 CapCut 上的 Seedance 2.5，没有公开完整指令。",
+      "summaryEn": "A short film titled White Rabbit Dream, introduced through the question of why Emma never removes her choker. The creator credits Seedance 2.5 on CapCut without sharing a complete prompt.",
+      "author": {
+        "name": "TSUBAKI",
+        "handle": "AI__TSUBAKI",
+        "url": "https://x.com/AI__TSUBAKI"
+      },
+      "source": {
+        "url": "https://x.com/AI__TSUBAKI/status/2108932673813311706",
+        "publishedAt": "2026-10-10T14:48:26+00:00"
+      },
+      "model": {
+        "name": "Seedance 2.5 / CapCut",
+        "evidenceQuote": "Made with Seedance 2.5 on @capcutapp_jp",
+        "evidenceUrl": "https://x.com/AI__TSUBAKI/status/2108932673813311706"
+      },
+      "media": {
+        "durationSeconds": 196.394,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108930309257605120/vid/avc1/2560x1440/GejbZtLP4Zc5bbNb.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 35,
+        "width": 640,
+        "height": 360,
+        "bytes": 11719,
+        "path": "assets/covers/2108932673813311706.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/AI__TSUBAKI/status/2108932673813311706",
+        "checkedAt": "2026-10-10T15:00:28.723098+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 36,
+        "checkedAt": "2026-10-10T15:00:28.723098+00:00",
+        "sourceUrl": "https://x.com/AI__TSUBAKI/status/2108932673813311706"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:28.723098+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108930309257605120/vid/avc1/2560x1440/GejbZtLP4Zc5bbNb.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AI__TSUBAKI/status/2108932673813311706",
+        "checkedAt": "2026-10-10T15:00:36.154786+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108929788517789892",
+      "stage": "discovery",
+      "title": "Roblox 放射状效果展示",
+      "titleEn": "Roblox Radial Effects Showcase",
+      "category": "短动效",
+      "summary": "作者展示五秒 Roblox 特效，说明由 Opus 5.5 制作，并提供 Effects Showcase 作品页。原帖未公开制作指令或源码。",
+      "summaryEn": "A five-second Roblox effects clip credited to Opus 5.5, with a link to the Effects Showcase work page. No production prompt or source code is shared in the post.",
+      "author": {
+        "name": "John Kler",
+        "handle": "JohnKlerAI",
+        "url": "https://x.com/JohnKlerAI"
+      },
+      "source": {
+        "url": "https://x.com/JohnKlerAI/status/2108929788517789892",
+        "publishedAt": "2026-10-10T14:36:58+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Made with Opus 5.5",
+        "evidenceUrl": "https://x.com/JohnKlerAI/status/2108929788517789892"
+      },
+      "media": {
+        "durationSeconds": 5,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108929680782901248/vid/avc1/1920x1080/ckb3FXzS1gAq0seL.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.0,
+        "width": 640,
+        "height": 360,
+        "bytes": 44280,
+        "path": "assets/covers/2108929788517789892.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/JohnKlerAI/status/2108929788517789892",
+        "checkedAt": "2026-10-10T15:00:29.316699+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 75,
+        "checkedAt": "2026-10-10T15:00:29.316699+00:00",
+        "sourceUrl": "https://x.com/JohnKlerAI/status/2108929788517789892"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:29.316699+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108929680782901248/vid/avc1/1920x1080/ckb3FXzS1gAq0seL.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/JohnKlerAI/status/2108929788517789892",
+        "checkedAt": "2026-10-10T15:00:36.801225+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://www.roblox.com/games/115404945679619/Effects-Showcase",
+          "label": "Effects Showcase 作品页",
+          "labelEn": "Effects Showcase work page",
+          "evidenceUrl": "https://x.com/JohnKlerAI/status/2108929788517789892",
+          "checkedAt": "2026-10-10T15:00:46.094381+00:00",
+          "note": "作者原帖直接提供此 Roblox 作品页；页面可读取，游玩需要 Roblox 客户端及相应平台条件，未完整试玩。",
+          "noteEn": "Directly linked in the creator’s post. The work page was readable; playing requires the Roblox client and platform eligibility. Full gameplay has not been tested."
+        }
+      ]
+    },
+    {
+      "id": "2108927579503681764",
+      "stage": "discovery",
+      "title": "FarmGirl 在 Godot 组装椅子",
+      "titleEn": "FarmGirl Assembles a Chair in Godot",
+      "category": "像素与角色",
+      "summary": "作者用 Codex、绑定角色和 IKEA 组装说明制作 Godot 场景，以八倍速呈现从零件到坐上椅子的过程。原帖说明程序动画、物件操作和自动镜头协同，并指出手部接触与腕部角度仍是难点。",
+      "summaryEn": "The creator uses Codex, a rigged character and IKEA assembly instructions for a Godot scene shown as an 8× timelapse. The post describes procedural animation, object handling and automated cameras, noting difficulties with hand contact and wrist angles.",
+      "author": {
+        "name": "Alexander E. Richter",
+        "handle": "alexerichter",
+        "url": "https://x.com/alexerichter"
+      },
+      "source": {
+        "url": "https://x.com/alexerichter/status/2108927579503681764",
+        "publishedAt": "2026-10-10T14:28:11+00:00"
+      },
+      "model": {
+        "name": "OpenAI Codex / Godot",
+        "evidenceQuote": "Created with OpenAI Codex",
+        "evidenceUrl": "https://x.com/alexerichter/status/2108927579503681764"
+      },
+      "media": {
+        "durationSeconds": 278.378,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108927197213773824/vid/avc1/1920x1080/bc3hbYbUcQazJ19X.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.0,
+        "width": 640,
+        "height": 360,
+        "bytes": 27183,
+        "path": "assets/covers/2108927579503681764.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/alexerichter/status/2108927579503681764",
+        "checkedAt": "2026-10-10T15:00:29.839414+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 14,
+        "checkedAt": "2026-10-10T15:00:29.839414+00:00",
+        "sourceUrl": "https://x.com/alexerichter/status/2108927579503681764"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:29.839414+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108927197213773824/vid/avc1/1920x1080/bc3hbYbUcQazJ19X.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/alexerichter/status/2108927579503681764",
+        "checkedAt": "2026-10-10T15:00:47.363040+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108926559264379318",
+      "stage": "discovery",
+      "title": "Pup 小狗的量子分身叙事",
+      "titleEn": "Pup’s Quantum Fetch Story",
+      "category": "知识讲解",
+      "summary": "作者以小狗分身、概率条与隔墙取球演绎量子概念，说明动画由 Claude Opus 5.5 制作。这是拟人化的概念叙事，原帖未提供可验证的量子计算实现或完整指令。",
+      "summaryEn": "The creator credits Claude Opus 5.5 for an animation using a puppy, probability bars and a ball beyond a wall to dramatize quantum concepts. This is an anthropomorphic concept story; no verifiable quantum-computing implementation or complete prompt is provided.",
+      "author": {
+        "name": "RGK",
+        "handle": "rgk_degen",
+        "url": "https://x.com/rgk_degen"
+      },
+      "source": {
+        "url": "https://x.com/rgk_degen/status/2108926559264379318",
+        "publishedAt": "2026-10-10T14:24:08+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 animated the whole thing",
+        "evidenceUrl": "https://x.com/rgk_degen/status/2108926559264379318"
+      },
+      "media": {
+        "durationSeconds": 24.6,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108926484584824832/vid/avc1/848x464/FUmA4zBGvDtkOIhh.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8,
+        "width": 640,
+        "height": 350,
+        "bytes": 30211,
+        "path": "assets/covers/2108926559264379318.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/rgk_degen/status/2108926559264379318",
+        "checkedAt": "2026-10-10T15:00:30.455390+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 3,
+        "views": 127,
+        "checkedAt": "2026-10-10T15:00:30.455390+00:00",
+        "sourceUrl": "https://x.com/rgk_degen/status/2108926559264379318"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:30.455390+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108926484584824832/vid/avc1/848x464/FUmA4zBGvDtkOIhh.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/rgk_degen/status/2108926559264379318",
+        "checkedAt": "2026-10-10T15:00:48.060041+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108924733588906180",
+      "stage": "discovery",
+      "title": "一镜呈现三种情绪",
+      "titleEn": "Three Emotions in One Continuous Take",
+      "category": "像素与角色",
+      "summary": "作者展示同一女性连续镜头中的三种情绪，说明使用 Kling 4.0 Flash 制作。原帖提供简短任务描述，没有完整生成指令。",
+      "summaryEn": "The creator presents three emotions in a continuous shot of one woman, crediting Kling 4.0 Flash. The post gives a short task description rather than a complete generation prompt.",
+      "author": {
+        "name": "Amira Zairi",
+        "handle": "azed_ai",
+        "url": "https://x.com/azed_ai"
+      },
+      "source": {
+        "url": "https://x.com/azed_ai/status/2108924733588906180",
+        "publishedAt": "2026-10-10T14:16:53+00:00"
+      },
+      "model": {
+        "name": "Kling 4.0 Flash",
+        "evidenceQuote": "Made with Kling 4.0 Flash",
+        "evidenceUrl": "https://x.com/azed_ai/status/2108924733588906180"
+      },
+      "media": {
+        "durationSeconds": 20.041,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108924703683522560/vid/avc1/1280x720/vwXhvCPDX66vM1G4.mp4?tag=16",
+        "kind": "video_frame",
+        "timeSeconds": 1.0,
+        "width": 640,
+        "height": 360,
+        "bytes": 12761,
+        "path": "assets/covers/2108924733588906180.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/azed_ai/status/2108924733588906180",
+        "checkedAt": "2026-10-10T15:00:31.119054+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 7,
+        "views": 594,
+        "checkedAt": "2026-10-10T15:00:31.119054+00:00",
+        "sourceUrl": "https://x.com/azed_ai/status/2108924733588906180"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:31.119054+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108924703683522560/vid/avc1/1280x720/vwXhvCPDX66vM1G4.mp4?tag=16",
+        "sourcePostUrl": "https://x.com/azed_ai/status/2108924733588906180",
+        "checkedAt": "2026-10-10T15:00:49.546324+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108920625972891677",
+      "stage": "discovery",
+      "title": "Chuka 的俯拍换装动画",
+      "titleEn": "Chuka’s Overhead Outfit Animation",
+      "category": "像素与角色",
+      "summary": "作者以博美犬 Chuka 的服装展示演绎 Ceiling Fan Trend，说明使用 Dreamina 上的 Seedance 2.5。原帖描述角色与换装主题，未公开完整提示词。",
+      "summaryEn": "An outfit showcase featuring Chuka the Pomeranian, inspired by the Ceiling Fan Trend. The creator credits Seedance 2.5 on Dreamina and describes the character and theme without a complete prompt.",
+      "author": {
+        "name": "Shelly’s Arts",
+        "handle": "shellys_arts",
+        "url": "https://x.com/shellys_arts"
+      },
+      "source": {
+        "url": "https://x.com/shellys_arts/status/2108920625972891677",
+        "publishedAt": "2026-10-10T14:00:33+00:00"
+      },
+      "model": {
+        "name": "Seedance 2.5 / Dreamina",
+        "evidenceQuote": "Created with @dreamina_ai using Seedance 2.5",
+        "evidenceUrl": "https://x.com/shellys_arts/status/2108920625972891677"
+      },
+      "media": {
+        "durationSeconds": 19.201,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108920593739321344/vid/avc1/720x1280/XZm6Q-5Nlc6ATaFc.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6,
+        "width": 640,
+        "height": 1138,
+        "bytes": 130132,
+        "path": "assets/covers/2108920625972891677.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/shellys_arts/status/2108920625972891677",
+        "checkedAt": "2026-10-10T15:00:31.602845+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 1,
+        "views": 17,
+        "checkedAt": "2026-10-10T15:00:31.602845+00:00",
+        "sourceUrl": "https://x.com/shellys_arts/status/2108920625972891677"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:31.602845+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108920593739321344/vid/avc1/720x1280/XZm6Q-5Nlc6ATaFc.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/shellys_arts/status/2108920625972891677",
+        "checkedAt": "2026-10-10T15:00:50.084962+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108920438244143547",
+      "stage": "discovery",
+      "title": "作品集 Work 区域转场",
+      "titleEn": "Portfolio Work Section Transition",
+      "category": "短动效",
+      "summary": "作者展示作品集 Work 区域的短转场，说明使用 Claude Opus 5.5 制作。当前原帖仅提供录屏，未给出完整指令、源码或可体验网页。",
+      "summaryEn": "A short screen recording of a portfolio’s Work section, credited to Claude Opus 5.5. The post does not provide a complete prompt, source code or an interactive website.",
+      "author": {
+        "name": "Himawan",
+        "handle": "adamhmwn",
+        "url": "https://x.com/adamhmwn"
+      },
+      "source": {
+        "url": "https://x.com/adamhmwn/status/2108920438244143547",
+        "publishedAt": "2026-10-10T13:59:48+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Work section made with @claudeai Opus 5.5",
+        "evidenceUrl": "https://x.com/adamhmwn/status/2108920438244143547"
+      },
+      "media": {
+        "durationSeconds": 4.955,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108920332577099776/vid/avc1/2880x1800/uUE9RzrxcYmgJt1c.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.0,
+        "width": 640,
+        "height": 400,
+        "bytes": 19628,
+        "path": "assets/covers/2108920438244143547.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/adamhmwn/status/2108920438244143547",
+        "checkedAt": "2026-10-10T15:00:32.546664+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 4,
+        "views": 141,
+        "checkedAt": "2026-10-10T15:00:32.546664+00:00",
+        "sourceUrl": "https://x.com/adamhmwn/status/2108920438244143547"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:32.546664+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108920332577099776/vid/avc1/2880x1800/uUE9RzrxcYmgJt1c.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/adamhmwn/status/2108920438244143547",
+        "checkedAt": "2026-10-10T15:00:50.806893+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108918893523963917",
+      "stage": "discovery",
+      "title": "Locus Amoenus：高斯泼溅场景",
+      "titleEn": "Locus Amoenus: A Gaussian Splat Scene",
+      "category": "3D 与交互",
+      "summary": "作者说明场景资产来自 TripoSplat，Claude Opus 5.5 在 PlayCanvas 中组合场景，并参与音效制作。原帖强调重新打光的场景体验，未公开完整指令或工程入口。",
+      "summaryEn": "The creator credits TripoSplat for scene assets and Claude Opus 5.5 for composition in PlayCanvas and sound effects. The post highlights relighting and the scene experience without sharing a complete prompt or project link.",
+      "author": {
+        "name": "Stefano Rivera",
+        "handle": "easyldur",
+        "url": "https://x.com/easyldur"
+      },
+      "source": {
+        "url": "https://x.com/easyldur/status/2108918893523963917",
+        "publishedAt": "2026-10-10T13:53:40+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / TripoSplat / PlayCanvas",
+        "evidenceQuote": "Scene composed by @claudeai Opus 5.5",
+        "evidenceUrl": "https://x.com/easyldur/status/2108918893523963917"
+      },
+      "media": {
+        "durationSeconds": 206.813,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108917402440544256/vid/avc1/368x368/rUBoEXD5NUazLe8v.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.0,
+        "width": 640,
+        "height": 640,
+        "bytes": 43954,
+        "path": "assets/covers/2108918893523963917.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/easyldur/status/2108918893523963917",
+        "checkedAt": "2026-10-10T15:00:33.129247+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 52,
+        "checkedAt": "2026-10-10T15:00:33.129247+00:00",
+        "sourceUrl": "https://x.com/easyldur/status/2108918893523963917"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:33.129247+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108917402440544256/vid/avc1/368x368/rUBoEXD5NUazLe8v.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/easyldur/status/2108918893523963917",
+        "checkedAt": "2026-10-10T15:00:51.469799+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108917734406844505",
+      "stage": "discovery",
+      "title": "风格、脚本与旁白结合的动画",
+      "titleEn": "Animation from Style, Script and Voiceover",
+      "category": "短动效",
+      "summary": "作者发布一分半钟动画，说明向 Opus 5.5 Max 提供了风格描述、脚本与旁白。原帖没有公开这些输入的完整内容，不能据此认定成片由一句话完成。",
+      "summaryEn": "A ninety-second animation credited to Opus 5.5 Max, using a style description, script and voiceover. The full inputs are not shared in the post, so the clip does not establish a one-prompt workflow.",
+      "author": {
+        "name": "Max",
+        "handle": "kudela_maxim",
+        "url": "https://x.com/kudela_maxim"
+      },
+      "source": {
+        "url": "https://x.com/kudela_maxim/status/2108917734406844505",
+        "publishedAt": "2026-10-10T13:49:04+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 Max",
+        "evidenceQuote": "An animation made by Opus 5.5 Max with style description, script and voiceover",
+        "evidenceUrl": "https://x.com/kudela_maxim/status/2108917734406844505"
+      },
+      "media": {
+        "durationSeconds": 92.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108917510133161984/vid/avc1/1920x1080/L9KJzHBrXcS5JCsw.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 30,
+        "width": 640,
+        "height": 360,
+        "bytes": 15385,
+        "path": "assets/covers/2108917734406844505.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/kudela_maxim/status/2108917734406844505",
+        "checkedAt": "2026-10-10T15:00:33.740043+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 28,
+        "checkedAt": "2026-10-10T15:00:33.740043+00:00",
+        "sourceUrl": "https://x.com/kudela_maxim/status/2108917734406844505"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:33.740043+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108917510133161984/vid/avc1/1920x1080/L9KJzHBrXcS5JCsw.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kudela_maxim/status/2108917734406844505",
+        "checkedAt": "2026-10-10T15:00:51.966883+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108906748840972621",
+      "stage": "discovery",
+      "title": "Accra Crazy Trotro：阿克拉驾驶游戏",
+      "titleEn": "Accra Crazy Trotro: An Accra Driving Game",
+      "category": "3D 与交互",
+      "summary": "作者展示与 Claude Opus 5.5 共同制作的首个游戏《Accra Crazy Trotro》，录屏呈现城市道路中的小巴驾驶。原帖未提供完整指令、源码或试玩链接。",
+      "summaryEn": "The creator presents Accra Crazy Trotro, described as their first game co-created with Claude Opus 5.5. The recording shows minibus driving through city streets; no complete prompt, source code or playable link is provided.",
+      "author": {
+        "name": "Eddie Forson",
+        "handle": "Ed_Forson",
+        "url": "https://x.com/Ed_Forson"
+      },
+      "source": {
+        "url": "https://x.com/Ed_Forson/status/2108906748840972621",
+        "publishedAt": "2026-10-10T13:05:25+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "my first game co-created with Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/Ed_Forson/status/2108906748840972621"
+      },
+      "media": {
+        "durationSeconds": 134.976,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108906125311475712/vid/avc1/1816x1080/TEJ0TPabtQEZ-4x5.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 18,
+        "width": 640,
+        "height": 380,
+        "bytes": 47357,
+        "path": "assets/covers/2108906748840972621.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/Ed_Forson/status/2108906748840972621",
+        "checkedAt": "2026-10-10T15:00:34.221911+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 11,
+        "views": 333,
+        "checkedAt": "2026-10-10T15:00:34.221911+00:00",
+        "sourceUrl": "https://x.com/Ed_Forson/status/2108906748840972621"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-10T15:00:34.221911+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108906125311475712/vid/avc1/1816x1080/TEJ0TPabtQEZ-4x5.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Ed_Forson/status/2108906748840972621",
+        "checkedAt": "2026-10-10T15:00:52.576165+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
       "id": "2105414480910069765",
       "stage": "catalogued",
       "title": "Futurepost 扩展介绍动效",

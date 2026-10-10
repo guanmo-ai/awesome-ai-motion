@@ -23,6 +23,9 @@ test('源码或网页包含直接源码与公开网页，排除仅工具，兼�
   assert.deepEqual(ids(readState('/?resource=code')),['1','3']);
   assert.deepEqual(ids(readState('/?resource=tool')),['2','7']);
   assert.deepEqual(ids(readState('/?resource=demo')),['1','5','6','7']);
+  assert.deepEqual(ids(readState('/?resource=both')),['1']);
+  const both=readState('/?resource=both&prompt=original&category=motion&lang=en');
+  assert.deepEqual(readState(stateUrl(both,'https://example.com/gallery/')),both);
   assert.deepEqual(ids(readState('/?resource=any')),['1','3','5','6','7']);
   assert.equal(detailNeighbors(rows,readState('/?resource=any'),'5').total,5);
   const state={...readState('/?resource=code&lang=en'),caseId:'1'};

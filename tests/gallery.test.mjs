@@ -105,11 +105,11 @@ test('首页收藏前六名不设作者或类别配额，人工排后仍按收�
   assert.deepEqual(introCases([row('unknown',null),row('zero',0),row('positive',2)],3).map(c=>c.id),['positive','zero','unknown']);
   assert.deepEqual(rows,before);
 });
-test('静态访客的管理入口初始隐藏，本地检测后仍需主动打开',()=>{
+test('访客入口删除冗余操作，关注创作者与 GitHub 位于顶部导航',()=>{
   const page=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
   const script=fs.readFileSync(new URL('../assets/gallery.mjs',import.meta.url),'utf8');
-  assert.match(page,/<button id="manage-works"[^>]*aria-pressed="false" hidden>/);
-  assert.match(page,/<button id="deleted-works"[^>]*hidden>/);
-  assert.match(script,/let curator=null,managing=false/);
-  assert.match(script,/if\(curator&&managing\).*featuredControl/);
+  assert.doesNotMatch(page,/id="(?:submit|manage-works|clear-filters)"/);
+  assert.doesNotMatch(script,/api\/curation/);
+  assert.match(page,/<nav class="header-actions"[^>]*>[\s\S]*id="follow-creator"[\s\S]*id="github"[\s\S]*id="language"/);
+  assert.match(page,/<a id="follow-creator"[^>]*href="https:\/\/x\.com\/guanmo_ai"[^>]*target="_blank"[^>]*rel="noopener noreferrer"/);
 });

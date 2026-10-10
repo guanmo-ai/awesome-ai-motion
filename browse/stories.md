@@ -2,7 +2,7 @@
 
 # 叙事短片
 
-162 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+164 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -813,6 +813,16 @@
 <tr>
 <td width="50%" valign="top"><strong>DON’T LOOK UP：出口前的悬念</strong><br><sub><a href="https://x.com/Castuananh">@Castuananh</a> · 叙事短片</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108420740383223854">▶ 播放</a> · <a href="https://x.com/Castuananh/status/2108420740383223854">原帖</a></td>
 <td width="50%" valign="top"><strong>SCHOOL HUSTLE: THE EX — 第三集</strong><br><sub><a href="https://x.com/promodenstudio">@promodenstudio</a> · 叙事短片</sub><br><sub>2:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108509389938119127">▶ 播放</a> · <a href="https://x.com/promodenstudio/status/2108509389938119127">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108932673813311706"><img src="../assets/covers/2108932673813311706.jpg" width="400" alt="《白兔之梦》：Emma 与颈饰"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108935203507069157"><img src="../assets/covers/2108935203507069157.jpg" width="127" alt="口袋里的破洞"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>《白兔之梦》：Emma 与颈饰</strong><br><sub><a href="https://x.com/AI__TSUBAKI">@AI__TSUBAKI</a> · 叙事短片</sub><br><sub>3:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108932673813311706">▶ 播放</a> · <a href="https://x.com/AI__TSUBAKI/status/2108932673813311706">原帖</a></td>
+<td width="50%" valign="top"><strong>口袋里的破洞</strong><br><sub><a href="https://x.com/NOBYZONEai">@NOBYZONEai</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108935203507069157">▶ 播放</a> · <a href="https://x.com/NOBYZONEai/status/2108935203507069157">原帖</a></td>
 </tr>
 </tbody>
 </table>

@@ -6,13 +6,13 @@ import {randomBytes} from 'node:crypto';
 import {createCuration} from './curation.mjs';
 
 const root=path.resolve(import.meta.dirname,'..');
-const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.svg':'image/svg+xml','.txt':'text/plain; charset=utf-8','.md':'text/plain; charset=utf-8'};
+const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.svg':'image/svg+xml','.woff2':'font/woff2','.txt':'text/plain; charset=utf-8','.md':'text/plain; charset=utf-8'};
 // Explicit public files only: research evidence and Git metadata stay private.
 export function publicPath(url, base=root) {
   let pathname;
   try {pathname=decodeURIComponent(new URL(url,'http://localhost').pathname);} catch {return null;}
   if(pathname==='/')pathname='/index.html';
-  if(!/^\/(?:index\.html|assets\/(?:gallery\.(?:css|mjs)|gallery-model\.mjs|covers\/\d+\.jpg|brand\/[\w.-]+\.svg)|data\/cases\.json|prompts\/\d+\.txt)$/.test(pathname))return null;
+  if(!/^\/(?:index\.html|assets\/(?:gallery\.(?:css|mjs)|gallery-model\.mjs|covers\/\d+\.jpg|brand\/[\w.-]+\.svg|fonts\/(?:DMSans-latin\.woff2|Newsreader-latin\.woff2|OFL-DMSans\.txt|OFL-Newsreader\.txt))|data\/cases\.json|prompts\/\d+\.txt)$/.test(pathname))return null;
   return path.join(base,pathname);
 }
 export function createGalleryServer(base=root) {

@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-82 works. Click a cover to play; works without gallery video open on X.
+85 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -198,31 +198,41 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103028027861152225"><img src="../assets/covers/2103028027861152225.jpg" width="400" alt="Retro Computer Demo Scene"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108306366771413034"><img src="../assets/covers/2108306366771413034.jpg" width="400" alt="An Opus Blender Character-animation Test"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108924733588906180"><img src="../assets/covers/2108924733588906180.jpg" width="400" alt="Three Emotions in One Continuous Take"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Retro Computer Demo Scene</strong><br><sub><a href="https://x.com/cromwellian">@cromwellian</a> · Pixel art &amp; characters</sub><br><sub>2:44 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103028027861152225">▶ Play</a> · <a href="https://x.com/cromwellian/status/2103028027861152225">Original post</a></td>
-<td width="50%" valign="top"><strong>An Opus Blender Character-animation Test</strong><br><sub><a href="https://x.com/DaraChaww">@DaraChaww</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108306366771413034">▶ Play</a> · <a href="https://x.com/DaraChaww/status/2108306366771413034">Original post</a></td>
+<td width="50%" valign="top"><strong>Three Emotions in One Continuous Take</strong><br><sub><a href="https://x.com/azed_ai">@azed_ai</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108924733588906180">▶ Play</a> · <a href="https://x.com/azed_ai/status/2108924733588906180">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108306366771413034"><img src="../assets/covers/2108306366771413034.jpg" width="400" alt="An Opus Blender Character-animation Test"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108359012328849486"><img src="../assets/covers/2108359012328849486.jpg" width="400" alt="A Knight-cat Short"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106061225851568278"><img src="../assets/covers/2106061225851568278.jpg" width="400" alt="A Claude Code mascot character short"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An Opus Blender Character-animation Test</strong><br><sub><a href="https://x.com/DaraChaww">@DaraChaww</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108306366771413034">▶ Play</a> · <a href="https://x.com/DaraChaww/status/2108306366771413034">Original post</a></td>
 <td width="50%" valign="top"><strong>A Knight-cat Short</strong><br><sub><a href="https://x.com/yesand_ai">@yesand_ai</a> · Pixel art &amp; characters</sub><br><sub>0:24 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108359012328849486">▶ Play</a> · <a href="https://x.com/yesand_ai/status/2108359012328849486">Original post</a></td>
-<td width="50%" valign="top"><strong>A Claude Code mascot character short</strong><br><sub><a href="https://x.com/rishit30g">@rishit30g</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106061225851568278">▶ Play</a> · <a href="https://x.com/rishit30g/status/2106061225851568278">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106061225851568278"><img src="../assets/covers/2106061225851568278.jpg" width="400" alt="A Claude Code mascot character short"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106743642668875913"><img src="../assets/covers/2106743642668875913.jpg" width="400" alt="Inkrunner: paint a path to the finish"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107541364841820482"><img src="../assets/covers/2107541364841820482.jpg" width="127" alt="A Neon Shadows Character Outfit-turn Test"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Claude Code mascot character short</strong><br><sub><a href="https://x.com/rishit30g">@rishit30g</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106061225851568278">▶ Play</a> · <a href="https://x.com/rishit30g/status/2106061225851568278">Original post</a></td>
 <td width="50%" valign="top"><strong>Inkrunner: paint a path to the finish</strong><br><sub><a href="https://x.com/cryptowluha">@cryptowluha</a> · Pixel art &amp; characters</sub><br><sub>0:27 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106743642668875913">▶ Play</a> · <a href="https://x.com/cryptowluha/status/2106743642668875913">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107541364841820482"><img src="../assets/covers/2107541364841820482.jpg" width="127" alt="A Neon Shadows Character Outfit-turn Test"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108920625972891677"><img src="../assets/covers/2108920625972891677.jpg" width="127" alt="Chuka’s Overhead Outfit Animation"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>A Neon Shadows Character Outfit-turn Test</strong><br><sub><a href="https://x.com/JaviRandomXI">@JaviRandomXI</a> · Pixel art &amp; characters</sub><br><sub>0:05 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107541364841820482">▶ Play</a> · <a href="https://x.com/JaviRandomXI/status/2107541364841820482">Original post</a></td>
+<td width="50%" valign="top"><strong>Chuka’s Overhead Outfit Animation</strong><br><sub><a href="https://x.com/shellys_arts">@shellys_arts</a> · Pixel art &amp; characters</sub><br><sub>0:19 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108920625972891677">▶ Play</a> · <a href="https://x.com/shellys_arts/status/2108920625972891677">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -413,6 +423,16 @@
 <tr>
 <td width="50%" valign="top"><strong>An Eagle Above the Mountains</strong><br><sub><a href="https://x.com/saribali808">@saribali808</a> · Pixel art &amp; characters</sub><br><sub>0:05 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108416863294435536">▶ Play</a> · <a href="https://x.com/saribali808/status/2108416863294435536">Original post</a></td>
 <td width="50%" valign="top"><strong>Stories in a Letter: a World Post Day Animation</strong><br><sub><a href="https://x.com/Colorinmyspirit">@Colorinmyspirit</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108486059562782790">▶ Play</a> · <a href="https://x.com/Colorinmyspirit/status/2108486059562782790">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108927579503681764"><img src="../assets/covers/2108927579503681764.jpg" width="400" alt="FarmGirl Assembles a Chair in Godot"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>FarmGirl Assembles a Chair in Godot</strong><br><sub><a href="https://x.com/alexerichter">@alexerichter</a> · Pixel art &amp; characters</sub><br><sub>4:38 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108927579503681764">▶ Play</a> · <a href="https://x.com/alexerichter/status/2108927579503681764">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

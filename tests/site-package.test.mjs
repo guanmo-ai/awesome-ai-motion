@@ -8,7 +8,7 @@ import {packageSite} from '../scripts/package-site.mjs';
 async function fixture(t) {
   const root=await fs.realpath(await fs.mkdtemp(path.join(os.tmpdir(),'gallery-package-')));
   t.after(()=>fs.rm(root,{recursive:true,force:true}));
-  for(const file of ['index.html','assets/gallery.css','assets/gallery.mjs','assets/gallery-model.mjs','assets/covers/1.jpg','.research/deleted-works/private.json','.git/config','scripts/serve.mjs']) {
+  for(const file of ['index.html','assets/gallery.css','assets/gallery.mjs','assets/gallery-model.mjs','assets/covers/1.jpg','assets/fonts/DMSans-latin.woff2','assets/fonts/Newsreader-latin.woff2','assets/fonts/OFL-DMSans.txt','assets/fonts/OFL-Newsreader.txt','.research/deleted-works/private.json','.git/config','scripts/serve.mjs']) {
     await fs.mkdir(path.dirname(path.join(root,file)),{recursive:true});await fs.writeFile(path.join(root,file),'fixture');
   }
   await fs.mkdir(path.join(root,'data'));
@@ -18,8 +18,8 @@ async function fixture(t) {
 
 test('静态包只包含页面必需文件，不包含研究、API、Git 或删除记录',async t=>{
   const root=await fixture(t),result=await packageSite(root);
-  assert.equal(result.files,6);
-  for(const file of ['index.html','assets/gallery.mjs','assets/covers/1.jpg','data/cases.json','.nojekyll'])assert.ok(await fs.stat(path.join(result.directory,file)));
+  assert.equal(result.files,10);
+  for(const file of ['index.html','assets/gallery.mjs','assets/covers/1.jpg','data/cases.json','assets/fonts/DMSans-latin.woff2','assets/fonts/Newsreader-latin.woff2','assets/fonts/OFL-DMSans.txt','assets/fonts/OFL-Newsreader.txt','.nojekyll'])assert.ok(await fs.stat(path.join(result.directory,file)));
   for(const file of ['.git','.research','scripts'])assert.equal(await fs.stat(path.join(result.directory,file)).catch(()=>null),null);
   await fs.writeFile(path.join(result.directory,'assets/covers/removed.jpg'),'stale');
   await packageSite(root);

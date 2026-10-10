@@ -14,6 +14,8 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
     removeAttribute(name){delete this[name];}
     replaceChildren(...children){this.children=children;}
     append(...children){this.children.push(...children);for(const child of children)child.parentElement=this;}
+    insertBefore(node,anchor){node.remove();const index=anchor?this.children.indexOf(anchor):this.children.length;this.children.splice(index,0,node);node.parentElement=this;}
+    remove(){if(this.parentElement){const children=this.parentElement.children,index=children.indexOf(this);if(index>=0)children.splice(index,1);this.parentElement=null;}}
     contains(node){return this===node||this.children.some(child=>child.contains?.(node));}
     closest(selector){for(let node=this;node;node=node.parentElement){if(selector.split(',').includes(node.tagName.toLowerCase())||(selector.includes('[contenteditable]')&&node.isContentEditable))return node;}return null;}
     querySelector(selector){
@@ -22,6 +24,7 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
       const visit=children=>{for(const child of children){if(((className&&child.className===className)||selector===child.tagName.toLowerCase())&&(id===undefined||child.dataset.caseId===id))return child;const nested=visit(child.children||[]);if(nested)return nested;}return null;};
       return visit(this.children);
     }
+    scrollIntoView(){}
     pause(){this.paused=true;}
     play(){this.paused=false;return Promise.resolve();}
     load(){}
@@ -33,22 +36,25 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
   const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
   const nodes=new Map([...html.matchAll(/id="([^"]+)"/g)].map(([,id])=>[id,new Node()]));
   nodes.get('viewer').append(nodes.get('viewer-content'));
+  nodes.get('sort-menu').append(...['bookmarks','featured','latest'].map(value=>nodes.get(`sort-${value}`)));
+  nodes.get('sort-menu').hidden=true;
   for(const [,id,body] of html.matchAll(/<select id="([^"]+)"[^>]*>(.*?)<\/select>/gs))nodes.get(id).options=[...body.matchAll(/<option value="([^"]+)"/g)].map(([,value])=>({value}));
   const documentListeners=new Map();
-  const document={getElementById:id=>nodes.get(id),createElement:tagName=>new Node(tagName),querySelector:()=>new Node(),documentElement:{},body:{style:{}},addEventListener:(type,listener)=>documentListeners.set(type,listener),activeElement:null};
+  const document={getElementById:id=>nodes.get(id),createElement:tagName=>new Node(tagName),createElementNS:(_,tagName)=>new Node(tagName),createTextNode:text=>{const node=new Node('#text');node.textContent=text;return node;},querySelector:()=>new Node(),documentElement:{},body:{style:{}},addEventListener:(type,listener)=>documentListeners.set(type,listener),activeElement:null};
   const location=new URL(`https://gallery.test/${search}`);
   const timers=new Map(),windowListeners=new Map();let timerId=0;
   let observer;
   class IntersectionObserver {
     constructor(callback){this.callback=callback;this.targets=new Set();observer=this;}
     observe(node){this.targets.add(node);}
+    unobserve(node){this.targets.delete(node);}
     disconnect(){this.targets.clear();}
     send(node,visible){this.callback([{target:node,isIntersecting:visible,intersectionRatio:visible?1:0}]);}
   }
   const history={state:null,pushState(data,_,url){this.state=data;location.href=url;},replaceState(data,_,url){this.state=data;location.href=url;}};
   const context={...model,document,location,history,Element:Node,URL,Intl,Date,console,AbortController,IntersectionObserver,
     navigator:{connection:{saveData:Boolean(preferences.saveData)}},
-    window:{matchMedia:()=>({matches:Boolean(preferences.reducedMotion),addEventListener(){}}),addEventListener:(type,listener)=>windowListeners.set(type,listener),scrollTo(){}},
+    window:{matchMedia:query=>({matches:query.includes('max-width')?Boolean(preferences.mobile):Boolean(preferences.reducedMotion),addEventListener(){}}),addEventListener:(type,listener)=>windowListeners.set(type,listener),scrollTo(){}},
     fetch:async()=>({ok:true,json:async()=>({cases:rows})}),
     setTimeout:callback=>{timers.set(++timerId,callback);return timerId;},clearTimeout:id=>timers.delete(id),
   };
@@ -74,7 +80,7 @@ test('连续搜索只应用最后一个值，Enter 立即查询且不会留下�
 
 test('待应用的搜索与排序合并，查看全部作品取消延迟查询并返回搜索焦点',async()=>{
   const app=await gallery();
-  app.input('UI');app.nodes.get('sort').value='latest';app.nodes.get('sort').send('change');
+  app.input('UI');app.nodes.get('sort').send('click');app.nodes.get('sort-latest').send('click');
   assert.equal(app.location.searchParams.get('q'),'UI');
   assert.equal(app.location.searchParams.get('sort'),'latest');
   assert.equal(app.timers.size,0);
@@ -83,6 +89,22 @@ test('待应用的搜索与排序合并，查看全部作品取消延迟查询�
   assert.equal(app.location.searchParams.has('prompt'),false);
   assert.equal(app.nodes.get('search').value,'');
   assert.equal(app.document.activeElement,app.nodes.get('search'));
+});
+
+test('排序菜单支持方向键、选择与焦点恢复，Escape、Tab 和外部点击可关闭',async()=>{
+  const app=await gallery(),trigger=app.nodes.get('sort'),menu=app.nodes.get('sort-menu');
+  const key=(key)=>{const event={key,preventDefault(){this.prevented=true;}};menu.send('keydown',event);return event;};
+  trigger.send('click');assert.equal(trigger.getAttribute('aria-expanded'),'true');
+  assert.equal(app.document.activeElement,app.nodes.get('sort-bookmarks'));
+  assert.equal(key('ArrowDown').prevented,true);assert.equal(app.document.activeElement,app.nodes.get('sort-featured'));
+  app.nodes.get('sort-featured').send('click');
+  assert.equal(app.location.searchParams.get('sort'),'featured');
+  assert.equal(app.nodes.get('sort-featured').getAttribute('aria-checked'),'true');
+  assert.equal(menu.hidden,true);assert.equal(app.document.activeElement,trigger);
+  trigger.send('click');key('End');assert.equal(app.document.activeElement,app.nodes.get('sort-latest'));
+  key('Escape');assert.equal(menu.hidden,true);assert.equal(app.location.searchParams.get('sort'),'featured');
+  trigger.send('click');key('Tab');assert.equal(menu.hidden,true);assert.equal(app.document.activeElement,trigger);
+  trigger.send('click');app.documentListeners.get('click')({target:app.nodes.get('search')});assert.equal(menu.hidden,true);
 });
 
 test('中文输入组合期间不筛选，完成后查询；浏览器返回取消待应用输入',async()=>{
@@ -112,20 +134,22 @@ test('旧手动筛选链接不再隐藏作品，保留分类和浏览器返回�
   assert.equal(app.location.searchParams.has('prompt'),false);
 });
 
-test('README 的提示词和源码入口保留用途，并显示明确的集合标题',async()=>{
+test('README 的提示词和源码入口保留用途，并显示对应资料筛选',async()=>{
   const original=await gallery('?prompt=original');
   assert.equal(original.location.searchParams.get('prompt'),'original');
-  assert.equal(original.nodes.get('collection-title').textContent,'提示词原文');
+  assert.equal(original.nodes.get('collection-context').textContent,'提示词原文');
+  assert.equal(original.nodes.get('filter-prompt').getAttribute('aria-pressed'),'true');
   const source=await gallery('?resource=code&lang=en');
   assert.equal(source.location.searchParams.get('resource'),'code');
-  assert.equal(source.nodes.get('collection-title').textContent,'Source code');
+  assert.equal(source.nodes.get('collection-context').textContent,'Source code');
+  assert.equal(source.nodes.get('filter-code').getAttribute('aria-pressed'),'true');
 });
 
 test('旧链接同时限定源码和提示词原文时，标题说明全部集合条件',async()=>{
   const row=(id,status,kind)=>({id,title:'测试作品',category:'短动效',author:{handle:'maker'},prompt:{status},resources:[{kind,url:'https://example.com/work'}]});
   const app=await gallery('?category=motion&resource=code&prompt=original',[row('1','original','code'),row('2','brief','code'),row('3','original','demo')]);
   assert.equal(app.nodes.get('result-count').textContent,'1 个作品');
-  assert.equal(app.nodes.get('collection-title').textContent,'短动效 · 作品源码 · 提示词原文');
+  assert.equal(app.nodes.get('collection-context').textContent,'短动效 · 作品源码 · 提示词原文');
   assert.equal(app.location.searchParams.get('resource'),'code');
   assert.equal(app.location.searchParams.get('prompt'),'original');
 });
@@ -235,11 +259,31 @@ test('暂停开关、后台和详情暂停卡片，关闭详情后恢复；重�
   assert.equal(video.paused,true);assert.equal(video.src,undefined);assert.equal(app.observer.targets.size,0);
 });
 
+test('排序和用途切换保留仍显示的卡片与播放器，移除作品和切换语言才释放旧节点',async()=>{
+  const sample=playableSample(),rows=[
+    {...sample,id:'1',category:'产品宣传',metrics:{bookmarks:100},source:{...sample.source,publishedAt:'2026-01-01'}},
+    {...sample,id:'2',category:'短动效',metrics:{bookmarks:50},source:{...sample.source,publishedAt:'2026-01-02'}},
+  ];
+  const app=await gallery('',rows),first=app.nodes.get('works').children[0],second=app.nodes.get('works').children[1];
+  const thumb=first.querySelector('.thumbnail'),video=thumb.querySelector('video');
+  for(const target of app.observer.targets)app.observer.send(target,true);
+  await settlePreviews();video.send('playing');
+  app.nodes.get('sort').send('click');app.nodes.get('sort-latest').send('click');
+  assert.equal(app.nodes.get('works').children[0],second);assert.equal(app.nodes.get('works').children[1],first);
+  assert.equal(video.paused,false);assert.equal(video.src,sample.webPlayback.url);
+  app.nodes.get('categories').children.find(n=>n.dataset.category==='product').send('click');
+  assert.equal(app.nodes.get('works').children[0],first);assert.equal(app.observer.targets.size,1);
+  assert.equal(video.paused,false);assert.equal(second.querySelector('video').src,undefined);
+  app.nodes.get('language').send('click');
+  assert.notEqual(app.nodes.get('works').children[0],first);assert.equal(video.paused,true);assert.equal(video.src,undefined);
+  assert.equal(app.nodes.get('works').children.length,1);
+});
+
 test('减少动态和省流量时不自动加载，手动开启可预览；媒体失败保持封面',async()=>{
   for(const preferences of [{reducedMotion:true},{saveData:true}]){
     const app=await gallery('?page=all',[playableSample()],preferences),thumb=[...app.observer.targets][0],video=thumb.querySelector('video');
     app.observer.send(thumb,true);
-    assert.equal(video.src,undefined);assert.equal(app.nodes.get('toggle-previews').textContent,'播放预览');
+    assert.equal(video.src,undefined);assert.equal(app.nodes.get('toggle-previews').getAttribute('aria-label'),'播放预览');
     app.nodes.get('toggle-previews').send('click');await settlePreviews();video.send('playing');
     assert.equal(video.paused,false);assert.equal(video.hidden,false);
     video.send('error');assert.equal(video.hidden,true);assert.equal(video.paused,true);assert.equal(video.src,undefined);
@@ -259,4 +303,108 @@ test('快速离屏再返回会恢复被打断的起播；浏览器拒绝自动�
   video.play=()=>{calls++;return Promise.reject({name:'NotAllowedError'});};
   app.observer.send(thumb,true);await settlePreviews();
   assert.equal(calls,3);assert.equal(video.hidden,true);assert.equal(video.paused,true);
+});
+
+test('默认入口直接显示真实目录与搜索，不经过宣传首屏',async()=>{
+  const sample=playableSample(),rows=[{...sample,id:'1'},{...sample,id:'2'}];
+  const app=await gallery('',rows);
+  assert.equal(app.nodes.has('landing'),false);
+  assert.equal(app.nodes.get('search').value,'');
+  assert.equal(app.nodes.get('result-count').textContent,'2 个作品');
+  assert.equal(app.nodes.get('works').children.length,2);
+  assert.equal(app.location.searchParams.has('page'),false);
+  assert.equal(app.nodes.has('clear-filters'),false);
+  assert.equal(app.nodes.get('follow-label').textContent,'关注观默');
+  app.nodes.get('language').send('click');
+  assert.equal(app.nodes.get('follow-label').textContent,'Follow Guanmo');
+  assert.equal(app.nodes.get('follow-creator').getAttribute('aria-label'),'Follow Guanmo on X @guanmo_ai');
+});
+
+test('用途、搜索和资料按钮可组合，源码与体验取交集，再次点击只取消对应条件',async()=>{
+  const sample=playableSample(),row=(id,category,prompt,kind)=>({...sample,id,title:'UI animation',category,prompt:{status:prompt,text:'Create an animation'},resources:[{kind,url:'https://example.com/work'}]});
+  const rows=[row('1','产品宣传','original','code'),row('2','产品宣传','brief','demo'),row('3','短动效','original','demo')];
+  rows[0].resources.push({kind:'demo',url:'https://example.com/demo'});
+  const app=await gallery('',rows);
+  app.nodes.get('categories').children.find(n=>n.dataset.category==='product').send('click');
+  app.input('UI');app.nodes.get('filter-prompt').send('click');
+  assert.equal(app.location.searchParams.get('category'),'product');
+  assert.equal(app.location.searchParams.get('q'),'UI');
+  assert.equal(app.location.searchParams.get('prompt'),'original');
+  assert.equal(app.nodes.get('result-count').textContent,'1 个作品');
+  assert.equal(app.nodes.get('filter-prompt').getAttribute('aria-pressed'),'true');
+  app.nodes.get('categories').children.find(n=>n.dataset.category==='product').send('click');
+  assert.equal(app.location.searchParams.has('category'),false,'再次点击已选用途可取消，保留搜索和提示词筛选');
+  assert.equal(app.location.searchParams.get('q'),'UI');
+  assert.equal(app.location.searchParams.get('prompt'),'original');
+  assert.equal(app.nodes.get('result-count').textContent,'2 个作品');
+  app.nodes.get('categories').children.find(n=>n.dataset.category==='product').send('click');
+  app.nodes.get('filter-code').send('click');
+  app.nodes.get('filter-demo').send('click');
+  assert.equal(app.location.searchParams.get('resource'),'both');
+  assert.equal(app.location.searchParams.get('prompt'),'original');
+  assert.equal(app.nodes.get('result-count').textContent,'1 个作品');
+  for(const kind of ['prompt','code','demo'])assert.equal(app.nodes.get(`filter-${kind}`).getAttribute('aria-pressed'),'true');
+  app.nodes.get('filter-code').send('click');
+  assert.equal(app.location.searchParams.get('resource'),'demo');
+  assert.equal(app.nodes.get('filter-code').getAttribute('aria-pressed'),'false');
+  app.nodes.get('filter-prompt').send('click');
+  assert.equal(app.location.searchParams.has('prompt'),false);
+  assert.equal(app.nodes.get('result-count').textContent,'2 个作品');
+  app.nodes.get('categories').children.find(n=>n.dataset.category==='product').send('click');
+  app.nodes.get('filter-demo').send('click');
+  app.input('');app.nodes.get('search').send('keydown',{key:'Enter'});
+  assert.equal(app.nodes.get('result-count').textContent,'3 个作品');
+  assert.equal(app.location.searchParams.has('category'),false);
+  assert.equal(app.location.searchParams.has('resource'),false);
+  assert.equal(app.location.searchParams.has('q'),false);
+  assert.deepEqual(rows.map(r=>r.id),['1','2','3']);
+});
+
+test('卡片区分可读提示词、原帖指令和任务描述，直接阅读会展开原文且不自动播放',async()=>{
+  const sample=playableSample(),rows=[
+    {...sample,id:'1',prompt:{status:'original',text:'Create a kinetic scene',sourceUrl:sample.source.url}},
+    {...sample,id:'2',prompt:{status:'original',display:'source_link',sourceUrl:sample.source.url}},
+    {...sample,id:'3',prompt:{status:'brief',text:'A short description'}},
+  ];
+  const app=await gallery('',rows),cards=app.nodes.get('works').children;
+  const inline=cards.find(c=>c.dataset.caseId==='1'),source=cards.find(c=>c.dataset.caseId==='2'),brief=cards.find(c=>c.dataset.caseId==='3');
+  assert.equal(source.querySelector('.prompt-link'),null);
+  assert.equal(source.querySelector('.card-materials').children[0].href,sample.source.url);
+  assert.equal(brief.querySelector('.prompt-link'),null);
+  inline.querySelector('.prompt-link').send('click');
+  assert.equal(app.location.hash,'#case-1');
+  const prompt=app.nodes.get('viewer-content').querySelector('.original-prompt');
+  assert.equal(prompt.open,true);
+  assert.equal(prompt.querySelector('pre').textContent,'Create a kinetic scene');
+  assert.equal(app.document.activeElement,prompt.querySelector('summary'));
+  assert.equal(app.nodes.get('viewer-content').querySelector('video').paused,true);
+});
+
+test('搜索快捷键只在浏览区域生效，输入框和详情保留原生按键',async()=>{
+  const app=await gallery(),handler=app.documentListeners.get('keydown');
+  const slash=target=>{const event={key:'/',target,preventDefault(){this.defaultPrevented=true;}};handler(event);return event;};
+  assert.equal(slash(app.document.createElement('div')).defaultPrevented,true);
+  assert.equal(app.document.activeElement,app.nodes.get('search'));
+  assert.equal(slash(app.document.createElement('input')).defaultPrevented,undefined);
+  app.nodes.get('viewer').open=true;
+  assert.equal(slash(app.document.createElement('div')).defaultPrevented,undefined);
+});
+
+
+test('手机直接选择用途，全部按钮取消用途但保留提示词和搜索条件',async()=>{
+  const row=(id,category)=>({...playableSample(),id,title:'UI animation',category,prompt:{status:'original',text:'Create UI animation'}});
+  const app=await gallery('',[row('1','产品宣传'),row('2','短动效')],{mobile:true});
+  assert.equal(app.nodes.has('sidebar'),false);
+  assert.equal(app.nodes.has('menu-toggle'),false);
+  const category=id=>app.nodes.get('categories').children.find(n=>n.dataset.category===id);
+  app.input('UI');app.nodes.get('filter-prompt').send('click');
+  category('product').send('click');
+  assert.equal(app.location.searchParams.get('category'),'product');
+  assert.equal(app.nodes.get('result-count').textContent,'1 个作品');
+  category('all').send('click');
+  assert.equal(app.location.searchParams.has('category'),false);
+  assert.equal(app.location.searchParams.get('q'),'UI');
+  assert.equal(app.location.searchParams.get('prompt'),'original');
+  assert.equal(app.nodes.get('result-count').textContent,'2 个作品');
+  assert.equal(category('all').getAttribute('aria-pressed'),'true');
 });

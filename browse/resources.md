@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-110 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+111 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -258,6 +258,12 @@
 - **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
   代码和文档为 MIT；字体、笔顺数据各有许可，花叔角色及其示范影像仅供演示。未核得本条视频整体复用许可。
   [链接出处](https://x.com/AlchainHust/status/2107641558073803075) · 链接核对 2026-10-08 14:49 UTC
+
+## [Roblox 放射状效果展示](../cases/2108929788517789892.md) · @JohnKlerAI
+
+- **公开网页**：[Effects Showcase 作品页](https://www.roblox.com/games/115404945679619/Effects-Showcase)
+  作者原帖直接提供此 Roblox 作品页；页面可读取，游玩需要 Roblox 客户端及相应平台条件，未完整试玩。
+  [链接出处](https://x.com/JohnKlerAI/status/2108929788517789892) · 链接核对 2026-10-10 15:00 UTC
 
 ## [鸮鹦鹉繁殖季：演讲结尾像素动画](../cases/2104002636513206422.md) · @simonw
 

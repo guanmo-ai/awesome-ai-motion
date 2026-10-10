@@ -4,7 +4,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 
 ## [▶ Enter the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-**937 works · 107 public prompts · 32 works with source code**
+**948 works · 107 public prompts · 32 works with source code**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 </tbody>
 </table>
 
-**[Browse all 937 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
+**[Browse all 948 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
 
 An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.
 
@@ -188,7 +188,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 157 works →](browse/education.en.md)
+[Explore all 158 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -207,7 +207,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 105 works →](browse/motion.en.md)
+[Explore all 108 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -226,7 +226,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 82 works →](browse/characters.en.md)
+[Explore all 85 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -245,7 +245,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 192 works →](browse/interactive.en.md)
+[Explore all 194 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 162 works →](browse/stories.en.md)
+[Explore all 164 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -287,7 +287,7 @@ These works include public source links from their creators. Explore the impleme
 
 Homepage and category previews retain bookmark-snapshot sections, not live counts. README introductions are arranged separately and do not change review or featured status.
 
-97 catalogued records · [840 discovery records with details pending](browse/discoveries.en.md) · 933 original video sources
+97 catalogued records · [851 discovery records with details pending](browse/discoveries.en.md) · 944 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 
