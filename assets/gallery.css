@@ -131,14 +131,14 @@ footer { margin: 0 40px; padding: 22px 0 28px; border-top: 1px solid var(--borde
 footer p { margin: 0; }
 .icon-button { width: 32px; height: 32px; display: grid; place-items: center; border: 0; padding: 6px; background: transparent; border-radius: 7px; flex-shrink: 0; }
 .icon-button svg { width: 18px; height: 18px; }
-/* Work details keep playback and production materials together. */
-dialog { border: 1px solid var(--border); border-radius: 16px; background: var(--paper); color: inherit; padding: 0; width: min(1180px,calc(100% - 40px)); max-height: calc(100dvh - 48px); box-shadow: 0 20px 100px #0004; overscroll-behavior: contain; }
+/* Give playback the full window width; production materials follow below. */
+dialog { border: 1px solid var(--border); border-radius: 16px; background: var(--paper); color: inherit; padding: 0; width: calc(100% - 32px); max-width: none; max-height: calc(100dvh - 32px); box-shadow: 0 20px 100px #0004; overscroll-behavior: contain; }
 dialog::backdrop { background: #2c242399; backdrop-filter: blur(8px); }
 dialog[open] { animation: viewer-enter .24s var(--ease) both; }
 dialog[open]::backdrop { animation: backdrop-enter .24s ease-out both; }
 @keyframes viewer-enter { from { opacity: 0; transform: translateY(10px) scale(.99); } to { opacity: 1; transform: translateY(0) scale(1); } }
 @keyframes backdrop-enter { from { opacity: 0; } to { opacity: 1; } }
-.viewer-shell { padding: 0 30px 30px; }
+.viewer-shell { padding: 0 24px 30px; }
 .viewer-header { display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; background: var(--paper); z-index: 3; padding: 16px 0; gap: 16px; }
 .viewer-header p { flex: 1; font-size: 11px; letter-spacing: .04em; color: var(--muted); margin: 0; }
 .viewer-header #close { width: 34px; height: 34px; flex-shrink: 0; background: #eeece6; border: 0; border-radius: 50%; font-size: 24px; line-height: 1; }
@@ -146,20 +146,25 @@ dialog[open]::backdrop { animation: backdrop-enter .24s ease-out both; }
 .viewer-navigation button { padding: 8px 11px; border: 1px solid var(--border); border-radius: 7px; background: transparent; font-size: 11px; line-height: 1.3; white-space: nowrap; }
 .viewer-navigation button:hover:not(:disabled) { background: #efede7; }
 .viewer-navigation span { min-width: 54px; text-align: center; font-size: 10px; color: var(--muted); font-variant-numeric: tabular-nums; }
-.detail-layout { display: grid; grid-template-columns: minmax(0,1.55fr) minmax(0,1fr); gap: 30px; align-items: start; }
+.detail-layout { display: grid; grid-template-columns: minmax(0,1fr); gap: 8px; }
 .detail-stage, .detail-materials { min-width: 0; }
-.detail-materials { border-left: 1px solid var(--border); padding-left: 30px; }
+.detail-materials { border-top: 1px solid var(--border); padding-top: 20px; }
 .detail-materials .detail-links { margin-top: 0; gap: 10px; }
 .detail-materials .detail-links button { margin-left: 0; }
 .player-area { background: #111; border-radius: 10px; overflow: hidden; position: relative; }
-.player-area video { width: 100%; max-height: 54dvh; display: block; aspect-ratio: 16/9; background: #111; }
-.player-area>img { width: 100%; max-height: 45dvh; object-fit: contain; display: block; }
+.player-area video { width: 100%; height: auto; max-height: calc(100dvh - 174px); display: block; aspect-ratio: 16/9; object-fit: contain; background: #111; }
+.player-area video:fullscreen { width: 100vw; height: 100dvh; max-height: none; aspect-ratio: auto; }
+.player-area>img { width: 100%; max-height: calc(100dvh - 210px); object-fit: contain; display: block; }
 .external-message { padding: 23px; text-align: center; color: #eeeee8; font-size: 13px; line-height: 1.7; }
 .external-message p { margin: 0 0 15px; }
 .primary-link { display: inline-block; background: var(--accent); color: white; border-radius: 7px; padding: 10px 15px; font-weight: 500; font-size: 12px; }
 .playback-assist { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 15px; padding: 10px 15px; background: #222; color: #f5f4ef; font-size: 12px; line-height: 1.6; }
 .playback-error { margin: 0; flex-basis: 100%; font-size: 12px; }
-.playback-source { text-decoration: underline; text-underline-offset: 3px; }
+.playback-source { flex: 1; min-width: 0; text-decoration: underline; text-underline-offset: 3px; }
+.playback-fullscreen { display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; gap: 8px; min-height: 44px; margin-left: auto; padding: 9px 14px; border: 1px solid #ffffff40; border-radius: 7px; background: #f2e4de; color: #703c30; font-size: 12px; font-weight: 600; line-height: 1.5; }
+.playback-fullscreen:hover { background: #fff3ed; }
+.playback-fullscreen svg { width: 16px; height: 16px; }
+.fullscreen-status { margin: 0; flex-basis: 100%; }
 .playback-retry { border: 1px solid #ccc; border-radius: 6px; background: #f5f4ef; color: #242622; padding: 6px 10px; font-size: 12px; }
 .detail-heading { font-family: var(--display); margin: 20px 0 10px; font-size: 28px; font-weight: 400; line-height: 1.45; letter-spacing: -.035em; }
 .detail-credits { display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px; color: var(--muted); line-height: 1.8; }
@@ -223,8 +228,7 @@ details>p { font-size: 13px; line-height: 1.85; color: #746c67; }
   .viewer-header { flex-wrap: wrap; }
   .viewer-navigation { order: 3; width: 100%; justify-content: center; }
   .viewer-shell { padding: 0 20px 20px; }
-  .detail-layout { grid-template-columns: 1fr; gap: 12px; }
-  .detail-materials { border-left: 0; padding-left: 0; }
+  .player-area video { max-height: calc(100dvh - 214px); }
   .original-prompt { scroll-margin-top: 116px; }
 }
 @media (max-width: 600px) {
@@ -268,6 +272,8 @@ details>p { font-size: 13px; line-height: 1.85; color: #746c67; }
   footer { margin: 0 20px; flex-direction: column; gap: 8px; }
   dialog { width: calc(100% - 18px); max-height: calc(100dvh - 20px); }
   .viewer-shell { padding: 0 14px 20px; }
+  .playback-assist { padding: 10px; gap: 8px 10px; }
+  .playback-fullscreen { padding: 9px 10px; }
   .detail-heading { font-size: 23px; }
   .related-grid { gap: 8px; }
   .related-card span { font-size: 11px; }

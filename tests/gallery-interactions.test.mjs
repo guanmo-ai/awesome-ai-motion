@@ -7,7 +7,16 @@ import * as model from '../assets/gallery-model.mjs';
 // Run the real gallery event handlers with a small DOM and a controlled clock.
 async function gallery(search='?page=all',rows=[],preferences={}) {
   class Node {
-    constructor(tagName='div'){this.tagName=tagName.toUpperCase();this.paused=true;this.readyState=0;this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.children=[];this.classList={toggle(){}};}
+    constructor(tagName='div'){
+      this.tagName=tagName.toUpperCase();this.paused=true;this.readyState=0;this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.children=[];this.classList={toggle(){}};
+      if(this.tagName==='VIDEO'){
+        if(preferences.fullscreen==='webkit')this.webkitEnterFullscreen=()=>{this.webkitDisplayingFullscreen=true;};
+        else if(preferences.fullscreen!=='unsupported')this.requestFullscreen=()=>{
+          if(preferences.fullscreen==='reject')return Promise.reject(new Error('Fullscreen denied'));
+          document.fullscreenElement=this;return Promise.resolve();
+        };
+      }
+    }
     addEventListener(type,listener){this.listeners.set(type,listener);}
     setAttribute(name,value){this[name]=String(value);}
     getAttribute(name){return this[name]??null;}
@@ -41,6 +50,7 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
   for(const [,id,body] of html.matchAll(/<select id="([^"]+)"[^>]*>(.*?)<\/select>/gs))nodes.get(id).options=[...body.matchAll(/<option value="([^"]+)"/g)].map(([,value])=>({value}));
   const documentListeners=new Map();
   const document={getElementById:id=>nodes.get(id),createElement:tagName=>new Node(tagName),createElementNS:(_,tagName)=>new Node(tagName),createTextNode:text=>{const node=new Node('#text');node.textContent=text;return node;},querySelector:()=>new Node(),documentElement:{},body:{style:{}},addEventListener:(type,listener)=>documentListeners.set(type,listener),activeElement:null};
+  document.exitFullscreen=()=>{document.fullscreenElement=null;return Promise.resolve();};
   const location=new URL(`https://gallery.test/${search}`);
   const timers=new Map(),windowListeners=new Map();let timerId=0;
   let observer;
@@ -225,6 +235,53 @@ test('视频已有播放数据时不误报网络停滞，真正缓冲超时仍�
 
 const settlePreviews=()=>new Promise(resolve=>setImmediate(resolve));
 const playableSample=()=>JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url))).cases.find(c=>c.webPlayback);
+
+test('全屏入口放大当前视频，保留播放位置和暂停状态',async()=>{
+  const sample=playableSample(),app=await gallery(`?page=all#case-${sample.id}`,[sample]);
+  const content=app.nodes.get('viewer-content'),video=content.querySelector('video');
+  video.currentTime=7;
+  content.querySelector('.playback-fullscreen').send('click');await settlePreviews();
+  assert.equal(app.document.fullscreenElement,video);
+  assert.equal(video.currentTime,7);
+  assert.equal(video.paused,true,'放大操作不应强行起播或重置视频');
+  assert.equal(app.nodes.get('viewer').open,true);
+});
+
+test('视频全屏兼容 WebKit 原生入口，不支持时隐藏入口',async()=>{
+  const sample=playableSample();
+  const legacy=await gallery(`?page=all#case-${sample.id}`,[sample],{fullscreen:'webkit'});
+  const content=legacy.nodes.get('viewer-content');
+  content.querySelector('.playback-fullscreen').send('click');await settlePreviews();
+  assert.equal(content.querySelector('video').webkitDisplayingFullscreen,true);
+  const unsupported=await gallery(`?page=all#case-${sample.id}`,[sample],{fullscreen:'unsupported'});
+  assert.equal(unsupported.nodes.get('viewer-content').querySelector('.playback-fullscreen'),null);
+});
+
+test('Escape 先退出视频全屏，再关闭详情，播放位置不会丢失',async()=>{
+  const sample=playableSample(),app=await gallery(`?page=all#case-${sample.id}`,[sample]);
+  const content=app.nodes.get('viewer-content'),video=content.querySelector('video');
+  video.currentTime=7;
+  content.querySelector('.playback-fullscreen').send('click');await settlePreviews();
+  let prevented=false;
+  app.documentListeners.get('keydown')({key:'Escape',preventDefault(){prevented=true;}});
+  assert.equal(prevented,true);
+  assert.equal(app.document.fullscreenElement,null);
+  assert.equal(app.nodes.get('viewer').open,true);
+  assert.equal(video.currentTime,7);
+  app.nodes.get('viewer').send('cancel',{preventDefault(){}});
+  assert.equal(app.nodes.get('viewer').open,false);
+});
+
+test('全屏被拒绝后仍可播放，不把全屏错误当作视频加载失败',async()=>{
+  const sample=playableSample(),app=await gallery(`?page=all#case-${sample.id}`,[sample],{fullscreen:'reject'});
+  const content=app.nodes.get('viewer-content'),video=content.querySelector('video');
+  content.querySelector('.playback-fullscreen').send('click');await settlePreviews();
+  assert.equal(content.querySelector('.fullscreen-status').hidden,false);
+  assert.equal(content.querySelector('.playback-error').hidden,true);
+  assert.equal(content.querySelector('.playback-retry').hidden,true);
+  assert.equal(video.src,sample.webPlayback.url);
+  await video.play();assert.equal(video.paused,false);
+});
 
 test('可见卡片同时静音循环起播，离屏释放媒体，封面保留到真正播放',async()=>{
   const sample=playableSample(),app=await gallery('?page=all',[sample,{...sample,id:'2'},{...sample,id:'3',webPlayback:undefined}]);

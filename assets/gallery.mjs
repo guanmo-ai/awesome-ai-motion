@@ -1,4 +1,4 @@
-import {resourceLinks,resourceLabel,CATEGORIES,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,relatedCases} from './gallery-model.mjs?v=20261010-reviewed';
+import {resourceLinks,resourceLabel,CATEGORIES,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,relatedCases} from './gallery-model.mjs?v=20261010-viewer';
 const $ = id => document.getElementById(id);
 let state = readLocation(), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let visibleCount=PAGE_SIZE;
@@ -27,6 +27,7 @@ const ICONS={
   stories:'M3 5h18v14H3zM7 5v14M17 5v14M3 9h4M3 15h4M17 9h4M17 15h4',
   music:'M9 18V5l11-2v13M9 18a3 3 0 1 1-3-3c1 0 2 .4 3 1M20 16a3 3 0 1 1-3-3c1 0 2 .4 3 1M9 9l11-2',
   pause:'M8 4v16M16 4v16',play:'m7 4 13 8-13 8V4',
+  fullscreen:'M8 3H3v5M16 3h5v5M21 16v5h-5M8 21H3v-5',
 };
 function icon(name){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');for(const [key,value] of Object.entries({viewBox:'0 0 24 24',fill:'none',stroke:'currentColor','stroke-width':'1.5','stroke-linecap':'round','stroke-linejoin':'round','aria-hidden':'true',class:'nav-icon'}))svg.setAttribute(key,value);const path=document.createElementNS('http://www.w3.org/2000/svg','path');path.setAttribute('d',ICONS[name]||ICONS.all);svg.append(path);return svg;}
 const reducedMotion=window.matchMedia?.('(prefers-reduced-motion: reduce)');
@@ -258,11 +259,27 @@ function showViewer(c,{autoplay=false}={}) {
     video.addEventListener('loadstart',arm,{signal:controller.signal});
     video.addEventListener('play',()=>{if(video.readyState<3)arm();},{signal:controller.signal});
     for(const event of ['waiting','stalled'])video.addEventListener(event,()=>{if(!video.paused&&video.readyState<3)arm();},{signal:controller.signal});
-    video.addEventListener('loadedmetadata',()=>{if(video.paused)recover();},{signal:controller.signal});
+    video.addEventListener('loadedmetadata',()=>{if(video.videoWidth&&video.videoHeight)video.style.aspectRatio=`${video.videoWidth} / ${video.videoHeight}`;if(video.paused)recover();},{signal:controller.signal});
     for(const event of ['canplay','playing'])video.addEventListener(event,recover,{signal:controller.signal});
     for(const event of ['pause','ended'])video.addEventListener(event,clearPlaybackTimer,{signal:controller.signal});
     retry.addEventListener('click',()=>{error.hidden=retry.hidden=true;video.pause();video.src=url;video.load();arm();video.play().catch(()=>{});},{signal:controller.signal});
     assist.append(error,retry,link(t('到作者原帖观看 ↗','Watch the original post ↗'),c.source.url,'playback-source'));
+    if((video.requestFullscreen&&document.fullscreenEnabled!==false)||video.webkitEnterFullscreen){
+      const fullscreen=el('button','playback-fullscreen'),status=el('p','fullscreen-status');
+      fullscreen.type='button';fullscreen.append(icon('fullscreen'),el('span','',t('全屏观看','Fullscreen')));
+      status.hidden=true;status.setAttribute('role','status');
+      fullscreen.addEventListener('click',async()=>{
+        status.hidden=true;
+        try {
+          if(video.requestFullscreen&&document.fullscreenEnabled!==false)await video.requestFullscreen();
+          else video.webkitEnterFullscreen();
+        } catch {
+          if(controller.signal.aborted)return;
+          status.textContent=t('无法进入全屏，请尝试播放器右下角的全屏按钮。','Could not enter fullscreen. Try the fullscreen control in the video player.');status.hidden=false;
+        }
+      },{signal:controller.signal});
+      assist.append(fullscreen,status);
+    }
     video.src=url;player.append(video,assist);arm();
   } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('暂时无法直接播放，可查看作者原帖。','Direct playback is currently unavailable. You can check the creator’s original post.')),link(t('查看作者原帖 ↗','View original post ↗'),c.source.url,'primary-link'));player.append(message);}
   const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
@@ -341,10 +358,12 @@ function stepViewer(direction) {
   navigate({caseId:target.id},{replace:true,detail:true});
   if(!$('viewer').contains(document.activeElement) || document.activeElement?.disabled)$('close').focus({preventScroll:true});
 }
-$('close').addEventListener('click',closeViewer);$('viewer').addEventListener('cancel',event=>{event.preventDefault();closeViewer();});
+function exitVideoFullscreen(){if(!document.fullscreenElement)return false;document.exitFullscreen().catch(()=>{});return true;}
+$('close').addEventListener('click',closeViewer);$('viewer').addEventListener('cancel',event=>{event.preventDefault();if(!exitVideoFullscreen())closeViewer();});
 $('viewer-prev').addEventListener('click',()=>stepViewer('previous'));
 $('viewer-next').addEventListener('click',()=>stepViewer('next'));
 document.addEventListener('keydown',event=>{
+  if(event.key==='Escape'&&$('viewer').open&&document.fullscreenElement){event.preventDefault();exitVideoFullscreen();return;}
   if(event.key==='/'&&!event.defaultPrevented&&!event.isComposing&&!event.altKey&&!event.ctrlKey&&!event.metaKey&&!$('viewer').open&&!(event.target instanceof Element&&event.target.closest('input,textarea,select,video,[contenteditable]'))){event.preventDefault();$('search').focus();return;}
   if(!['ArrowLeft','ArrowRight'].includes(event.key) || !$('viewer').open || event.defaultPrevented || event.isComposing || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || document.fullscreenElement || document.pictureInPictureElement)return;
   const target=event.target;
