@@ -19,7 +19,8 @@ function listingCards(body) {
 }
 
 test('创作导览双语展示并保留作者原文，拒绝不完整建议和危险来源链接',()=>{
-  const copy=structuredClone(catalog),c=copy.cases.find(item=>item.guide);
+  const copy=structuredClone(catalog),c=copy.cases.find(item=>item.guide&&item.prompt.text&&item.prompt.display!=='source_link');
+  assert.ok(c,'本项检查需要有作者原文的制作导览案例');
   const original=c.prompt.text;
   c.guide.takeawayZh='<script>alert(1)</script> 观察节奏';
   assert.deepEqual(validateCatalog(copy,root),[]);

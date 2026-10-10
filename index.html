@@ -8,8 +8,8 @@
   <meta name="author" content="观默 · @guanmo_ai">
   <meta name="theme-color" content="#f8f7f3">
   <title>Awesome AI Motion · 作品画廊</title>
-  <link rel="stylesheet" href="./assets/gallery.css?v=20261009-interaction-polish">
-  <script type="module" src="./assets/gallery.mjs?v=20261009-desktop-review"></script>
+  <link rel="stylesheet" href="./assets/gallery.css?v=20261009-autoplay">
+  <script type="module" src="./assets/gallery.mjs?v=20261009-autoplay"></script>
 </head>
 <body>
   <a class="skip-link" href="#works">跳到作品 / Skip to works</a>
@@ -36,7 +36,7 @@
         <label class="search"><span aria-hidden="true">⌕</span><span class="sr-only" id="search-label">搜索作品、作者或风格</span><input id="search" type="search" aria-labelledby="search-label" placeholder="搜索作品…" autocomplete="off"></label>
         <label class="sort"><span class="sr-only" id="sort-label">排序</span><select id="sort" aria-labelledby="sort-label" aria-describedby="sort-note"><option value="bookmarks">收藏最多</option><option value="featured">推荐浏览</option><option value="latest">最新发布</option></select></label>
       </div>
-      <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p></div>
+      <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><button id="toggle-previews" type="button" aria-pressed="true" hidden>暂停预览</button></div>
       <p id="sort-note" class="sr-only" hidden></p>
       <p id="curation-status" class="curation-status" role="status" hidden></p>
       <div id="works" class="grid" tabindex="-1"></div>

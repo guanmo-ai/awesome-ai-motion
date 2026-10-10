@@ -2,7 +2,7 @@
 
 # 交互演示
 
-181 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+192 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -308,101 +308,111 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107938887679267180"><img src="../assets/covers/2107938887679267180.jpg" width="400" alt="Reef Station：海面水体与灯光实验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096478021234426059"><img src="../assets/covers/2096478021234426059.jpg" width="400" alt="曼哈顿上空的三维飞越"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103933640392786274"><img src="../assets/covers/2103933640392786274.jpg" width="325" alt="安纳西水道：可导航的三维旅行原型"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Reef Station：海面水体与灯光实验</strong><br><sub><a href="https://x.com/apekshik">@apekshik</a> · 交互演示</sub><br><sub>0:40 · 收藏 66 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107938887679267180">▶ 播放</a> · <a href="https://x.com/apekshik/status/2107938887679267180">原帖</a></td>
-<td width="50%" valign="top"><strong>曼哈顿上空的三维飞越</strong><br><sub><a href="https://x.com/Dimillian">@Dimillian</a> · 交互演示</sub><br><sub>0:10 · 收藏 58 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096478021234426059">▶ 播放</a> · <a href="https://x.com/Dimillian/status/2096478021234426059">原帖</a></td>
+<td width="50%" valign="top"><strong>安纳西水道：可导航的三维旅行原型</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 交互演示</sub><br><sub>0:20 · 收藏 65</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103933640392786274">▶ 播放</a> · <a href="https://x.com/techartist_/status/2103933640392786274">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096478021234426059"><img src="../assets/covers/2096478021234426059.jpg" width="400" alt="曼哈顿上空的三维飞越"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105774088492916757"><img src="../assets/covers/2105774088492916757.jpg" width="400" alt="The Loom：体素岛与产品网页试验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102536138884092185"><img src="../assets/covers/2102536138884092185.jpg" width="190" alt="可拆解的 3D 眼球演示"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>曼哈顿上空的三维飞越</strong><br><sub><a href="https://x.com/Dimillian">@Dimillian</a> · 交互演示</sub><br><sub>0:10 · 收藏 58 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096478021234426059">▶ 播放</a> · <a href="https://x.com/Dimillian/status/2096478021234426059">原帖</a></td>
 <td width="50%" valign="top"><strong>The Loom：体素岛与产品网页试验</strong><br><sub><a href="https://x.com/Mr_Salio">@Mr_Salio</a> · 交互演示</sub><br><sub>0:45 · 收藏 52 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105774088492916757">▶ 播放</a> · <a href="https://x.com/Mr_Salio/status/2105774088492916757">原帖</a></td>
-<td width="50%" valign="top"><strong>可拆解的 3D 眼球演示</strong><br><sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · 交互演示</sub><br><sub>0:20 · 收藏 40 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102536138884092185">▶ 播放</a> · <a href="https://x.com/higgsfield_ai/status/2102536138884092185">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102536138884092185"><img src="../assets/covers/2102536138884092185.jpg" width="190" alt="可拆解的 3D 眼球演示"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102817977812824335"><img src="../assets/covers/2102817977812824335.jpg" width="225" alt="参考片引导的 Blender 场景构建"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106449409978626416"><img src="../assets/covers/2106449409978626416.jpg" width="400" alt="Mars GT：红色峡谷中的驾驶演示"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>可拆解的 3D 眼球演示</strong><br><sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · 交互演示</sub><br><sub>0:20 · 收藏 40 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102536138884092185">▶ 播放</a> · <a href="https://x.com/higgsfield_ai/status/2102536138884092185">原帖</a></td>
 <td width="50%" valign="top"><strong>参考片引导的 Blender 场景构建</strong><br><sub><a href="https://x.com/OriSilver">@OriSilver</a> · 交互演示</sub><br><sub>0:28 · 收藏 34 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102817977812824335">▶ 播放</a> · <a href="https://x.com/OriSilver/status/2102817977812824335">原帖</a></td>
-<td width="50%" valign="top"><strong>Mars GT：红色峡谷中的驾驶演示</strong><br><sub><a href="https://x.com/AndreiProvkin">@AndreiProvkin</a> · 交互演示</sub><br><sub>1:06 · 收藏 33 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106449409978626416">▶ 播放</a> · <a href="https://x.com/AndreiProvkin/status/2106449409978626416">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106449409978626416"><img src="../assets/covers/2106449409978626416.jpg" width="400" alt="Mars GT：红色峡谷中的驾驶演示"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108495368585371666"><img src="../assets/covers/2108495368585371666.jpg" width="180" alt="Skyhold：用建筑平衡浮空岛"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102528278732894667"><img src="../assets/covers/2102528278732894667.jpg" width="181" alt="海边骑行三维场景"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Mars GT：红色峡谷中的驾驶演示</strong><br><sub><a href="https://x.com/AndreiProvkin">@AndreiProvkin</a> · 交互演示</sub><br><sub>1:06 · 收藏 33 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106449409978626416">▶ 播放</a> · <a href="https://x.com/AndreiProvkin/status/2106449409978626416">原帖</a></td>
 <td width="50%" valign="top"><strong>Skyhold：用建筑平衡浮空岛</strong><br><sub><a href="https://x.com/0xbobaaa">@0xbobaaa</a> · 交互演示</sub><br><sub>0:45 · 收藏 20 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108495368585371666">▶ 播放</a> · <a href="https://x.com/0xbobaaa/status/2108495368585371666">原帖</a></td>
-<td width="50%" valign="top"><strong>海边骑行三维场景</strong><br><sub><a href="https://x.com/liu8in">@liu8in</a> · 交互演示</sub><br><sub>0:27 · 收藏 19 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102528278732894667">▶ 播放</a> · <a href="https://x.com/liu8in/status/2102528278732894667">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102528278732894667"><img src="../assets/covers/2102528278732894667.jpg" width="181" alt="海边骑行三维场景"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107455583129313304"><img src="../assets/covers/2107455583129313304.jpg" width="178" alt="Jelly World：北极岛屿对照"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107529401567207465"><img src="../assets/covers/2107529401567207465.jpg" width="346" alt="Rust 游戏引擎的新 HUD"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>海边骑行三维场景</strong><br><sub><a href="https://x.com/liu8in">@liu8in</a> · 交互演示</sub><br><sub>0:27 · 收藏 19 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102528278732894667">▶ 播放</a> · <a href="https://x.com/liu8in/status/2102528278732894667">原帖</a></td>
 <td width="50%" valign="top"><strong>Jelly World：北极岛屿对照</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 交互演示</sub><br><sub>0:18 · 收藏 19 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107455583129313304">▶ 播放</a> · <a href="https://x.com/vib3coded/status/2107455583129313304">原帖</a></td>
-<td width="50%" valign="top"><strong>Rust 游戏引擎的新 HUD</strong><br><sub><a href="https://x.com/Dimillian">@Dimillian</a> · 交互演示</sub><br><sub>0:27 · 收藏 18 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107529401567207465">▶ 播放</a> · <a href="https://x.com/Dimillian/status/2107529401567207465">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107529401567207465"><img src="../assets/covers/2107529401567207465.jpg" width="346" alt="Rust 游戏引擎的新 HUD"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108301624515137601"><img src="../assets/covers/2108301624515137601.jpg" width="400" alt="多模型迭代的恐怖游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105559382150742523"><img src="../assets/covers/2105559382150742523.jpg" width="173" alt="果冻樱花：Opus 与 Astra 对照"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Rust 游戏引擎的新 HUD</strong><br><sub><a href="https://x.com/Dimillian">@Dimillian</a> · 交互演示</sub><br><sub>0:27 · 收藏 18 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107529401567207465">▶ 播放</a> · <a href="https://x.com/Dimillian/status/2107529401567207465">原帖</a></td>
 <td width="50%" valign="top"><strong>多模型迭代的恐怖游戏</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 交互演示</sub><br><sub>0:45 · 收藏 17 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108301624515137601">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2108301624515137601">原帖</a></td>
-<td width="50%" valign="top"><strong>果冻樱花：Opus 与 Astra 对照</strong><br><sub><a href="https://x.com/Artless101">@Artless101</a> · 交互演示</sub><br><sub>0:19 · 收藏 13 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105559382150742523">▶ 播放</a> · <a href="https://x.com/Artless101/status/2105559382150742523">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105559382150742523"><img src="../assets/covers/2105559382150742523.jpg" width="173" alt="果冻樱花：Opus 与 Astra 对照"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105350783416021472"><img src="../assets/covers/2105350783416021472.jpg" width="361" alt="从地基到竣工的交互住宅"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105680287854440715"><img src="../assets/covers/2105680287854440715.jpg" width="300" alt="Three.js 设备与图层设计工具"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>果冻樱花：Opus 与 Astra 对照</strong><br><sub><a href="https://x.com/Artless101">@Artless101</a> · 交互演示</sub><br><sub>0:19 · 收藏 13 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105559382150742523">▶ 播放</a> · <a href="https://x.com/Artless101/status/2105559382150742523">原帖</a></td>
 <td width="50%" valign="top"><strong>从地基到竣工的交互住宅</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 交互演示</sub><br><sub>0:37 · 收藏 13 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105350783416021472">▶ 播放</a> · <a href="https://x.com/techartist_/status/2105350783416021472">原帖</a></td>
-<td width="50%" valign="top"><strong>Three.js 设备与图层设计工具</strong><br><sub><a href="https://x.com/MengTo">@MengTo</a> · 交互演示</sub><br><sub>1:14 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105680287854440715">▶ 播放</a> · <a href="https://x.com/MengTo/status/2105680287854440715">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105680287854440715"><img src="../assets/covers/2105680287854440715.jpg" width="300" alt="Three.js 设备与图层设计工具"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104222017696469188"><img src="../assets/covers/2104222017696469188.jpg" width="400" alt="韶山8机车与可驾驶环形铁路"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102755328161116223"><img src="../assets/covers/2102755328161116223.jpg" width="400" alt="实时渲染机甲镜头"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three.js 设备与图层设计工具</strong><br><sub><a href="https://x.com/MengTo">@MengTo</a> · 交互演示</sub><br><sub>1:14 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105680287854440715">▶ 播放</a> · <a href="https://x.com/MengTo/status/2105680287854440715">原帖</a></td>
 <td width="50%" valign="top"><strong>韶山8机车与可驾驶环形铁路</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · 交互演示</sub><br><sub>0:31 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104222017696469188">▶ 播放</a> · <a href="https://x.com/akokoi1/status/2104222017696469188">原帖</a></td>
-<td width="50%" valign="top"><strong>实时渲染机甲镜头</strong><br><sub><a href="https://x.com/wizardbrainz">@wizardbrainz</a> · 交互演示</sub><br><sub>0:24 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102755328161116223">▶ 播放</a> · <a href="https://x.com/wizardbrainz/status/2102755328161116223">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102755328161116223"><img src="../assets/covers/2102755328161116223.jpg" width="400" alt="实时渲染机甲镜头"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108168718308302855"><img src="../assets/covers/2108168718308302855.jpg" width="188" alt="约会游戏界面的双模型对照"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108302123553247742"><img src="../assets/covers/2108302123553247742.jpg" width="400" alt="OpenAI Dot 的掌机逃脱游戏"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>实时渲染机甲镜头</strong><br><sub><a href="https://x.com/wizardbrainz">@wizardbrainz</a> · 交互演示</sub><br><sub>0:24 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102755328161116223">▶ 播放</a> · <a href="https://x.com/wizardbrainz/status/2102755328161116223">原帖</a></td>
 <td width="50%" valign="top"><strong>约会游戏界面的双模型对照</strong><br><sub><a href="https://x.com/yunma33331111">@yunma33331111</a> · 交互演示</sub><br><sub>0:10 · 收藏 9 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108168718308302855">▶ 播放</a> · <a href="https://x.com/yunma33331111/status/2108168718308302855">原帖</a></td>
-<td width="50%" valign="top"><strong>OpenAI Dot 的掌机逃脱游戏</strong><br><sub><a href="https://x.com/fedesarquis">@fedesarquis</a> · 交互演示</sub><br><sub>0:14 · 收藏 8 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108302123553247742">▶ 播放</a> · <a href="https://x.com/fedesarquis/status/2108302123553247742">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108302123553247742"><img src="../assets/covers/2108302123553247742.jpg" width="400" alt="OpenAI Dot 的掌机逃脱游戏"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104719287613341732"><img src="../assets/covers/2104719287613341732.jpg" width="290" alt="果阿街区灵感的写生风三维漫游"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105020794602676465"><img src="../assets/covers/2105020794602676465.jpg" width="400" alt="BLOCKWORLD：浏览器体素世界"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>OpenAI Dot 的掌机逃脱游戏</strong><br><sub><a href="https://x.com/fedesarquis">@fedesarquis</a> · 交互演示</sub><br><sub>0:14 · 收藏 8 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108302123553247742">▶ 播放</a> · <a href="https://x.com/fedesarquis/status/2108302123553247742">原帖</a></td>
 <td width="50%" valign="top"><strong>果阿街区灵感的写生风三维漫游</strong><br><sub><a href="https://x.com/chetanankola">@chetanankola</a> · 交互演示</sub><br><sub>1:06 · 收藏 8 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104719287613341732">▶ 播放</a> · <a href="https://x.com/chetanankola/status/2104719287613341732">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105020794602676465"><img src="../assets/covers/2105020794602676465.jpg" width="400" alt="BLOCKWORLD：浏览器体素世界"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103867115044237752"><img src="../assets/covers/2103867115044237752.jpg" width="400" alt="方块世界新增生物的四段展示"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>BLOCKWORLD：浏览器体素世界</strong><br><sub><a href="https://x.com/L1vsun">@L1vsun</a> · 交互演示</sub><br><sub>0:32 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105020794602676465">▶ 播放</a> · <a href="https://x.com/L1vsun/status/2105020794602676465">原帖</a></td>
+<td width="50%" valign="top"><strong>方块世界新增生物的四段展示</strong><br><sub><a href="https://x.com/kepochnik">@kepochnik</a> · 交互演示</sub><br><sub>0:17 · 收藏 6</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103867115044237752">▶ 播放</a> · <a href="https://x.com/kepochnik/status/2103867115044237752">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -417,41 +427,51 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103876499262800291"><img src="../assets/covers/2103876499262800291.jpg" width="400" alt="森林保护机构的三维网站实验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107581537453805650"><img src="../assets/covers/2107581537453805650.jpg" width="400" alt="CRPG 序章与游戏演示"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107499672915021992"><img src="../assets/covers/2107499672915021992.jpg" width="400" alt="Apple Park：浏览器虚拟导览"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>森林保护机构的三维网站实验</strong><br><sub><a href="https://x.com/Souradip3000">@Souradip3000</a> · 交互演示</sub><br><sub>0:25 · 收藏 5</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103876499262800291">▶ 播放</a> · <a href="https://x.com/Souradip3000/status/2103876499262800291">原帖</a></td>
 <td width="50%" valign="top"><strong>CRPG 序章与游戏演示</strong><br><sub><a href="https://x.com/Ainthropos">@Ainthropos</a> · 交互演示</sub><br><sub>2:05 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107581537453805650">▶ 播放</a> · <a href="https://x.com/Ainthropos/status/2107581537453805650">原帖</a></td>
-<td width="50%" valign="top"><strong>Apple Park：浏览器虚拟导览</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 交互演示</sub><br><sub>0:30 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107499672915021992">▶ 播放</a> · <a href="https://x.com/RyanSael/status/2107499672915021992">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107499672915021992"><img src="../assets/covers/2107499672915021992.jpg" width="400" alt="Apple Park：浏览器虚拟导览"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105559563764220114"><img src="../assets/covers/2105559563764220114.jpg" width="400" alt="浏览器僵尸游戏的新版本"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107633024909377612"><img src="../assets/covers/2107633024909377612.jpg" width="400" alt="ENDGAME：Spawn 恐怖游戏试玩"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Apple Park：浏览器虚拟导览</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 交互演示</sub><br><sub>0:30 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107499672915021992">▶ 播放</a> · <a href="https://x.com/RyanSael/status/2107499672915021992">原帖</a></td>
 <td width="50%" valign="top"><strong>浏览器僵尸游戏的新版本</strong><br><sub><a href="https://x.com/SimonasLTU1">@SimonasLTU1</a> · 交互演示</sub><br><sub>2:34 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105559563764220114">▶ 播放</a> · <a href="https://x.com/SimonasLTU1/status/2105559563764220114">原帖</a></td>
-<td width="50%" valign="top"><strong>ENDGAME：Spawn 恐怖游戏试玩</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · 交互演示</sub><br><sub>1:02 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107633024909377612">▶ 播放</a> · <a href="https://x.com/majidmanzarpour/status/2107633024909377612">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107633024909377612"><img src="../assets/covers/2107633024909377612.jpg" width="400" alt="ENDGAME：Spawn 恐怖游戏试玩"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106064200535859685"><img src="../assets/covers/2106064200535859685.jpg" width="400" alt="从进气到排气：喷气发动机 3D 演示"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107166049326285268"><img src="../assets/covers/2107166049326285268.jpg" width="400" alt="纯代码的水上飞机场景"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>ENDGAME：Spawn 恐怖游戏试玩</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · 交互演示</sub><br><sub>1:02 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107633024909377612">▶ 播放</a> · <a href="https://x.com/majidmanzarpour/status/2107633024909377612">原帖</a></td>
 <td width="50%" valign="top"><strong>从进气到排气：喷气发动机 3D 演示</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 交互演示</sub><br><sub>0:24 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106064200535859685">▶ 播放</a> · <a href="https://x.com/techartist_/status/2106064200535859685">原帖</a></td>
-<td width="50%" valign="top"><strong>纯代码的水上飞机场景</strong><br><sub><a href="https://x.com/mdaman010">@mdaman010</a> · 交互演示</sub><br><sub>1:43 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107166049326285268">▶ 播放</a> · <a href="https://x.com/mdaman010/status/2107166049326285268">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107166049326285268"><img src="../assets/covers/2107166049326285268.jpg" width="400" alt="纯代码的水上飞机场景"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108079671783170156"><img src="../assets/covers/2108079671783170156.jpg" width="400" alt="四个 AIGC 项目的交互作品集"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>纯代码的水上飞机场景</strong><br><sub><a href="https://x.com/mdaman010">@mdaman010</a> · 交互演示</sub><br><sub>1:43 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107166049326285268">▶ 播放</a> · <a href="https://x.com/mdaman010/status/2107166049326285268">原帖</a></td>
+<td width="50%" valign="top"><strong>四个 AIGC 项目的交互作品集</strong><br><sub><a href="https://x.com/Jinghui_Dong">@Jinghui_Dong</a> · 交互演示</sub><br><sub>1:01 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108079671783170156">▶ 播放</a> · <a href="https://x.com/Jinghui_Dong/status/2108079671783170156">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103966021451465008"><img src="../assets/covers/2103966021451465008.jpg" width="376" alt="Ladprao Flood Ski：排水与水上追逐"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108481299707203767"><img src="../assets/covers/2108481299707203767.jpg" width="225" alt="SOMNOLITH α：抽象探索游戏"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>四个 AIGC 项目的交互作品集</strong><br><sub><a href="https://x.com/Jinghui_Dong">@Jinghui_Dong</a> · 交互演示</sub><br><sub>1:01 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108079671783170156">▶ 播放</a> · <a href="https://x.com/Jinghui_Dong/status/2108079671783170156">原帖</a></td>
+<td width="50%" valign="top"><strong>Ladprao Flood Ski：排水与水上追逐</strong><br><sub><a href="https://x.com/vibechine">@vibechine</a> · 交互演示</sub><br><sub>0:11 · 收藏 2</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103966021451465008">▶ 播放</a> · <a href="https://x.com/vibechine/status/2103966021451465008">原帖</a></td>
 <td width="50%" valign="top"><strong>SOMNOLITH α：抽象探索游戏</strong><br><sub><a href="https://x.com/minima_ai">@minima_ai</a> · 交互演示</sub><br><sub>0:32 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108481299707203767">▶ 播放</a> · <a href="https://x.com/minima_ai/status/2108481299707203767">原帖</a></td>
 </tr>
 </tbody>
@@ -537,122 +557,132 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103876982819954689"><img src="../assets/covers/2103876982819954689.jpg" width="385" alt="Jiggle Buddies：透明果冻角色互动"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104820347875045751"><img src="../assets/covers/2104820347875045751.jpg" width="400" alt="The Apex Rush：单文件 3D 网页游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105679580191416322"><img src="../assets/covers/2105679580191416322.jpg" width="400" alt="古代出云大社的建造演示"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Jiggle Buddies：透明果冻角色互动</strong><br><sub><a href="https://x.com/angie_carel">@angie_carel</a> · 交互演示</sub><br><sub>0:41 · 收藏 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103876982819954689">▶ 播放</a> · <a href="https://x.com/angie_carel/status/2103876982819954689">原帖</a></td>
 <td width="50%" valign="top"><strong>The Apex Rush：单文件 3D 网页游戏</strong><br><sub><a href="https://x.com/sidgiri2104">@sidgiri2104</a> · 交互演示</sub><br><sub>1:07 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104820347875045751">▶ 播放</a> · <a href="https://x.com/sidgiri2104/status/2104820347875045751">原帖</a></td>
-<td width="50%" valign="top"><strong>古代出云大社的建造演示</strong><br><sub><a href="https://x.com/yoshifujidesign">@yoshifujidesign</a> · 交互演示</sub><br><sub>1:04 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105679580191416322">▶ 播放</a> · <a href="https://x.com/yoshifujidesign/status/2105679580191416322">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105679580191416322"><img src="../assets/covers/2105679580191416322.jpg" width="400" alt="古代出云大社的建造演示"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107494964410429923"><img src="../assets/covers/2107494964410429923.jpg" width="400" alt="Blender 中的两款公交车"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108311732376453546"><img src="../assets/covers/2108311732376453546.jpg" width="360" alt="Hraunheim：熔岩河旁的居所"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>古代出云大社的建造演示</strong><br><sub><a href="https://x.com/yoshifujidesign">@yoshifujidesign</a> · 交互演示</sub><br><sub>1:04 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105679580191416322">▶ 播放</a> · <a href="https://x.com/yoshifujidesign/status/2105679580191416322">原帖</a></td>
 <td width="50%" valign="top"><strong>Blender 中的两款公交车</strong><br><sub><a href="https://x.com/0c103a">@0c103a</a> · 交互演示</sub><br><sub>0:45 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107494964410429923">▶ 播放</a> · <a href="https://x.com/0c103a/status/2107494964410429923">原帖</a></td>
-<td width="50%" valign="top"><strong>Hraunheim：熔岩河旁的居所</strong><br><sub><a href="https://x.com/ottollm">@ottollm</a> · 交互演示</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108311732376453546">▶ 播放</a> · <a href="https://x.com/ottollm/status/2108311732376453546">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108311732376453546"><img src="../assets/covers/2108311732376453546.jpg" width="360" alt="Hraunheim：熔岩河旁的居所"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102798578427265368"><img src="../assets/covers/2102798578427265368.jpg" width="340" alt="一张图片扩展为 Three.js 场景"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108331960636731899"><img src="../assets/covers/2108331960636731899.jpg" width="400" alt="FlightGear 飞机模型的运行时修复"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Hraunheim：熔岩河旁的居所</strong><br><sub><a href="https://x.com/ottollm">@ottollm</a> · 交互演示</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108311732376453546">▶ 播放</a> · <a href="https://x.com/ottollm/status/2108311732376453546">原帖</a></td>
 <td width="50%" valign="top"><strong>一张图片扩展为 Three.js 场景</strong><br><sub><a href="https://x.com/NicksonTan">@NicksonTan</a> · 交互演示</sub><br><sub>1:12 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102798578427265368">▶ 播放</a> · <a href="https://x.com/NicksonTan/status/2102798578427265368">原帖</a></td>
-<td width="50%" valign="top"><strong>FlightGear 飞机模型的运行时修复</strong><br><sub><a href="https://x.com/lekanadeyeri">@lekanadeyeri</a> · 交互演示</sub><br><sub>0:11 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108331960636731899">▶ 播放</a> · <a href="https://x.com/lekanadeyeri/status/2108331960636731899">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108331960636731899"><img src="../assets/covers/2108331960636731899.jpg" width="400" alt="FlightGear 飞机模型的运行时修复"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108517265193025631"><img src="../assets/covers/2108517265193025631.jpg" width="193" alt="Godot角色状态界面的两种方案"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105075653183778925"><img src="../assets/covers/2105075653183778925.jpg" width="400" alt="Skull Town 浏览器地图预告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>FlightGear 飞机模型的运行时修复</strong><br><sub><a href="https://x.com/lekanadeyeri">@lekanadeyeri</a> · 交互演示</sub><br><sub>0:11 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108331960636731899">▶ 播放</a> · <a href="https://x.com/lekanadeyeri/status/2108331960636731899">原帖</a></td>
 <td width="50%" valign="top"><strong>Godot角色状态界面的两种方案</strong><br><sub><a href="https://x.com/yunma33331111">@yunma33331111</a> · 交互演示</sub><br><sub>0:26 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108517265193025631">▶ 播放</a> · <a href="https://x.com/yunma33331111/status/2108517265193025631">原帖</a></td>
-<td width="50%" valign="top"><strong>Skull Town 浏览器地图预告</strong><br><sub><a href="https://x.com/nikooo777">@nikooo777</a> · 交互演示</sub><br><sub>0:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105075653183778925">▶ 播放</a> · <a href="https://x.com/nikooo777/status/2105075653183778925">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105075653183778925"><img src="../assets/covers/2105075653183778925.jpg" width="400" alt="Skull Town 浏览器地图预告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105361031371383180"><img src="../assets/covers/2105361031371383180.jpg" width="400" alt="浏览器撞车赛：Demolition Derby"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107104693448999402"><img src="../assets/covers/2107104693448999402.jpg" width="400" alt="超市运营的三维模拟界面"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Skull Town 浏览器地图预告</strong><br><sub><a href="https://x.com/nikooo777">@nikooo777</a> · 交互演示</sub><br><sub>0:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105075653183778925">▶ 播放</a> · <a href="https://x.com/nikooo777/status/2105075653183778925">原帖</a></td>
 <td width="50%" valign="top"><strong>浏览器撞车赛：Demolition Derby</strong><br><sub><a href="https://x.com/drcollect">@drcollect</a> · 交互演示</sub><br><sub>0:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105361031371383180">▶ 播放</a> · <a href="https://x.com/drcollect/status/2105361031371383180">原帖</a></td>
-<td width="50%" valign="top"><strong>超市运营的三维模拟界面</strong><br><sub><a href="https://x.com/ballerinifb">@ballerinifb</a> · 交互演示</sub><br><sub>1:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107104693448999402">▶ 播放</a> · <a href="https://x.com/ballerinifb/status/2107104693448999402">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107104693448999402"><img src="../assets/covers/2107104693448999402.jpg" width="400" alt="超市运营的三维模拟界面"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108507501402661118"><img src="../assets/covers/2108507501402661118.jpg" width="400" alt="像素游戏开发日记：Codex介绍片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108148762849980892"><img src="../assets/covers/2108148762849980892.jpg" width="363" alt="Live2D 角色的 Roguelike 弹幕原型"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>超市运营的三维模拟界面</strong><br><sub><a href="https://x.com/ballerinifb">@ballerinifb</a> · 交互演示</sub><br><sub>1:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107104693448999402">▶ 播放</a> · <a href="https://x.com/ballerinifb/status/2107104693448999402">原帖</a></td>
 <td width="50%" valign="top"><strong>像素游戏开发日记：Codex介绍片</strong><br><sub><a href="https://x.com/DSTO_boardgamer">@DSTO_boardgamer</a> · 交互演示</sub><br><sub>0:36 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108507501402661118">▶ 播放</a> · <a href="https://x.com/DSTO_boardgamer/status/2108507501402661118">原帖</a></td>
-<td width="50%" valign="top"><strong>Live2D 角色的 Roguelike 弹幕原型</strong><br><sub><a href="https://x.com/beko_X_account">@beko_X_account</a> · 交互演示</sub><br><sub>0:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108148762849980892">▶ 播放</a> · <a href="https://x.com/beko_X_account/status/2108148762849980892">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108148762849980892"><img src="../assets/covers/2108148762849980892.jpg" width="363" alt="Live2D 角色的 Roguelike 弹幕原型"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108162966659224000"><img src="../assets/covers/2108162966659224000.jpg" width="132" alt="竹枪投掷小游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319343712886998"><img src="../assets/covers/2108319343712886998.jpg" width="400" alt="Demon Slayer 接管 Portal 2 的模组"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Live2D 角色的 Roguelike 弹幕原型</strong><br><sub><a href="https://x.com/beko_X_account">@beko_X_account</a> · 交互演示</sub><br><sub>0:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108148762849980892">▶ 播放</a> · <a href="https://x.com/beko_X_account/status/2108148762849980892">原帖</a></td>
 <td width="50%" valign="top"><strong>竹枪投掷小游戏</strong><br><sub><a href="https://x.com/bDAxjGohPDX7XiV">@bDAxjGohPDX7XiV</a> · 交互演示</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108162966659224000">▶ 播放</a> · <a href="https://x.com/bDAxjGohPDX7XiV/status/2108162966659224000">原帖</a></td>
-<td width="50%" valign="top"><strong>Demon Slayer 接管 Portal 2 的模组</strong><br><sub><a href="https://x.com/sigf_ai">@sigf_ai</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319343712886998">▶ 播放</a> · <a href="https://x.com/sigf_ai/status/2108319343712886998">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319343712886998"><img src="../assets/covers/2108319343712886998.jpg" width="400" alt="Demon Slayer 接管 Portal 2 的模组"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108336621980360830"><img src="../assets/covers/2108336621980360830.jpg" width="400" alt="AI 角色互战的 Convex 游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105082553996820579"><img src="../assets/covers/2105082553996820579.jpg" width="400" alt="Three.js 三维个人网站概念"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Demon Slayer 接管 Portal 2 的模组</strong><br><sub><a href="https://x.com/sigf_ai">@sigf_ai</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319343712886998">▶ 播放</a> · <a href="https://x.com/sigf_ai/status/2108319343712886998">原帖</a></td>
 <td width="50%" valign="top"><strong>AI 角色互战的 Convex 游戏</strong><br><sub><a href="https://x.com/_sarant">@_sarant</a> · 交互演示</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108336621980360830">▶ 播放</a> · <a href="https://x.com/_sarant/status/2108336621980360830">原帖</a></td>
-<td width="50%" valign="top"><strong>Three.js 三维个人网站概念</strong><br><sub><a href="https://x.com/hymmakbar">@hymmakbar</a> · 交互演示</sub><br><sub>1:07 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105082553996820579">▶ 播放</a> · <a href="https://x.com/hymmakbar/status/2105082553996820579">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105082553996820579"><img src="../assets/covers/2105082553996820579.jpg" width="400" alt="Three.js 三维个人网站概念"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105587887500911001"><img src="../assets/covers/2105587887500911001.jpg" width="400" alt="PEABRAIN：图像到 Godot 三杯游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107498407745225201"><img src="../assets/covers/2107498407745225201.jpg" width="400" alt="Vector Tango：混合现实飞机机库"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three.js 三维个人网站概念</strong><br><sub><a href="https://x.com/hymmakbar">@hymmakbar</a> · 交互演示</sub><br><sub>1:07 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105082553996820579">▶ 播放</a> · <a href="https://x.com/hymmakbar/status/2105082553996820579">原帖</a></td>
 <td width="50%" valign="top"><strong>PEABRAIN：图像到 Godot 三杯游戏</strong><br><sub><a href="https://x.com/suth_a">@suth_a</a> · 交互演示</sub><br><sub>0:24 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105587887500911001">▶ 播放</a> · <a href="https://x.com/suth_a/status/2105587887500911001">原帖</a></td>
-<td width="50%" valign="top"><strong>Vector Tango：混合现实飞机机库</strong><br><sub><a href="https://x.com/scobelverse">@scobelverse</a> · 交互演示</sub><br><sub>0:08 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107498407745225201">▶ 播放</a> · <a href="https://x.com/scobelverse/status/2107498407745225201">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107498407745225201"><img src="../assets/covers/2107498407745225201.jpg" width="400" alt="Vector Tango：混合现实飞机机库"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108169409856709062"><img src="../assets/covers/2108169409856709062.jpg" width="137" alt="躲避从天而降的竹枪"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108385330072272973"><img src="../assets/covers/2108385330072272973.jpg" width="400" alt="游戏主角的雷电特效更新"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Vector Tango：混合现实飞机机库</strong><br><sub><a href="https://x.com/scobelverse">@scobelverse</a> · 交互演示</sub><br><sub>0:08 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107498407745225201">▶ 播放</a> · <a href="https://x.com/scobelverse/status/2107498407745225201">原帖</a></td>
 <td width="50%" valign="top"><strong>躲避从天而降的竹枪</strong><br><sub><a href="https://x.com/bDAxjGohPDX7XiV">@bDAxjGohPDX7XiV</a> · 交互演示</sub><br><sub>0:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108169409856709062">▶ 播放</a> · <a href="https://x.com/bDAxjGohPDX7XiV/status/2108169409856709062">原帖</a></td>
-<td width="50%" valign="top"><strong>游戏主角的雷电特效更新</strong><br><sub><a href="https://x.com/Toshi_nyaruo_AI">@Toshi_nyaruo_AI</a> · 交互演示</sub><br><sub>0:18 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108385330072272973">▶ 播放</a> · <a href="https://x.com/Toshi_nyaruo_AI/status/2108385330072272973">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108385330072272973"><img src="../assets/covers/2108385330072272973.jpg" width="400" alt="游戏主角的雷电特效更新"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105561265531957530"><img src="../assets/covers/2105561265531957530.jpg" width="359" alt="可触摸与发声的四维超立方体"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108172640842359264"><img src="../assets/covers/2108172640842359264.jpg" width="133" alt="竹竿撑高小游戏"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>游戏主角的雷电特效更新</strong><br><sub><a href="https://x.com/Toshi_nyaruo_AI">@Toshi_nyaruo_AI</a> · 交互演示</sub><br><sub>0:18 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108385330072272973">▶ 播放</a> · <a href="https://x.com/Toshi_nyaruo_AI/status/2108385330072272973">原帖</a></td>
 <td width="50%" valign="top"><strong>可触摸与发声的四维超立方体</strong><br><sub><a href="https://x.com/_postminimal">@_postminimal</a> · 交互演示</sub><br><sub>0:55 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105561265531957530">▶ 播放</a> · <a href="https://x.com/_postminimal/status/2105561265531957530">原帖</a></td>
-<td width="50%" valign="top"><strong>竹竿撑高小游戏</strong><br><sub><a href="https://x.com/bDAxjGohPDX7XiV">@bDAxjGohPDX7XiV</a> · 交互演示</sub><br><sub>0:17 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108172640842359264">▶ 播放</a> · <a href="https://x.com/bDAxjGohPDX7XiV/status/2108172640842359264">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108172640842359264"><img src="../assets/covers/2108172640842359264.jpg" width="133" alt="竹竿撑高小游戏"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108321415606968363"><img src="../assets/covers/2108321415606968363.jpg" width="225" alt="水彩蜂鸟的交互慢放"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108371550617456882"><img src="../assets/covers/2108371550617456882.jpg" width="400" alt="SkateBIRD 接管 Quake 的滑板改模"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>竹竿撑高小游戏</strong><br><sub><a href="https://x.com/bDAxjGohPDX7XiV">@bDAxjGohPDX7XiV</a> · 交互演示</sub><br><sub>0:17 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108172640842359264">▶ 播放</a> · <a href="https://x.com/bDAxjGohPDX7XiV/status/2108172640842359264">原帖</a></td>
 <td width="50%" valign="top"><strong>水彩蜂鸟的交互慢放</strong><br><sub><a href="https://x.com/Tentamasoba1016">@Tentamasoba1016</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108321415606968363">▶ 播放</a> · <a href="https://x.com/Tentamasoba1016/status/2108321415606968363">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108371550617456882"><img src="../assets/covers/2108371550617456882.jpg" width="400" alt="SkateBIRD 接管 Quake 的滑板改模"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103830851897221566"><img src="../assets/covers/2103830851897221566.jpg" width="400" alt="Pixel Racer：像素星际竞速与作品页"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>SkateBIRD 接管 Quake 的滑板改模</strong><br><sub><a href="https://x.com/sigf_ai">@sigf_ai</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108371550617456882">▶ 播放</a> · <a href="https://x.com/sigf_ai/status/2108371550617456882">原帖</a></td>
+<td width="50%" valign="top"><strong>Pixel Racer：像素星际竞速与作品页</strong><br><sub><a href="https://x.com/dmowlin">@dmowlin</a> · 交互演示</sub><br><sub>0:10 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103830851897221566">▶ 播放</a> · <a href="https://x.com/dmowlin/status/2103830851897221566">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -668,10 +698,20 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107663339664949463"><img src="../assets/covers/2107663339664949463.jpg" width="400" alt="YUDHVEER：神话动作游戏预告"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104504480968683521"><img src="../assets/covers/2104504480968683521.jpg" width="400" alt="悉尼海港大桥：从黎明到黄昏"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103938636173742305"><img src="../assets/covers/2103938636173742305.jpg" width="400" alt="黑色暴牛据点：访客成为漂浮光点"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>YUDHVEER：神话动作游戏预告</strong><br><sub><a href="https://x.com/TejasGovin17982">@TejasGovin17982</a> · 交互演示</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107663339664949463">▶ 播放</a> · <a href="https://x.com/TejasGovin17982/status/2107663339664949463">原帖</a></td>
+<td width="50%" valign="top"><strong>黑色暴牛据点：访客成为漂浮光点</strong><br><sub><a href="https://x.com/lribes4">@lribes4</a> · 交互演示</sub><br><sub>0:23 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103938636173742305">▶ 播放</a> · <a href="https://x.com/lribes4/status/2103938636173742305">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103938972426834106"><img src="../assets/covers/2103938972426834106.jpg" width="400" alt="把 Python 学习做成冲浪游戏"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104504480968683521"><img src="../assets/covers/2104504480968683521.jpg" width="400" alt="悉尼海港大桥：从黎明到黄昏"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>把 Python 学习做成冲浪游戏</strong><br><sub><a href="https://x.com/deeprajO1">@deeprajO1</a> · 交互演示</sub><br><sub>0:52 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103938972426834106">▶ 播放</a> · <a href="https://x.com/deeprajO1/status/2103938972426834106">原帖</a></td>
 <td width="50%" valign="top"><strong>悉尼海港大桥：从黎明到黄昏</strong><br><sub><a href="https://x.com/CeciliaW888">@CeciliaW888</a> · 交互演示</sub><br><sub>0:23 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104504480968683521">▶ 播放</a> · <a href="https://x.com/CeciliaW888/status/2104504480968683521">原帖</a></td>
 </tr>
 </tbody>
@@ -768,151 +808,161 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108401715494244619"><img src="../assets/covers/2108401715494244619.jpg" width="400" alt="从空 UE5 关卡到奇幻游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211672370201053"><img src="../assets/covers/2104211672370201053.jpg" width="127" alt="自行车三维产品演示"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103830083446415751"><img src="../assets/covers/2103830083446415751.jpg" width="127" alt="Low Tide：可玩的海滩绘画与自动预告"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>从空 UE5 关卡到奇幻游戏</strong><br><sub><a href="https://x.com/willa_wu7">@willa_wu7</a> · 交互演示</sub><br><sub>0:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108401715494244619">▶ 播放</a> · <a href="https://x.com/willa_wu7/status/2108401715494244619">原帖</a></td>
-<td width="50%" valign="top"><strong>自行车三维产品演示</strong><br><sub><a href="https://x.com/EWashoku">@EWashoku</a> · 交互演示</sub><br><sub>0:49 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211672370201053">▶ 播放</a> · <a href="https://x.com/EWashoku/status/2104211672370201053">原帖</a></td>
+<td width="50%" valign="top"><strong>Low Tide：可玩的海滩绘画与自动预告</strong><br><sub><a href="https://x.com/boona11">@boona11</a> · 交互演示</sub><br><sub>0:31 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103830083446415751">▶ 播放</a> · <a href="https://x.com/boona11/status/2103830083446415751">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103870009877635565"><img src="../assets/covers/2103870009877635565.jpg" width="400" alt="复利 QUEST：知识转成像素关卡"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103888380794712109"><img src="../assets/covers/2103888380794712109.jpg" width="400" alt="游戏开发与展示视频的双模型分工"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>复利 QUEST：知识转成像素关卡</strong><br><sub><a href="https://x.com/0xpai_eth">@0xpai_eth</a> · 交互演示</sub><br><sub>0:40 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103870009877635565">▶ 播放</a> · <a href="https://x.com/0xpai_eth/status/2103870009877635565">原帖</a></td>
+<td width="50%" valign="top"><strong>游戏开发与展示视频的双模型分工</strong><br><sub><a href="https://x.com/loverWNL">@loverWNL</a> · 交互演示</sub><br><sub>0:36 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103888380794712109">▶ 播放</a> · <a href="https://x.com/loverWNL/status/2103888380794712109">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211672370201053"><img src="../assets/covers/2104211672370201053.jpg" width="127" alt="自行车三维产品演示"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104236916316971191"><img src="../assets/covers/2104236916316971191.jpg" width="400" alt="可拆解引擎：活塞与磁体对照"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104242902218285246"><img src="../assets/covers/2104242902218285246.jpg" width="400" alt="房屋 3D 漫游视频"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>自行车三维产品演示</strong><br><sub><a href="https://x.com/EWashoku">@EWashoku</a> · 交互演示</sub><br><sub>0:49 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211672370201053">▶ 播放</a> · <a href="https://x.com/EWashoku/status/2104211672370201053">原帖</a></td>
 <td width="50%" valign="top"><strong>可拆解引擎：活塞与磁体对照</strong><br><sub><a href="https://x.com/StefanoStraus">@StefanoStraus</a> · 交互演示</sub><br><sub>0:32 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104236916316971191">▶ 播放</a> · <a href="https://x.com/StefanoStraus/status/2104236916316971191">原帖</a></td>
-<td width="50%" valign="top"><strong>房屋 3D 漫游视频</strong><br><sub><a href="https://x.com/truenyl">@truenyl</a> · 交互演示</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104242902218285246">▶ 播放</a> · <a href="https://x.com/truenyl/status/2104242902218285246">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104242902218285246"><img src="../assets/covers/2104242902218285246.jpg" width="400" alt="房屋 3D 漫游视频"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104254095196602550"><img src="../assets/covers/2104254095196602550.jpg" width="400" alt="旧 Blender 项目代码重建"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104774377736974736"><img src="../assets/covers/2104774377736974736.jpg" width="225" alt="Blender 灯塔：Opus 与 Sonnet 建模对照"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>房屋 3D 漫游视频</strong><br><sub><a href="https://x.com/truenyl">@truenyl</a> · 交互演示</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104242902218285246">▶ 播放</a> · <a href="https://x.com/truenyl/status/2104242902218285246">原帖</a></td>
 <td width="50%" valign="top"><strong>旧 Blender 项目代码重建</strong><br><sub><a href="https://x.com/hasiyevv">@hasiyevv</a> · 交互演示</sub><br><sub>0:34 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104254095196602550">▶ 播放</a> · <a href="https://x.com/hasiyevv/status/2104254095196602550">原帖</a></td>
-<td width="50%" valign="top"><strong>Blender 灯塔：Opus 与 Sonnet 建模对照</strong><br><sub><a href="https://x.com/Thusatharan">@Thusatharan</a> · 交互演示</sub><br><sub>2:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104774377736974736">▶ 播放</a> · <a href="https://x.com/Thusatharan/status/2104774377736974736">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104774377736974736"><img src="../assets/covers/2104774377736974736.jpg" width="225" alt="Blender 灯塔：Opus 与 Sonnet 建模对照"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105360949888840080"><img src="../assets/covers/2105360949888840080.jpg" width="364" alt="JavaScript 羊毛风 3D 世界"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105583511017046319"><img src="../assets/covers/2105583511017046319.jpg" width="400" alt="四个 Agent 的浏览器 FPS 试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Blender 灯塔：Opus 与 Sonnet 建模对照</strong><br><sub><a href="https://x.com/Thusatharan">@Thusatharan</a> · 交互演示</sub><br><sub>2:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104774377736974736">▶ 播放</a> · <a href="https://x.com/Thusatharan/status/2104774377736974736">原帖</a></td>
 <td width="50%" valign="top"><strong>JavaScript 羊毛风 3D 世界</strong><br><sub><a href="https://x.com/thebuggeddev">@thebuggeddev</a> · 交互演示</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105360949888840080">▶ 播放</a> · <a href="https://x.com/thebuggeddev/status/2105360949888840080">原帖</a></td>
-<td width="50%" valign="top"><strong>四个 Agent 的浏览器 FPS 试验</strong><br><sub><a href="https://x.com/quentin_barden">@quentin_barden</a> · 交互演示</sub><br><sub>0:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105583511017046319">▶ 播放</a> · <a href="https://x.com/quentin_barden/status/2105583511017046319">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105583511017046319"><img src="../assets/covers/2105583511017046319.jpg" width="400" alt="四个 Agent 的浏览器 FPS 试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105659005817462972"><img src="../assets/covers/2105659005817462972.jpg" width="127" alt="巨龙攻城：同题 Three.js 对照"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106065282221424822"><img src="../assets/covers/2106065282221424822.jpg" width="127" alt="棒球场景的代码视频原型"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>四个 Agent 的浏览器 FPS 试验</strong><br><sub><a href="https://x.com/quentin_barden">@quentin_barden</a> · 交互演示</sub><br><sub>0:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105583511017046319">▶ 播放</a> · <a href="https://x.com/quentin_barden/status/2105583511017046319">原帖</a></td>
 <td width="50%" valign="top"><strong>巨龙攻城：同题 Three.js 对照</strong><br><sub><a href="https://x.com/ReconScribe">@ReconScribe</a> · 交互演示</sub><br><sub>0:39 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105659005817462972">▶ 播放</a> · <a href="https://x.com/ReconScribe/status/2105659005817462972">原帖</a></td>
-<td width="50%" valign="top"><strong>棒球场景的代码视频原型</strong><br><sub><a href="https://x.com/psicomante">@psicomante</a> · 交互演示</sub><br><sub>0:10 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106065282221424822">▶ 播放</a> · <a href="https://x.com/psicomante/status/2106065282221424822">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106065282221424822"><img src="../assets/covers/2106065282221424822.jpg" width="127" alt="棒球场景的代码视频原型"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106222619225895169"><img src="../assets/covers/2106222619225895169.jpg" width="344" alt="Codex 的 Blender 魔方模型与动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107372731721539640"><img src="../assets/covers/2107372731721539640.jpg" width="169" alt="Blender 中的雨水与红色场景"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>棒球场景的代码视频原型</strong><br><sub><a href="https://x.com/psicomante">@psicomante</a> · 交互演示</sub><br><sub>0:10 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106065282221424822">▶ 播放</a> · <a href="https://x.com/psicomante/status/2106065282221424822">原帖</a></td>
 <td width="50%" valign="top"><strong>Codex 的 Blender 魔方模型与动画</strong><br><sub><a href="https://x.com/Kyoung12292">@Kyoung12292</a> · 交互演示</sub><br><sub>0:25 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106222619225895169">▶ 播放</a> · <a href="https://x.com/Kyoung12292/status/2106222619225895169">原帖</a></td>
-<td width="50%" valign="top"><strong>Blender 中的雨水与红色场景</strong><br><sub><a href="https://x.com/supasaiyanian">@supasaiyanian</a> · 交互演示</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107372731721539640">▶ 播放</a> · <a href="https://x.com/supasaiyanian/status/2107372731721539640">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107372731721539640"><img src="../assets/covers/2107372731721539640.jpg" width="169" alt="Blender 中的雨水与红色场景"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107461457936093325"><img src="../assets/covers/2107461457936093325.jpg" width="300" alt="雨夜九龙的三维飞行"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501431695495470"><img src="../assets/covers/2107501431695495470.jpg" width="225" alt="Magica：三维汽车动画对照"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Blender 中的雨水与红色场景</strong><br><sub><a href="https://x.com/supasaiyanian">@supasaiyanian</a> · 交互演示</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107372731721539640">▶ 播放</a> · <a href="https://x.com/supasaiyanian/status/2107372731721539640">原帖</a></td>
 <td width="50%" valign="top"><strong>雨夜九龙的三维飞行</strong><br><sub><a href="https://x.com/Billpwchan">@Billpwchan</a> · 交互演示</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107461457936093325">▶ 播放</a> · <a href="https://x.com/Billpwchan/status/2107461457936093325">原帖</a></td>
-<td width="50%" valign="top"><strong>Magica：三维汽车动画对照</strong><br><sub><a href="https://x.com/magica_ai">@magica_ai</a> · 交互演示</sub><br><sub>0:18 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501431695495470">▶ 播放</a> · <a href="https://x.com/magica_ai/status/2107501431695495470">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501431695495470"><img src="../assets/covers/2107501431695495470.jpg" width="225" alt="Magica：三维汽车动画对照"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501594992423246"><img src="../assets/covers/2107501594992423246.jpg" width="127" alt="Timberline Span：桥梁游戏与预告"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107668414424830249"><img src="../assets/covers/2107668414424830249.jpg" width="214" alt="可操作的等距 SVG 场景"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Magica：三维汽车动画对照</strong><br><sub><a href="https://x.com/magica_ai">@magica_ai</a> · 交互演示</sub><br><sub>0:18 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501431695495470">▶ 播放</a> · <a href="https://x.com/magica_ai/status/2107501431695495470">原帖</a></td>
 <td width="50%" valign="top"><strong>Timberline Span：桥梁游戏与预告</strong><br><sub><a href="https://x.com/jeffbruchado">@jeffbruchado</a> · 交互演示</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501594992423246">▶ 播放</a> · <a href="https://x.com/jeffbruchado/status/2107501594992423246">原帖</a></td>
-<td width="50%" valign="top"><strong>可操作的等距 SVG 场景</strong><br><sub><a href="https://x.com/_drishtantk">@_drishtantk</a> · 交互演示</sub><br><sub>0:19 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107668414424830249">▶ 播放</a> · <a href="https://x.com/_drishtantk/status/2107668414424830249">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107668414424830249"><img src="../assets/covers/2107668414424830249.jpg" width="214" alt="可操作的等距 SVG 场景"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107671507078156328"><img src="../assets/covers/2107671507078156328.jpg" width="255" alt="整数序列的 3D 分解图"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107774659764822423"><img src="../assets/covers/2107774659764822423.jpg" width="127" alt="吴哥寺庙游戏场景建模试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>可操作的等距 SVG 场景</strong><br><sub><a href="https://x.com/_drishtantk">@_drishtantk</a> · 交互演示</sub><br><sub>0:19 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107668414424830249">▶ 播放</a> · <a href="https://x.com/_drishtantk/status/2107668414424830249">原帖</a></td>
 <td width="50%" valign="top"><strong>整数序列的 3D 分解图</strong><br><sub><a href="https://x.com/decompwlj">@decompwlj</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107671507078156328">▶ 播放</a> · <a href="https://x.com/decompwlj/status/2107671507078156328">原帖</a></td>
-<td width="50%" valign="top"><strong>吴哥寺庙游戏场景建模试验</strong><br><sub><a href="https://x.com/alifeofdesignTV">@alifeofdesignTV</a> · 交互演示</sub><br><sub>0:44 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107774659764822423">▶ 播放</a> · <a href="https://x.com/alifeofdesignTV/status/2107774659764822423">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107774659764822423"><img src="../assets/covers/2107774659764822423.jpg" width="127" alt="吴哥寺庙游戏场景建模试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107914558916677642"><img src="../assets/covers/2107914558916677642.jpg" width="400" alt="天气与身体模型驱动的衣橱原型"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108317049613115767"><img src="../assets/covers/2108317049613115767.jpg" width="400" alt="猫兽遭遇战的游戏改写试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>吴哥寺庙游戏场景建模试验</strong><br><sub><a href="https://x.com/alifeofdesignTV">@alifeofdesignTV</a> · 交互演示</sub><br><sub>0:44 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107774659764822423">▶ 播放</a> · <a href="https://x.com/alifeofdesignTV/status/2107774659764822423">原帖</a></td>
 <td width="50%" valign="top"><strong>天气与身体模型驱动的衣橱原型</strong><br><sub><a href="https://x.com/Mohd_Ainan17">@Mohd_Ainan17</a> · 交互演示</sub><br><sub>0:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107914558916677642">▶ 播放</a> · <a href="https://x.com/Mohd_Ainan17/status/2107914558916677642">原帖</a></td>
-<td width="50%" valign="top"><strong>猫兽遭遇战的游戏改写试验</strong><br><sub><a href="https://x.com/kephen20936">@kephen20936</a> · 交互演示</sub><br><sub>4:21 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108317049613115767">▶ 播放</a> · <a href="https://x.com/kephen20936/status/2108317049613115767">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108317049613115767"><img src="../assets/covers/2108317049613115767.jpg" width="400" alt="猫兽遭遇战的游戏改写试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108326043115229415"><img src="../assets/covers/2108326043115229415.jpg" width="127" alt="单文件自动格斗的双模型对照"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108337781198217451"><img src="../assets/covers/2108337781198217451.jpg" width="136" alt="Sky Runner：竖屏飞行游戏"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>猫兽遭遇战的游戏改写试验</strong><br><sub><a href="https://x.com/kephen20936">@kephen20936</a> · 交互演示</sub><br><sub>4:21 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108317049613115767">▶ 播放</a> · <a href="https://x.com/kephen20936/status/2108317049613115767">原帖</a></td>
 <td width="50%" valign="top"><strong>单文件自动格斗的双模型对照</strong><br><sub><a href="https://x.com/AIcurvewars">@AIcurvewars</a> · 交互演示</sub><br><sub>0:47 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108326043115229415">▶ 播放</a> · <a href="https://x.com/AIcurvewars/status/2108326043115229415">原帖</a></td>
-<td width="50%" valign="top"><strong>Sky Runner：竖屏飞行游戏</strong><br><sub><a href="https://x.com/JohnSlagboom1">@JohnSlagboom1</a> · 交互演示</sub><br><sub>1:17 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108337781198217451">▶ 播放</a> · <a href="https://x.com/JohnSlagboom1/status/2108337781198217451">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108337781198217451"><img src="../assets/covers/2108337781198217451.jpg" width="136" alt="Sky Runner：竖屏飞行游戏"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108357235625873419"><img src="../assets/covers/2108357235625873419.jpg" width="400" alt="等距小屋的个人作品集入口"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108381328299176238"><img src="../assets/covers/2108381328299176238.jpg" width="400" alt="多轮开发的联机合作战斗演示"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Sky Runner：竖屏飞行游戏</strong><br><sub><a href="https://x.com/JohnSlagboom1">@JohnSlagboom1</a> · 交互演示</sub><br><sub>1:17 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108337781198217451">▶ 播放</a> · <a href="https://x.com/JohnSlagboom1/status/2108337781198217451">原帖</a></td>
 <td width="50%" valign="top"><strong>等距小屋的个人作品集入口</strong><br><sub><a href="https://x.com/TrevinWisaksana">@TrevinWisaksana</a> · 交互演示</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108357235625873419">▶ 播放</a> · <a href="https://x.com/TrevinWisaksana/status/2108357235625873419">原帖</a></td>
-<td width="50%" valign="top"><strong>多轮开发的联机合作战斗演示</strong><br><sub><a href="https://x.com/AlandysGame">@AlandysGame</a> · 交互演示</sub><br><sub>1:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108381328299176238">▶ 播放</a> · <a href="https://x.com/AlandysGame/status/2108381328299176238">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108381328299176238"><img src="../assets/covers/2108381328299176238.jpg" width="400" alt="多轮开发的联机合作战斗演示"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108402902666756345"><img src="../assets/covers/2108402902666756345.jpg" width="400" alt="日溜まり沼：可旅行的钓鱼游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108405098565029986"><img src="../assets/covers/2108405098565029986.jpg" width="400" alt="Pixshard：多人元素装备游戏"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>多轮开发的联机合作战斗演示</strong><br><sub><a href="https://x.com/AlandysGame">@AlandysGame</a> · 交互演示</sub><br><sub>1:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108381328299176238">▶ 播放</a> · <a href="https://x.com/AlandysGame/status/2108381328299176238">原帖</a></td>
 <td width="50%" valign="top"><strong>日溜まり沼：可旅行的钓鱼游戏</strong><br><sub><a href="https://x.com/seicolor">@seicolor</a> · 交互演示</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108402902666756345">▶ 播放</a> · <a href="https://x.com/seicolor/status/2108402902666756345">原帖</a></td>
-<td width="50%" valign="top"><strong>Pixshard：多人元素装备游戏</strong><br><sub><a href="https://x.com/0xRayer">@0xRayer</a> · 交互演示</sub><br><sub>1:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108405098565029986">▶ 播放</a> · <a href="https://x.com/0xRayer/status/2108405098565029986">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108405098565029986"><img src="../assets/covers/2108405098565029986.jpg" width="400" alt="Pixshard：多人元素装备游戏"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108466187529314717"><img src="../assets/covers/2108466187529314717.jpg" width="400" alt="滨海湾夜间赛道的虚拟巡游"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108490551385624581"><img src="../assets/covers/2108490551385624581.jpg" width="400" alt="Roadster：飞行汽车游戏预告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Pixshard：多人元素装备游戏</strong><br><sub><a href="https://x.com/0xRayer">@0xRayer</a> · 交互演示</sub><br><sub>1:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108405098565029986">▶ 播放</a> · <a href="https://x.com/0xRayer/status/2108405098565029986">原帖</a></td>
 <td width="50%" valign="top"><strong>滨海湾夜间赛道的虚拟巡游</strong><br><sub><a href="https://x.com/DarrenTjan">@DarrenTjan</a> · 交互演示</sub><br><sub>2:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108466187529314717">▶ 播放</a> · <a href="https://x.com/DarrenTjan/status/2108466187529314717">原帖</a></td>
-<td width="50%" valign="top"><strong>Roadster：飞行汽车游戏预告</strong><br><sub><a href="https://x.com/k_millionaire_">@k_millionaire_</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108490551385624581">▶ 播放</a> · <a href="https://x.com/k_millionaire_/status/2108490551385624581">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108490551385624581"><img src="../assets/covers/2108490551385624581.jpg" width="400" alt="Roadster：飞行汽车游戏预告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108521844819337635"><img src="../assets/covers/2108521844819337635.jpg" width="180" alt="Alley Cat：CGA 与高清重制对照"></a></td>
-<td width="50%"></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Roadster：飞行汽车游戏预告</strong><br><sub><a href="https://x.com/k_millionaire_">@k_millionaire_</a> · 交互演示</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108490551385624581">▶ 播放</a> · <a href="https://x.com/k_millionaire_/status/2108490551385624581">原帖</a></td>
 <td width="50%" valign="top"><strong>Alley Cat：CGA 与高清重制对照</strong><br><sub><a href="https://x.com/davidkal88">@davidkal88</a> · 交互演示</sub><br><sub>0:35 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108521844819337635">▶ 播放</a> · <a href="https://x.com/davidkal88/status/2108521844819337635">原帖</a></td>
-<td width="50%"></td>
 </tr>
 </tbody>
 </table>

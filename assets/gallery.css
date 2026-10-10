@@ -70,3 +70,11 @@ button:disabled{opacity:.55;cursor:wait}.delete-status{color:#a63827}
 .resource-item>.card-tag{margin-right:8px}
 
 .results-bar{display:flex;align-items:center;min-height:30px;padding:4px 0 10px}
+
+/* Visible cards use silent video previews; the cover stays until playback starts. */
+.thumbnail .card-preview{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;pointer-events:none}
+.thumbnail .card-preview[hidden]{display:none}
+.preview-playing .card-play{opacity:0}
+.card-open:hover .preview-playing .card-play,.card-open:focus-visible .preview-playing .card-play{opacity:1}
+#toggle-previews{margin-left:auto;flex-shrink:0;border:1px solid var(--border);border-radius:6px;background:transparent;padding:4px 9px;font-size:11px;color:var(--muted)}
+#toggle-previews:hover{color:var(--accent);border-color:currentColor}

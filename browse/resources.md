@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-101 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+110 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -13,6 +13,12 @@
 - **相关工具**：[宣传片所介绍的 DeckUse 产品源码](https://github.com/deckflow/deckuse) · [AGPL-3.0](https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE)
   被介绍的产品仓库，未确认包含该宣传片工程。采用 AGPL-3.0；修改、分发或部署网络服务须遵守其源码与许可义务，不能改标为本站 MIT。
   [链接出处](https://x.com/feiflow/status/2104039666093572362) · 链接核对 2026-09-29 06:17 UTC
+
+## [文章开场片：模板复用与文字检查](../cases/2105033204319277506.md) · @FalconG\_J
+
+- **公开网页**：[文章开场片教程与公开指令](https://x.com/i/article/2101681282224881664)
+  作者教程包含文章转动效、模板复用和文字重叠检查；公开指令加入了后续修正，单次用时是作者实验记录。
+  [链接出处](https://x.com/FalconG_J/status/2104515621988040855) · 链接核对 2026-10-10 05:12 UTC
 
 ## [Showtime：动态设计技能样片](../cases/2107367735466573937.md) · @FavioVaz
 
@@ -63,6 +69,18 @@
 - **公开网页**：[小镇发布动画交互版](https://chetaslua.github.io/little-neighbourhood/)
   [链接出处](https://x.com/chetaslua/status/2102370144546889735) · 链接核对 2026-09-29 05:50 UTC
 
+## [Notion 列权限：从四种方向到成片](../cases/2104610435571884086.md) · @wustep
+
+- **公开网页**：[制作过程与 14 份版本记录](https://notion.notion.site/column-permissions-trailer)
+  作者公开的版本与反馈记录，包含视觉方向、音乐和界面修改；未提供完整成片工程。
+  [链接出处](https://x.com/wustep/status/2104610437673206086) · 链接核对 2026-10-10 05:12 UTC
+
+## [HyperFrames 趋势庆祝短片](../cases/2105750054908891423.md) · @liu8in
+
+- **相关工具**：[HyperFrames 视频制作工具](https://github.com/heygen-com/hyperframes) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/b0596000838d513200d64d6cad9ad0298d287785/LICENSE)
+  作者原帖链接所用工具；核得 Apache-2.0 许可。它是通用工具仓库，尚未取得这支视频的完整工程。
+  [链接出处](https://x.com/liu8in/status/2105750054908891423) · 链接核对 2026-10-09 17:12 UTC
+
 ## [Mac 发布风格片：代码界面与壁纸](../cases/2104225890800705789.md) · @charliejhills
 
 - **相关工具**：[作者分享的动效制作 Skills](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
@@ -89,6 +107,12 @@
 - **相关工具**：[晨昏线产品源码](https://github.com/Finderlzy/terminator-line) · [MIT](https://github.com/Finderlzy/terminator-line/blob/228391951be6862f2543a98a870fcb94f97840ec/LICENSE)
   产品仓库使用 MIT；品牌及第三方材料另有边界。本条宣传片工程及声音许可未核得。
   [链接出处](https://x.com/finderlzy/status/2107794301891842359) · 链接核对 2026-10-08 14:49 UTC
+
+## [BIRIBIRI：真实回放剪成双语游戏宣传片](../cases/2104206756482334921.md) · @mappletour
+
+- **直接源码**：[BIRIBIRI 游戏与公开 HTML](https://biribiri-game.web.app/) · 未标明许可
+  作者直接链接的游戏页包含可读的内联实现及日英入口；它是游戏代码，尚未取得宣传片工程，也未核得整个项目的复用许可。
+  [链接出处](https://x.com/mappletour/status/2104206756482334921) · 链接核对 2026-10-10 04:56 UTC
 
 ## [Seedance 与 HyperFrames 的 SaaS 广告](../cases/2104548405565595747.md) · @farooqsheik
 
@@ -379,6 +403,12 @@
   同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
   [链接出处](https://x.com/majidmanzarpour/status/2107633027920920824) · 链接核对 2026-10-09 04:02 UTC
 
+## [Ladprao Flood Ski：排水与水上追逐](../cases/2103966021451465008.md) · @vibechine
+
+- **直接源码**：[Flood Ski 游戏与公开 HTML](https://ladprao-flood-ski.vercel.app/) · 未标明许可
+  作者直接链接的游戏页包含可读的内联实现，并引用 Three.js 等外部依赖；未核得整个项目的复用许可。
+  [链接出处](https://x.com/vibechine/status/2103966021451465008) · 链接核对 2026-10-10 04:56 UTC
+
 ## [SOMNOLITH α：抽象探索游戏](../cases/2108481299707203767.md) · @minima\_ai
 
 - **公开网页**：[SOMNOLITH Artifact作品入口](https://claude.ai/artifact/RbtCujA2J6CpzJnxSEsYJ6)
@@ -427,6 +457,12 @@
   作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
   [链接出处](https://x.com/saitopatopo/status/2108156566059020511) · 链接核对 2026-10-08 14:36 UTC
 
+## [Jiggle Buddies：透明果冻角色互动](../cases/2103876982819954689.md) · @angie\_carel
+
+- **直接源码**：[Jiggle Buddies 与公开 HTML](https://www.angiecarel.com/jiggle-buddies) · 未标明许可
+  作者直接链接的游戏页包含可读的内联实现；浏览器可显示三维果冻角色和互动按钮，未核得整个项目的复用许可。
+  [链接出处](https://x.com/angie_carel/status/2103876982819954689) · 链接核对 2026-10-10 04:56 UTC
+
 ## [The Apex Rush：单文件 3D 网页游戏](../cases/2104820347875045751.md) · @sidgiri2104
 
 - **公开网页**：[作者公开试玩页](https://the-apex-rush.vercel.app/)
@@ -445,6 +481,18 @@
 - **公开网页**：[水彩蜂鸟交互演示](https://gamaccho.github.io/granular-flow/hummingbird/)
   作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
   [链接出处](https://x.com/Tentamasoba1016/status/2108321415606968363) · 链接核对 2026-10-09 04:12 UTC
+
+## [Pixel Racer：像素星际竞速与作品页](../cases/2103830851897221566.md) · @dmowlin
+
+- **公开网页**：[Pixel Racer 作品与游戏页](https://velven.ai/david/pixel-racer)
+  作者原帖归因于 Opus 5.5，当前作品页另标 Claude Fable 5.1；保留不同归因，未推断版本变更原因。
+  [链接出处](https://x.com/dmowlin/status/2103830851897221566) · 链接核对 2026-10-10 04:57 UTC
+
+## [黑色暴牛据点：访客成为漂浮光点](../cases/2103938636173742305.md) · @lribes4
+
+- **公开网页**：[黑色暴牛据点体验页](https://ribes.cc/hideout/)
+  作者直接链接的三维网页，说明访客光点与拖动视角；页面入口不代表提供完整工程或复用许可。
+  [链接出处](https://x.com/lribes4/status/2103938636173742305) · 链接核对 2026-10-10 04:57 UTC
 
 ## [Casper：网页三维幽灵吉祥物](../cases/2105595903943774360.md) · @bazfurby
 
@@ -481,6 +529,12 @@
 - **公开网页**：[AstoroRacer 试玩](https://chapter01.itch.io/astororacer)
   作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
   [链接出处](https://x.com/CHAPTER0423/status/2108184032194576811) · 链接核对 2026-10-08 14:36 UTC
+
+## [Low Tide：可玩的海滩绘画与自动预告](../cases/2103830083446415751.md) · @boona11
+
+- **公开网页**：[Low Tide 游戏入口](https://low-tide.netlify.app/)
+  作者直接链接的游戏页面可查玩法与操作；这是游戏入口，未取得视频预告的完整制作工程。
+  [链接出处](https://x.com/boona11/status/2103830083446415751) · 链接核对 2026-10-10 04:57 UTC
 
 ## [自行车三维产品演示](../cases/2104211672370201053.md) · @EWashoku
 

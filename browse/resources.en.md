@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-101 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+110 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -13,6 +13,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[DeckUse product source featured in the film](https://github.com/deckflow/deckuse) · [AGPL-3.0](https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE)
   The advertised product repository, not confirmed as the film project. It uses AGPL-3.0; modification, distribution and network-service deployment must follow its source and license obligations, not this catalog’s MIT license.
   [Link source](https://x.com/feiflow/status/2104039666093572362) · Link checked 2026-09-29 06:17 UTC
+
+## [An article intro: template reuse and text checks](../cases/2105033204319277506.en.md) · @FalconG\_J
+
+- **Public web page**：[Article-intro tutorial and published instructions](https://x.com/i/article/2101681282224881664)
+  The creator documents article-to-motion work, template reuse and overlap checks. Published instructions include later fixes; timings describe their individual experiments.
+  [Link source](https://x.com/FalconG_J/status/2104515621988040855) · Link checked 2026-10-10 05:12 UTC
 
 ## [Showtime: a motion-design skill sample](../cases/2107367735466573937.en.md) · @FavioVaz
 
@@ -63,6 +69,18 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Interactive neighbourhood launch animation](https://chetaslua.github.io/little-neighbourhood/)
   [Link source](https://x.com/chetaslua/status/2102370144546889735) · Link checked 2026-09-29 05:50 UTC
 
+## [Notion column permissions: four directions to a final cut](../cases/2104610435571884086.en.md) · @wustep
+
+- **Public web page**：[Process notes and 14 representative versions](https://notion.notion.site/column-permissions-trailer)
+  The creator shares versions and feedback on visual direction, music and UI; a complete film project is not provided.
+  [Link source](https://x.com/wustep/status/2104610437673206086) · Link checked 2026-10-10 05:12 UTC
+
+## [A HyperFrames trending celebration film](../cases/2105750054908891423.en.md) · @liu8in
+
+- **Related tool**：[HyperFrames video production tool](https://github.com/heygen-com/hyperframes) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/b0596000838d513200d64d6cad9ad0298d287785/LICENSE)
+  The creator links this tool, whose Apache-2.0 license was checked. It is a general tool repository; the full project for this film was not obtained.
+  [Link source](https://x.com/liu8in/status/2105750054908891423) · Link checked 2026-10-09 17:12 UTC
+
 ## [A Code-Rendered Mac Launch Film](../cases/2104225890800705789.en.md) · @charliejhills
 
 - **Related tool**：[Motion graphics skills shared by the creator](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
@@ -89,6 +107,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Terminator Line product source](https://github.com/Finderlzy/terminator-line) · [MIT](https://github.com/Finderlzy/terminator-line/blob/228391951be6862f2543a98a870fcb94f97840ec/LICENSE)
   The product repository uses MIT, with separate brand and third-party restrictions. This ad project and audio license are unverified.
   [Link source](https://x.com/finderlzy/status/2107794301891842359) · Link checked 2026-10-08 14:49 UTC
+
+## [BIRIBIRI: real replays into bilingual game trailers](../cases/2104206756482334921.en.md) · @mappletour
+
+- **Direct source**：[BIRIBIRI game and public HTML](https://biribiri-game.web.app/) · No license specified
+  The creator-linked game page contains readable inline implementation and Japanese/English entry points. This is game code; the trailer project and a project-wide reuse license were not obtained.
+  [Link source](https://x.com/mappletour/status/2104206756482334921) · Link checked 2026-10-10 04:56 UTC
 
 ## [A SaaS Ad with Seedance and HyperFrames](../cases/2104548405565595747.en.md) · @farooqsheik
 
@@ -379,6 +403,12 @@ Public work pages also count as implementation references; a web link alone does
   The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
   [Link source](https://x.com/majidmanzarpour/status/2107633027920920824) · Link checked 2026-10-09 04:02 UTC
 
+## [Ladprao Flood Ski: drains and water chases](../cases/2103966021451465008.en.md) · @vibechine
+
+- **Direct source**：[Flood Ski game and public HTML](https://ladprao-flood-ski.vercel.app/) · No license specified
+  The creator-linked game page contains readable inline implementation with external dependencies including Three.js. A project-wide reuse license was not verified.
+  [Link source](https://x.com/vibechine/status/2103966021451465008) · Link checked 2026-10-10 04:56 UTC
+
 ## [SOMNOLITH α: an Abstract Exploration Game](../cases/2108481299707203767.en.md) · @minima\_ai
 
 - **Public web page**：[SOMNOLITH artifact entrance](https://claude.ai/artifact/RbtCujA2J6CpzJnxSEsYJ6)
@@ -427,6 +457,12 @@ Public work pages also count as implementation references; a web link alone does
   The creator links the work page; a complete project and overall reuse license are unverified.
   [Link source](https://x.com/saitopatopo/status/2108156566059020511) · Link checked 2026-10-08 14:36 UTC
 
+## [Jiggle Buddies: translucent jelly characters](../cases/2103876982819954689.en.md) · @angie\_carel
+
+- **Direct source**：[Jiggle Buddies and public HTML](https://www.angiecarel.com/jiggle-buddies) · No license specified
+  The creator-linked game page contains readable inline implementation. The browser displays 3D jelly characters and interaction controls; a project-wide reuse license was not verified.
+  [Link source](https://x.com/angie_carel/status/2103876982819954689) · Link checked 2026-10-10 04:56 UTC
+
 ## [The Apex Rush: A Single-File 3D Browser Game](../cases/2104820347875045751.en.md) · @sidgiri2104
 
 - **Public web page**：[Creator’s playable webpage](https://the-apex-rush.vercel.app/)
@@ -445,6 +481,18 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Watercolor hummingbird interactive demo](https://gamaccho.github.io/granular-flow/hummingbird/)
   The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
   [Link source](https://x.com/Tentamasoba1016/status/2108321415606968363) · Link checked 2026-10-09 04:12 UTC
+
+## [Pixel Racer: pixel-space racing and its project page](../cases/2103830851897221566.en.md) · @dmowlin
+
+- **Public web page**：[Pixel Racer project and game page](https://velven.ai/david/pixel-racer)
+  The creator post attributes the work to Opus 5.5, while the current page lists Claude Fable 5.1. Both attributions are retained without inferring a version history.
+  [Link source](https://x.com/dmowlin/status/2103830851897221566) · Link checked 2026-10-10 04:57 UTC
+
+## [Black Bulls hideout: visitors as floating lights](../cases/2103938636173742305.en.md) · @lribes4
+
+- **Public web page**：[Black Bulls hideout page](https://ribes.cc/hideout/)
+  The creator links the 3D page describing visitor lights and a draggable view. A page link does not establish access to a complete project or a reuse license.
+  [Link source](https://x.com/lribes4/status/2103938636173742305) · Link checked 2026-10-10 04:57 UTC
 
 ## [Casper: a 3D ghost mascot on the web](../cases/2105595903943774360.en.md) · @bazfurby
 
@@ -481,6 +529,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[AstoroRacer playable work](https://chapter01.itch.io/astororacer)
   The creator links the work page; a complete project and overall reuse license are unverified.
   [Link source](https://x.com/CHAPTER0423/status/2108184032194576811) · Link checked 2026-10-08 14:36 UTC
+
+## [Low Tide: a playable beach painting and its trailer](../cases/2103830083446415751.en.md) · @boona11
+
+- **Public web page**：[Low Tide game page](https://low-tide.netlify.app/)
+  The creator links a game page with mechanics and controls; this is the game entry, without the complete trailer production project.
+  [Link source](https://x.com/boona11/status/2103830083446415751) · Link checked 2026-10-10 04:57 UTC
 
 ## [A 3D Bicycle Product Demo](../cases/2104211672370201053.en.md) · @EWashoku
 

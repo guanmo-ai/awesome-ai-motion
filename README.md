@@ -4,7 +4,7 @@
 
 ## [▶ 进入作品画廊 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-**876 个作品 · 98 份公开提示词 · 29 个案例附源码**
+**937 个作品 · 107 份公开提示词 · 32 个案例附源码**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-**[浏览全部 876 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
+**[浏览全部 937 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
 
 动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。
 
@@ -70,7 +70,7 @@
 </tbody>
 </table>
 
-[探索全部 29 个源码案例 →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code) · [源码、网页与工具索引](browse/resources.md)
+[探索全部 32 个源码案例 →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code) · [源码、网页与工具索引](browse/resources.md)
 
 <details>
 <summary>继续发现：收藏最多的作品</summary>
@@ -160,16 +160,16 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537"><img src="assets/covers/2102787937482252537.jpg" width="400" alt="用一句话介绍推理服务"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103918792845963545"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="Pocketsflow 角色产品讲解"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103835273813496100"><img src="assets/covers/2103835273813496100.jpg" width="225" alt="单一形状与液态玻璃的连续发布片"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>用一句话介绍推理服务</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 产品宣传</sub><br><sub>0:26 · 收藏 4,697</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537">▶ 播放</a> · <a href="https://x.com/deedydas/status/2102787937482252537">原帖</a></td>
-<td width="50%" valign="top"><strong>Pocketsflow 角色产品讲解</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · 产品宣传</sub><br><sub>0:15 · 收藏 2,005</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103918792845963545">▶ 播放</a> · <a href="https://x.com/achxvi/status/2103918792845963545">原帖</a></td>
+<td width="50%" valign="top"><strong>单一形状与液态玻璃的连续发布片</strong><br><sub><a href="https://x.com/twoclipping">@twoclipping</a> · 产品宣传</sub><br><sub>0:29 · 收藏 3,745</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103835273813496100">▶ 播放</a> · <a href="https://x.com/twoclipping/status/2103835273813496100">原帖</a></td>
 </tr>
 </tbody>
 </table>
 
-[查看全部 145 支 →](browse/product.md)
+[查看全部 168 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -188,7 +188,7 @@
 </tbody>
 </table>
 
-[查看全部 147 支 →](browse/education.md)
+[查看全部 157 支 →](browse/education.md)
 
 <a id="category-motion"></a>
 
@@ -207,7 +207,7 @@
 </tbody>
 </table>
 
-[查看全部 95 支 →](browse/motion.md)
+[查看全部 105 支 →](browse/motion.md)
 
 <a id="category-characters"></a>
 
@@ -226,7 +226,7 @@
 </tbody>
 </table>
 
-[查看全部 79 支 →](browse/characters.md)
+[查看全部 82 支 →](browse/characters.md)
 
 <a id="category-interactive"></a>
 
@@ -245,7 +245,7 @@
 </tbody>
 </table>
 
-[查看全部 181 支 →](browse/interactive.md)
+[查看全部 192 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@
 </tbody>
 </table>
 
-[查看全部 159 支 →](browse/stories.md)
+[查看全部 162 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -283,11 +283,11 @@
 </tbody>
 </table>
 
-[查看全部 70 支 →](browse/music.md)
+[查看全部 71 支 →](browse/music.md)
 
 首页及分类预览中的收藏榜按快照排列，并非实时榜单；README 导览单独编排，不改变作品的精选或评价状态。
 
-36 条资料已编目 · [840 条发现池资料待完善](browse/discoveries.md) · 872 个原帖媒体入口
+97 条资料已编目 · [840 条发现池资料待完善](browse/discoveries.md) · 933 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

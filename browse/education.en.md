@@ -2,7 +2,7 @@
 
 # Education & explainers
 
-147 works. Click a cover to play; works without gallery video open on X.
+157 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -68,10 +68,20 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102731669853573582"><img src="../assets/covers/2102731669853573582.jpg" width="400" alt="SEO and GEO in Animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107584181941502428"><img src="../assets/covers/2107584181941502428.jpg" width="400" alt="A first two-character explainer experiment"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103801351993975279"><img src="../assets/covers/2103801351993975279.jpg" width="400" alt="Turning an article into a tutorial from a phone"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>SEO and GEO in Animation</strong><br><sub><a href="https://x.com/oscarmartin">@oscarmartin</a> · Education &amp; explainers</sub><br><sub>0:33 · Bookmarks 22 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102731669853573582">▶ Play</a> · <a href="https://x.com/oscarmartin/status/2102731669853573582">Original post</a></td>
+<td width="50%" valign="top"><strong>Turning an article into a tutorial from a phone</strong><br><sub><a href="https://x.com/henkvaness">@henkvaness</a> · Education &amp; explainers</sub><br><sub>5:37 · Bookmarks 9</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103801351993975279">▶ Play</a> · <a href="https://x.com/henkvaness/status/2103801351993975279">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103845689713111079"><img src="../assets/covers/2103845689713111079.jpg" width="400" alt="A 3D journey from the grid into an AI data center"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107584181941502428"><img src="../assets/covers/2107584181941502428.jpg" width="400" alt="A first two-character explainer experiment"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A 3D journey from the grid into an AI data center</strong><br><sub><a href="https://x.com/mdaman010">@mdaman010</a> · Education &amp; explainers</sub><br><sub>1:38 · Bookmarks 5</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103845689713111079">▶ Play</a> · <a href="https://x.com/mdaman010/status/2103845689713111079">Original post</a></td>
 <td width="50%" valign="top"><strong>A first two-character explainer experiment</strong><br><sub><a href="https://x.com/Naonekozamurai">@Naonekozamurai</a> · Education &amp; explainers</sub><br><sub>0:27 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107584181941502428">▶ Play</a> · <a href="https://x.com/Naonekozamurai/status/2107584181941502428">Original post</a></td>
 </tr>
 </tbody>
@@ -88,230 +98,240 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107653001959833860"><img src="../assets/covers/2107653001959833860.jpg" width="360" alt="Interactive turbocharger lesson"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102954743442399395"><img src="../assets/covers/2102954743442399395.jpg" width="400" alt="Long-Form Passkey Explainer"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105033204319277506"><img src="../assets/covers/2105033204319277506.jpg" width="400" alt="An article intro: template reuse and text checks"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Interactive turbocharger lesson</strong><br><sub><a href="https://x.com/yyyole">@yyyole</a> · Education &amp; explainers</sub><br><sub>0:45 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107653001959833860">▶ Play</a> · <a href="https://x.com/yyyole/status/2107653001959833860">Original post</a></td>
-<td width="50%" valign="top"><strong>Long-Form Passkey Explainer</strong><br><sub><a href="https://x.com/imShiWen">@imShiWen</a> · Education &amp; explainers</sub><br><sub>6:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102954743442399395">▶ Play</a> · <a href="https://x.com/imShiWen/status/2102954743442399395">Original post</a></td>
+<td width="50%" valign="top"><strong>An article intro: template reuse and text checks</strong><br><sub><a href="https://x.com/FalconG_J">@FalconG_J</a> · Education &amp; explainers</sub><br><sub>0:30 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105033204319277506">▶ Play</a> · <a href="https://x.com/FalconG_J/status/2105033204319277506">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102954743442399395"><img src="../assets/covers/2102954743442399395.jpg" width="400" alt="Long-Form Passkey Explainer"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107443821630107654"><img src="../assets/covers/2107443821630107654.jpg" width="127" alt="Learning Linjiangxian through animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="../assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Long-Form Passkey Explainer</strong><br><sub><a href="https://x.com/imShiWen">@imShiWen</a> · Education &amp; explainers</sub><br><sub>6:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102954743442399395">▶ Play</a> · <a href="https://x.com/imShiWen/status/2102954743442399395">Original post</a></td>
 <td width="50%" valign="top"><strong>Learning Linjiangxian through animation</strong><br><sub><a href="https://x.com/7998l201">@7998l201</a> · Education &amp; explainers</sub><br><sub>3:45 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107443821630107654">▶ Play</a> · <a href="https://x.com/7998l201/status/2107443821630107654">Original post</a></td>
-<td width="50%" valign="top"><strong>An interactive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Play</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="../assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646"><img src="../assets/covers/2103141339651350646.jpg" width="400" alt="Eight minute research paper explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736"><img src="../assets/covers/2104094723887501736.jpg" width="400" alt="An Explorable Raptor 3 Rocket Engine"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An interactive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Play</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
 <td width="50%" valign="top"><strong>Eight minute research paper explainer</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>8:39 · Bookmarks 5,419 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103141339651350646">▶ Play</a> · <a href="https://x.com/deedydas/status/2103141339651350646">Original post</a></td>
-<td width="50%" valign="top"><strong>An Explorable Raptor 3 Rocket Engine</strong><br><sub><a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · Education &amp; explainers</sub><br><sub>0:35 · Bookmarks 4,758 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736">▶ Play</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736"><img src="../assets/covers/2104094723887501736.jpg" width="400" alt="An Explorable Raptor 3 Rocket Engine"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102737776219168939"><img src="../assets/covers/2102737776219168939.jpg" width="400" alt="Pixel Art Neural Network Training"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103304514329854102"><img src="../assets/covers/2103304514329854102.jpg" width="400" alt="A documentary about superintelligence"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An Explorable Raptor 3 Rocket Engine</strong><br><sub><a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · Education &amp; explainers</sub><br><sub>0:35 · Bookmarks 4,758 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104094723887501736">▶ Play</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post</a></td>
 <td width="50%" valign="top"><strong>Pixel Art Neural Network Training</strong><br><sub><a href="https://x.com/DotCSV">@DotCSV</a> · Education &amp; explainers</sub><br><sub>0:56 · Bookmarks 3,196 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102737776219168939">▶ Play</a> · <a href="https://x.com/DotCSV/status/2102737776219168939">Original post</a></td>
-<td width="50%" valign="top"><strong>A documentary about superintelligence</strong><br><sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · Education &amp; explainers</sub><br><sub>5:15 · Bookmarks 3,120</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103304514329854102">▶ Play</a> · <a href="https://x.com/gavinpurcell/status/2103304514329854102">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103304514329854102"><img src="../assets/covers/2103304514329854102.jpg" width="400" alt="A documentary about superintelligence"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104151743907160546"><img src="../assets/covers/2104151743907160546.jpg" width="400" alt="How to Do Great Work video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206095313215591"><img src="../assets/covers/2104206095313215591.jpg" width="300" alt="Explaining UX Decisions Through Animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A documentary about superintelligence</strong><br><sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · Education &amp; explainers</sub><br><sub>5:15 · Bookmarks 3,120</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103304514329854102">▶ Play</a> · <a href="https://x.com/gavinpurcell/status/2103304514329854102">Original post</a></td>
 <td width="50%" valign="top"><strong>How to Do Great Work video</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>3:15 · Bookmarks 2,879 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104151743907160546">▶ Play</a> · <a href="https://x.com/deedydas/status/2104151743907160546">Original post</a></td>
-<td width="50%" valign="top"><strong>Explaining UX Decisions Through Animation</strong><br><sub><a href="https://x.com/moguzbulbul">@moguzbulbul</a> · Education &amp; explainers</sub><br><sub>0:42 · Bookmarks 2,728 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206095313215591">▶ Play</a> · <a href="https://x.com/moguzbulbul/status/2104206095313215591">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206095313215591"><img src="../assets/covers/2104206095313215591.jpg" width="300" alt="Explaining UX Decisions Through Animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103009037164110327"><img src="../assets/covers/2103009037164110327.jpg" width="400" alt="How a Browser Works in Forty Seconds"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102844654169575547"><img src="../assets/covers/2102844654169575547.jpg" width="400" alt="Three minutes from Attention to AGI"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Explaining UX Decisions Through Animation</strong><br><sub><a href="https://x.com/moguzbulbul">@moguzbulbul</a> · Education &amp; explainers</sub><br><sub>0:42 · Bookmarks 2,728 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206095313215591">▶ Play</a> · <a href="https://x.com/moguzbulbul/status/2104206095313215591">Original post</a></td>
 <td width="50%" valign="top"><strong>How a Browser Works in Forty Seconds</strong><br><sub><a href="https://x.com/addyosmani">@addyosmani</a> · Education &amp; explainers</sub><br><sub>0:40 · Bookmarks 1,744 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103009037164110327">▶ Play</a> · <a href="https://x.com/addyosmani/status/2103009037164110327">Original post</a></td>
-<td width="50%" valign="top"><strong>Three minutes from Attention to AGI</strong><br><sub><a href="https://x.com/kimmonismus">@kimmonismus</a> · Education &amp; explainers</sub><br><sub>3:00 · Bookmarks 1,590</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102844654169575547">▶ Play</a> · <a href="https://x.com/kimmonismus/status/2102844654169575547">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102844654169575547"><img src="../assets/covers/2102844654169575547.jpg" width="400" alt="Three minutes from Attention to AGI"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106411941497389342"><img src="../assets/covers/2106411941497389342.jpg" width="400" alt="The History of Light: an approximately 36-minute explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103965547780345859"><img src="../assets/covers/2103965547780345859.jpg" width="400" alt="Two minute Google history video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three minutes from Attention to AGI</strong><br><sub><a href="https://x.com/kimmonismus">@kimmonismus</a> · Education &amp; explainers</sub><br><sub>3:00 · Bookmarks 1,590</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102844654169575547">▶ Play</a> · <a href="https://x.com/kimmonismus/status/2102844654169575547">Original post</a></td>
 <td width="50%" valign="top"><strong>The History of Light: an approximately 36-minute explainer</strong><br><sub><a href="https://x.com/LLMJunky">@LLMJunky</a> · Education &amp; explainers</sub><br><sub>35:37 · Bookmarks 1,470 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106411941497389342">▶ Play</a> · <a href="https://x.com/LLMJunky/status/2106411941497389342">Original post</a></td>
-<td width="50%" valign="top"><strong>Two minute Google history video</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>2:00 · Bookmarks 1,012 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103965547780345859">▶ Play</a> · <a href="https://x.com/deedydas/status/2103965547780345859">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103965547780345859"><img src="../assets/covers/2103965547780345859.jpg" width="400" alt="Two minute Google history video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102463796149440888"><img src="../assets/covers/2102463796149440888.jpg" width="400" alt="Timeline of Claude Model Development"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103865359988125706"><img src="../assets/covers/2103865359988125706.jpg" width="400" alt="Superintelligence risk animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Two minute Google history video</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>2:00 · Bookmarks 1,012 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103965547780345859">▶ Play</a> · <a href="https://x.com/deedydas/status/2103965547780345859">Original post</a></td>
 <td width="50%" valign="top"><strong>Timeline of Claude Model Development</strong><br><sub><a href="https://x.com/superalesha">@superalesha</a> · Education &amp; explainers</sub><br><sub>1:28 · Bookmarks 939 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102463796149440888">▶ Play</a> · <a href="https://x.com/superalesha/status/2102463796149440888">Original post</a></td>
-<td width="50%" valign="top"><strong>Superintelligence risk animation</strong><br><sub><a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a> · Education &amp; explainers</sub><br><sub>5:16 · Bookmarks 893 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103865359988125706">▶ Play</a> · <a href="https://x.com/AndrewOnXYZ/status/2103865359988125706">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103865359988125706"><img src="../assets/covers/2103865359988125706.jpg" width="400" alt="Superintelligence risk animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106829942206173497"><img src="../assets/covers/2106829942206173497.jpg" width="331" alt="Explaining a caching PR with HTML"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103174501345493197"><img src="../assets/covers/2103174501345493197.jpg" width="127" alt="IKEA Manual Becomes a 3D Tutorial"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Superintelligence risk animation</strong><br><sub><a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a> · Education &amp; explainers</sub><br><sub>5:16 · Bookmarks 893 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103865359988125706">▶ Play</a> · <a href="https://x.com/AndrewOnXYZ/status/2103865359988125706">Original post</a></td>
 <td width="50%" valign="top"><strong>Explaining a caching PR with HTML</strong><br><sub><a href="https://x.com/BHolmesDev">@BHolmesDev</a> · Education &amp; explainers</sub><br><sub>0:19 · Bookmarks 798 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106829942206173497">▶ Play</a> · <a href="https://x.com/BHolmesDev/status/2106829942206173497">Original post</a></td>
-<td width="50%" valign="top"><strong>IKEA Manual Becomes a 3D Tutorial</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>1:42 · Bookmarks 596 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103174501345493197">▶ Play</a> · <a href="https://x.com/deedydas/status/2103174501345493197">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103174501345493197"><img src="../assets/covers/2103174501345493197.jpg" width="127" alt="IKEA Manual Becomes a 3D Tutorial"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102722719502704941"><img src="../assets/covers/2102722719502704941.jpg" width="225" alt="Twin paradox paper cutout animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103530750767206626"><img src="../assets/covers/2103530750767206626.jpg" width="400" alt="Code-Drawn History of AI"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>IKEA Manual Becomes a 3D Tutorial</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>1:42 · Bookmarks 596 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103174501345493197">▶ Play</a> · <a href="https://x.com/deedydas/status/2103174501345493197">Original post</a></td>
 <td width="50%" valign="top"><strong>Twin paradox paper cutout animation</strong><br><sub><a href="https://x.com/masahirochaen">@masahirochaen</a> · Education &amp; explainers</sub><br><sub>0:47 · Bookmarks 577 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102722719502704941">▶ Play</a> · <a href="https://x.com/masahirochaen/status/2102722719502704941">Original post</a></td>
-<td width="50%" valign="top"><strong>Code-Drawn History of AI</strong><br><sub><a href="https://x.com/bridgemindai">@bridgemindai</a> · Education &amp; explainers</sub><br><sub>1:00 · Bookmarks 499 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103530750767206626">▶ Play</a> · <a href="https://x.com/bridgemindai/status/2103530750767206626">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103530750767206626"><img src="../assets/covers/2103530750767206626.jpg" width="400" alt="Code-Drawn History of AI"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106313749846249487"><img src="../assets/covers/2106313749846249487.jpg" width="180" alt="Repeated trials at one-percent probability"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103997975173439834"><img src="../assets/covers/2103997975173439834.jpg" width="127" alt="A 15-Second History of 3D Graphics"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Code-Drawn History of AI</strong><br><sub><a href="https://x.com/bridgemindai">@bridgemindai</a> · Education &amp; explainers</sub><br><sub>1:00 · Bookmarks 499 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103530750767206626">▶ Play</a> · <a href="https://x.com/bridgemindai/status/2103530750767206626">Original post</a></td>
 <td width="50%" valign="top"><strong>Repeated trials at one-percent probability</strong><br><sub><a href="https://x.com/Lattice_Node">@Lattice_Node</a> · Education &amp; explainers</sub><br><sub>0:42 · Bookmarks 387 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106313749846249487">▶ Play</a> · <a href="https://x.com/Lattice_Node/status/2106313749846249487">Original post</a></td>
-<td width="50%" valign="top"><strong>A 15-Second History of 3D Graphics</strong><br><sub><a href="https://x.com/jmitani">@jmitani</a> · Education &amp; explainers</sub><br><sub>0:15 · Bookmarks 356 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103997975173439834">▶ Play</a> · <a href="https://x.com/jmitani/status/2103997975173439834">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103997975173439834"><img src="../assets/covers/2103997975173439834.jpg" width="127" alt="A 15-Second History of 3D Graphics"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102779758408774104"><img src="../assets/covers/2102779758408774104.jpg" width="400" alt="A proton collision inside the LHC"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482545111232946"><img src="../assets/covers/2103482545111232946.jpg" width="400" alt="Code-Drawn Life of Steve Jobs"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A 15-Second History of 3D Graphics</strong><br><sub><a href="https://x.com/jmitani">@jmitani</a> · Education &amp; explainers</sub><br><sub>0:15 · Bookmarks 356 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103997975173439834">▶ Play</a> · <a href="https://x.com/jmitani/status/2103997975173439834">Original post</a></td>
 <td width="50%" valign="top"><strong>A proton collision inside the LHC</strong><br><sub><a href="https://x.com/superalesha">@superalesha</a> · Education &amp; explainers</sub><br><sub>0:34 · Bookmarks 300</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102779758408774104">▶ Play</a> · <a href="https://x.com/superalesha/status/2102779758408774104">Original post</a></td>
-<td width="50%" valign="top"><strong>Code-Drawn Life of Steve Jobs</strong><br><sub><a href="https://x.com/oozn">@oozn</a> · Education &amp; explainers</sub><br><sub>1:59 · Bookmarks 254 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482545111232946">▶ Play</a> · <a href="https://x.com/oozn/status/2103482545111232946">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482545111232946"><img src="../assets/covers/2103482545111232946.jpg" width="400" alt="Code-Drawn Life of Steve Jobs"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102736587708854585"><img src="../assets/covers/2102736587708854585.jpg" width="400" alt="Six-Minute Code-Drawn Lesson"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107408409859359211"><img src="../assets/covers/2107408409859359211.jpg" width="400" alt="Nine styles for explaining KV Cache"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Code-Drawn Life of Steve Jobs</strong><br><sub><a href="https://x.com/oozn">@oozn</a> · Education &amp; explainers</sub><br><sub>1:59 · Bookmarks 254 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482545111232946">▶ Play</a> · <a href="https://x.com/oozn/status/2103482545111232946">Original post</a></td>
 <td width="50%" valign="top"><strong>Six-Minute Code-Drawn Lesson</strong><br><sub><a href="https://x.com/0x0funky">@0x0funky</a> · Education &amp; explainers</sub><br><sub>6:34 · Bookmarks 248 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102736587708854585">▶ Play</a> · <a href="https://x.com/0x0funky/status/2102736587708854585">Original post</a></td>
-<td width="50%" valign="top"><strong>Nine styles for explaining KV Cache</strong><br><sub><a href="https://x.com/LufzzLiz">@LufzzLiz</a> · Education &amp; explainers</sub><br><sub>0:45 · Bookmarks 246 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107408409859359211">▶ Play</a> · <a href="https://x.com/LufzzLiz/status/2107408409859359211">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107408409859359211"><img src="../assets/covers/2107408409859359211.jpg" width="400" alt="Nine styles for explaining KV Cache"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107018546194882678"><img src="../assets/covers/2107018546194882678.jpg" width="400" alt="Huashu: a whiteboard explainer sample"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102680453912449223"><img src="../assets/covers/2102680453912449223.jpg" width="400" alt="Physics contest problem explainer"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Nine styles for explaining KV Cache</strong><br><sub><a href="https://x.com/LufzzLiz">@LufzzLiz</a> · Education &amp; explainers</sub><br><sub>0:45 · Bookmarks 246 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107408409859359211">▶ Play</a> · <a href="https://x.com/LufzzLiz/status/2107408409859359211">Original post</a></td>
 <td width="50%" valign="top"><strong>Huashu: a whiteboard explainer sample</strong><br><sub><a href="https://x.com/AlchainHust">@AlchainHust</a> · Education &amp; explainers</sub><br><sub>2:10 · Bookmarks 227 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107018546194882678">▶ Play</a> · <a href="https://x.com/AlchainHust/status/2107018546194882678">Original post</a></td>
-<td width="50%" valign="top"><strong>Physics contest problem explainer</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · Education &amp; explainers</sub><br><sub>3:09 · Bookmarks 201 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102680453912449223">▶ Play</a> · <a href="https://x.com/akokoi1/status/2102680453912449223">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102680453912449223"><img src="../assets/covers/2102680453912449223.jpg" width="400" alt="Physics contest problem explainer"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102805376466891137"><img src="../assets/covers/2102805376466891137.jpg" width="274" alt="Animated Explanation of Context Windows"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105983802367688910"><img src="../assets/covers/2105983802367688910.jpg" width="400" alt="A map documentary about the Roman Empire"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Physics contest problem explainer</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · Education &amp; explainers</sub><br><sub>3:09 · Bookmarks 201 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102680453912449223">▶ Play</a> · <a href="https://x.com/akokoi1/status/2102680453912449223">Original post</a></td>
 <td width="50%" valign="top"><strong>Animated Explanation of Context Windows</strong><br><sub><a href="https://x.com/joaoli13">@joaoli13</a> · Education &amp; explainers</sub><br><sub>1:41 · Bookmarks 179 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102805376466891137">▶ Play</a> · <a href="https://x.com/joaoli13/status/2102805376466891137">Original post</a></td>
-<td width="50%" valign="top"><strong>A map documentary about the Roman Empire</strong><br><sub><a href="https://x.com/tkz_aiart">@tkz_aiart</a> · Education &amp; explainers</sub><br><sub>2:16 · Bookmarks 172 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105983802367688910">▶ Play</a> · <a href="https://x.com/tkz_aiart/status/2105983802367688910">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105983802367688910"><img src="../assets/covers/2105983802367688910.jpg" width="400" alt="A map documentary about the Roman Empire"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106955771183272343"><img src="../assets/covers/2106955771183272343.jpg" width="400" alt="Huashu: an art-history-style animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106567073149190228"><img src="../assets/covers/2106567073149190228.jpg" width="400" alt="A code-animated history of immunology"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A map documentary about the Roman Empire</strong><br><sub><a href="https://x.com/tkz_aiart">@tkz_aiart</a> · Education &amp; explainers</sub><br><sub>2:16 · Bookmarks 172 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105983802367688910">▶ Play</a> · <a href="https://x.com/tkz_aiart/status/2105983802367688910">Original post</a></td>
 <td width="50%" valign="top"><strong>Huashu: an art-history-style animation</strong><br><sub><a href="https://x.com/AlchainHust">@AlchainHust</a> · Education &amp; explainers</sub><br><sub>2:08 · Bookmarks 162 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106955771183272343">▶ Play</a> · <a href="https://x.com/AlchainHust/status/2106955771183272343">Original post</a></td>
-<td width="50%" valign="top"><strong>A code-animated history of immunology</strong><br><sub><a href="https://x.com/DeryaTR_">@DeryaTR_</a> · Education &amp; explainers</sub><br><sub>2:00 · Bookmarks 135 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106567073149190228">▶ Play</a> · <a href="https://x.com/DeryaTR_/status/2106567073149190228">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106567073149190228"><img src="../assets/covers/2106567073149190228.jpg" width="400" alt="A code-animated history of immunology"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102897123037761640"><img src="../assets/covers/2102897123037761640.jpg" width="127" alt="Podcast Audio Becomes Short Video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104717572788883829"><img src="../assets/covers/2104717572788883829.jpg" width="400" alt="Explaining the Spiderbench Workflow"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A code-animated history of immunology</strong><br><sub><a href="https://x.com/DeryaTR_">@DeryaTR_</a> · Education &amp; explainers</sub><br><sub>2:00 · Bookmarks 135 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106567073149190228">▶ Play</a> · <a href="https://x.com/DeryaTR_/status/2106567073149190228">Original post</a></td>
 <td width="50%" valign="top"><strong>Podcast Audio Becomes Short Video</strong><br><sub><a href="https://x.com/Fujin_Metaverse">@Fujin_Metaverse</a> · Education &amp; explainers</sub><br><sub>0:53 · Bookmarks 125 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102897123037761640">▶ Play</a> · <a href="https://x.com/Fujin_Metaverse/status/2102897123037761640">Original post</a></td>
-<td width="50%" valign="top"><strong>Explaining the Spiderbench Workflow</strong><br><sub><a href="https://x.com/xikhar">@xikhar</a> · Education &amp; explainers</sub><br><sub>2:13 · Bookmarks 117 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104717572788883829">▶ Play</a> · <a href="https://x.com/xikhar/status/2104717572788883829">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104717572788883829"><img src="../assets/covers/2104717572788883829.jpg" width="400" alt="Explaining the Spiderbench Workflow"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107175794145386838"><img src="../assets/covers/2107175794145386838.jpg" width="176" alt="A 3D electric-motor comparison"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106378121557782950"><img src="../assets/covers/2106378121557782950.jpg" width="400" alt="Metal 3D printing a rocket engine"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Explaining the Spiderbench Workflow</strong><br><sub><a href="https://x.com/xikhar">@xikhar</a> · Education &amp; explainers</sub><br><sub>2:13 · Bookmarks 117 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104717572788883829">▶ Play</a> · <a href="https://x.com/xikhar/status/2104717572788883829">Original post</a></td>
 <td width="50%" valign="top"><strong>A 3D electric-motor comparison</strong><br><sub><a href="https://x.com/rubenssoto_ai">@rubenssoto_ai</a> · Education &amp; explainers</sub><br><sub>0:40 · Bookmarks 115 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107175794145386838">▶ Play</a> · <a href="https://x.com/rubenssoto_ai/status/2107175794145386838">Original post</a></td>
-<td width="50%" valign="top"><strong>Metal 3D printing a rocket engine</strong><br><sub><a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · Education &amp; explainers</sub><br><sub>0:56 · Bookmarks 76 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106378121557782950">▶ Play</a> · <a href="https://x.com/konstantinsaifo/status/2106378121557782950">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106378121557782950"><img src="../assets/covers/2106378121557782950.jpg" width="400" alt="Metal 3D printing a rocket engine"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104105016235860050"><img src="../assets/covers/2104105016235860050.jpg" width="400" alt="3D cell teaching video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107717293136560309"><img src="../assets/covers/2107717293136560309.jpg" width="127" alt="Salmon Marketing History in a Showa Styled Short"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Metal 3D printing a rocket engine</strong><br><sub><a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · Education &amp; explainers</sub><br><sub>0:56 · Bookmarks 76 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106378121557782950">▶ Play</a> · <a href="https://x.com/konstantinsaifo/status/2106378121557782950">Original post</a></td>
 <td width="50%" valign="top"><strong>3D cell teaching video</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · Education &amp; explainers</sub><br><sub>3:50 · Bookmarks 72 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104105016235860050">▶ Play</a> · <a href="https://x.com/akokoi1/status/2104105016235860050">Original post</a></td>
-<td width="50%" valign="top"><strong>Salmon Marketing History in a Showa Styled Short</strong><br><sub><a href="https://x.com/HanZhang415188">@HanZhang415188</a> · Education &amp; explainers</sub><br><sub>3:47 · Bookmarks 52 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107717293136560309">▶ Play</a> · <a href="https://x.com/HanZhang415188/status/2107717293136560309">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107717293136560309"><img src="../assets/covers/2107717293136560309.jpg" width="127" alt="Salmon Marketing History in a Showa Styled Short"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105580875299836388"><img src="../assets/covers/2105580875299836388.jpg" width="397" alt="A motion explainer on similar-looking brand logos"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102652072252584046"><img src="../assets/covers/2102652072252584046.jpg" width="400" alt="3D Reenactment of Dan-no-ura"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Salmon Marketing History in a Showa Styled Short</strong><br><sub><a href="https://x.com/HanZhang415188">@HanZhang415188</a> · Education &amp; explainers</sub><br><sub>3:47 · Bookmarks 52 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107717293136560309">▶ Play</a> · <a href="https://x.com/HanZhang415188/status/2107717293136560309">Original post</a></td>
 <td width="50%" valign="top"><strong>A motion explainer on similar-looking brand logos</strong><br><sub><a href="https://x.com/charliejhills">@charliejhills</a> · Education &amp; explainers</sub><br><sub>0:57 · Bookmarks 48 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105580875299836388">▶ Play</a> · <a href="https://x.com/charliejhills/status/2105580875299836388">Original post</a></td>
-<td width="50%" valign="top"><strong>3D Reenactment of Dan-no-ura</strong><br><sub><a href="https://x.com/tetumemo">@tetumemo</a> · Education &amp; explainers</sub><br><sub>1:14 · Bookmarks 47 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102652072252584046">▶ Play</a> · <a href="https://x.com/tetumemo/status/2102652072252584046">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102652072252584046"><img src="../assets/covers/2102652072252584046.jpg" width="400" alt="3D Reenactment of Dan-no-ura"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106568339917324296"><img src="../assets/covers/2106568339917324296.jpg" width="344" alt="A Three.js biological-cell teaching demonstration"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108313983505842650"><img src="../assets/covers/2108313983505842650.jpg" width="360" alt="An Animated Explainer for a Hidden Valence Paper"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>3D Reenactment of Dan-no-ura</strong><br><sub><a href="https://x.com/tetumemo">@tetumemo</a> · Education &amp; explainers</sub><br><sub>1:14 · Bookmarks 47 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102652072252584046">▶ Play</a> · <a href="https://x.com/tetumemo/status/2102652072252584046">Original post</a></td>
 <td width="50%" valign="top"><strong>A Three.js biological-cell teaching demonstration</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · Education &amp; explainers</sub><br><sub>0:37 · Bookmarks 45 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106568339917324296">▶ Play</a> · <a href="https://x.com/akokoi1/status/2106568339917324296">Original post</a></td>
-<td width="50%" valign="top"><strong>An Animated Explainer for a Hidden Valence Paper</strong><br><sub><a href="https://x.com/camhberg">@camhberg</a> · Education &amp; explainers</sub><br><sub>2:20 · Bookmarks 41 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108313983505842650">▶ Play</a> · <a href="https://x.com/camhberg/status/2108313983505842650">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108313983505842650"><img src="../assets/covers/2108313983505842650.jpg" width="360" alt="An Animated Explainer for a Hidden Valence Paper"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103117547776163845"><img src="../assets/covers/2103117547776163845.jpg" width="400" alt="Hand-Drawn Technology Explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107284687039467575"><img src="../assets/covers/2107284687039467575.jpg" width="127" alt="Editing a talking head with explanatory animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An Animated Explainer for a Hidden Valence Paper</strong><br><sub><a href="https://x.com/camhberg">@camhberg</a> · Education &amp; explainers</sub><br><sub>2:20 · Bookmarks 41 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108313983505842650">▶ Play</a> · <a href="https://x.com/camhberg/status/2108313983505842650">Original post</a></td>
 <td width="50%" valign="top"><strong>Hand-Drawn Technology Explainer</strong><br><sub><a href="https://x.com/so_ainsight">@so_ainsight</a> · Education &amp; explainers</sub><br><sub>0:15 · Bookmarks 38 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103117547776163845">▶ Play</a> · <a href="https://x.com/so_ainsight/status/2103117547776163845">Original post</a></td>
-<td width="50%" valign="top"><strong>Editing a talking head with explanatory animation</strong><br><sub><a href="https://x.com/cheery9998">@cheery9998</a> · Education &amp; explainers</sub><br><sub>4:29 · Bookmarks 30 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107284687039467575">▶ Play</a> · <a href="https://x.com/cheery9998/status/2107284687039467575">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107284687039467575"><img src="../assets/covers/2107284687039467575.jpg" width="127" alt="Editing a talking head with explanatory animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107815114745487588"><img src="../assets/covers/2107815114745487588.jpg" width="400" alt="A Historical Explainer about the Qin Empire"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Editing a talking head with explanatory animation</strong><br><sub><a href="https://x.com/cheery9998">@cheery9998</a> · Education &amp; explainers</sub><br><sub>4:29 · Bookmarks 30 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107284687039467575">▶ Play</a> · <a href="https://x.com/cheery9998/status/2107284687039467575">Original post</a></td>
+<td width="50%" valign="top"><strong>A Historical Explainer about the Qin Empire</strong><br><sub><a href="https://x.com/aiRobertDaily">@aiRobertDaily</a> · Education &amp; explainers</sub><br><sub>1:13 · Bookmarks 29 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107815114745487588">▶ Play</a> · <a href="https://x.com/aiRobertDaily/status/2107815114745487588">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103896101120356793"><img src="../assets/covers/2103896101120356793.jpg" width="400" alt="A visual-podcast concept animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108120392179089496"><img src="../assets/covers/2108120392179089496.jpg" width="400" alt="Why Can't We Exceed Light Speed: an Agent Explainer Test"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>A Historical Explainer about the Qin Empire</strong><br><sub><a href="https://x.com/aiRobertDaily">@aiRobertDaily</a> · Education &amp; explainers</sub><br><sub>1:13 · Bookmarks 29 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107815114745487588">▶ Play</a> · <a href="https://x.com/aiRobertDaily/status/2107815114745487588">Original post</a></td>
+<td width="50%" valign="top"><strong>A visual-podcast concept animation</strong><br><sub><a href="https://x.com/theviclaw">@theviclaw</a> · Education &amp; explainers</sub><br><sub>0:16 · Bookmarks 23</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103896101120356793">▶ Play</a> · <a href="https://x.com/theviclaw/status/2103896101120356793">Original post</a></td>
 <td width="50%" valign="top"><strong>Why Can't We Exceed Light Speed: an Agent Explainer Test</strong><br><sub><a href="https://x.com/MrLarus">@MrLarus</a> · Education &amp; explainers</sub><br><sub>1:18 · Bookmarks 22 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108120392179089496">▶ Play</a> · <a href="https://x.com/MrLarus/status/2108120392179089496">Original post</a></td>
 </tr>
 </tbody>
@@ -348,21 +368,31 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108029927161541111"><img src="../assets/covers/2108029927161541111.jpg" width="400" alt="Historical Animation Styles in YouMind"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183904563998809"><img src="../assets/covers/2103183904563998809.jpg" width="400" alt="Variational Autoencoders Explained with Math"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103814603100856596"><img src="../assets/covers/2103814603100856596.jpg" width="400" alt="Mechanical keyboards: 3D and switch-recording beats"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Historical Animation Styles in YouMind</strong><br><sub><a href="https://x.com/KengGuangLong">@KengGuangLong</a> · Education &amp; explainers</sub><br><sub>4:57 · Bookmarks 9 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108029927161541111">▶ Play</a> · <a href="https://x.com/KengGuangLong/status/2108029927161541111">Original post</a></td>
-<td width="50%" valign="top"><strong>Variational Autoencoders Explained with Math</strong><br><sub><a href="https://x.com/ng169onX">@ng169onX</a> · Education &amp; explainers</sub><br><sub>5:34 · Bookmarks 8 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183904563998809">▶ Play</a> · <a href="https://x.com/ng169onX/status/2103183904563998809">Original post</a></td>
+<td width="50%" valign="top"><strong>Mechanical keyboards: 3D and switch-recording beats</strong><br><sub><a href="https://x.com/iniyanai">@iniyanai</a> · Education &amp; explainers</sub><br><sub>0:35 · Bookmarks 8</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103814603100856596">▶ Play</a> · <a href="https://x.com/iniyanai/status/2103814603100856596">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183904563998809"><img src="../assets/covers/2103183904563998809.jpg" width="400" alt="Variational Autoencoders Explained with Math"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108485332757074286"><img src="../assets/covers/2108485332757074286.jpg" width="400" alt="A Code-made DeepSeek Architecture Explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108304898198581689"><img src="../assets/covers/2108304898198581689.jpg" width="400" alt="An Animated Explainer about SHRINCS Signatures"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Variational Autoencoders Explained with Math</strong><br><sub><a href="https://x.com/ng169onX">@ng169onX</a> · Education &amp; explainers</sub><br><sub>5:34 · Bookmarks 8 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183904563998809">▶ Play</a> · <a href="https://x.com/ng169onX/status/2103183904563998809">Original post</a></td>
 <td width="50%" valign="top"><strong>A Code-made DeepSeek Architecture Explainer</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · Education &amp; explainers</sub><br><sub>2:07 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108485332757074286">▶ Play</a> · <a href="https://x.com/ItsmeAjayKV/status/2108485332757074286">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108304898198581689"><img src="../assets/covers/2108304898198581689.jpg" width="400" alt="An Animated Explainer about SHRINCS Signatures"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106391068367597929"><img src="../assets/covers/2106391068367597929.jpg" width="127" alt="A video explainer for a CLIProxyAPI article"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>An Animated Explainer about SHRINCS Signatures</strong><br><sub><a href="https://x.com/NavRoudsari">@NavRoudsari</a> · Education &amp; explainers</sub><br><sub>4:21 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108304898198581689">▶ Play</a> · <a href="https://x.com/NavRoudsari/status/2108304898198581689">Original post</a></td>
+<td width="50%" valign="top"><strong>A video explainer for a CLIProxyAPI article</strong><br><sub><a href="https://x.com/0xlangeai">@0xlangeai</a> · Education &amp; explainers</sub><br><sub>0:57 · Bookmarks 7</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106391068367597929">▶ Play</a> · <a href="https://x.com/0xlangeai/status/2106391068367597929">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -387,41 +417,51 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103833991879053577"><img src="../assets/covers/2103833991879053577.jpg" width="180" alt="A continuous shot from a desk into the CPU and an atom"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108506286207930467"><img src="../assets/covers/2108506286207930467.jpg" width="127" alt="Word-by-word Pop-up Captions"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346401878356252"><img src="../assets/covers/2105346401878356252.jpg" width="400" alt="An animated bar chart of UK asylum claims"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A continuous shot from a desk into the CPU and an atom</strong><br><sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · Education &amp; explainers</sub><br><sub>0:44 · Bookmarks 4</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103833991879053577">▶ Play</a> · <a href="https://x.com/Acoramaa/status/2103833991879053577">Original post</a></td>
 <td width="50%" valign="top"><strong>Word-by-word Pop-up Captions</strong><br><sub><a href="https://x.com/29meat_ai">@29meat_ai</a> · Education &amp; explainers</sub><br><sub>0:15 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108506286207930467">▶ Play</a> · <a href="https://x.com/29meat_ai/status/2108506286207930467">Original post</a></td>
-<td width="50%" valign="top"><strong>An animated bar chart of UK asylum claims</strong><br><sub><a href="https://x.com/AylmerTH">@AylmerTH</a> · Education &amp; explainers</sub><br><sub>0:50 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346401878356252">▶ Play</a> · <a href="https://x.com/AylmerTH/status/2105346401878356252">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346401878356252"><img src="../assets/covers/2105346401878356252.jpg" width="400" alt="An animated bar chart of UK asylum claims"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104212841657962937"><img src="../assets/covers/2104212841657962937.jpg" width="400" alt="From Smartphone Glass to the Atomic Scale"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485265715712508"><img src="../assets/covers/2107485265715712508.jpg" width="400" alt="An image-led action-film workflow"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An animated bar chart of UK asylum claims</strong><br><sub><a href="https://x.com/AylmerTH">@AylmerTH</a> · Education &amp; explainers</sub><br><sub>0:50 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346401878356252">▶ Play</a> · <a href="https://x.com/AylmerTH/status/2105346401878356252">Original post</a></td>
 <td width="50%" valign="top"><strong>From Smartphone Glass to the Atomic Scale</strong><br><sub><a href="https://x.com/irinatoxi">@irinatoxi</a> · Education &amp; explainers</sub><br><sub>0:22 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104212841657962937">▶ Play</a> · <a href="https://x.com/irinatoxi/status/2104212841657962937">Original post</a></td>
-<td width="50%" valign="top"><strong>An image-led action-film workflow</strong><br><sub><a href="https://x.com/TanLuAI">@TanLuAI</a> · Education &amp; explainers</sub><br><sub>2:44 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485265715712508">▶ Play</a> · <a href="https://x.com/TanLuAI/status/2107485265715712508">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485265715712508"><img src="../assets/covers/2107485265715712508.jpg" width="400" alt="An image-led action-film workflow"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108167157393838191"><img src="../assets/covers/2108167157393838191.jpg" width="400" alt="An Explainer about Car Braking"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108093967783080220"><img src="../assets/covers/2108093967783080220.jpg" width="248" alt="An Education Talk with Motion-information Cards"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An image-led action-film workflow</strong><br><sub><a href="https://x.com/TanLuAI">@TanLuAI</a> · Education &amp; explainers</sub><br><sub>2:44 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485265715712508">▶ Play</a> · <a href="https://x.com/TanLuAI/status/2107485265715712508">Original post</a></td>
 <td width="50%" valign="top"><strong>An Explainer about Car Braking</strong><br><sub><a href="https://x.com/ZeroZ_JQ">@ZeroZ_JQ</a> · Education &amp; explainers</sub><br><sub>6:25 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108167157393838191">▶ Play</a> · <a href="https://x.com/ZeroZ_JQ/status/2108167157393838191">Original post</a></td>
-<td width="50%" valign="top"><strong>An Education Talk with Motion-information Cards</strong><br><sub><a href="https://x.com/XinWEN2001">@XinWEN2001</a> · Education &amp; explainers</sub><br><sub>1:19 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108093967783080220">▶ Play</a> · <a href="https://x.com/XinWEN2001/status/2108093967783080220">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108093967783080220"><img src="../assets/covers/2108093967783080220.jpg" width="248" alt="An Education Talk with Motion-information Cards"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107505590151020548"><img src="../assets/covers/2107505590151020548.jpg" width="400" alt="A PC assembly explainer based on hardware references"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>An Education Talk with Motion-information Cards</strong><br><sub><a href="https://x.com/XinWEN2001">@XinWEN2001</a> · Education &amp; explainers</sub><br><sub>1:19 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108093967783080220">▶ Play</a> · <a href="https://x.com/XinWEN2001/status/2108093967783080220">Original post</a></td>
+<td width="50%" valign="top"><strong>A PC assembly explainer based on hardware references</strong><br><sub><a href="https://x.com/baoweiheihei">@baoweiheihei</a> · Education &amp; explainers</sub><br><sub>1:42 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107505590151020548">▶ Play</a> · <a href="https://x.com/baoweiheihei/status/2107505590151020548">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103904436141842605"><img src="../assets/covers/2103904436141842605.jpg" width="400" alt="A narrated animation of a tree as an ecosystem"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107667480034562167"><img src="../assets/covers/2107667480034562167.jpg" width="180" alt="A Japanese Guide to Selecting Motion Examples"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>A PC assembly explainer based on hardware references</strong><br><sub><a href="https://x.com/baoweiheihei">@baoweiheihei</a> · Education &amp; explainers</sub><br><sub>1:42 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107505590151020548">▶ Play</a> · <a href="https://x.com/baoweiheihei/status/2107505590151020548">Original post</a></td>
+<td width="50%" valign="top"><strong>A narrated animation of a tree as an ecosystem</strong><br><sub><a href="https://x.com/hunzai">@hunzai</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 2</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103904436141842605">▶ Play</a> · <a href="https://x.com/hunzai/status/2103904436141842605">Original post</a></td>
 <td width="50%" valign="top"><strong>A Japanese Guide to Selecting Motion Examples</strong><br><sub><a href="https://x.com/tenbin_ai">@tenbin_ai</a> · Education &amp; explainers</sub><br><sub>0:58 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107667480034562167">▶ Play</a> · <a href="https://x.com/tenbin_ai/status/2107667480034562167">Original post</a></td>
 </tr>
 </tbody>
@@ -493,6 +533,16 @@
 <tr>
 <td width="50%" valign="top"><strong>Tai Chang Yin: an Animated Poetry Lesson</strong><br><sub><a href="https://x.com/7998l201">@7998l201</a> · Education &amp; explainers</sub><br><sub>3:09 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108204728534663215">▶ Play</a> · <a href="https://x.com/7998l201/status/2108204728534663215">Original post</a></td>
 <td width="50%" valign="top"><strong>How do LLMs work: an editable code explainer</strong><br><sub><a href="https://x.com/ItsDarcy_AI">@ItsDarcy_AI</a> · Education &amp; explainers</sub><br><sub>0:38 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106208810604081208">▶ Play</a> · <a href="https://x.com/ItsDarcy_AI/status/2106208810604081208">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104466394859593915"><img src="../assets/covers/2104466394859593915.jpg" width="225" alt="A fifteen-second search-history timeline"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103835848575746268"><img src="../assets/covers/2103835848575746268.jpg" width="400" alt="Zooming from an Earth hillside to the observable universe"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A fifteen-second search-history timeline</strong><br><sub><a href="https://x.com/aigame_lab">@aigame_lab</a> · Education &amp; explainers</sub><br><sub>0:15 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104466394859593915">▶ Play</a> · <a href="https://x.com/aigame_lab/status/2104466394859593915">Original post</a></td>
+<td width="50%" valign="top"><strong>Zooming from an Earth hillside to the observable universe</strong><br><sub><a href="https://x.com/kgonia7">@kgonia7</a> · Education &amp; explainers</sub><br><sub>1:00 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103835848575746268">▶ Play</a> · <a href="https://x.com/kgonia7/status/2103835848575746268">Original post</a></td>
 </tr>
 </tbody>
 <tbody>

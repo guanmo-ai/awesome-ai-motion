@@ -11,6 +11,49 @@ const listKeys=['page',...filterKeys,'lang'];
 const t = (zh,en) => state.lang === 'en' ? en : zh;
 const title = c => state.lang === 'en' ? c.titleEn || c.title : c.title;
 const el = (tag, className, text) => { const node=document.createElement(tag); if(className) node.className=className; if(text != null) node.textContent=text; return node; };
+const reducedMotion=window.matchMedia?.('(prefers-reduced-motion: reduce)');
+let previewsEnabled=!reducedMotion?.matches&&!navigator.connection?.saveData;
+const previews=new Map();
+const previewObserver=typeof IntersectionObserver==='function'?new IntersectionObserver(entries=>{
+  for(const entry of entries){const preview=previews.get(entry.target);if(preview){preview.visible=entry.isIntersecting&&entry.intersectionRatio>=0.01;updatePreview(preview);}}
+},{threshold:[0,0.01]}):null;
+function previewAllowed(preview){return preview.visible&&previewsEnabled&&!document.hidden&&!$('viewer').open&&!$('trash').open&&!preview.failed;}
+function stopPreview(preview,{release=false}={}){
+  preview.video.pause();preview.video.hidden=true;preview.thumb.classList.toggle('preview-playing',false);
+  if(release&&preview.video.getAttribute('src')){preview.video.removeAttribute('src');preview.video.load();}
+}
+function updatePreview(preview){
+  if(!previewAllowed(preview)){stopPreview(preview,{release:!preview.visible||!previewsEnabled||preview.failed});return;}
+  if(preview.pending||!preview.video.paused)return;
+  if(!preview.video.getAttribute('src'))preview.video.src=preview.url;
+  preview.pending=true;
+  let retry=true;
+  preview.video.play().catch(error=>{retry=error.name==='AbortError';preview.video.hidden=true;preview.thumb.classList.toggle('preview-playing',false);}).finally(()=>{
+    preview.pending=false;
+    // A quick scroll or pause/resume may interrupt an in-flight play request.
+    if(retry&&previews.get(preview.thumb)===preview&&previewAllowed(preview)&&preview.video.paused)updatePreview(preview);
+  });
+}
+function syncPreviews(){for(const preview of previews.values())updatePreview(preview);}
+function clearPreviews(){previewObserver?.disconnect();for(const preview of previews.values())stopPreview(preview,{release:true});previews.clear();}
+function addPreview(thumb,url){
+  if(!previewObserver)return;
+  const video=el('video','card-preview');video.muted=true;video.defaultMuted=true;video.loop=true;video.playsInline=true;video.preload='none';video.hidden=true;video.tabIndex=-1;video.setAttribute('aria-hidden','true');
+  const preview={thumb,video,url,visible:false,failed:false,pending:false};
+  video.addEventListener('playing',()=>{if(previews.get(thumb)!==preview||!previewAllowed(preview)){stopPreview(preview);return;}video.hidden=false;thumb.classList.toggle('preview-playing',true);});
+  video.addEventListener('error',()=>{preview.failed=true;stopPreview(preview,{release:true});});
+  thumb.append(video);previews.set(thumb,preview);previewObserver.observe(thumb);
+}
+function renderPreviewControl(){
+  const button=$('toggle-previews');button.hidden=!previewObserver;
+  button.textContent=previewsEnabled?t('暂停预览','Pause previews'):t('播放预览','Play previews');
+  button.setAttribute('aria-pressed',String(previewsEnabled));
+}
+$('toggle-previews').addEventListener('click',()=>{previewsEnabled=!previewsEnabled;renderPreviewControl();syncPreviews();});
+reducedMotion?.addEventListener('change',event=>{previewsEnabled=!event.matches&&!navigator.connection?.saveData;renderPreviewControl();syncPreviews();});
+document.addEventListener('visibilitychange',syncPreviews);
+window.addEventListener('pagehide',()=>{for(const preview of previews.values())stopPreview(preview,{release:true});});
+window.addEventListener('pageshow',syncPreviews);
 function link(label,url,className='') { const node=el('a',className,label); const valid=safeUrl(url); if(valid) {node.href=valid;node.target='_blank';node.rel='noopener noreferrer';} return node; }
 function date(value) { const parsed=new Date(value); return Number.isNaN(parsed.valueOf()) ? '—' : new Intl.DateTimeFormat(state.lang === 'en' ? 'en-US' : 'zh-CN',{dateStyle:'medium',timeZone:'UTC'}).format(parsed); }
 function image(c, lazy=true) { const img=el('img'); img.alt=title(c); img.decoding='async'; if(lazy) img.loading='lazy'; const path=coverPath(c.cover?.path); if(path) img.src=path; img.addEventListener('error',()=>{img.replaceWith(el('span','cover-fallback',t('封面暂时无法显示','Preview unavailable')));},{once:true}); return img; }
@@ -41,6 +84,7 @@ function renderLanguage() {
   $('close').setAttribute('aria-label',t('关闭作品详情','Close work details'));
 }
 function render() {
+  clearPreviews();renderPreviewControl();
   renderLanguage(); renderCuration(); $('search').value=state.query; $('sort').value=state.sort;
   const activePage=state.page==='home'?'home':state.resource==='all'?'all':'resources';
   for(const page of ['home','all','resources']) {const button=$(`page-${page}`);if(activePage===page)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');}
@@ -86,7 +130,8 @@ function renderPagination(selected) {
 }
 function card(c,home=false,eager=false) {
   const article=el('article','card'), button=el('button','card-open');article.dataset.caseId=c.id;button.type='button';button.dataset.caseId=c.id;button.setAttribute('aria-label',t(`打开作品：${title(c)}`,`Open work: ${title(c)}`));
-  const thumb=el('div','thumbnail'), playable=Boolean(playbackUrl(c));thumb.append(image(c,!eager));
+  const thumb=el('div','thumbnail'), url=playbackUrl(c),playable=Boolean(url);thumb.append(image(c,!eager));
+  if(playable)addPreview(thumb,url);
   const play=el('span','card-play');play.setAttribute('aria-hidden','true');play.append(el('span','',playable?'▶':'↗'));thumb.append(play);
   if(!playable)thumb.append(el('span','watch-mode',t('在 X 观看 ↗','Watch on X ↗')));
   const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
@@ -180,6 +225,7 @@ function showViewer(c,{autoplay=false}={}) {
   if(related.length){const section=el('section','related-works'),heading=el('h3','',t('继续看同类作品','More like this')),grid=el('div','related-grid');for(const item of related){const button=el('button','related-card');button.type='button';button.append(image(item),el('span','',title(item)));button.addEventListener('click',()=>{navigate({caseId:item.id},{replace:true,detail:true});$('close').focus({preventScroll:true});});grid.append(button);}section.append(heading,grid);content.append(section);}
   activeId=c.id;activeMissing=false;
   if(!$('viewer').open){savedOverflow=document.body.style.overflow;savedScroll=window.scrollY;document.body.style.overflow='hidden';$('viewer').showModal();} $('viewer').scrollTop=0;
+  syncPreviews();
   if(autoplay) content.querySelector('video')?.play().catch(()=>{});
 }
 function showMissingViewer() {
@@ -194,6 +240,7 @@ function showMissingViewer() {
   document.title=t('作品不存在或已移除 · Awesome AI Motion','Work not found or removed · Awesome AI Motion');
   activeId=state.caseId;activeMissing=true;
   if(!$('viewer').open){savedOverflow=document.body.style.overflow;savedScroll=window.scrollY;document.body.style.overflow='hidden';$('viewer').showModal();} $('viewer').scrollTop=0;
+  syncPreviews();
 }
 function unload() {clearPlaybackTimer();playbackAbort?.abort();playbackAbort=null;const video=$('viewer').querySelector('video');if(video){video.pause();video.removeAttribute('src');video.load();}}
 function hideViewer(){
@@ -204,6 +251,7 @@ function hideViewer(){
   document.body.style.overflow=savedOverflow;window.scrollTo(0,savedScroll);
   const target=returnFocus?.isConnected?returnFocus:$('works').querySelector(`.card-open[data-case-id="${returnFocus?.dataset.caseId || closingId || ''}"]`)||$('works');
   target.focus({preventScroll:true});returnFocus=null;
+  syncPreviews();
 }
 function syncViewer({refresh=false,...options}={}){const c=cases.find(c=>c.id===state.caseId);if(c){if(activeId!==c.id || activeMissing || !$('viewer').open || refresh){unload();document.title=t('Awesome AI Motion · 作品画廊','Awesome AI Motion · Gallery');showViewer(c,options);}}else if(state.caseId){if(activeId!==state.caseId || !activeMissing || !$('viewer').open || refresh){unload();showMissingViewer();}}else if(activeId) hideViewer();}
 function closeViewer(){if(history.state?.galleryDetail && state.caseId) history.back();else navigate({caseId:null},{replace:true});}
@@ -315,7 +363,8 @@ async function mutate(action,id,button,errorNode=$('trash-status'),review) {
   } catch(error) {errorNode.textContent=error.message||t('保存失败，请刷新后重试。','Save failed. Refresh and retry.');}
   finally {mutationPending=false;button.disabled=false;renderCuration();}
 }
-$('deleted-works').addEventListener('click',()=>{renderCuration();$('trash-status').textContent='';$('trash').showModal();});
+$('deleted-works').addEventListener('click',()=>{renderCuration();$('trash-status').textContent='';$('trash').showModal();syncPreviews();});
+$('trash').addEventListener('close',syncPreviews);
 $('trash-close').addEventListener('click',()=>$('trash').close());
 $('manage-works').addEventListener('click',()=>{
   if(!curator)return;

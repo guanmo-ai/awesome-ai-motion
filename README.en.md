@@ -4,7 +4,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 
 ## [▶ Enter the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
-**876 works · 98 public prompts · 29 works with source code**
+**937 works · 107 public prompts · 32 works with source code**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@ Extraordinary motion. Ideas you can build on. · [简体中文](README.md)
 </tbody>
 </table>
 
-**[Browse all 876 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
+**[Browse all 937 works →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** · **[Explore source ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en)** · **[Find prompts ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original&lang=en)**
 
 An inspiration and resource collection for motion design and creative video. Explore product films, 3D interactions, animated shorts and visual experiments, with creators’ public source code, prompts and making-of material.
 
@@ -70,7 +70,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 29 works with source →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en) · [Source, web pages & tools index](browse/resources.en.md)
+[Explore all 32 works with source →](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code&lang=en) · [Source, web pages & tools index](browse/resources.en.md)
 
 <details>
 <summary>Keep exploring: most-bookmarked works</summary>
@@ -160,16 +160,16 @@ These works include public source links from their creators. Explore the impleme
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537"><img src="assets/covers/2102787937482252537.jpg" width="400" alt="A one-line prompt for an inference startup launch"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103918792845963545"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="A character-led Pocketsflow product explainer"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103835273813496100"><img src="assets/covers/2103835273813496100.jpg" width="225" alt="A continuous launch film with shape morphs and liquid glass"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A one-line prompt for an inference startup launch</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Product &amp; marketing</sub><br><sub>0:26 · Bookmarks 4,697</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537">▶ Play</a> · <a href="https://x.com/deedydas/status/2102787937482252537">Original post</a></td>
-<td width="50%" valign="top"><strong>A character-led Pocketsflow product explainer</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 2,005</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103918792845963545">▶ Play</a> · <a href="https://x.com/achxvi/status/2103918792845963545">Original post</a></td>
+<td width="50%" valign="top"><strong>A continuous launch film with shape morphs and liquid glass</strong><br><sub><a href="https://x.com/twoclipping">@twoclipping</a> · Product &amp; marketing</sub><br><sub>0:29 · Bookmarks 3,745</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103835273813496100">▶ Play</a> · <a href="https://x.com/twoclipping/status/2103835273813496100">Original post</a></td>
 </tr>
 </tbody>
 </table>
 
-[Explore all 145 works →](browse/product.en.md)
+[Explore all 168 works →](browse/product.en.md)
 
 <a id="category-education"></a>
 
@@ -188,7 +188,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 147 works →](browse/education.en.md)
+[Explore all 157 works →](browse/education.en.md)
 
 <a id="category-motion"></a>
 
@@ -207,7 +207,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 95 works →](browse/motion.en.md)
+[Explore all 105 works →](browse/motion.en.md)
 
 <a id="category-characters"></a>
 
@@ -226,7 +226,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 79 works →](browse/characters.en.md)
+[Explore all 82 works →](browse/characters.en.md)
 
 <a id="category-interactive"></a>
 
@@ -245,7 +245,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 181 works →](browse/interactive.en.md)
+[Explore all 192 works →](browse/interactive.en.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 159 works →](browse/stories.en.md)
+[Explore all 162 works →](browse/stories.en.md)
 
 <a id="category-music"></a>
 
@@ -283,11 +283,11 @@ These works include public source links from their creators. Explore the impleme
 </tbody>
 </table>
 
-[Explore all 70 works →](browse/music.en.md)
+[Explore all 71 works →](browse/music.en.md)
 
 Homepage and category previews retain bookmark-snapshot sections, not live counts. README introductions are arranged separately and do not change review or featured status.
 
-36 catalogued records · [840 discovery records with details pending](browse/discoveries.en.md) · 872 original video sources
+97 catalogued records · [840 discovery records with details pending](browse/discoveries.en.md) · 933 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 
