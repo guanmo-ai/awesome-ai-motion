@@ -287,7 +287,7 @@ These works include public source links from their creators. Explore the impleme
 
 Homepage and category previews retain bookmark-snapshot sections, not live counts. README introductions are arranged separately and do not change review or featured status.
 
-97 catalogued records · [851 discovery records with details pending](browse/discoveries.en.md) · 944 original video sources
+97 catalogued records · [851 discovery records with details pending](browse/discoveries.en.md) · 943 original video sources
 
 [Verification scope and coverage](docs/COVERAGE.md) · [Collection criteria](docs/QUALITY.md)
 

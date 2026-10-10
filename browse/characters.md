@@ -388,11 +388,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107699773654581298"><img src="../assets/covers/2107699773654581298.jpg" width="127" alt="Laffie 与 Moti 的五日穿搭"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107708209008156856"><img src="../assets/covers/2107708209008156856.jpg" width="150" alt="彩色海滩角色动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/MujahidKhanxre/status/2107708209008156856"><img src="../assets/covers/2107708209008156856.jpg" width="150" alt="彩色海滩角色动画"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Laffie 与 Moti 的五日穿搭</strong><br><sub><a href="https://x.com/Colorinmyspirit">@Colorinmyspirit</a> · 角色动画</sub><br><sub>0:55 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107699773654581298">▶ 播放</a> · <a href="https://x.com/Colorinmyspirit/status/2107699773654581298">原帖</a></td>
-<td width="50%" valign="top"><strong>彩色海滩角色动画</strong><br><sub><a href="https://x.com/MujahidKhanxre">@MujahidKhanxre</a> · 角色动画</sub><br><sub>0:10 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107708209008156856">▶ 播放</a> · <a href="https://x.com/MujahidKhanxre/status/2107708209008156856">原帖</a></td>
+<td width="50%" valign="top"><strong>彩色海滩角色动画</strong><br><sub><a href="https://x.com/MujahidKhanxre">@MujahidKhanxre</a> · 角色动画</sub><br><sub>0:10 · 收藏 0 · 资料待完善</sub><br><a href="https://x.com/MujahidKhanxre/status/2107708209008156856">▶ 在 X 观看</a> · <a href="https://x.com/MujahidKhanxre/status/2107708209008156856">原帖</a></td>
 </tr>
 </tbody>
 <tbody>

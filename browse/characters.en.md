@@ -388,11 +388,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107699773654581298"><img src="../assets/covers/2107699773654581298.jpg" width="127" alt="Laffie and Moti: Five Weekday Outfits"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107708209008156856"><img src="../assets/covers/2107708209008156856.jpg" width="150" alt="A Colorful Beach Character Animation"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/MujahidKhanxre/status/2107708209008156856"><img src="../assets/covers/2107708209008156856.jpg" width="150" alt="A Colorful Beach Character Animation"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Laffie and Moti: Five Weekday Outfits</strong><br><sub><a href="https://x.com/Colorinmyspirit">@Colorinmyspirit</a> · Pixel art &amp; characters</sub><br><sub>0:55 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107699773654581298">▶ Play</a> · <a href="https://x.com/Colorinmyspirit/status/2107699773654581298">Original post</a></td>
-<td width="50%" valign="top"><strong>A Colorful Beach Character Animation</strong><br><sub><a href="https://x.com/MujahidKhanxre">@MujahidKhanxre</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107708209008156856">▶ Play</a> · <a href="https://x.com/MujahidKhanxre/status/2107708209008156856">Original post</a></td>
+<td width="50%" valign="top"><strong>A Colorful Beach Character Animation</strong><br><sub><a href="https://x.com/MujahidKhanxre">@MujahidKhanxre</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 0 · Details pending</sub><br><a href="https://x.com/MujahidKhanxre/status/2107708209008156856">▶ Watch on X</a> · <a href="https://x.com/MujahidKhanxre/status/2107708209008156856">Original post</a></td>
 </tr>
 </tbody>
 <tbody>

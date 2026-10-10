@@ -2337,11 +2337,11 @@
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107708209008156856"><img src="../assets/covers/2107708209008156856.jpg" width="150" alt="A Colorful Beach Character Animation"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/MujahidKhanxre/status/2107708209008156856"><img src="../assets/covers/2107708209008156856.jpg" width="150" alt="A Colorful Beach Character Animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107876103759016308"><img src="../assets/covers/2107876103759016308.jpg" width="169" alt="A Football Character Cinematography Test"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>A Colorful Beach Character Animation</strong><br><sub><a href="https://x.com/MujahidKhanxre">@MujahidKhanxre</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107708209008156856">▶ Play</a> · <a href="https://x.com/MujahidKhanxre/status/2107708209008156856">Original post</a></td>
+<td width="50%" valign="top"><strong>A Colorful Beach Character Animation</strong><br><sub><a href="https://x.com/MujahidKhanxre">@MujahidKhanxre</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 0 · Details pending</sub><br><a href="https://x.com/MujahidKhanxre/status/2107708209008156856">▶ Watch on X</a> · <a href="https://x.com/MujahidKhanxre/status/2107708209008156856">Original post</a></td>
 <td width="50%" valign="top"><strong>A Football Character Cinematography Test</strong><br><sub><a href="https://x.com/tysonsgs">@tysonsgs</a> · Pixel art &amp; characters</sub><br><sub>0:12 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107876103759016308">▶ Play</a> · <a href="https://x.com/tysonsgs/status/2107876103759016308">Original post</a></td>
 </tr>
 </tbody>

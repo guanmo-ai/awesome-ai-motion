@@ -287,7 +287,7 @@
 
 首页及分类预览中的收藏榜按快照排列，并非实时榜单；README 导览单独编排，不改变作品的精选或评价状态。
 
-97 条资料已编目 · [851 条发现池资料待完善](browse/discoveries.md) · 944 个原帖媒体入口
+97 条资料已编目 · [851 条发现池资料待完善](browse/discoveries.md) · 943 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

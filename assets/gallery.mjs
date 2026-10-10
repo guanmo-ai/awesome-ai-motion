@@ -1,4 +1,4 @@
-import {resourceLinks,resourceLabel,CATEGORIES,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,relatedCases} from './gallery-model.mjs?v=20261010-smooth';
+import {resourceLinks,resourceLabel,CATEGORIES,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,relatedCases} from './gallery-model.mjs?v=20261010-reviewed';
 const $ = id => document.getElementById(id);
 let state = readLocation(), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let visibleCount=PAGE_SIZE;
@@ -197,7 +197,7 @@ function card(c,eager=false) {
   const thumb=el('div','thumbnail'),url=playbackUrl(c),playable=Boolean(url);thumb.append(image(c,!eager));
   if(playable)addPreview(thumb,url);
   const play=el('span','card-play');play.setAttribute('aria-hidden','true');play.append(el('span','',playable?'▶':'↗'));thumb.append(play);
-  if(!playable)thumb.append(el('span','watch-mode',t('在 X 观看 ↗','Watch on X ↗')));
+  if(!playable)thumb.append(el('span','watch-mode',t('原帖入口 ↗','Original post ↗')));
   const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
   const heading=el('h2','card-title',title(c));heading.title=title(c);button.append(thumb,heading);button.addEventListener('click',()=>{returnFocus=button;navigate({caseId:c.id},{detail:true});});
   const footer=el('div','card-footer'),meta=el('div','card-meta',`@${c.author.handle}`);meta.title=`@${c.author.handle} · ${CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]}`;footer.append(meta);article.append(button,footer);
@@ -264,7 +264,7 @@ function showViewer(c,{autoplay=false}={}) {
     retry.addEventListener('click',()=>{error.hidden=retry.hidden=true;video.pause();video.src=url;video.load();arm();video.play().catch(()=>{});},{signal:controller.signal});
     assist.append(error,retry,link(t('到作者原帖观看 ↗','Watch the original post ↗'),c.source.url,'playback-source'));
     video.src=url;player.append(video,assist);arm();
-  } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('这支作品目前在作者原帖观看。','This work is currently available on the creator’s original post.')),link(t('到作者原帖观看 ↗','Watch original post ↗'),c.source.url,'primary-link'));player.append(message);}
+  } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('暂时无法直接播放，可查看作者原帖。','Direct playback is currently unavailable. You can check the creator’s original post.')),link(t('查看作者原帖 ↗','View original post ↗'),c.source.url,'primary-link'));player.append(message);}
   const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
   const links=el('div','detail-links');for(const r of resourceLinks(c))links.append(link(resourceLabel(r.kind,state.lang)+' ↗',r.url,r.kind==='demo'?'primary-link':''));links.append(link(t('作者原帖 ↗','Original post ↗'),c.source.url));
   const shareLabel=t('复制作品链接','Copy work link'),share=el('button','share-button',shareLabel);share.type='button';share.addEventListener('click',()=>copy(location.href,share,shareLabel));links.append(share);

@@ -20474,15 +20474,6 @@
         "fullReview": false,
         "independentlyReproduced": false,
         "promptMatchedSource": false
-      },
-      "webPlayback": {
-        "kind": "external_source_video",
-        "url": "https://video.twimg.com/amplify_video/2107708179970957312/vid/avc1/720x1080/sOcvY2Nszlm96lP7.mp4?tag=29",
-        "sourcePostUrl": "https://x.com/MujahidKhanxre/status/2107708209008156856",
-        "checkedAt": "2026-10-08T14:25:04.322456+00:00",
-        "contentType": "video/mp4",
-        "verificationLevel": "source_media_matched",
-        "reuploadPermission": "not_verified"
       }
     },
     {
