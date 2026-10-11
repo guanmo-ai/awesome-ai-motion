@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-111 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+117 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -13,6 +13,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[DeckUse product source featured in the film](https://github.com/deckflow/deckuse) · [AGPL-3.0](https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE)
   The advertised product repository, not confirmed as the film project. It uses AGPL-3.0; modification, distribution and network-service deployment must follow its source and license obligations, not this catalog’s MIT license.
   [Link source](https://x.com/feiflow/status/2104039666093572362) · Link checked 2026-09-29 06:17 UTC
+
+## [SF Symbols Picker Product Animation](../cases/2109225353243988478.en.md) · @21Terrence1
+
+- **Public web page**：[SF Symbols picker](https://sfsymbols.terryhu.workers.dev/)
+  The product page is linked in a direct reply by the same author; it is not the complete production project for this promo.
+  [Link source](https://x.com/21Terrence1/status/2109247274396389561) · Link checked 2026-10-11 15:08 UTC
 
 ## [An article intro: template reuse and text checks](../cases/2105033204319277506.en.md) · @FalconG\_J
 
@@ -201,6 +207,12 @@ Public work pages also count as implementation references; a web link alone does
   The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
   [Link source](https://x.com/design_oyaji/status/2107615938833207569) · Link checked 2026-10-09 04:02 UTC
 
+## [An Animation Explaining LRU Caching and Tagging](../cases/2109225733382086866.en.md) · @dstartupkid
+
+- **Related tool**：[Anatomy tool and examples](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
+  The original creator’s general skill and examples; a standalone production project for this case video has not been separately verified. The root MIT license does not automatically cover separately used assets.
+  [Link source](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · Link checked 2026-10-11 15:08 UTC
+
 ## [An Interactive 3D Guide to Database Structures](../cases/2107878084032753751.en.md) · @EKeric13
 
 - **Public web page**：[Database structure interactive guide](https://visualize-dbs.ekeric13.chatgpt.site/)
@@ -303,6 +315,12 @@ Public work pages also count as implementation references; a web link alone does
   The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
   [Link source](https://x.com/the_vibepreneur/status/2107496993111355645) · Link checked 2026-10-09 04:02 UTC
 
+## [Anatomy: Working Machine Illustrations](../cases/2108948624004526516.en.md) · @wheresryan22
+
+- **Related tool**：[Anatomy tool and examples](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
+  The original creator’s general skill and examples; a standalone production project for this case video has not been separately verified. The root MIT license does not automatically cover separately used assets.
+  [Link source](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · Link checked 2026-10-11 15:08 UTC
+
 ## [Spiderbench: Swinging Through a Browser City](../cases/2104001664793600012.en.md) · @xikhar
 
 - **Direct source**：[Spiderbench game source](https://github.com/xikhar/spiderbench) · [Source-Available, View-Only](https://github.com/xikhar/spiderbench/blob/4361e15951d98519ba515da3ec31d3e537cb4a10/LICENSE)
@@ -387,6 +405,18 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Horror-game playable work](https://scare-test.vercel.app/)
   The creator links the work page, confirmed reachable over HTTP. Project completeness and overall reuse rights are separate checks.
   [Link source](https://x.com/LexnLin/status/2108301624515137601) · Link checked 2026-10-09 04:12 UTC
+
+## [DYSTOPIA: A Rain-Soaked Browser City](../cases/2109107708192284923.en.md) · @cryptomanavan
+
+- **Public web page**：[DYSTOPIA browser city](https://dystopia-noir.netlify.app/)
+  A public page linked by the creator. It requires WebGPU, remains a work in progress and has not been fully played.
+  [Link source](https://x.com/cryptomanavan/status/2109107708192284923) · Link checked 2026-10-11 15:09 UTC
+
+## [An Interactive Falcon 9 Landing Simulation](../cases/2109061641027678483.en.md) · @konstantinsaifo
+
+- **Public web page**：[Falcon 9 landing simulation](https://www.airsup.ai/lab/falcon-landing)
+  The creator’s link redirects to this HTTPS work page. It identifies the work as a simulation rather than flight measurements; physical accuracy has not been independently verified.
+  [Link source](https://x.com/konstantinsaifo/status/2109061641027678483) · Link checked 2026-10-11 15:08 UTC
 
 ## [BLOCKWORLD: A Browser Voxel World](../cases/2105020794602676465.en.md) · @L1vsun
 
@@ -613,6 +643,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Alley Cat browser player](https://dk8827.github.io/alleycat-remastered/web/)
   The playable address in the creator’s direct reply was checked over HTTP. Complete gameplay review is separate.
   [Link source](https://x.com/davidkal88/status/2108521847365001631) · Link checked 2026-10-09 11:56 UTC
+
+## [A Flight Game Powered by Real-Time Fluid Simulation](../cases/2109170164532928698.en.md) · @filiptehking
+
+- **Public web page**：[Boltzmann Flyer game](https://dynasus.com/boltzmann/)
+  The creator-linked page is readable; starting gameplay was not confirmed and full gameplay was not tested.
+  [Link source](https://x.com/filiptehking/status/2109170164532928698) · Link checked 2026-10-11 15:09 UTC
 
 ## [Memory Fading into Watercolor: A Coded Short](../cases/2104186357824487573.en.md) · @techartist\_
 

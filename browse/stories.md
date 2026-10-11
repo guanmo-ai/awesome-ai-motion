@@ -2,7 +2,7 @@
 
 # 叙事短片
 
-164 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+167 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -498,80 +498,90 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108471538139664737"><img src="../assets/covers/2108471538139664737.jpg" width="338" alt="Brass and Ash第三章：飞船"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1906062326140158099"><img src="../assets/covers/1906062326140158099.jpg" width="127" alt="《Picture Perfect》：Jeff Sarris 的动画短片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109219890133360941"><img src="../assets/covers/2109219890133360941.jpg" width="400" alt="小骑士 Duke 与 Pawline"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Brass and Ash第三章：飞船</strong><br><sub><a href="https://x.com/IvanAI_Art">@IvanAI_Art</a> · 叙事短片</sub><br><sub>0:36 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108471538139664737">▶ 播放</a> · <a href="https://x.com/IvanAI_Art/status/2108471538139664737">原帖</a></td>
-<td width="50%" valign="top"><strong>《Picture Perfect》：Jeff Sarris 的动画短片</strong><br><sub><a href="https://x.com/jeffSARRIS">@jeffSARRIS</a> · 叙事短片</sub><br><sub>0:17 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1906062326140158099">▶ 播放</a> · <a href="https://x.com/jeffSARRIS/status/1906062326140158099">原帖</a></td>
+<td width="50%" valign="top"><strong>小骑士 Duke 与 Pawline</strong><br><sub><a href="https://x.com/itsPixieVerse">@itsPixieVerse</a> · 叙事短片</sub><br><sub>0:30 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109219890133360941">▶ 播放</a> · <a href="https://x.com/itsPixieVerse/status/2109219890133360941">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1906062326140158099"><img src="../assets/covers/1906062326140158099.jpg" width="127" alt="《Picture Perfect》：Jeff Sarris 的动画短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108356244285104427"><img src="../assets/covers/2108356244285104427.jpg" width="400" alt="未满意的动漫打斗测试"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108225242305040889"><img src="../assets/covers/2108225242305040889.jpg" width="400" alt="Music Lessons：音乐课喜剧片段"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>《Picture Perfect》：Jeff Sarris 的动画短片</strong><br><sub><a href="https://x.com/jeffSARRIS">@jeffSARRIS</a> · 叙事短片</sub><br><sub>0:17 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1906062326140158099">▶ 播放</a> · <a href="https://x.com/jeffSARRIS/status/1906062326140158099">原帖</a></td>
 <td width="50%" valign="top"><strong>未满意的动漫打斗测试</strong><br><sub><a href="https://x.com/Agonyframe">@Agonyframe</a> · 叙事短片</sub><br><sub>0:21 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108356244285104427">▶ 播放</a> · <a href="https://x.com/Agonyframe/status/2108356244285104427">原帖</a></td>
-<td width="50%" valign="top"><strong>Music Lessons：音乐课喜剧片段</strong><br><sub><a href="https://x.com/Hailey4AI">@Hailey4AI</a> · 叙事短片</sub><br><sub>0:15 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108225242305040889">▶ 播放</a> · <a href="https://x.com/Hailey4AI/status/2108225242305040889">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108225242305040889"><img src="../assets/covers/2108225242305040889.jpg" width="400" alt="Music Lessons：音乐课喜剧片段"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106657471150567512"><img src="../assets/covers/2106657471150567512.jpg" width="400" alt="失去重心的相遇：人物短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319013239427198"><img src="../assets/covers/2108319013239427198.jpg" width="400" alt="RONIN：游戏中的武士开场"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Music Lessons：音乐课喜剧片段</strong><br><sub><a href="https://x.com/Hailey4AI">@Hailey4AI</a> · 叙事短片</sub><br><sub>0:15 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108225242305040889">▶ 播放</a> · <a href="https://x.com/Hailey4AI/status/2108225242305040889">原帖</a></td>
 <td width="50%" valign="top"><strong>失去重心的相遇：人物短片</strong><br><sub><a href="https://x.com/Chengzilhy">@Chengzilhy</a> · 叙事短片</sub><br><sub>0:23 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106657471150567512">▶ 播放</a> · <a href="https://x.com/Chengzilhy/status/2106657471150567512">原帖</a></td>
-<td width="50%" valign="top"><strong>RONIN：游戏中的武士开场</strong><br><sub><a href="https://x.com/JuanByteLabs">@JuanByteLabs</a> · 叙事短片</sub><br><sub>0:50 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319013239427198">▶ 播放</a> · <a href="https://x.com/JuanByteLabs/status/2108319013239427198">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319013239427198"><img src="../assets/covers/2108319013239427198.jpg" width="400" alt="RONIN：游戏中的武士开场"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108355042503692678"><img src="../assets/covers/2108355042503692678.jpg" width="399" alt="A Mid-Autumn Confession：Unity 终集"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1980278377597571260"><img src="../assets/covers/1980278377597571260.jpg" width="400" alt="《Cherry Picking》：Grok Imagine 短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>RONIN：游戏中的武士开场</strong><br><sub><a href="https://x.com/JuanByteLabs">@JuanByteLabs</a> · 叙事短片</sub><br><sub>0:50 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319013239427198">▶ 播放</a> · <a href="https://x.com/JuanByteLabs/status/2108319013239427198">原帖</a></td>
 <td width="50%" valign="top"><strong>A Mid-Autumn Confession：Unity 终集</strong><br><sub><a href="https://x.com/CMCINSPIRE">@CMCINSPIRE</a> · 叙事短片</sub><br><sub>7:35 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108355042503692678">▶ 播放</a> · <a href="https://x.com/CMCINSPIRE/status/2108355042503692678">原帖</a></td>
-<td width="50%" valign="top"><strong>《Cherry Picking》：Grok Imagine 短片</strong><br><sub><a href="https://x.com/Ben__Springer">@Ben__Springer</a> · 叙事短片</sub><br><sub>3:06 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1980278377597571260">▶ 播放</a> · <a href="https://x.com/Ben__Springer/status/1980278377597571260">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1980278377597571260"><img src="../assets/covers/1980278377597571260.jpg" width="400" alt="《Cherry Picking》：Grok Imagine 短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102561072624410878"><img src="../assets/covers/2102561072624410878.jpg" width="400" alt="本地合成的纤维质感影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104747385692053930"><img src="../assets/covers/2104747385692053930.jpg" width="400" alt="Three.js 合作恐怖游戏展示片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>《Cherry Picking》：Grok Imagine 短片</strong><br><sub><a href="https://x.com/Ben__Springer">@Ben__Springer</a> · 叙事短片</sub><br><sub>3:06 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-1980278377597571260">▶ 播放</a> · <a href="https://x.com/Ben__Springer/status/1980278377597571260">原帖</a></td>
 <td width="50%" valign="top"><strong>本地合成的纤维质感影像</strong><br><sub><a href="https://x.com/Tariq_at">@Tariq_at</a> · 叙事短片</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102561072624410878">▶ 播放</a> · <a href="https://x.com/Tariq_at/status/2102561072624410878">原帖</a></td>
-<td width="50%" valign="top"><strong>Three.js 合作恐怖游戏展示片</strong><br><sub><a href="https://x.com/AmaySignedIn">@AmaySignedIn</a> · 叙事短片</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104747385692053930">▶ 播放</a> · <a href="https://x.com/AmaySignedIn/status/2104747385692053930">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104747385692053930"><img src="../assets/covers/2104747385692053930.jpg" width="400" alt="Three.js 合作恐怖游戏展示片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107492949382901859"><img src="../assets/covers/2107492949382901859.jpg" width="127" alt="《嫁给废王爷》第 2 集"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103082248320766456"><img src="../assets/covers/2103082248320766456.jpg" width="400" alt="红手套角色无声短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three.js 合作恐怖游戏展示片</strong><br><sub><a href="https://x.com/AmaySignedIn">@AmaySignedIn</a> · 叙事短片</sub><br><sub>0:20 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104747385692053930">▶ 播放</a> · <a href="https://x.com/AmaySignedIn/status/2104747385692053930">原帖</a></td>
 <td width="50%" valign="top"><strong>《嫁给废王爷》第 2 集</strong><br><sub><a href="https://x.com/liyue_ai">@liyue_ai</a> · 叙事短片</sub><br><sub>0:33 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107492949382901859">▶ 播放</a> · <a href="https://x.com/liyue_ai/status/2107492949382901859">原帖</a></td>
-<td width="50%" valign="top"><strong>红手套角色无声短片</strong><br><sub><a href="https://x.com/yaakuups">@yaakuups</a> · 叙事短片</sub><br><sub>2:18 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103082248320766456">▶ 播放</a> · <a href="https://x.com/yaakuups/status/2103082248320766456">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103082248320766456"><img src="../assets/covers/2103082248320766456.jpg" width="400" alt="红手套角色无声短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107578455747613028"><img src="../assets/covers/2107578455747613028.jpg" width="400" alt="The Seeder：文明与未来"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107587529197420711"><img src="../assets/covers/2107587529197420711.jpg" width="400" alt="摆锤与鸟笼的泥地机械行走"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>红手套角色无声短片</strong><br><sub><a href="https://x.com/yaakuups">@yaakuups</a> · 叙事短片</sub><br><sub>2:18 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103082248320766456">▶ 播放</a> · <a href="https://x.com/yaakuups/status/2103082248320766456">原帖</a></td>
 <td width="50%" valign="top"><strong>The Seeder：文明与未来</strong><br><sub><a href="https://x.com/Kwazikot">@Kwazikot</a> · 叙事短片</sub><br><sub>2:30 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107578455747613028">▶ 播放</a> · <a href="https://x.com/Kwazikot/status/2107578455747613028">原帖</a></td>
-<td width="50%" valign="top"><strong>摆锤与鸟笼的泥地机械行走</strong><br><sub><a href="https://x.com/editordlwatson">@editordlwatson</a> · 叙事短片</sub><br><sub>0:12 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107587529197420711">▶ 播放</a> · <a href="https://x.com/editordlwatson/status/2107587529197420711">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107587529197420711"><img src="../assets/covers/2107587529197420711.jpg" width="400" alt="摆锤与鸟笼的泥地机械行走"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108498649269567492"><img src="../assets/covers/2108498649269567492.jpg" width="400" alt="批评与辱骂：小灯角色的故事"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>摆锤与鸟笼的泥地机械行走</strong><br><sub><a href="https://x.com/editordlwatson">@editordlwatson</a> · 叙事短片</sub><br><sub>0:12 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107587529197420711">▶ 播放</a> · <a href="https://x.com/editordlwatson/status/2107587529197420711">原帖</a></td>
+<td width="50%" valign="top"><strong>批评与辱骂：小灯角色的故事</strong><br><sub><a href="https://x.com/RisingSunInt_">@RisingSunInt_</a> · 叙事短片</sub><br><sub>0:35 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108498649269567492">▶ 播放</a> · <a href="https://x.com/RisingSunInt_/status/2108498649269567492">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109171480952963172"><img src="../assets/covers/2109171480952963172.jpg" width="400" alt="望海潮·东南形胜古诗短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103154189064876406"><img src="../assets/covers/2103154189064876406.jpg" width="400" alt="科幻文本改编动态图像"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>批评与辱骂：小灯角色的故事</strong><br><sub><a href="https://x.com/RisingSunInt_">@RisingSunInt_</a> · 叙事短片</sub><br><sub>0:35 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108498649269567492">▶ 播放</a> · <a href="https://x.com/RisingSunInt_/status/2108498649269567492">原帖</a></td>
+<td width="50%" valign="top"><strong>望海潮·东南形胜古诗短片</strong><br><sub><a href="https://x.com/zyon1527">@zyon1527</a> · 叙事短片</sub><br><sub>0:45 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109171480952963172">▶ 播放</a> · <a href="https://x.com/zyon1527/status/2109171480952963172">原帖</a></td>
 <td width="50%" valign="top"><strong>科幻文本改编动态图像</strong><br><sub><a href="https://x.com/N8Programs">@N8Programs</a> · 叙事短片</sub><br><sub>10:09 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103154189064876406">▶ 播放</a> · <a href="https://x.com/N8Programs/status/2103154189064876406">原帖</a></td>
 </tr>
 </tbody>
@@ -708,121 +718,131 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108515885065683328"><img src="../assets/covers/2108515885065683328.jpg" width="400" alt="色泥棒：把城市色彩穿在身上"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="生活巧合的三段动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109235106896617521"><img src="../assets/covers/2109235106896617521.jpg" width="400" alt="潜入任务：三维预演与成片对照"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>色泥棒：把城市色彩穿在身上</strong><br><sub><a href="https://x.com/mckt615">@mckt615</a> · 叙事短片</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108515885065683328">▶ 播放</a> · <a href="https://x.com/mckt615/status/2108515885065683328">原帖</a></td>
-<td width="50%" valign="top"><strong>生活巧合的三段动画</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · 叙事短片</sub><br><sub>0:43 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102910805721362875">▶ 播放</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">原帖</a></td>
+<td width="50%" valign="top"><strong>潜入任务：三维预演与成片对照</strong><br><sub><a href="https://x.com/Finedays_sunday">@Finedays_sunday</a> · 叙事短片</sub><br><sub>1:05 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109235106896617521">▶ 播放</a> · <a href="https://x.com/Finedays_sunday/status/2109235106896617521">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="生活巧合的三段动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104419979924033781"><img src="../assets/covers/2104419979924033781.jpg" width="392" alt="《Imagination Expired》：Seedance 2.5 短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104775404368412946"><img src="../assets/covers/2104775404368412946.jpg" width="400" alt="Max Verstappen：赛事素材剪辑实验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>生活巧合的三段动画</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · 叙事短片</sub><br><sub>0:43 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102910805721362875">▶ 播放</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">原帖</a></td>
 <td width="50%" valign="top"><strong>《Imagination Expired》：Seedance 2.5 短片</strong><br><sub><a href="https://x.com/HuskiStudio">@HuskiStudio</a> · 叙事短片</sub><br><sub>2:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104419979924033781">▶ 播放</a> · <a href="https://x.com/HuskiStudio/status/2104419979924033781">原帖</a></td>
-<td width="50%" valign="top"><strong>Max Verstappen：赛事素材剪辑实验</strong><br><sub><a href="https://x.com/salRoid">@salRoid</a> · 叙事短片</sub><br><sub>1:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104775404368412946">▶ 播放</a> · <a href="https://x.com/salRoid/status/2104775404368412946">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104775404368412946"><img src="../assets/covers/2104775404368412946.jpg" width="400" alt="Max Verstappen：赛事素材剪辑实验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/NoFollowers2023/status/2104792004978974928"><img src="../assets/covers/2104792004978974928.jpg" width="400" alt="远离尘嚣：太空前哨剪纸短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="AI 时代，人类决定去向"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Max Verstappen：赛事素材剪辑实验</strong><br><sub><a href="https://x.com/salRoid">@salRoid</a> · 叙事短片</sub><br><sub>1:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104775404368412946">▶ 播放</a> · <a href="https://x.com/salRoid/status/2104775404368412946">原帖</a></td>
 <td width="50%" valign="top"><strong>远离尘嚣：太空前哨剪纸短片</strong><br><sub><a href="https://x.com/NoFollowers2023">@NoFollowers2023</a> · 叙事短片</sub><br><sub>5:27 · 收藏 0 · 资料待完善</sub><br><a href="https://x.com/NoFollowers2023/status/2104792004978974928">▶ 在 X 观看</a> · <a href="https://x.com/NoFollowers2023/status/2104792004978974928">原帖</a></td>
-<td width="50%" valign="top"><strong>AI 时代，人类决定去向</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · 叙事短片</sub><br><sub>1:24 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105361184543133877">▶ 播放</a> · <a href="https://x.com/nakazakifam/status/2105361184543133877">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="AI 时代，人类决定去向"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107434660057800861"><img src="../assets/covers/2107434660057800861.jpg" width="400" alt="Emergence：涌现主题代码短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107461812316942784"><img src="../assets/covers/2107461812316942784.jpg" width="400" alt="本地 MiniMax H3 人物对白试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>AI 时代，人类决定去向</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · 叙事短片</sub><br><sub>1:24 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105361184543133877">▶ 播放</a> · <a href="https://x.com/nakazakifam/status/2105361184543133877">原帖</a></td>
 <td width="50%" valign="top"><strong>Emergence：涌现主题代码短片</strong><br><sub><a href="https://x.com/JindaLi_">@JindaLi_</a> · 叙事短片</sub><br><sub>4:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107434660057800861">▶ 播放</a> · <a href="https://x.com/JindaLi_/status/2107434660057800861">原帖</a></td>
-<td width="50%" valign="top"><strong>本地 MiniMax H3 人物对白试验</strong><br><sub><a href="https://x.com/hylwr">@hylwr</a> · 叙事短片</sub><br><sub>0:40 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107461812316942784">▶ 播放</a> · <a href="https://x.com/hylwr/status/2107461812316942784">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107461812316942784"><img src="../assets/covers/2107461812316942784.jpg" width="400" alt="本地 MiniMax H3 人物对白试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501886844891607"><img src="../assets/covers/2107501886844891607.jpg" width="127" alt="When Sand Speaks：第一集"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107590713588240819"><img src="../assets/covers/2107590713588240819.jpg" width="127" alt="Seedance 的二维多镜头风格试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>本地 MiniMax H3 人物对白试验</strong><br><sub><a href="https://x.com/hylwr">@hylwr</a> · 叙事短片</sub><br><sub>0:40 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107461812316942784">▶ 播放</a> · <a href="https://x.com/hylwr/status/2107461812316942784">原帖</a></td>
 <td width="50%" valign="top"><strong>When Sand Speaks：第一集</strong><br><sub><a href="https://x.com/kevrussell">@kevrussell</a> · 叙事短片</sub><br><sub>0:54 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107501886844891607">▶ 播放</a> · <a href="https://x.com/kevrussell/status/2107501886844891607">原帖</a></td>
-<td width="50%" valign="top"><strong>Seedance 的二维多镜头风格试验</strong><br><sub><a href="https://x.com/wowsomevisual">@wowsomevisual</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107590713588240819">▶ 播放</a> · <a href="https://x.com/wowsomevisual/status/2107590713588240819">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107590713588240819"><img src="../assets/covers/2107590713588240819.jpg" width="127" alt="Seedance 的二维多镜头风格试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107656681530544224"><img src="../assets/covers/2107656681530544224.jpg" width="400" alt="GLOW：她想成为人类的预告片段"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107665921632342271"><img src="../assets/covers/2107665921632342271.jpg" width="400" alt="The Arena Has No Rules 第四集"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Seedance 的二维多镜头风格试验</strong><br><sub><a href="https://x.com/wowsomevisual">@wowsomevisual</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107590713588240819">▶ 播放</a> · <a href="https://x.com/wowsomevisual/status/2107590713588240819">原帖</a></td>
 <td width="50%" valign="top"><strong>GLOW：她想成为人类的预告片段</strong><br><sub><a href="https://x.com/WILLAVELLI_">@WILLAVELLI_</a> · 叙事短片</sub><br><sub>0:07 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107656681530544224">▶ 播放</a> · <a href="https://x.com/WILLAVELLI_/status/2107656681530544224">原帖</a></td>
-<td width="50%" valign="top"><strong>The Arena Has No Rules 第四集</strong><br><sub><a href="https://x.com/voraworld1">@voraworld1</a> · 叙事短片</sub><br><sub>1:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107665921632342271">▶ 播放</a> · <a href="https://x.com/voraworld1/status/2107665921632342271">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107665921632342271"><img src="../assets/covers/2107665921632342271.jpg" width="400" alt="The Arena Has No Rules 第四集"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107676101749453177"><img src="../assets/covers/2107676101749453177.jpg" width="253" alt="用 Blender 预演控制生成镜头"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107728346159239384"><img src="../assets/covers/2107728346159239384.jpg" width="400" alt="拳击手与火箭自动售货机"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>The Arena Has No Rules 第四集</strong><br><sub><a href="https://x.com/voraworld1">@voraworld1</a> · 叙事短片</sub><br><sub>1:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107665921632342271">▶ 播放</a> · <a href="https://x.com/voraworld1/status/2107665921632342271">原帖</a></td>
 <td width="50%" valign="top"><strong>用 Blender 预演控制生成镜头</strong><br><sub><a href="https://x.com/gensoFX">@gensoFX</a> · 叙事短片</sub><br><sub>0:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107676101749453177">▶ 播放</a> · <a href="https://x.com/gensoFX/status/2107676101749453177">原帖</a></td>
-<td width="50%" valign="top"><strong>拳击手与火箭自动售货机</strong><br><sub><a href="https://x.com/MxCaptures">@MxCaptures</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107728346159239384">▶ 播放</a> · <a href="https://x.com/MxCaptures/status/2107728346159239384">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107728346159239384"><img src="../assets/covers/2107728346159239384.jpg" width="400" alt="拳击手与火箭自动售货机"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107922153173860441"><img src="../assets/covers/2107922153173860441.jpg" width="400" alt="Yin and Yang：动作短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108296356507054261"><img src="../assets/covers/2108296356507054261.jpg" width="225" alt="清晨向日葵的短镜头"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>拳击手与火箭自动售货机</strong><br><sub><a href="https://x.com/MxCaptures">@MxCaptures</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107728346159239384">▶ 播放</a> · <a href="https://x.com/MxCaptures/status/2107728346159239384">原帖</a></td>
 <td width="50%" valign="top"><strong>Yin and Yang：动作短片</strong><br><sub><a href="https://x.com/Edenwoodfilm">@Edenwoodfilm</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107922153173860441">▶ 播放</a> · <a href="https://x.com/Edenwoodfilm/status/2107922153173860441">原帖</a></td>
-<td width="50%" valign="top"><strong>清晨向日葵的短镜头</strong><br><sub><a href="https://x.com/saribali808">@saribali808</a> · 叙事短片</sub><br><sub>0:05 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108296356507054261">▶ 播放</a> · <a href="https://x.com/saribali808/status/2108296356507054261">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108296356507054261"><img src="../assets/covers/2108296356507054261.jpg" width="225" alt="清晨向日葵的短镜头"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108340003613053354"><img src="../assets/covers/2108340003613053354.jpg" width="400" alt="Codex 制作的动漫介绍试片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108341984641605962"><img src="../assets/covers/2108341984641605962.jpg" width="400" alt="Verdantia：开往森林行星的列车"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>清晨向日葵的短镜头</strong><br><sub><a href="https://x.com/saribali808">@saribali808</a> · 叙事短片</sub><br><sub>0:05 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108296356507054261">▶ 播放</a> · <a href="https://x.com/saribali808/status/2108296356507054261">原帖</a></td>
 <td width="50%" valign="top"><strong>Codex 制作的动漫介绍试片</strong><br><sub><a href="https://x.com/Quantzuma">@Quantzuma</a> · 叙事短片</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108340003613053354">▶ 播放</a> · <a href="https://x.com/Quantzuma/status/2108340003613053354">原帖</a></td>
-<td width="50%" valign="top"><strong>Verdantia：开往森林行星的列车</strong><br><sub><a href="https://x.com/D_aerial2024">@D_aerial2024</a> · 叙事短片</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108341984641605962">▶ 播放</a> · <a href="https://x.com/D_aerial2024/status/2108341984641605962">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108341984641605962"><img src="../assets/covers/2108341984641605962.jpg" width="400" alt="Verdantia：开往森林行星的列车"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108344906943172804"><img src="../assets/covers/2108344906943172804.jpg" width="392" alt="猫咪专属的回转寿司店"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108402008969642181"><img src="../assets/covers/2108402008969642181.jpg" width="127" alt="单图驱动的安静午后"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Verdantia：开往森林行星的列车</strong><br><sub><a href="https://x.com/D_aerial2024">@D_aerial2024</a> · 叙事短片</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108341984641605962">▶ 播放</a> · <a href="https://x.com/D_aerial2024/status/2108341984641605962">原帖</a></td>
 <td width="50%" valign="top"><strong>猫咪专属的回转寿司店</strong><br><sub><a href="https://x.com/yudotanaka">@yudotanaka</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108344906943172804">▶ 播放</a> · <a href="https://x.com/yudotanaka/status/2108344906943172804">原帖</a></td>
-<td width="50%" valign="top"><strong>单图驱动的安静午后</strong><br><sub><a href="https://x.com/AiQLee">@AiQLee</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108402008969642181">▶ 播放</a> · <a href="https://x.com/AiQLee/status/2108402008969642181">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108402008969642181"><img src="../assets/covers/2108402008969642181.jpg" width="127" alt="单图驱动的安静午后"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108420740383223854"><img src="../assets/covers/2108420740383223854.jpg" width="400" alt="DON’T LOOK UP：出口前的悬念"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108509389938119127"><img src="../assets/covers/2108509389938119127.jpg" width="400" alt="SCHOOL HUSTLE: THE EX — 第三集"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>单图驱动的安静午后</strong><br><sub><a href="https://x.com/AiQLee">@AiQLee</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108402008969642181">▶ 播放</a> · <a href="https://x.com/AiQLee/status/2108402008969642181">原帖</a></td>
 <td width="50%" valign="top"><strong>DON’T LOOK UP：出口前的悬念</strong><br><sub><a href="https://x.com/Castuananh">@Castuananh</a> · 叙事短片</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108420740383223854">▶ 播放</a> · <a href="https://x.com/Castuananh/status/2108420740383223854">原帖</a></td>
-<td width="50%" valign="top"><strong>SCHOOL HUSTLE: THE EX — 第三集</strong><br><sub><a href="https://x.com/promodenstudio">@promodenstudio</a> · 叙事短片</sub><br><sub>2:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108509389938119127">▶ 播放</a> · <a href="https://x.com/promodenstudio/status/2108509389938119127">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108509389938119127"><img src="../assets/covers/2108509389938119127.jpg" width="400" alt="SCHOOL HUSTLE: THE EX — 第三集"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108932673813311706"><img src="../assets/covers/2108932673813311706.jpg" width="400" alt="《白兔之梦》：Emma 与颈饰"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108935203507069157"><img src="../assets/covers/2108935203507069157.jpg" width="127" alt="口袋里的破洞"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>SCHOOL HUSTLE: THE EX — 第三集</strong><br><sub><a href="https://x.com/promodenstudio">@promodenstudio</a> · 叙事短片</sub><br><sub>2:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108509389938119127">▶ 播放</a> · <a href="https://x.com/promodenstudio/status/2108509389938119127">原帖</a></td>
 <td width="50%" valign="top"><strong>《白兔之梦》：Emma 与颈饰</strong><br><sub><a href="https://x.com/AI__TSUBAKI">@AI__TSUBAKI</a> · 叙事短片</sub><br><sub>3:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108932673813311706">▶ 播放</a> · <a href="https://x.com/AI__TSUBAKI/status/2108932673813311706">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108935203507069157"><img src="../assets/covers/2108935203507069157.jpg" width="127" alt="口袋里的破洞"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>口袋里的破洞</strong><br><sub><a href="https://x.com/NOBYZONEai">@NOBYZONEai</a> · 叙事短片</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108935203507069157">▶ 播放</a> · <a href="https://x.com/NOBYZONEai/status/2108935203507069157">原帖</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

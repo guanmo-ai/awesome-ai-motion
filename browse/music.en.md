@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-71 works. Click a cover to play; works without gallery video open on X.
+72 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -358,11 +358,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108438870505541752"><img src="../assets/covers/2108438870505541752.jpg" width="127" alt="As Fast As Ideas: an AI-themed Pop Video"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109232747042705485"><img src="../assets/covers/2109232747042705485.jpg" width="400" alt="Ru Meng Ling: A Boat Among Lotus Flowers"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>As Fast As Ideas: an AI-themed Pop Video</strong><br><sub><a href="https://x.com/jxwalker">@jxwalker</a> · Music &amp; lyrics</sub><br><sub>2:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108438870505541752">▶ Play</a> · <a href="https://x.com/jxwalker/status/2108438870505541752">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>Ru Meng Ling: A Boat Among Lotus Flowers</strong><br><sub><a href="https://x.com/hotartAI">@hotartAI</a> · Music &amp; lyrics</sub><br><sub>0:27 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109232747042705485">▶ Play</a> · <a href="https://x.com/hotartAI/status/2109232747042705485">Original post</a></td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 音乐与歌词
 
-71 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+72 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -358,11 +358,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108438870505541752"><img src="../assets/covers/2108438870505541752.jpg" width="127" alt="As Fast As Ideas：AI主题流行音乐片"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109232747042705485"><img src="../assets/covers/2109232747042705485.jpg" width="400" alt="如梦令：归舟误入莲花深处"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>As Fast As Ideas：AI主题流行音乐片</strong><br><sub><a href="https://x.com/jxwalker">@jxwalker</a> · 音乐与歌词</sub><br><sub>2:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108438870505541752">▶ 播放</a> · <a href="https://x.com/jxwalker/status/2108438870505541752">原帖</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>如梦令：归舟误入莲花深处</strong><br><sub><a href="https://x.com/hotartAI">@hotartAI</a> · 音乐与歌词</sub><br><sub>0:27 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109232747042705485">▶ 播放</a> · <a href="https://x.com/hotartAI/status/2109232747042705485">原帖</a></td>
 </tr>
 </tbody>
 </table>

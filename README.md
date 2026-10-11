@@ -4,7 +4,7 @@
 
 ## [▶ 进入作品画廊 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
-**948 个作品 · 107 份公开提示词 · 32 个案例附源码**
+**968 个作品 · 108 份公开提示词 · 32 个案例附源码**
 
 <a id="spotlights"></a>
 
@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-**[浏览全部 948 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
+**[浏览全部 968 个作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)** · **[探索源码 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?resource=code)** · **[查看提示词 ↗](https://guanmo-ai.github.io/awesome-ai-motion/?prompt=original)**
 
 动效设计与创意视频的灵感和创作资源库。汇集出色的产品宣传片、3D 交互、动画短片与动态视觉作品，整理作者公开的源码、提示词和制作资料，为你的下一次创作提供起点。
 
@@ -101,11 +101,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop 混合制作 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646"><img src="assets/covers/2103141339651350646.jpg" width="400" alt="研究论文八分钟动画讲解"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516"><img src="assets/covers/2108948624004526516.jpg" width="400" alt="Anatomy：会动的机器说明图"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Claude Pop 混合制作 MV</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · 音乐与歌词</sub><br><sub>2:22 · 收藏 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569">▶ 播放</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">原帖</a></td>
-<td width="50%" valign="top"><strong>研究论文八分钟动画讲解</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 知识讲解</sub><br><sub>8:39 · 收藏 5,419 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646">▶ 播放</a> · <a href="https://x.com/deedydas/status/2103141339651350646">原帖</a></td>
+<td width="50%" valign="top"><strong>Anatomy：会动的机器说明图</strong><br><sub><a href="https://x.com/wheresryan22">@wheresryan22</a> · 交互演示</sub><br><sub>0:39 · 收藏 6,423 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516">▶ 播放</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">原帖</a></td>
 </tr>
 </tbody>
 </table>
@@ -169,7 +169,7 @@
 </tbody>
 </table>
 
-[查看全部 168 支 →](browse/product.md)
+[查看全部 171 支 →](browse/product.md)
 
 <a id="category-education"></a>
 
@@ -188,7 +188,7 @@
 </tbody>
 </table>
 
-[查看全部 158 支 →](browse/education.md)
+[查看全部 162 支 →](browse/education.md)
 
 <a id="category-motion"></a>
 
@@ -226,7 +226,7 @@
 </tbody>
 </table>
 
-[查看全部 85 支 →](browse/characters.md)
+[查看全部 86 支 →](browse/characters.md)
 
 <a id="category-interactive"></a>
 
@@ -236,16 +236,16 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106426962738880879"><img src="assets/covers/2106426962738880879.jpg" width="390" alt="Wareflow：策略游戏式仓库管理界面"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104001664793600012"><img src="assets/covers/2104001664793600012.jpg" width="359" alt="Spiderbench：浏览器里的城市荡行"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516"><img src="assets/covers/2108948624004526516.jpg" width="400" alt="Anatomy：会动的机器说明图"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Wareflow：策略游戏式仓库管理界面</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 交互演示</sub><br><sub>1:12 · 收藏 10,714 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106426962738880879">▶ 播放</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">原帖</a></td>
-<td width="50%" valign="top"><strong>Spiderbench：浏览器里的城市荡行</strong><br><sub><a href="https://x.com/xikhar">@xikhar</a> · 交互演示</sub><br><sub>2:21 · 收藏 3,777 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104001664793600012">▶ 播放</a> · <a href="https://x.com/xikhar/status/2104001664793600012">原帖</a></td>
+<td width="50%" valign="top"><strong>Anatomy：会动的机器说明图</strong><br><sub><a href="https://x.com/wheresryan22">@wheresryan22</a> · 交互演示</sub><br><sub>0:39 · 收藏 6,423 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516">▶ 播放</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">原帖</a></td>
 </tr>
 </tbody>
 </table>
 
-[查看全部 194 支 →](browse/interactive.md)
+[查看全部 202 支 →](browse/interactive.md)
 
 <a id="category-stories"></a>
 
@@ -264,7 +264,7 @@
 </tbody>
 </table>
 
-[查看全部 164 支 →](browse/stories.md)
+[查看全部 167 支 →](browse/stories.md)
 
 <a id="category-music"></a>
 
@@ -283,11 +283,11 @@
 </tbody>
 </table>
 
-[查看全部 71 支 →](browse/music.md)
+[查看全部 72 支 →](browse/music.md)
 
 首页及分类预览中的收藏榜按快照排列，并非实时榜单；README 导览单独编排，不改变作品的精选或评价状态。
 
-97 条资料已编目 · [851 条发现池资料待完善](browse/discoveries.md) · 943 个原帖媒体入口
+97 条资料已编目 · [871 条发现池资料待完善](browse/discoveries.md) · 963 个原帖媒体入口
 
 [核验范围与统计](docs/COVERAGE.md) · [收录说明](docs/QUALITY.md)
 

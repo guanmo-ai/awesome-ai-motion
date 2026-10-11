@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-85 works. Click a cover to play; works without gallery video open on X.
+86 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -428,11 +428,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108927579503681764"><img src="../assets/covers/2108927579503681764.jpg" width="400" alt="FarmGirl Assembles a Chair in Godot"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109240092015419613"><img src="../assets/covers/2109240092015419613.jpg" width="400" alt="A Continuous-Shot Comparison from the Same Storyboard"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>FarmGirl Assembles a Chair in Godot</strong><br><sub><a href="https://x.com/alexerichter">@alexerichter</a> · Pixel art &amp; characters</sub><br><sub>4:38 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108927579503681764">▶ Play</a> · <a href="https://x.com/alexerichter/status/2108927579503681764">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>A Continuous-Shot Comparison from the Same Storyboard</strong><br><sub><a href="https://x.com/temiro_ai">@temiro_ai</a> · Pixel art &amp; characters</sub><br><sub>0:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109240092015419613">▶ Play</a> · <a href="https://x.com/temiro_ai/status/2109240092015419613">Original post</a></td>
 </tr>
 </tbody>
 </table>

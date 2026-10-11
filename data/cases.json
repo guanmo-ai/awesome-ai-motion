@@ -3,6 +3,1412 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2109243587724755158",
+      "stage": "discovery",
+      "title": "机器人狗的感知与行走模拟",
+      "titleEn": "Robot Dog Perception and Walking Simulation",
+      "category": "3D 与交互",
+      "summary": "作者用 Claude Opus 5.5 为机器人狗添加激光雷达、双深度相机和物理模拟中的行走控制。视频展示传感器视角与机器人动作，原帖没有公开完整工程或制作指令。",
+      "summaryEn": "The creator uses Claude Opus 5.5 to add lidar, two depth cameras and walking control to a robot dog in a physics simulation. The recording shows sensor views and movement; no complete project or production prompt is shared.",
+      "author": {
+        "name": "Konstantin Saifoulline",
+        "handle": "konstantinsaifo",
+        "url": "https://x.com/konstantinsaifo"
+      },
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "publishedAt": "2026-10-11T11:23:53+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I asked Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/konstantinsaifo/status/2109243587724755158"
+      },
+      "media": {
+        "durationSeconds": 48.618,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109242515853340672/vid/avc1/1920x1080/q5kUylgUT6NPIsay.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4,
+        "width": 640,
+        "height": 360,
+        "bytes": 33346,
+        "path": "assets/covers/2109243587724755158.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "checkedAt": "2026-10-11T12:13:47.793935+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 3,
+        "likes": 6,
+        "views": 609,
+        "checkedAt": "2026-10-11T12:13:47.793935+00:00",
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109243587724755158"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:47.793935+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109242515853340672/vid/avc1/1920x1080/q5kUylgUT6NPIsay.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/konstantinsaifo/status/2109243587724755158",
+        "checkedAt": "2026-10-11T12:14:22.602554+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109242856305238410",
+      "stage": "discovery",
+      "title": "孟德尔豌豆杂交交互实验",
+      "titleEn": "An Interactive Mendelian Pea-Crossing Experiment",
+      "category": "3D 与交互",
+      "summary": "作者说明使用 Claude Opus 5.5 与 Three.js，把孟德尔豌豆杂交实验制作成可操作的三维模拟。原帖有作品录屏，没有公开完整指令或在线演示地址。",
+      "summaryEn": "The creator credits Claude Opus 5.5 and Three.js for an interactive 3D simulation of Mendelian pea-crossing experiments. The post includes a recording without a complete prompt or public demo URL.",
+      "author": {
+        "name": "WY",
+        "handle": "akokoi1",
+        "url": "https://x.com/akokoi1"
+      },
+      "source": {
+        "url": "https://x.com/akokoi1/status/2109242856305238410",
+        "publishedAt": "2026-10-11T11:20:59+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Three.js",
+        "evidenceQuote": "刚用Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/akokoi1/status/2109242856305238410"
+      },
+      "media": {
+        "durationSeconds": 31.7,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109242610426802176/vid/avc1/2024x1080/T8DQAQS6CFluUReE.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 342,
+        "bytes": 61757,
+        "path": "assets/covers/2109242856305238410.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/akokoi1/status/2109242856305238410",
+        "checkedAt": "2026-10-11T12:13:39.437651+00:00"
+      },
+      "metrics": {
+        "bookmarks": 5,
+        "likes": 7,
+        "views": 430,
+        "checkedAt": "2026-10-11T12:13:39.437651+00:00",
+        "sourceUrl": "https://x.com/akokoi1/status/2109242856305238410"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:39.437651+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109242610426802176/vid/avc1/2024x1080/T8DQAQS6CFluUReE.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/akokoi1/status/2109242856305238410",
+        "checkedAt": "2026-10-11T12:14:13.778204+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109241610190168550",
+      "stage": "discovery",
+      "title": "虚构街机广告的声画与 UI 合成",
+      "titleEn": "A Fictional Arcade Ad with Audio and UI Compositing",
+      "category": "产品宣传",
+      "summary": "作者制作虚构街机游戏广告，说明游戏画面由 Colab 中的 MiniMax H3 生成，BGM、音效与血条等素材由 Claude Opus 5.5 制作。原帖提到素材另在回复中，尚未核得完整素材或指令。",
+      "summaryEn": "A fictional arcade-game ad whose creator credits MiniMax H3 in Colab for game footage and Claude Opus 5.5 for music, sound effects and health-bar assets. The post points to assets in replies; complete assets and prompts have not been verified.",
+      "author": {
+        "name": "naisute",
+        "handle": "nAI_station",
+        "url": "https://x.com/nAI_station"
+      },
+      "source": {
+        "url": "https://x.com/nAI_station/status/2109241610190168550",
+        "publishedAt": "2026-10-11T11:16:02+00:00"
+      },
+      "model": {
+        "name": "MiniMax H3 / Claude Opus 5.5",
+        "evidenceQuote": "BGM、効果音、体力バーなどの素材は Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/nAI_station/status/2109241610190168550"
+      },
+      "media": {
+        "durationSeconds": 30.058,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109241584906829824/vid/avc1/960x720/uNXGbuoMSQG0iQDw.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 5,
+        "width": 640,
+        "height": 480,
+        "bytes": 41909,
+        "path": "assets/covers/2109241610190168550.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/nAI_station/status/2109241610190168550",
+        "checkedAt": "2026-10-11T12:14:07.561529+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 257,
+        "checkedAt": "2026-10-11T12:14:07.561529+00:00",
+        "sourceUrl": "https://x.com/nAI_station/status/2109241610190168550"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:07.561529+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109241584906829824/vid/avc1/960x720/uNXGbuoMSQG0iQDw.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/nAI_station/status/2109241610190168550",
+        "checkedAt": "2026-10-11T12:14:38.424422+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109240092015419613",
+      "stage": "discovery",
+      "title": "相同分镜的连续镜头对照",
+      "titleEn": "A Continuous-Shot Comparison from the Same Storyboard",
+      "category": "像素与角色",
+      "summary": "作者用相同角色表与分镜，对比 MiniMax H3 和 Seedance 2.5 制作动画角色进入实景城市的连续镜头。原帖讨论五秒镜头的连续性与质感差异，是一条比较实验；未公开完整生成指令。",
+      "summaryEn": "The creator compares MiniMax H3 and Seedance 2.5 using the same character sheet and storyboard for an animated character in a live-action city. The post discusses continuity and texture in a five-second shot. This is one comparison experiment without a complete generation prompt.",
+      "author": {
+        "name": "てみろ -temiro-｜AI歌い手の制作現場",
+        "handle": "temiro_ai",
+        "url": "https://x.com/temiro_ai"
+      },
+      "source": {
+        "url": "https://x.com/temiro_ai/status/2109240092015419613",
+        "publishedAt": "2026-10-11T11:10:00+00:00"
+      },
+      "model": {
+        "name": "MiniMax H3 / Seedance 2.5",
+        "evidenceQuote": "①MiniMax H3\n②Seedance 2.5",
+        "evidenceUrl": "https://x.com/temiro_ai/status/2109240092015419613"
+      },
+      "media": {
+        "durationSeconds": 16,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109102296449839104/vid/avc1/1280x720/pKq5OW2-NsmOoLVf.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 360,
+        "bytes": 48784,
+        "path": "assets/covers/2109240092015419613.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/temiro_ai/status/2109240092015419613",
+        "checkedAt": "2026-10-11T12:14:08.041887+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 22,
+        "checkedAt": "2026-10-11T12:14:08.041887+00:00",
+        "sourceUrl": "https://x.com/temiro_ai/status/2109240092015419613"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:08.041887+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109102296449839104/vid/avc1/1280x720/pKq5OW2-NsmOoLVf.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/temiro_ai/status/2109240092015419613",
+        "checkedAt": "2026-10-11T12:14:39.292716+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109235106896617521",
+      "stage": "discovery",
+      "title": "潜入任务：三维预演与成片对照",
+      "titleEn": "Infiltration Mission: 3D Previsualization and Final Film",
+      "category": "叙事短片",
+      "summary": "作者发布潜入任务短片的两个版本，公开从分镜、Claude 与 Three.js 三维预演到 Seedance 2.5 成片、声音和剪辑的工具流程。该流程说明不是完整提示词，画廊播放对应原帖第一条视频。",
+      "summaryEn": "The creator posts two versions of an infiltration short, outlining a workflow from storyboards and Claude/Three.js previsualization to Seedance 2.5 generation, audio and editing. This is a workflow description rather than a full prompt; the gallery plays the first video in the original post.",
+      "author": {
+        "name": "fine",
+        "handle": "Finedays_sunday",
+        "url": "https://x.com/Finedays_sunday"
+      },
+      "source": {
+        "url": "https://x.com/Finedays_sunday/status/2109235106896617521",
+        "publishedAt": "2026-10-11T10:50:11+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Three.js / Seedance 2.5 / Suno / Seed Audio",
+        "evidenceQuote": "Agent:Claude Opus 5.5\nImage:Grok Bot/GPT Image 2.5\nVideo:Seedance 2.5",
+        "evidenceUrl": "https://x.com/Finedays_sunday/status/2109235106896617521"
+      },
+      "media": {
+        "durationSeconds": 65.291,
+        "videoCount": 2
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109233470702850048/vid/avc1/2516x1080/1NrXkxH1Kj-Hqq7u.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 5,
+        "width": 640,
+        "height": 274,
+        "bytes": 23514,
+        "path": "assets/covers/2109235106896617521.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Finedays_sunday/status/2109235106896617521",
+        "checkedAt": "2026-10-11T12:14:09.193756+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 98,
+        "checkedAt": "2026-10-11T12:14:09.193756+00:00",
+        "sourceUrl": "https://x.com/Finedays_sunday/status/2109235106896617521"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:09.193756+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109233470702850048/vid/avc1/2516x1080/1NrXkxH1Kj-Hqq7u.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Finedays_sunday/status/2109235106896617521",
+        "checkedAt": "2026-10-11T12:14:40.224508+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109232747042705485",
+      "stage": "discovery",
+      "title": "如梦令：归舟误入莲花深处",
+      "titleEn": "Ru Meng Ling: A Boat Among Lotus Flowers",
+      "category": "音乐与歌词",
+      "summary": "作者发布约二十七秒古诗 MV《如梦令》，以暮春溪亭和归舟进入莲花深处为主题。原帖说明 Codex 负责分镜与连续性质检，Muse 负责生成、剪辑和混音；没有完整制作指令。",
+      "summaryEn": "A roughly twenty-seven-second poetry music video inspired by Ru Meng Ling, moving from a spring pavilion to a boat among lotus flowers. The creator credits Codex for storyboards and continuity checks, and Muse for generation, editing and mixing. No complete production prompt is shared.",
+      "author": {
+        "name": "Hotart",
+        "handle": "hotartAI",
+        "url": "https://x.com/hotartAI"
+      },
+      "source": {
+        "url": "https://x.com/hotartAI/status/2109232747042705485",
+        "publishedAt": "2026-10-11T10:40:49+00:00"
+      },
+      "model": {
+        "name": "Codex / Muse",
+        "evidenceQuote": "Codex 负责分镜与连续性质检，Muse 负责生成、剪辑与混音。",
+        "evidenceUrl": "https://x.com/hotartAI/status/2109232747042705485"
+      },
+      "media": {
+        "durationSeconds": 27.075,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109232595661934592/vid/avc1/1920x1080/vNG_f5rSilQUlpMX.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 360,
+        "bytes": 37987,
+        "path": "assets/covers/2109232747042705485.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/hotartAI/status/2109232747042705485",
+        "checkedAt": "2026-10-11T12:13:59.379323+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 45,
+        "checkedAt": "2026-10-11T12:13:59.379323+00:00",
+        "sourceUrl": "https://x.com/hotartAI/status/2109232747042705485"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:59.379323+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109232595661934592/vid/avc1/1920x1080/vNG_f5rSilQUlpMX.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/hotartAI/status/2109232747042705485",
+        "checkedAt": "2026-10-11T12:14:31.534448+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109225733382086866",
+      "stage": "discovery",
+      "title": "LRU 缓存与标签机制说明动画",
+      "titleEn": "An Animation Explaining LRU Caching and Tagging",
+      "category": "知识讲解",
+      "summary": "作者使用 Claude Skill Anatomy 制作 LRU 缓存与标签机制的说明动画，并在原帖引用工具原作者。相关链接提供通用工具及示例，没有公开这支视频的完整指令或独立工程。",
+      "summaryEn": "The creator uses the Anatomy Claude skill to explain LRU caching and tagging, quoting the tool creator in the post. The related repository provides the general tool and examples rather than a complete prompt or standalone project for this video.",
+      "author": {
+        "name": "Tushar | Vaani AI Research",
+        "handle": "dstartupkid",
+        "url": "https://x.com/dstartupkid"
+      },
+      "source": {
+        "url": "https://x.com/dstartupkid/status/2109225733382086866",
+        "publishedAt": "2026-10-11T10:12:57+00:00"
+      },
+      "model": {
+        "name": "Claude / Anatomy",
+        "evidenceQuote": "Used Anatomy to create the working on the LRU Cache and tagging mechanism.",
+        "evidenceUrl": "https://x.com/dstartupkid/status/2109225733382086866"
+      },
+      "media": {
+        "durationSeconds": 27.953,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109225676469637120/vid/avc1/1038x1028/bU2Q2BnGJpo-kJKJ.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4,
+        "width": 640,
+        "height": 634,
+        "bytes": 32847,
+        "path": "assets/covers/2109225733382086866.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/dstartupkid/status/2109225733382086866",
+        "checkedAt": "2026-10-11T12:13:41.784803+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 171,
+        "checkedAt": "2026-10-11T12:13:41.784803+00:00",
+        "sourceUrl": "https://x.com/dstartupkid/status/2109225733382086866"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:41.784803+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109225676469637120/vid/avc1/1038x1028/bU2Q2BnGJpo-kJKJ.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/dstartupkid/status/2109225733382086866",
+        "checkedAt": "2026-10-11T12:14:18.900870+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/wheresryan22/anatomy",
+          "label": "Anatomy 工具与示例",
+          "labelEn": "Anatomy tool and examples",
+          "evidenceUrl": "https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md",
+          "checkedAt": "2026-10-11T15:08:58.314289+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE",
+          "note": "原作者的通用 Skill 与示例；本案例视频的独立工程尚未单独核对。根 MIT 许可不自动覆盖另行使用的素材。",
+          "noteEn": "The original creator’s general skill and examples; a standalone production project for this case video has not been separately verified. The root MIT license does not automatically cover separately used assets."
+        }
+      ]
+    },
+    {
+      "id": "2109225353243988478",
+      "stage": "discovery",
+      "title": "SF Symbols 图标工具宣传片",
+      "titleEn": "SF Symbols Picker Product Animation",
+      "category": "产品宣传",
+      "summary": "作者结合图标选择工具的源码，用 Claude Opus 5.5 制作约二十五秒宣传动画。同一作者在主帖回复中公开 JS 与 Web Audio 制作指令及工具网页；这里只链接指令原文。",
+      "summaryEn": "The creator uses Claude Opus 5.5 with the source of an icon picker to make a roughly twenty-five-second product animation. Direct replies by the same author provide JS and Web Audio production instructions and the tool website. The instructions are linked without reproducing their full text.",
+      "author": {
+        "name": "terry",
+        "handle": "21Terrence1",
+        "url": "https://x.com/21Terrence1"
+      },
+      "source": {
+        "url": "https://x.com/21Terrence1/status/2109225353243988478",
+        "publishedAt": "2026-10-11T10:11:26+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / JavaScript / Web Audio",
+        "evidenceQuote": "用claude opus 5.5结合源码制作的动画视频",
+        "evidenceUrl": "https://x.com/21Terrence1/status/2109225353243988478"
+      },
+      "media": {
+        "durationSeconds": 25,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109225226278191105/vid/avc1/1920x1080/wxdCl3vi1Fbox69y.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6,
+        "width": 640,
+        "height": 360,
+        "bytes": 31837,
+        "path": "assets/covers/2109225353243988478.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/21Terrence1/status/2109225490888458437",
+        "checkedAt": "2026-10-11T12:22:21.721374+00:00",
+        "display": "source_link",
+        "language": "zh",
+        "noteZh": "作者在主帖回复中公开制作指令；本站提供原文入口。",
+        "noteEn": "Production instructions are published in the creator’s direct reply; this site links to the original."
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 2,
+        "views": 58,
+        "checkedAt": "2026-10-11T12:13:59.927165+00:00",
+        "sourceUrl": "https://x.com/21Terrence1/status/2109225353243988478"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:59.927165+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109225226278191105/vid/avc1/1920x1080/wxdCl3vi1Fbox69y.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/21Terrence1/status/2109225353243988478",
+        "checkedAt": "2026-10-11T12:14:31.751326+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://sfsymbols.terryhu.workers.dev/",
+          "label": "SF Symbols 图标工具",
+          "labelEn": "SF Symbols picker",
+          "evidenceUrl": "https://x.com/21Terrence1/status/2109247274396389561",
+          "checkedAt": "2026-10-11T15:08:59.248990+00:00",
+          "note": "同一作者在主帖直接回复中提供的产品网页，不是这支宣传片的完整制作工程。",
+          "noteEn": "The product page is linked in a direct reply by the same author; it is not the complete production project for this promo."
+        }
+      ]
+    },
+    {
+      "id": "2109219890133360941",
+      "stage": "discovery",
+      "title": "小骑士 Duke 与 Pawline",
+      "titleEn": "Sir Duke and Dame Pawline",
+      "category": "叙事短片",
+      "summary": "作者将自己的宠物 Duke 设定为小骑士，与流行的小猫骑士主题结合制作短片《Sir Duke & Dame Pawline: The Dragon Slayers》，说明使用 Seedance 2.5。原帖未提供完整指令。",
+      "summaryEn": "The creator introduces their pet Duke as a tiny knight alongside the popular kitty-knight theme in Sir Duke & Dame Pawline: The Dragon Slayers, crediting Seedance 2.5. No complete prompt is shared.",
+      "author": {
+        "name": "PIXEL",
+        "handle": "itsPixieVerse",
+        "url": "https://x.com/itsPixieVerse"
+      },
+      "source": {
+        "url": "https://x.com/itsPixieVerse/status/2109219890133360941",
+        "publishedAt": "2026-10-11T09:49:43+00:00"
+      },
+      "model": {
+        "name": "Seedance 2.5",
+        "evidenceQuote": "Made with Seedance 2.5",
+        "evidenceUrl": "https://x.com/itsPixieVerse/status/2109219890133360941"
+      },
+      "media": {
+        "durationSeconds": 30.069,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109211668488065026/vid/avc1/2560x1440/tEYZCLISyNZHqChn.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 360,
+        "bytes": 24805,
+        "path": "assets/covers/2109219890133360941.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/itsPixieVerse/status/2109219890133360941",
+        "checkedAt": "2026-10-11T12:14:11.358165+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 8,
+        "views": 337,
+        "checkedAt": "2026-10-11T12:14:11.358165+00:00",
+        "sourceUrl": "https://x.com/itsPixieVerse/status/2109219890133360941"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:11.358165+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109211668488065026/vid/avc1/2560x1440/tEYZCLISyNZHqChn.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/itsPixieVerse/status/2109219890133360941",
+        "checkedAt": "2026-10-11T12:14:43.202181+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109204810818064634",
+      "stage": "discovery",
+      "title": "Fumadocs 文档产品动效",
+      "titleEn": "Fumadocs Product Animation",
+      "category": "产品宣传",
+      "summary": "作者为 Fumadocs 发布约一分钟的产品展示，并说明动画由 Opus 制作。原帖未说明模型版本，没有公开完整制作指令或该视频工程。",
+      "summaryEn": "The creator posts a roughly one-minute Fumadocs showcase and credits Opus for the animation. The model version, complete production prompt and video project are not provided.",
+      "author": {
+        "name": "Fuma Nama",
+        "handle": "fuma_nama",
+        "url": "https://x.com/fuma_nama"
+      },
+      "source": {
+        "url": "https://x.com/fuma_nama/status/2109204810818064634",
+        "publishedAt": "2026-10-11T08:49:48+00:00"
+      },
+      "model": {
+        "name": "Opus",
+        "evidenceQuote": "animation by Opus",
+        "evidenceUrl": "https://x.com/fuma_nama/status/2109204810818064634"
+      },
+      "media": {
+        "durationSeconds": 63.296,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109203059738083328/vid/avc1/1920x1080/U4hYJozLWHfvq8fH.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4,
+        "width": 640,
+        "height": 360,
+        "bytes": 11183,
+        "path": "assets/covers/2109204810818064634.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/fuma_nama/status/2109204810818064634",
+        "checkedAt": "2026-10-11T12:13:44.928017+00:00"
+      },
+      "metrics": {
+        "bookmarks": 8,
+        "likes": 53,
+        "views": 1301,
+        "checkedAt": "2026-10-11T12:13:44.928017+00:00",
+        "sourceUrl": "https://x.com/fuma_nama/status/2109204810818064634"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:44.928017+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109203059738083328/vid/avc1/1920x1080/U4hYJozLWHfvq8fH.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/fuma_nama/status/2109204810818064634",
+        "checkedAt": "2026-10-11T12:14:20.569094+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109173369140810135",
+      "stage": "discovery",
+      "title": "Computer Mark I 模拟计算机演示",
+      "titleEn": "A Computer Mark I Analog Computer Simulation",
+      "category": "3D 与交互",
+      "summary": "作者展示二战时期 Computer Mark I 火控模拟计算机，说明使用 Opus 5.5，以一份约三百页的 1945 年海军手册为输入制作。原帖没有公开完整指令；计算和历史准确性未独立核验。",
+      "summaryEn": "A demonstration of the WWII-era Computer Mark I analog fire-control computer, credited to Opus 5.5 with an approximately three-hundred-page 1945 Navy manual as input. The full prompt is not shared; computational and historical accuracy have not been independently verified.",
+      "author": {
+        "name": "C",
+        "handle": "markovs_razor",
+        "url": "https://x.com/markovs_razor"
+      },
+      "source": {
+        "url": "https://x.com/markovs_razor/status/2109173369140810135",
+        "publishedAt": "2026-10-11T06:44:52+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "built in one shot with Opus 5.5",
+        "evidenceUrl": "https://x.com/markovs_razor/status/2109173369140810135"
+      },
+      "media": {
+        "durationSeconds": 60.45,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109172396188221440/vid/avc1/2672x1574/VpjdXmMdZbtv58lB.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 378,
+        "bytes": 39350,
+        "path": "assets/covers/2109173369140810135.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/markovs_razor/status/2109173369140810135",
+        "checkedAt": "2026-10-11T12:13:48.852727+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 6,
+        "views": 257,
+        "checkedAt": "2026-10-11T12:13:48.852727+00:00",
+        "sourceUrl": "https://x.com/markovs_razor/status/2109173369140810135"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:48.852727+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109172396188221440/vid/avc1/2672x1574/VpjdXmMdZbtv58lB.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/markovs_razor/status/2109173369140810135",
+        "checkedAt": "2026-10-11T12:14:23.638509+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109171480952963172",
+      "stage": "discovery",
+      "title": "望海潮·东南形胜古诗短片",
+      "titleEn": "Wang Hai Chao: A Poetry Short",
+      "category": "叙事短片",
+      "summary": "作者发布约四十五秒古诗短片《望海潮·东南形胜》，说明以 MiniMax 朗诵语音为输入，由 Muse 组织分镜、生图、视频、逐句剪辑及字幕混音。MiniMax 在本例中用于朗诵，原帖未说明实际视频生成模型。",
+      "summaryEn": "A roughly forty-five-second poetry short based on Wang Hai Chao. The creator uses MiniMax narration as input and credits Muse for storyboards, images, video, line-by-line editing, subtitles and mixing. MiniMax supplies narration here; the actual video-generation model is unspecified.",
+      "author": {
+        "name": "Zyon",
+        "handle": "zyon1527",
+        "url": "https://x.com/zyon1527"
+      },
+      "source": {
+        "url": "https://x.com/zyon1527/status/2109171480952963172",
+        "publishedAt": "2026-10-11T06:37:22+00:00"
+      },
+      "model": {
+        "name": "Muse / MiniMax narration",
+        "evidenceQuote": "只丢了一段MiniMax 的朗诵语音给它",
+        "evidenceUrl": "https://x.com/zyon1527/status/2109171480952963172"
+      },
+      "media": {
+        "durationSeconds": 44.708,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109171408915808256/vid/avc1/1280x720/Re9-mk_qAfY9beQw.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 360,
+        "bytes": 30607,
+        "path": "assets/covers/2109171480952963172.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/zyon1527/status/2109171480952963172",
+        "checkedAt": "2026-10-11T12:14:01.586235+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1,
+        "likes": 2,
+        "views": 216,
+        "checkedAt": "2026-10-11T12:14:01.586235+00:00",
+        "sourceUrl": "https://x.com/zyon1527/status/2109171480952963172"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:01.586235+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109171408915808256/vid/avc1/1280x720/Re9-mk_qAfY9beQw.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/zyon1527/status/2109171480952963172",
+        "checkedAt": "2026-10-11T12:14:33.719612+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109170164532928698",
+      "stage": "discovery",
+      "title": "实时流体模拟飞行游戏",
+      "titleEn": "A Flight Game Powered by Real-Time Fluid Simulation",
+      "category": "3D 与交互",
+      "summary": "作者说明用 Claude 构建浏览器飞行游戏，采用 Lattice Boltzmann 流体模拟并编译为 WebAssembly，同时提供 Boltzmann Flyer 演示。模型版本未说明；模拟准确性与完整游玩未独立验证。",
+      "summaryEn": "The creator describes building a browser flight game with Claude, using Lattice Boltzmann fluid simulation compiled to WebAssembly, and links Boltzmann Flyer. The model version is unspecified; simulation accuracy and full gameplay have not been independently verified.",
+      "author": {
+        "name": "Filip",
+        "handle": "filiptehking",
+        "url": "https://x.com/filiptehking"
+      },
+      "source": {
+        "url": "https://x.com/filiptehking/status/2109170164532928698",
+        "publishedAt": "2026-10-11T06:32:08+00:00"
+      },
+      "model": {
+        "name": "Claude / WebAssembly",
+        "evidenceQuote": "so I asked Claude",
+        "evidenceUrl": "https://x.com/filiptehking/status/2109170164532928698"
+      },
+      "media": {
+        "durationSeconds": 16.415,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109170129103654912/vid/avc1/720x1212/jiVrg2FjiJuZhaHw.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 1078,
+        "bytes": 50970,
+        "path": "assets/covers/2109170164532928698.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/filiptehking/status/2109170164532928698",
+        "checkedAt": "2026-10-11T12:20:11.683538+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 25,
+        "checkedAt": "2026-10-11T12:20:11.683538+00:00",
+        "sourceUrl": "https://x.com/filiptehking/status/2109170164532928698"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:20:11.683538+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109170129103654912/vid/avc1/720x1212/jiVrg2FjiJuZhaHw.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/filiptehking/status/2109170164532928698",
+        "checkedAt": "2026-10-11T12:20:13.302403+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://dynasus.com/boltzmann/",
+          "label": "Boltzmann Flyer 飞行游戏",
+          "labelEn": "Boltzmann Flyer game",
+          "evidenceUrl": "https://x.com/filiptehking/status/2109170164532928698",
+          "checkedAt": "2026-10-11T15:09:00.386644+00:00",
+          "note": "作者原帖提供的网页可读取；本次未确认游戏启动交互，未完成完整试玩。",
+          "noteEn": "The creator-linked page is readable; starting gameplay was not confirmed and full gameplay was not tested."
+        }
+      ]
+    },
+    {
+      "id": "2109167882261373356",
+      "stage": "discovery",
+      "title": "吊桥施工过程示意动画",
+      "titleEn": "A Suspension Bridge Construction Explainer",
+      "category": "知识讲解",
+      "summary": "作者用 Codex（GPT-6.1 Sol）与 Blender，通过 Python 创建小型吊桥并呈现约二十四秒施工过程，配乐使用 Lyria。原帖明确说明这是简化的示意模型，并非真实桥梁。",
+      "summaryEn": "The creator uses Codex (GPT-6.1 Sol), Blender and Python to model a small suspension bridge and show a roughly twenty-four-second construction sequence, with music from Lyria. The post explicitly identifies it as a simplified schematic rather than a real bridge.",
+      "author": {
+        "name": "Visual Physics / 視覚化の実験場",
+        "handle": "VisPhysLab",
+        "url": "https://x.com/VisPhysLab"
+      },
+      "source": {
+        "url": "https://x.com/VisPhysLab/status/2109167882261373356",
+        "publishedAt": "2026-10-11T06:23:04+00:00"
+      },
+      "model": {
+        "name": "Codex GPT-6.1 Sol / Blender / Lyria",
+        "evidenceQuote": "Codex（GPT6.1 Sol）＋Blender",
+        "evidenceUrl": "https://x.com/VisPhysLab/status/2109167882261373356"
+      },
+      "media": {
+        "durationSeconds": 24,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109167701797347328/vid/avc1/720x1280/lWlbi_2Y-OPKMYCM.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 1138,
+        "bytes": 30978,
+        "path": "assets/covers/2109167882261373356.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/VisPhysLab/status/2109167882261373356",
+        "checkedAt": "2026-10-11T12:13:54.404832+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 38,
+        "checkedAt": "2026-10-11T12:13:54.404832+00:00",
+        "sourceUrl": "https://x.com/VisPhysLab/status/2109167882261373356"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:54.404832+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109167701797347328/vid/avc1/720x1280/lWlbi_2Y-OPKMYCM.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/VisPhysLab/status/2109167882261373356",
+        "checkedAt": "2026-10-11T12:14:24.129592+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109107708192284923",
+      "stage": "discovery",
+      "title": "DYSTOPIA：雨夜浏览器城市",
+      "titleEn": "DYSTOPIA: A Rain-Soaked Browser City",
+      "category": "3D 与交互",
+      "summary": "作者发布仍在开发中的 DYSTOPIA，提供驾驶、飞行与无人机探索的浏览器城市，并说明使用 Three.js、WebGPU、Rapier 和 Claude Opus 5.5。作者提供公开演示，运行需要 WebGPU；未完成完整试玩。",
+      "summaryEn": "The creator publishes the work-in-progress DYSTOPIA, a browser city with driving, flying and drone exploration, crediting Three.js, WebGPU, Rapier and Claude Opus 5.5. A public demo is provided and requires WebGPU; full gameplay has not been tested.",
+      "author": {
+        "name": "cryptomanavan ☀️",
+        "handle": "cryptomanavan",
+        "url": "https://x.com/cryptomanavan"
+      },
+      "source": {
+        "url": "https://x.com/cryptomanavan/status/2109107708192284923",
+        "publishedAt": "2026-10-11T02:23:57+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Three.js / WebGPU / Rapier",
+        "evidenceQuote": "#Claude (#Opus 5.5)",
+        "evidenceUrl": "https://x.com/cryptomanavan/status/2109107708192284923"
+      },
+      "media": {
+        "durationSeconds": 83.58,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109106630130388992/vid/avc1/3148x1440/gvungg68sUpZsDeS.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 5,
+        "width": 640,
+        "height": 292,
+        "bytes": 39447,
+        "path": "assets/covers/2109107708192284923.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/cryptomanavan/status/2109107708192284923",
+        "checkedAt": "2026-10-11T12:13:55.075043+00:00"
+      },
+      "metrics": {
+        "bookmarks": 14,
+        "likes": 29,
+        "views": 1234,
+        "checkedAt": "2026-10-11T12:13:55.075043+00:00",
+        "sourceUrl": "https://x.com/cryptomanavan/status/2109107708192284923"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:55.075043+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109106630130388992/vid/avc1/3148x1440/gvungg68sUpZsDeS.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/cryptomanavan/status/2109107708192284923",
+        "checkedAt": "2026-10-11T12:14:24.339946+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://dystopia-noir.netlify.app/",
+          "label": "DYSTOPIA 浏览器城市",
+          "labelEn": "DYSTOPIA browser city",
+          "evidenceUrl": "https://x.com/cryptomanavan/status/2109107708192284923",
+          "checkedAt": "2026-10-11T15:09:02.373208+00:00",
+          "note": "作者提供的公开网页；需要 WebGPU，作品仍在开发中，未完成完整试玩。",
+          "noteEn": "A public page linked by the creator. It requires WebGPU, remains a work in progress and has not been fully played."
+        }
+      ]
+    },
+    {
+      "id": "2109094132253880629",
+      "stage": "discovery",
+      "title": "机器人出租车的感知与预测",
+      "titleEn": "Robotaxi Perception and Prediction",
+      "category": "3D 与交互",
+      "summary": "作者展示由 Opus 5.5 制作的交互式三维模拟，用激光雷达、相机和雷达视角呈现机器人出租车如何感知周围车辆、行人与动物，并展示运动预测。原帖未提供工程或试玩地址。",
+      "summaryEn": "An interactive 3D simulation credited to Opus 5.5, showing robotaxi perception through lidar, cameras and radar, followed by predictions of nearby vehicles, pedestrians and animals. No project or playable URL is provided in the post.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2109094132253880629",
+        "publishedAt": "2026-10-11T01:30:00+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Built with Opus 5.5",
+        "evidenceUrl": "https://x.com/techartist_/status/2109094132253880629"
+      },
+      "media": {
+        "durationSeconds": 37.44,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109020788468940800/vid/avc1/1920x1080/FS-g_8F77RglOCrv.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 360,
+        "bytes": 24294,
+        "path": "assets/covers/2109094132253880629.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2109094132253880629",
+        "checkedAt": "2026-10-11T12:13:55.667886+00:00"
+      },
+      "metrics": {
+        "bookmarks": 34,
+        "likes": 113,
+        "views": 4606,
+        "checkedAt": "2026-10-11T12:13:55.667886+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2109094132253880629"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:55.667886+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109020788468940800/vid/avc1/1920x1080/FS-g_8F77RglOCrv.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2109094132253880629",
+        "checkedAt": "2026-10-11T12:14:26.664805+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109061641027678483",
+      "stage": "discovery",
+      "title": "Falcon 9 着陆交互模拟",
+      "titleEn": "An Interactive Falcon 9 Landing Simulation",
+      "category": "3D 与交互",
+      "summary": "作者用 Claude Opus 5.5 制作 Falcon 9 助推器着陆模拟，并提供可调整视角、风速与点火时机的网页。作品页明确标注模拟而非飞行实测数据；物理准确性未独立核验。",
+      "summaryEn": "The creator uses Claude Opus 5.5 for a Falcon 9 booster landing simulation and links a page with camera, wind and ignition-time controls. The page explicitly distinguishes the simulation from flight measurements; its physical accuracy has not been independently verified.",
+      "author": {
+        "name": "Konstantin Saifoulline",
+        "handle": "konstantinsaifo",
+        "url": "https://x.com/konstantinsaifo"
+      },
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2109061641027678483",
+        "publishedAt": "2026-10-10T23:20:54+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I asked Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/konstantinsaifo/status/2109061641027678483"
+      },
+      "media": {
+        "durationSeconds": 50,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109061430997622784/vid/avc1/1920x1080/54zjO_1ICFul0znT.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6,
+        "width": 640,
+        "height": 360,
+        "bytes": 22288,
+        "path": "assets/covers/2109061641027678483.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109061641027678483",
+        "checkedAt": "2026-10-11T12:13:56.533545+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 8,
+        "likes": 10,
+        "views": 1641,
+        "checkedAt": "2026-10-11T12:13:56.533545+00:00",
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109061641027678483"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:13:56.533545+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109061430997622784/vid/avc1/1920x1080/54zjO_1ICFul0znT.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/konstantinsaifo/status/2109061641027678483",
+        "checkedAt": "2026-10-11T12:14:26.954803+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://www.airsup.ai/lab/falcon-landing",
+          "label": "Falcon 9 着陆模拟",
+          "labelEn": "Falcon 9 landing simulation",
+          "evidenceUrl": "https://x.com/konstantinsaifo/status/2109061641027678483",
+          "checkedAt": "2026-10-11T15:08:58.602223+00:00",
+          "note": "作者链接跳转至此 HTTPS 作品页。页面明确标注模拟而非飞行实测数据，未独立核验物理准确性。",
+          "noteEn": "The creator’s link redirects to this HTTPS work page. It identifies the work as a simulation rather than flight measurements; physical accuracy has not been independently verified."
+        }
+      ]
+    },
+    {
+      "id": "2108954095407251849",
+      "stage": "discovery",
+      "title": "Noise：自然的语法",
+      "titleEn": "Noise: The Grammar of Nature",
+      "category": "知识讲解",
+      "summary": "作者用 Codex 与 fframes 制作五分钟短片《Noise：自然的语法》，从随机与噪声讲到流场、坐标扭曲和循环动画，并说明使用 Rust、SVG 与 GPU shaders。原帖未提供完整制作指令。",
+      "summaryEn": "A five-minute film made with Codex and fframes, introducing randomness, noise, flow fields, coordinate warping and looping animation. The creator also credits Rust, SVG and GPU shaders. No complete production prompt is shared in the post.",
+      "author": {
+        "name": "ChildhoodAndy",
+        "handle": "ChildhoodAndy",
+        "url": "https://x.com/ChildhoodAndy"
+      },
+      "source": {
+        "url": "https://x.com/ChildhoodAndy/status/2108954095407251849",
+        "publishedAt": "2026-10-10T16:13:33+00:00"
+      },
+      "model": {
+        "name": "Codex / fframes / Rust / SVG / GPU shaders",
+        "evidenceQuote": "用 Codex + fframes",
+        "evidenceUrl": "https://x.com/ChildhoodAndy/status/2108954095407251849"
+      },
+      "media": {
+        "durationSeconds": 300,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108951303632322560/vid/avc1/1920x1080/ooR6kvzbIr6iVoF5.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 26,
+        "width": 640,
+        "height": 360,
+        "bytes": 51972,
+        "path": "assets/covers/2108954095407251849.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ChildhoodAndy/status/2108954095407251849",
+        "checkedAt": "2026-10-11T12:14:03.988827+00:00"
+      },
+      "metrics": {
+        "bookmarks": 3,
+        "likes": 4,
+        "views": 500,
+        "checkedAt": "2026-10-11T12:14:03.988827+00:00",
+        "sourceUrl": "https://x.com/ChildhoodAndy/status/2108954095407251849"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:03.988827+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108951303632322560/vid/avc1/1920x1080/ooR6kvzbIr6iVoF5.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ChildhoodAndy/status/2108954095407251849",
+        "checkedAt": "2026-10-11T12:14:35.928051+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108949764264128808",
+      "stage": "discovery",
+      "title": "我们都是恒星的孩子",
+      "titleEn": "We Are All Children of Stars",
+      "category": "知识讲解",
+      "summary": "作者发布科普动画《我们都是恒星的孩子》，说明使用 Opus 5.5，并提到模型加入了多种视觉效果。原帖没有完整指令；动画中的科学表述未独立核对。",
+      "summaryEn": "The creator publishes the science animation We Are All Children of Stars, crediting Opus 5.5 and noting its visual effects. The full prompt is not provided, and the scientific statements have not been independently checked.",
+      "author": {
+        "name": "陆三金",
+        "handle": "threeaus",
+        "url": "https://x.com/threeaus"
+      },
+      "source": {
+        "url": "https://x.com/threeaus/status/2108949764264128808",
+        "publishedAt": "2026-10-10T15:56:20+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "我的 Opus 5.5",
+        "evidenceUrl": "https://x.com/threeaus/status/2108949764264128808"
+      },
+      "media": {
+        "durationSeconds": 168.567,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108948476243611648/vid/avc1/1080x1920/YJmD3r-jZFu3Q1rz.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8,
+        "width": 640,
+        "height": 1138,
+        "bytes": 27739,
+        "path": "assets/covers/2108949764264128808.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/threeaus/status/2108949764264128808",
+        "checkedAt": "2026-10-11T12:14:04.589078+00:00"
+      },
+      "metrics": {
+        "bookmarks": 14,
+        "likes": 18,
+        "views": 3079,
+        "checkedAt": "2026-10-11T12:14:04.589078+00:00",
+        "sourceUrl": "https://x.com/threeaus/status/2108949764264128808"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:14:04.589078+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108948476243611648/vid/avc1/1080x1920/YJmD3r-jZFu3Q1rz.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/threeaus/status/2108949764264128808",
+        "checkedAt": "2026-10-11T12:14:36.126968+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108948624004526516",
+      "stage": "discovery",
+      "title": "Anatomy：会动的机器说明图",
+      "titleEn": "Anatomy: Working Machine Illustrations",
+      "category": "3D 与交互",
+      "summary": "Anatomy 原作者展示一个 Claude Skill，可把机器描述转为能旋转、观察的等轴说明图，配合 WebGL 火焰、水与运动部件。链接指向通用工具及示例，根许可为 MIT，不是其他案例视频的工程源码。",
+      "summaryEn": "The Anatomy creator introduces a Claude skill that turns machine descriptions into inspectable isometric illustrations with WebGL fire, water and moving parts. The linked MIT-licensed repository contains the general tool and examples, not the project source of other case videos.",
+      "author": {
+        "name": "R",
+        "handle": "wheresryan22",
+        "url": "https://x.com/wheresryan22"
+      },
+      "source": {
+        "url": "https://x.com/wheresryan22/status/2108948624004526516",
+        "publishedAt": "2026-10-10T15:51:48+00:00"
+      },
+      "model": {
+        "name": "Claude / SVG / WebGL",
+        "evidenceQuote": "Claude brings it to life",
+        "evidenceUrl": "https://x.com/wheresryan22/status/2108948624004526516"
+      },
+      "media": {
+        "durationSeconds": 38.916,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108946813889675264/vid/avc1/1920x1080/etLTvFpDLdf7-z6D.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 22,
+        "width": 640,
+        "height": 360,
+        "bytes": 19205,
+        "path": "assets/covers/2108948624004526516.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/wheresryan22/status/2108948624004526516",
+        "checkedAt": "2026-10-11T12:23:47.348525+00:00"
+      },
+      "metrics": {
+        "bookmarks": 6423,
+        "likes": 4408,
+        "views": 272266,
+        "checkedAt": "2026-10-11T12:23:47.348525+00:00",
+        "sourceUrl": "https://x.com/wheresryan22/status/2108948624004526516"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-11T12:23:47.348525+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108946813889675264/vid/avc1/1920x1080/etLTvFpDLdf7-z6D.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/wheresryan22/status/2108948624004526516",
+        "checkedAt": "2026-10-11T12:23:49.606208+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/wheresryan22/anatomy",
+          "label": "Anatomy 工具与示例",
+          "labelEn": "Anatomy tool and examples",
+          "evidenceUrl": "https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md",
+          "checkedAt": "2026-10-11T15:08:58.314289+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE",
+          "note": "原作者的通用 Skill 与示例；本案例视频的独立工程尚未单独核对。根 MIT 许可不自动覆盖另行使用的素材。",
+          "noteEn": "The original creator’s general skill and examples; a standalone production project for this case video has not been separately verified. The root MIT license does not automatically cover separately used assets."
+        }
+      ]
+    },
+    {
       "id": "2108935203507069157",
       "stage": "discovery",
       "title": "口袋里的破洞",

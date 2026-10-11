@@ -2,7 +2,7 @@
 
 # 角色动画
 
-85 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+86 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -428,11 +428,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108927579503681764"><img src="../assets/covers/2108927579503681764.jpg" width="400" alt="FarmGirl 在 Godot 组装椅子"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109240092015419613"><img src="../assets/covers/2109240092015419613.jpg" width="400" alt="相同分镜的连续镜头对照"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>FarmGirl 在 Godot 组装椅子</strong><br><sub><a href="https://x.com/alexerichter">@alexerichter</a> · 角色动画</sub><br><sub>4:38 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108927579503681764">▶ 播放</a> · <a href="https://x.com/alexerichter/status/2108927579503681764">原帖</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>相同分镜的连续镜头对照</strong><br><sub><a href="https://x.com/temiro_ai">@temiro_ai</a> · 角色动画</sub><br><sub>0:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109240092015419613">▶ 播放</a> · <a href="https://x.com/temiro_ai/status/2109240092015419613">原帖</a></td>
 </tr>
 </tbody>
 </table>

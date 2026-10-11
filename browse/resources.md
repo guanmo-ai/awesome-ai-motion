@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-111 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+117 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -13,6 +13,12 @@
 - **相关工具**：[宣传片所介绍的 DeckUse 产品源码](https://github.com/deckflow/deckuse) · [AGPL-3.0](https://github.com/deckflow/deckuse/blob/4467c359fefbfc08dca8588a70ca31872f21f720/LICENSE)
   被介绍的产品仓库，未确认包含该宣传片工程。采用 AGPL-3.0；修改、分发或部署网络服务须遵守其源码与许可义务，不能改标为本站 MIT。
   [链接出处](https://x.com/feiflow/status/2104039666093572362) · 链接核对 2026-09-29 06:17 UTC
+
+## [SF Symbols 图标工具宣传片](../cases/2109225353243988478.md) · @21Terrence1
+
+- **公开网页**：[SF Symbols 图标工具](https://sfsymbols.terryhu.workers.dev/)
+  同一作者在主帖直接回复中提供的产品网页，不是这支宣传片的完整制作工程。
+  [链接出处](https://x.com/21Terrence1/status/2109247274396389561) · 链接核对 2026-10-11 15:08 UTC
 
 ## [文章开场片：模板复用与文字检查](../cases/2105033204319277506.md) · @FalconG\_J
 
@@ -201,6 +207,12 @@
   同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
   [链接出处](https://x.com/design_oyaji/status/2107615938833207569) · 链接核对 2026-10-09 04:02 UTC
 
+## [LRU 缓存与标签机制说明动画](../cases/2109225733382086866.md) · @dstartupkid
+
+- **相关工具**：[Anatomy 工具与示例](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
+  原作者的通用 Skill 与示例；本案例视频的独立工程尚未单独核对。根 MIT 许可不自动覆盖另行使用的素材。
+  [链接出处](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · 链接核对 2026-10-11 15:08 UTC
+
 ## [数据库内部结构的三维交互导览](../cases/2107878084032753751.md) · @EKeric13
 
 - **公开网页**：[数据库结构交互导览](https://visualize-dbs.ekeric13.chatgpt.site/)
@@ -303,6 +315,12 @@
   同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
   [链接出处](https://x.com/the_vibepreneur/status/2107496993111355645) · 链接核对 2026-10-09 04:02 UTC
 
+## [Anatomy：会动的机器说明图](../cases/2108948624004526516.md) · @wheresryan22
+
+- **相关工具**：[Anatomy 工具与示例](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
+  原作者的通用 Skill 与示例；本案例视频的独立工程尚未单独核对。根 MIT 许可不自动覆盖另行使用的素材。
+  [链接出处](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · 链接核对 2026-10-11 15:08 UTC
+
 ## [Spiderbench：浏览器里的城市荡行](../cases/2104001664793600012.md) · @xikhar
 
 - **直接源码**：[Spiderbench 游戏工程](https://github.com/xikhar/spiderbench) · [Source-Available, View-Only](https://github.com/xikhar/spiderbench/blob/4361e15951d98519ba515da3ec31d3e537cb4a10/LICENSE)
@@ -387,6 +405,18 @@
 - **公开网页**：[恐怖游戏试玩](https://scare-test.vercel.app/)
   作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
   [链接出处](https://x.com/LexnLin/status/2108301624515137601) · 链接核对 2026-10-09 04:12 UTC
+
+## [DYSTOPIA：雨夜浏览器城市](../cases/2109107708192284923.md) · @cryptomanavan
+
+- **公开网页**：[DYSTOPIA 浏览器城市](https://dystopia-noir.netlify.app/)
+  作者提供的公开网页；需要 WebGPU，作品仍在开发中，未完成完整试玩。
+  [链接出处](https://x.com/cryptomanavan/status/2109107708192284923) · 链接核对 2026-10-11 15:09 UTC
+
+## [Falcon 9 着陆交互模拟](../cases/2109061641027678483.md) · @konstantinsaifo
+
+- **公开网页**：[Falcon 9 着陆模拟](https://www.airsup.ai/lab/falcon-landing)
+  作者链接跳转至此 HTTPS 作品页。页面明确标注模拟而非飞行实测数据，未独立核验物理准确性。
+  [链接出处](https://x.com/konstantinsaifo/status/2109061641027678483) · 链接核对 2026-10-11 15:08 UTC
 
 ## [BLOCKWORLD：浏览器体素世界](../cases/2105020794602676465.md) · @L1vsun
 
@@ -613,6 +643,12 @@
 - **公开网页**：[Alley Cat浏览器试玩](https://dk8827.github.io/alleycat-remastered/web/)
   同作者直接回复中的试玩地址，HTTP已核对；完整游戏验收另行记录。
   [链接出处](https://x.com/davidkal88/status/2108521847365001631) · 链接核对 2026-10-09 11:56 UTC
+
+## [实时流体模拟飞行游戏](../cases/2109170164532928698.md) · @filiptehking
+
+- **公开网页**：[Boltzmann Flyer 飞行游戏](https://dynasus.com/boltzmann/)
+  作者原帖提供的网页可读取；本次未确认游戏启动交互，未完成完整试玩。
+  [链接出处](https://x.com/filiptehking/status/2109170164532928698) · 链接核对 2026-10-11 15:09 UTC
 
 ## [记忆褪成水彩：代码绘制的短片](../cases/2104186357824487573.md) · @techartist\_
 
