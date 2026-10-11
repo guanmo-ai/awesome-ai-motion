@@ -224,6 +224,7 @@ function details(label,text,{copyable=false,source=null,open=false,className=''}
   return section;
 }
 function clearPlaybackTimer() { if(playbackTimer!==null){clearTimeout(playbackTimer);playbackTimer=null;} }
+function setViewerRatio(width,height) { $('viewer').style.setProperty('--viewer-media-ratio',String(width>0&&height>0?width/height:16/9)); }
 function updateViewerNavigation() {
   const {total,index,previous,next}=detailNeighbors(cases,state);
   $('viewer-navigation').hidden=false;
@@ -235,6 +236,7 @@ function updateViewerNavigation() {
   $('viewer-position').textContent=index<0?t('不在当前筛选结果中','Outside current results'):t(`${index+1} / ${total}`,`${index+1} / ${total}`);
 }
 function showViewer(c,{autoplay=false}={}) {
+  setViewerRatio(c.cover?.width,c.cover?.height);
   const content=$('viewer-content');content.replaceChildren();$('viewer-kicker').textContent=`${CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]} · ${formatDuration(c.media?.durationSeconds)}`;
   const layout=el('div','detail-layout'),stage=el('div','detail-stage'),materials=el('div','detail-materials');
   layout.append(stage,materials);content.append(layout);
@@ -259,7 +261,7 @@ function showViewer(c,{autoplay=false}={}) {
     video.addEventListener('loadstart',arm,{signal:controller.signal});
     video.addEventListener('play',()=>{if(video.readyState<3)arm();},{signal:controller.signal});
     for(const event of ['waiting','stalled'])video.addEventListener(event,()=>{if(!video.paused&&video.readyState<3)arm();},{signal:controller.signal});
-    video.addEventListener('loadedmetadata',()=>{if(video.videoWidth&&video.videoHeight)video.style.aspectRatio=`${video.videoWidth} / ${video.videoHeight}`;if(video.paused)recover();},{signal:controller.signal});
+    video.addEventListener('loadedmetadata',()=>{if(video.videoWidth&&video.videoHeight){video.style.aspectRatio=`${video.videoWidth} / ${video.videoHeight}`;setViewerRatio(video.videoWidth,video.videoHeight);}if(video.paused)recover();},{signal:controller.signal});
     for(const event of ['canplay','playing'])video.addEventListener(event,recover,{signal:controller.signal});
     for(const event of ['pause','ended'])video.addEventListener(event,clearPlaybackTimer,{signal:controller.signal});
     retry.addEventListener('click',()=>{error.hidden=retry.hidden=true;video.pause();video.src=url;video.load();arm();video.play().catch(()=>{});},{signal:controller.signal});
@@ -283,11 +285,11 @@ function showViewer(c,{autoplay=false}={}) {
     video.src=url;player.append(video,assist);arm();
   } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('暂时无法直接播放，可查看作者原帖。','Direct playback is currently unavailable. You can check the creator’s original post.')),link(t('查看作者原帖 ↗','View original post ↗'),c.source.url,'primary-link'));player.append(message);}
   const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
-  const links=el('div','detail-links');for(const r of resourceLinks(c))links.append(link(resourceLabel(r.kind,state.lang)+' ↗',r.url,r.kind==='demo'?'primary-link':''));links.append(link(t('作者原帖 ↗','Original post ↗'),c.source.url));
+  const links=el('div','detail-links');for(const r of resourceLinks(c))links.append(link(resourceLabel(r.kind,state.lang)+' ↗',r.url,r.kind==='demo'?'primary-link':''));
   const shareLabel=t('复制作品链接','Copy work link'),share=el('button','share-button',shareLabel);share.type='button';share.addEventListener('click',()=>copy(location.href,share,shareLabel));links.append(share);
   if(c.prompt.status==='original'&&c.prompt.display!=='source_link') {const label=t('复制提示词','Copy prompt'),button=el('button','share-button',label);button.type='button';button.addEventListener('click',()=>copy(c.prompt.text,button,label));links.append(button);}
-  stage.append(player,heading,credits,el('p','detail-summary',state.lang==='en'?c.summaryEn||c.summary:c.summary));
-  materials.append(links);
+  const intro=el('div','detail-intro');intro.append(heading,credits);stage.append(intro,player);
+  materials.append(links,el('p','detail-summary',state.lang==='en'?c.summaryEn||c.summary:c.summary));
   const resources=resourceLinks(c);
   if(resources.length){const section=el('details','resource-details');section.open=state.resource!=='all';section.append(el('summary','',t('源码与网页','Source & web pages')));for(const r of resources){const row=el('div','resource-item');row.append(el('span','card-tag',resourceLabel(r.kind,state.lang)),link(t(r.label,r.labelEn),r.url));if(r.note)row.append(el('p','',t(r.note,r.noteEn)));const facts=[];if(r.license)facts.push(r.license==='not_specified'?t('未标明许可','No license specified'):t('代码许可：','Code license: ')+r.license);if(r.checkedAt)facts.push(t('链接核对：','Link checked: ')+date(r.checkedAt)+' UTC');if(facts.length)row.append(el('p','',facts.join(' · ')));if(r.licenseUrl&&safeUrl(r.licenseUrl))row.append(link(t('查看许可证原文 ↗','Read the license ↗'),r.licenseUrl));if(r.evidenceUrl)row.append(link(t('链接出处 ↗','Link source ↗'),r.evidenceUrl));section.append(row);}materials.append(section);}
   const guide=c.guide;
@@ -327,6 +329,7 @@ function showViewer(c,{autoplay=false}={}) {
   if(autoplay) content.querySelector('video')?.play().catch(()=>{});
 }
 function showMissingViewer() {
+  setViewerRatio();
   const content=$('viewer-content'),continueLink=el('a','primary-link',t('继续浏览','Continue browsing'));
   $('viewer-navigation').hidden=true;
   const heading=el('h2','detail-heading',t('作品不存在或已移除','Work not found or removed'));

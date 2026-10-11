@@ -8,7 +8,7 @@ import * as model from '../assets/gallery-model.mjs';
 async function gallery(search='?page=all',rows=[],preferences={}) {
   class Node {
     constructor(tagName='div'){
-      this.tagName=tagName.toUpperCase();this.paused=true;this.readyState=0;this.listeners=new Map();this.dataset={};this.style={};this.options=[];this.children=[];this.classList={toggle(){}};
+      this.tagName=tagName.toUpperCase();this.paused=true;this.readyState=0;this.listeners=new Map();this.dataset={};this.style={setProperty(name,value){this[name]=value;}};this.options=[];this.children=[];this.classList={toggle(){}};
       if(this.tagName==='VIDEO'){
         if(preferences.fullscreen==='webkit')this.webkitEnterFullscreen=()=>{this.webkitDisplayingFullscreen=true;};
         else if(preferences.fullscreen!=='unsupported')this.requestFullscreen=()=>{
@@ -235,6 +235,18 @@ test('视频已有播放数据时不误报网络停滞，真正缓冲超时仍�
 
 const settlePreviews=()=>new Promise(resolve=>setImmediate(resolve));
 const playableSample=()=>JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url))).cases.find(c=>c.webPlayback);
+
+test('观看比例由封面预设、视频尺寸校正，切换作品不继承上一条比例',async()=>{
+  const sample=playableSample(),portrait={...sample,id:'1',cover:{...sample.cover,width:480,height:852}},wide={...sample,id:'2',cover:{...sample.cover,width:960,height:540}};
+  const app=await gallery('?page=all#case-1',[portrait,wide]),viewer=app.nodes.get('viewer');
+  assert.equal(Number(viewer.style['--viewer-media-ratio']),480/852);
+  const video=app.nodes.get('viewer-content').querySelector('video');
+  video.videoWidth=720;video.videoHeight=1280;video.send('loadedmetadata');
+  assert.equal(Number(viewer.style['--viewer-media-ratio']),720/1280);
+  app.nodes.get('viewer-next').send('click');
+  assert.equal(app.location.hash,'#case-2');
+  assert.equal(Number(viewer.style['--viewer-media-ratio']),16/9);
+});
 
 test('全屏入口放大当前视频，保留播放位置和暂停状态',async()=>{
   const sample=playableSample(),app=await gallery(`?page=all#case-${sample.id}`,[sample]);

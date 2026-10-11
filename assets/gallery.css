@@ -131,9 +131,9 @@ footer { margin: 0 40px; padding: 22px 0 28px; border-top: 1px solid var(--borde
 footer p { margin: 0; }
 .icon-button { width: 32px; height: 32px; display: grid; place-items: center; border: 0; padding: 6px; background: transparent; border-radius: 7px; flex-shrink: 0; }
 .icon-button svg { width: 18px; height: 18px; }
-/* Give playback the full window width; production materials follow below. */
-dialog { border: 1px solid var(--border); border-radius: 16px; background: var(--paper); color: inherit; padding: 0; width: calc(100% - 32px); max-width: none; max-height: calc(100dvh - 32px); box-shadow: 0 20px 100px #0004; overscroll-behavior: contain; }
-dialog::backdrop { background: #2c242399; backdrop-filter: blur(8px); }
+/* Keep everyday viewing comfortable; short windows scroll rather than collapse the video. */
+dialog { --viewer-media-ratio: 1.777778; --viewer-height-budget: calc(90dvh - 294px); --viewer-video-height: max(160px,min(56dvh,var(--viewer-height-budget))); border: 1px solid var(--border); border-radius: 16px; background: var(--paper); color: inherit; padding: 0; width: clamp(480px,calc(var(--viewer-video-height) * var(--viewer-media-ratio) + 48px),1100px); max-width: calc(100vw - 80px); max-height: 90dvh; box-shadow: 0 20px 100px #0003; overscroll-behavior: contain; transition: width .2s var(--ease); }
+dialog::backdrop { background: #2c24237a; backdrop-filter: blur(5px); }
 dialog[open] { animation: viewer-enter .24s var(--ease) both; }
 dialog[open]::backdrop { animation: backdrop-enter .24s ease-out both; }
 @keyframes viewer-enter { from { opacity: 0; transform: translateY(10px) scale(.99); } to { opacity: 1; transform: translateY(0) scale(1); } }
@@ -148,28 +148,30 @@ dialog[open]::backdrop { animation: backdrop-enter .24s ease-out both; }
 .viewer-navigation span { min-width: 54px; text-align: center; font-size: 10px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .detail-layout { display: grid; grid-template-columns: minmax(0,1fr); gap: 8px; }
 .detail-stage, .detail-materials { min-width: 0; }
-.detail-materials { border-top: 1px solid var(--border); padding-top: 20px; }
-.detail-materials .detail-links { margin-top: 0; gap: 10px; }
+.detail-intro { margin-bottom: 16px; }
+.detail-materials { border-top: 1px solid var(--border); padding-top: 16px; }
+.detail-materials .detail-links { margin: 0 0 16px; gap: 10px; }
 .detail-materials .detail-links button { margin-left: 0; }
-.player-area { background: #111; border-radius: 10px; overflow: hidden; position: relative; }
-.player-area video { width: 100%; height: auto; max-height: calc(100dvh - 174px); display: block; aspect-ratio: 16/9; object-fit: contain; background: #111; }
-.player-area video:fullscreen { width: 100vw; height: 100dvh; max-height: none; aspect-ratio: auto; }
-.player-area>img { width: 100%; max-height: calc(100dvh - 210px); object-fit: contain; display: block; }
-.external-message { padding: 23px; text-align: center; color: #eeeee8; font-size: 13px; line-height: 1.7; }
+.player-area { position: relative; }
+.player-area video, .player-area>img { width: calc(var(--viewer-video-height) * var(--viewer-media-ratio)); max-width: 100%; height: auto; max-height: var(--viewer-video-height); display: block; margin-inline: auto; border-radius: 10px; object-fit: contain; background: #111; }
+.player-area video { aspect-ratio: 16/9; }
+.player-area video:fullscreen { width: 100vw; height: 100dvh; max-width: none; max-height: none; aspect-ratio: auto; border-radius: 0; }
+.external-message { padding: 18px 0; text-align: center; color: var(--muted); font-size: 13px; line-height: 1.7; }
 .external-message p { margin: 0 0 15px; }
 .primary-link { display: inline-block; background: var(--accent); color: white; border-radius: 7px; padding: 10px 15px; font-weight: 500; font-size: 12px; }
-.playback-assist { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 15px; padding: 10px 15px; background: #222; color: #f5f4ef; font-size: 12px; line-height: 1.6; }
+.playback-assist { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 15px; padding: 12px 0; color: var(--muted); font-size: 12px; line-height: 1.6; }
 .playback-error { margin: 0; flex-basis: 100%; font-size: 12px; }
 .playback-source { flex: 1; min-width: 0; text-decoration: underline; text-underline-offset: 3px; }
-.playback-fullscreen { display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; gap: 8px; min-height: 44px; margin-left: auto; padding: 9px 14px; border: 1px solid #ffffff40; border-radius: 7px; background: #f2e4de; color: #703c30; font-size: 12px; font-weight: 600; line-height: 1.5; }
-.playback-fullscreen:hover { background: #fff3ed; }
+.playback-fullscreen { display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; gap: 8px; min-height: 44px; margin-left: auto; padding: 9px 14px; border: 1px solid var(--accent-border); border-radius: 7px; background: var(--wash); color: #703c30; font-size: 12px; font-weight: 600; line-height: 1.5; }
+.playback-fullscreen:hover { background: var(--wash-hover); }
 .playback-fullscreen svg { width: 16px; height: 16px; }
 .fullscreen-status { margin: 0; flex-basis: 100%; }
 .playback-retry { border: 1px solid #ccc; border-radius: 6px; background: #f5f4ef; color: #242622; padding: 6px 10px; font-size: 12px; }
-.detail-heading { font-family: var(--display); margin: 20px 0 10px; font-size: 28px; font-weight: 400; line-height: 1.45; letter-spacing: -.035em; }
+.detail-heading { font-family: var(--display); margin: 0 0 6px; font-size: 26px; font-weight: 400; line-height: 1.35; letter-spacing: -.025em; }
 .detail-credits { display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px; color: var(--muted); line-height: 1.8; }
 .detail-credits a { text-decoration: underline; text-underline-offset: 3px; }
 .detail-summary { font-size: 14px; line-height: 1.9; color: #746c67; margin: 16px 0; }
+.detail-materials .detail-summary { margin: 0 0 16px; }
 .detail-links { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin: 17px 0 24px; font-size: 12px; }
 .detail-links>a:not(.primary-link) { text-decoration: underline; text-underline-offset: 4px; }
 .detail-links button { margin-left: auto; }
@@ -218,6 +220,9 @@ details>p { font-size: 13px; line-height: 1.85; color: #746c67; }
   .search { width: min(360px,43%); }
   .category { padding: 0 12px; }
 }
+@media (min-width: 801px) {
+  dialog:has(.detail-materials details[open] pre) { width: min(900px,calc(100vw - 80px)); transition: none; }
+}
 @media (max-width: 800px) {
   .brand-type strong { font-size: 38px; }
   .header-actions { gap: 18px; }
@@ -225,11 +230,11 @@ details>p { font-size: 13px; line-height: 1.85; color: #746c67; }
   .search { width: 40%; }
   .category-navigation nav { flex-wrap: nowrap; overflow-x: auto; padding: 3px 2px 6px; scrollbar-width: none; }
   .grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
-  .viewer-header { flex-wrap: wrap; }
-  .viewer-navigation { order: 3; width: 100%; justify-content: center; }
+  dialog { --viewer-height-budget: calc(100dvh - 260px); width: calc(100vw - 32px); max-width: none; max-height: calc(100dvh - 32px); }
+  .viewer-header { gap: 12px; }
+  .viewer-header #viewer-kicker { display: none; }
+  .viewer-navigation { flex: 1; justify-content: space-between; gap: 6px; }
   .viewer-shell { padding: 0 20px 20px; }
-  .player-area video { max-height: calc(100dvh - 214px); }
-  .original-prompt { scroll-margin-top: 116px; }
 }
 @media (max-width: 600px) {
   .workspace-header { min-height: 74px; padding: 12px 20px; gap: 12px; }
@@ -270,9 +275,9 @@ details>p { font-size: 13px; line-height: 1.85; color: #746c67; }
   .watch-mode { display: none; }
   .card-play>span { width: 30px; height: 30px; font-size: 10px; }
   footer { margin: 0 20px; flex-direction: column; gap: 8px; }
-  dialog { width: calc(100% - 18px); max-height: calc(100dvh - 20px); }
+  dialog { --viewer-height-budget: calc(100dvh - 300px); width: calc(100vw - 18px); max-height: calc(100dvh - 20px); }
   .viewer-shell { padding: 0 14px 20px; }
-  .playback-assist { padding: 10px; gap: 8px 10px; }
+  .playback-assist { padding: 10px 0; gap: 8px 10px; }
   .playback-fullscreen { padding: 9px 10px; }
   .detail-heading { font-size: 23px; }
   .related-grid { gap: 8px; }
