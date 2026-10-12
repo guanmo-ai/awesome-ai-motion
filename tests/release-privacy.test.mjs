@@ -22,6 +22,27 @@ test('高清画廊预览有独立大小上限，普通图片仍受默认上限�
   assert.ok(errors.some(error=>error.includes('文件过大')&&error.includes('other.png')));
 });
 
+test('160 封面合并拼图仅在精确路径享有 12 MiB 预算，超限和其他路径仍拒绝',t=>{
+  const root=fs.mkdtempSync(path.join(os.tmpdir(),'motion-release-mosaic-'));
+  t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
+  execFileSync('git',['init','-q'],{cwd:root});
+  fs.mkdirSync(path.join(root,'assets/readme-covers'),{recursive:true});
+  const file='assets/readme-covers/mosaic.svg',mosaic=path.join(root,file),limit=12*1024*1024;
+  fs.writeFileSync(mosaic,Buffer.alloc(10_225_959));
+  assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[],'160 张原封面合并后的正常大小可以发布');
+  fs.writeFileSync(mosaic,Buffer.alloc(limit));
+  assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[]);
+  fs.appendFileSync(mosaic,Buffer.alloc(1));
+  assert.ok(checkRelease(root,{checkIdentity:false}).errors.some(error=>error.includes('文件过大')&&error.includes(file)&&error.includes('工作树')));
+
+  execFileSync('git',['add',file],{cwd:root});
+  fs.writeFileSync(mosaic,Buffer.alloc(1));
+  for(const other of ['assets/mosaic.svg','assets/readme-covers/other.svg'])fs.writeFileSync(path.join(root,other),Buffer.alloc(500_001));
+  const {errors}=checkRelease(root,{checkIdentity:false});
+  assert.ok(errors.some(error=>error.includes('文件过大')&&error.includes(file)&&error.includes('暂存')),'缩小工作树文件不能绕过暂存版本预算');
+  for(const other of ['assets/mosaic.svg','assets/readme-covers/other.svg'])assert.ok(errors.some(error=>error.includes('文件过大')&&error.includes(other)));
+});
+
 test('持续补充的案例 JSON 有独立上限，超限仍被拒绝',t=>{
   const root=fs.mkdtempSync(path.join(os.tmpdir(),'motion-release-catalog-'));
   t.after(()=>fs.rmSync(root,{recursive:true,force:true}));

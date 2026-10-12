@@ -35,9 +35,9 @@ export function checkRelease(root=ROOT,{ci=process.env.GITHUB_ACTIONS==='true',c
   function inspect(file,version,buffer,{symlink=false}={}) {
     const label=fileLabel(file);
     if(symlink){errors.push(`符号链接：${label}（${version}）`);return;}
-    // 预览、案例 JSON 与两份完整发现列表使用各自的大小预算。
+    // 合并封面拼图、预览、案例 JSON 与两份发现列表使用精确路径预算。
     const discoveryList=file==='browse/discoveries.md'||file==='browse/discoveries.en.md';
-    const limit=file==='assets/gallery-preview.png'?4_000_000:file==='data/cases.json'?3_000_000:discoveryList?750_000:500_000;
+    const limit=file==='assets/readme-covers/mosaic.svg'?12*1024*1024:file==='assets/gallery-preview.png'?4_000_000:file==='data/cases.json'?3_000_000:discoveryList?750_000:500_000;
     if(buffer.length>limit)errors.push(`文件过大：${label}（${version}）`);
     const text=decodeText(buffer);
     if(text===null)return;

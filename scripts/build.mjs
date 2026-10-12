@@ -173,12 +173,7 @@ const CATEGORY_NOTES={
 const README_MOSAIC_COUNT=160;
 const README_MOSAIC_COLUMNS=16;
 function renderMosaic(items,en) {
-  const rows=[];
-  for(let i=0;i<items.length;i+=README_MOSAIC_COLUMNS) {
-    const group=items.slice(i,i+README_MOSAIC_COLUMNS);
-    rows.push(group.map(c=>`<a href="${watchUrl(c,en)}"><img src="${readmeCoverPath(c)}" width="${99.8/README_MOSAIC_COLUMNS}%" align="top" alt="${html(title(c,en))} · @${html(c.author.handle)}"></a>`).join(''));
-  }
-  return `<p align="center">\n${rows.join('<br>\n')}\n</p>`;
+  return `<p align="center"><a href="${SITE}${en?'?lang=en':''}"><img src="assets/readme-covers/mosaic.svg" width="100%" alt="${choose(en,`${items.length} 个作品封面组成的拼图 · 点击进入画廊`,`A mosaic of ${items.length} work covers · Open the gallery`)}"></a></p>`;
 }
 function renderSpotlights(rows,en) {
   // GitHub strips <wbr>; zero-width spaces let long labels wrap on narrow screens.
@@ -211,7 +206,7 @@ function renderReadme(cases,en) {
     (mosaic.length?`<a id="mosaic"></a>\n\n${renderMosaic(mosaic,en)}\n\n`:'')+
     `${choose(en,'发现惊艳动效，探索更多创作可能。','Extraordinary motion. New creative possibilities.')} · [${en?'简体中文':'English'}](README${en?'':'.en'}.md)\n\n`+
     `**[${choose(en,'进入作品画廊 ↗','Explore the gallery ↗')}](${gallery})** &nbsp; · &nbsp; [${choose(en,'推荐作品','Submit a work')}](${REPO}/issues/new?template=submit.yml)\n\n`+
-    `<sub>${stats.works} ${choose(en,'个作品','works')} &nbsp; · &nbsp; ${choose(en,'点击拼图中的任意作品观看','Click any work in the mosaic to watch')}</sub>\n\n`;
+    `<sub>${stats.works} ${choose(en,'个作品','works')} &nbsp; · &nbsp; ${choose(en,'点击拼图进入画廊','Click the mosaic to open the gallery')}</sub>\n\n`;
   if(spotlights.length)out+=`<a id="spotlights"></a>\n\n## ${choose(en,'最近值得一看','Worth watching now')}\n\n`+
     `${choose(en,'综合收藏数与发布时间排序，让高收藏的新作品优先。收藏数为原帖快照。','Ranked by bookmarks and publication date, giving popular recent work more weight. Bookmark counts are source-post snapshots.')}\n\n`+
     renderSpotlights(spotlights,en)+'\n\n';
@@ -263,9 +258,16 @@ function renderReadmeCover(item,bytes) {
   // Self-contained SVG frames keep GitHub images at 16:9 without stretching the source.
   return `<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180"><title>${html(item.title)} · @${html(item.author.handle)}</title><image width="320" height="180" preserveAspectRatio="xMidYMid slice" href="data:image/jpeg;base64,${bytes.toString('base64')}"/></svg>\n`;
 }
+function renderMosaicCover(items,readCover) {
+  const width=README_MOSAIC_COLUMNS*320,height=Math.ceil(items.length/README_MOSAIC_COLUMNS)*180;
+  const images=items.map((item,index)=>`<image id="case-${item.id}" x="${index%README_MOSAIC_COLUMNS*320}" y="${Math.floor(index/README_MOSAIC_COLUMNS)*180}" width="320" height="180" preserveAspectRatio="xMidYMid slice" href="data:image/jpeg;base64,${readCover(item.cover.path).toString('base64')}"/>`).join('');
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"><title>Awesome AI Motion · ${items.length} works</title>${images}</svg>\n`;
+}
 export function buildOutputs(catalog,readCover=file=>fs.readFileSync(path.join(ROOT,file))) {
   const cases=sortedCases(catalog.cases);const outputs=new Map();
-  for(const item of spotlightCases(cases,README_MOSAIC_COUNT))outputs.set(readmeCoverPath(item),renderReadmeCover(item,readCover(item.cover.path)));
+  const mosaic=spotlightCases(cases,README_MOSAIC_COUNT);
+  if(mosaic.length)outputs.set('assets/readme-covers/mosaic.svg',renderMosaicCover(mosaic,readCover));
+  for(const item of mosaic.slice(0,6))outputs.set(readmeCoverPath(item),renderReadmeCover(item,readCover(item.cover.path)));
   outputs.set('README.md',renderReadme(cases,false));outputs.set('README.en.md',renderReadme(cases,true));
   outputs.set('docs/COVERAGE.md',renderCoverage(cases));
   for(const definition of CATEGORIES) for(const en of [false,true]) {
@@ -398,7 +400,7 @@ if(process.argv[1] && path.resolve(process.argv[1])===fileURLToPath(import.meta.
     else {fs.mkdirSync(path.dirname(target),{recursive:true});fs.writeFileSync(target,content);}
   }
   const readmeCovers=path.join(ROOT,'assets/readme-covers');
-  if(fs.existsSync(readmeCovers))for(const name of fs.readdirSync(readmeCovers).filter(name=>/^\d+\.svg$/.test(name))) {
+  if(fs.existsSync(readmeCovers))for(const name of fs.readdirSync(readmeCovers).filter(name=>/^(?:\d+|mosaic)\.svg$/.test(name))) {
     const file=`assets/readme-covers/${name}`;
     if(outputs.has(file))continue;
     if(check){console.error(`不应保留旧缩略图：${file}`);stale++;}
