@@ -8,7 +8,7 @@
 
 **[进入作品画廊 ↗](https://guanmo-ai.github.io/awesome-ai-motion/)** &nbsp; · &nbsp; [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>821 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
+<sub>788 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
 
 <a id="spotlights"></a>
 
@@ -45,13 +45,13 @@
 
 | 方向 | 可以发现什么 | 作品 |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 159 |
-| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 158 |
-| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 104 |
-| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 57 |
-| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 197 |
-| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 82 |
-| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 64 |
+| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 152 |
+| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 152 |
+| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 100 |
+| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 56 |
+| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 193 |
+| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 74 |
+| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 61 |
 
 [在画廊中搜索、筛选和播放全部作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 

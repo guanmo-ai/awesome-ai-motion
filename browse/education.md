@@ -2,7 +2,7 @@
 
 # 知识讲解
 
-158 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+152 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -27,121 +27,111 @@
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102827887732932956"><img src="../assets/covers/2102827887732932956.jpg" width="127" alt="真人口播变线稿讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102838830285898214"><img src="../assets/covers/2102838830285898214.jpg" width="400" alt="密码与通行密钥的区别"></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong>真人口播变线稿讲解</strong><br><sub><a href="https://x.com/AxtonLiu">@AxtonLiu</a> · 知识讲解</sub><br><sub>1:24 · 收藏 411</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102827887732932956">▶ 播放</a> · <a href="https://x.com/AxtonLiu/status/2102827887732932956">原帖</a></td>
-<td width="50%" valign="top"><strong>密码与通行密钥的区别</strong><br><sub><a href="https://x.com/Tz_2022">@Tz_2022</a> · 知识讲解</sub><br><sub>4:09 · 收藏 376 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102838830285898214">▶ 播放</a> · <a href="https://x.com/Tz_2022/status/2102838830285898214">原帖</a></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103128559174971663"><img src="../assets/covers/2103128559174971663.jpg" width="400" alt="导数概念的 Manim 动画课"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106958663525314769"><img src="../assets/covers/2106958663525314769.jpg" width="400" alt="Gmail 五个功能的短视频制作"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>密码与通行密钥的区别</strong><br><sub><a href="https://x.com/Tz_2022">@Tz_2022</a> · 知识讲解</sub><br><sub>4:09 · 收藏 376 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102838830285898214">▶ 播放</a> · <a href="https://x.com/Tz_2022/status/2102838830285898214">原帖</a></td>
 <td width="50%" valign="top"><strong>导数概念的 Manim 动画课</strong><br><sub><a href="https://x.com/LinearUncle">@LinearUncle</a> · 知识讲解</sub><br><sub>7:37 · 收藏 360 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103128559174971663">▶ 播放</a> · <a href="https://x.com/LinearUncle/status/2103128559174971663">原帖</a></td>
-<td width="50%" valign="top"><strong>Gmail 五个功能的短视频制作</strong><br><sub><a href="https://x.com/ClaudeCode_UT">@ClaudeCode_UT</a> · 知识讲解</sub><br><sub>0:32 · 收藏 186 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106958663525314769">▶ 播放</a> · <a href="https://x.com/ClaudeCode_UT/status/2106958663525314769">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106958663525314769"><img src="../assets/covers/2106958663525314769.jpg" width="400" alt="Gmail 五个功能的短视频制作"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102751132502446549"><img src="../assets/covers/2102751132502446549.jpg" width="400" alt="GitHub 版本管理入门"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102695622042411419"><img src="../assets/covers/2102695622042411419.jpg" width="127" alt="印度尼西亚八十一年历史速览"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Gmail 五个功能的短视频制作</strong><br><sub><a href="https://x.com/ClaudeCode_UT">@ClaudeCode_UT</a> · 知识讲解</sub><br><sub>0:32 · 收藏 186 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106958663525314769">▶ 播放</a> · <a href="https://x.com/ClaudeCode_UT/status/2106958663525314769">原帖</a></td>
 <td width="50%" valign="top"><strong>GitHub 版本管理入门</strong><br><sub><a href="https://x.com/sundyme">@sundyme</a> · 知识讲解</sub><br><sub>3:46 · 收藏 140 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102751132502446549">▶ 播放</a> · <a href="https://x.com/sundyme/status/2102751132502446549">原帖</a></td>
-<td width="50%" valign="top"><strong>印度尼西亚八十一年历史速览</strong><br><sub><a href="https://x.com/hanifproduktif">@hanifproduktif</a> · 知识讲解</sub><br><sub>0:59 · 收藏 120 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102695622042411419">▶ 播放</a> · <a href="https://x.com/hanifproduktif/status/2102695622042411419">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102695622042411419"><img src="../assets/covers/2102695622042411419.jpg" width="127" alt="印度尼西亚八十一年历史速览"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103511590884815282"><img src="../assets/covers/2103511590884815282.jpg" width="400" alt="把印尼历史排成动态图形"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103171088637419631"><img src="../assets/covers/2103171088637419631.jpg" width="400" alt="期权公式与跑酷并屏讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>印度尼西亚八十一年历史速览</strong><br><sub><a href="https://x.com/hanifproduktif">@hanifproduktif</a> · 知识讲解</sub><br><sub>0:59 · 收藏 120 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102695622042411419">▶ 播放</a> · <a href="https://x.com/hanifproduktif/status/2102695622042411419">原帖</a></td>
 <td width="50%" valign="top"><strong>把印尼历史排成动态图形</strong><br><sub><a href="https://x.com/sonnylazuardi">@sonnylazuardi</a> · 知识讲解</sub><br><sub>0:53 · 收藏 102</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103511590884815282">▶ 播放</a> · <a href="https://x.com/sonnylazuardi/status/2103511590884815282">原帖</a></td>
-<td width="50%" valign="top"><strong>期权公式与跑酷并屏讲解</strong><br><sub><a href="https://x.com/goodside">@goodside</a> · 知识讲解</sub><br><sub>1:00 · 收藏 45 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103171088637419631">▶ 播放</a> · <a href="https://x.com/goodside/status/2103171088637419631">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103171088637419631"><img src="../assets/covers/2103171088637419631.jpg" width="400" alt="期权公式与跑酷并屏讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102731669853573582"><img src="../assets/covers/2102731669853573582.jpg" width="400" alt="SEO 与 GEO 的差异动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103801351993975279"><img src="../assets/covers/2103801351993975279.jpg" width="400" alt="手机上一条指令把文章变成教程"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>期权公式与跑酷并屏讲解</strong><br><sub><a href="https://x.com/goodside">@goodside</a> · 知识讲解</sub><br><sub>1:00 · 收藏 45 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103171088637419631">▶ 播放</a> · <a href="https://x.com/goodside/status/2103171088637419631">原帖</a></td>
 <td width="50%" valign="top"><strong>SEO 与 GEO 的差异动画</strong><br><sub><a href="https://x.com/oscarmartin">@oscarmartin</a> · 知识讲解</sub><br><sub>0:33 · 收藏 22 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102731669853573582">▶ 播放</a> · <a href="https://x.com/oscarmartin/status/2102731669853573582">原帖</a></td>
-<td width="50%" valign="top"><strong>手机上一条指令把文章变成教程</strong><br><sub><a href="https://x.com/henkvaness">@henkvaness</a> · 知识讲解</sub><br><sub>5:37 · 收藏 9</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103801351993975279">▶ 播放</a> · <a href="https://x.com/henkvaness/status/2103801351993975279">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103801351993975279"><img src="../assets/covers/2103801351993975279.jpg" width="400" alt="手机上一条指令把文章变成教程"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103845689713111079"><img src="../assets/covers/2103845689713111079.jpg" width="400" alt="从电网进入 AI 数据中心的三维影片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107584181941502428"><img src="../assets/covers/2107584181941502428.jpg" width="400" alt="双角色讲解视频的初次练习"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>手机上一条指令把文章变成教程</strong><br><sub><a href="https://x.com/henkvaness">@henkvaness</a> · 知识讲解</sub><br><sub>5:37 · 收藏 9</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103801351993975279">▶ 播放</a> · <a href="https://x.com/henkvaness/status/2103801351993975279">原帖</a></td>
 <td width="50%" valign="top"><strong>从电网进入 AI 数据中心的三维影片</strong><br><sub><a href="https://x.com/mdaman010">@mdaman010</a> · 知识讲解</sub><br><sub>1:38 · 收藏 5</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103845689713111079">▶ 播放</a> · <a href="https://x.com/mdaman010/status/2103845689713111079">原帖</a></td>
-<td width="50%" valign="top"><strong>双角色讲解视频的初次练习</strong><br><sub><a href="https://x.com/Naonekozamurai">@Naonekozamurai</a> · 知识讲解</sub><br><sub>0:27 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107584181941502428">▶ 播放</a> · <a href="https://x.com/Naonekozamurai/status/2107584181941502428">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107584181941502428"><img src="../assets/covers/2107584181941502428.jpg" width="400" alt="双角色讲解视频的初次练习"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104044910769016888"><img src="../assets/covers/2104044910769016888.jpg" width="400" alt="面向零基础的 Git 视频"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103418429248069973"><img src="../assets/covers/2103418429248069973.jpg" width="400" alt="鸡尾酒制作过程动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>双角色讲解视频的初次练习</strong><br><sub><a href="https://x.com/Naonekozamurai">@Naonekozamurai</a> · 知识讲解</sub><br><sub>0:27 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107584181941502428">▶ 播放</a> · <a href="https://x.com/Naonekozamurai/status/2107584181941502428">原帖</a></td>
 <td width="50%" valign="top"><strong>面向零基础的 Git 视频</strong><br><sub><a href="https://x.com/Yunn260414">@Yunn260414</a> · 知识讲解</sub><br><sub>6:48 · 收藏 2</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104044910769016888">▶ 播放</a> · <a href="https://x.com/Yunn260414/status/2104044910769016888">原帖</a></td>
-<td width="50%" valign="top"><strong>鸡尾酒制作过程动效</strong><br><sub><a href="https://x.com/Sarut0biSasuke">@Sarut0biSasuke</a> · 知识讲解</sub><br><sub>0:30 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103418429248069973">▶ 播放</a> · <a href="https://x.com/Sarut0biSasuke/status/2103418429248069973">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103418429248069973"><img src="../assets/covers/2103418429248069973.jpg" width="400" alt="鸡尾酒制作过程动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107653001959833860"><img src="../assets/covers/2107653001959833860.jpg" width="360" alt="涡轮增压发动机互动教学"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105033204319277506"><img src="../assets/covers/2105033204319277506.jpg" width="400" alt="文章开场片：模板复用与文字检查"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>鸡尾酒制作过程动效</strong><br><sub><a href="https://x.com/Sarut0biSasuke">@Sarut0biSasuke</a> · 知识讲解</sub><br><sub>0:30 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103418429248069973">▶ 播放</a> · <a href="https://x.com/Sarut0biSasuke/status/2103418429248069973">原帖</a></td>
 <td width="50%" valign="top"><strong>涡轮增压发动机互动教学</strong><br><sub><a href="https://x.com/yyyole">@yyyole</a> · 知识讲解</sub><br><sub>0:45 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107653001959833860">▶ 播放</a> · <a href="https://x.com/yyyole/status/2107653001959833860">原帖</a></td>
-<td width="50%" valign="top"><strong>文章开场片：模板复用与文字检查</strong><br><sub><a href="https://x.com/FalconG_J">@FalconG_J</a> · 知识讲解</sub><br><sub>0:30 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105033204319277506">▶ 播放</a> · <a href="https://x.com/FalconG_J/status/2105033204319277506">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105033204319277506"><img src="../assets/covers/2105033204319277506.jpg" width="400" alt="文章开场片：模板复用与文字检查"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102954743442399395"><img src="../assets/covers/2102954743442399395.jpg" width="400" alt="通行密钥入门动画长片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107443821630107654"><img src="../assets/covers/2107443821630107654.jpg" width="127" alt="《临江仙》古诗词学习动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>文章开场片：模板复用与文字检查</strong><br><sub><a href="https://x.com/FalconG_J">@FalconG_J</a> · 知识讲解</sub><br><sub>0:30 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105033204319277506">▶ 播放</a> · <a href="https://x.com/FalconG_J/status/2105033204319277506">原帖</a></td>
 <td width="50%" valign="top"><strong>通行密钥入门动画长片</strong><br><sub><a href="https://x.com/imShiWen">@imShiWen</a> · 知识讲解</sub><br><sub>6:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102954743442399395">▶ 播放</a> · <a href="https://x.com/imShiWen/status/2102954743442399395">原帖</a></td>
-<td width="50%" valign="top"><strong>《临江仙》古诗词学习动画</strong><br><sub><a href="https://x.com/7998l201">@7998l201</a> · 知识讲解</sub><br><sub>3:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107443821630107654">▶ 播放</a> · <a href="https://x.com/7998l201/status/2107443821630107654">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107443821630107654"><img src="../assets/covers/2107443821630107654.jpg" width="127" alt="《临江仙》古诗词学习动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="../assets/covers/2102591147927654847.jpg" width="400" alt="用镜头实验室解释对焦"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646"><img src="../assets/covers/2103141339651350646.jpg" width="400" alt="研究论文八分钟动画讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>《临江仙》古诗词学习动画</strong><br><sub><a href="https://x.com/7998l201">@7998l201</a> · 知识讲解</sub><br><sub>3:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107443821630107654">▶ 播放</a> · <a href="https://x.com/7998l201/status/2107443821630107654">原帖</a></td>
 <td width="50%" valign="top"><strong>用镜头实验室解释对焦</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 知识讲解</sub><br><sub>0:32 · 收藏 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">▶ 播放</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">原帖</a></td>
-<td width="50%" valign="top"><strong>研究论文八分钟动画讲解</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 知识讲解</sub><br><sub>8:39 · 收藏 5,419 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646">▶ 播放</a> · <a href="https://x.com/deedydas/status/2103141339651350646">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646"><img src="../assets/covers/2103141339651350646.jpg" width="400" alt="研究论文八分钟动画讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104094723887501736"><img src="../assets/covers/2104094723887501736.jpg" width="400" alt="可拆解的 Raptor 3 火箭发动机"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102737776219168939"><img src="../assets/covers/2102737776219168939.jpg" width="400" alt="像素画神经网络训练过程"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>研究论文八分钟动画讲解</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 知识讲解</sub><br><sub>8:39 · 收藏 5,419 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103141339651350646">▶ 播放</a> · <a href="https://x.com/deedydas/status/2103141339651350646">原帖</a></td>
 <td width="50%" valign="top"><strong>可拆解的 Raptor 3 火箭发动机</strong><br><sub><a href="https://x.com/konstantinsaifo">@konstantinsaifo</a> · 知识讲解</sub><br><sub>0:35 · 收藏 4,758 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104094723887501736">▶ 播放</a> · <a href="https://x.com/konstantinsaifo/status/2104094723887501736">原帖</a></td>
-<td width="50%" valign="top"><strong>像素画神经网络训练过程</strong><br><sub><a href="https://x.com/DotCSV">@DotCSV</a> · 知识讲解</sub><br><sub>0:56 · 收藏 3,196 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102737776219168939">▶ 播放</a> · <a href="https://x.com/DotCSV/status/2102737776219168939">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103304514329854102"><img src="../assets/covers/2103304514329854102.jpg" width="400" alt="面向普通人的超级智能纪录片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102737776219168939"><img src="../assets/covers/2102737776219168939.jpg" width="400" alt="像素画神经网络训练过程"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104151743907160546"><img src="../assets/covers/2104151743907160546.jpg" width="400" alt="《如何做好工作》短片"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>面向普通人的超级智能纪录片</strong><br><sub><a href="https://x.com/gavinpurcell">@gavinpurcell</a> · 知识讲解</sub><br><sub>5:15 · 收藏 3,120</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103304514329854102">▶ 播放</a> · <a href="https://x.com/gavinpurcell/status/2103304514329854102">原帖</a></td>
+<td width="50%" valign="top"><strong>像素画神经网络训练过程</strong><br><sub><a href="https://x.com/DotCSV">@DotCSV</a> · 知识讲解</sub><br><sub>0:56 · 收藏 3,196 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102737776219168939">▶ 播放</a> · <a href="https://x.com/DotCSV/status/2102737776219168939">原帖</a></td>
 <td width="50%" valign="top"><strong>《如何做好工作》短片</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 知识讲解</sub><br><sub>3:15 · 收藏 2,879 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104151743907160546">▶ 播放</a> · <a href="https://x.com/deedydas/status/2104151743907160546">原帖</a></td>
 </tr>
 </tbody>
@@ -308,121 +298,111 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103117547776163845"><img src="../assets/covers/2103117547776163845.jpg" width="400" alt="手绘风技术讲解片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107284687039467575"><img src="../assets/covers/2107284687039467575.jpg" width="127" alt="口播视频与辅助动画剪辑"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107815114745487588"><img src="../assets/covers/2107815114745487588.jpg" width="400" alt="秦帝国主题的历史解释动画"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>手绘风技术讲解片</strong><br><sub><a href="https://x.com/so_ainsight">@so_ainsight</a> · 知识讲解</sub><br><sub>0:15 · 收藏 38 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103117547776163845">▶ 播放</a> · <a href="https://x.com/so_ainsight/status/2103117547776163845">原帖</a></td>
-<td width="50%" valign="top"><strong>口播视频与辅助动画剪辑</strong><br><sub><a href="https://x.com/cheery9998">@cheery9998</a> · 知识讲解</sub><br><sub>4:29 · 收藏 30 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107284687039467575">▶ 播放</a> · <a href="https://x.com/cheery9998/status/2107284687039467575">原帖</a></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107815114745487588"><img src="../assets/covers/2107815114745487588.jpg" width="400" alt="秦帝国主题的历史解释动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103896101120356793"><img src="../assets/covers/2103896101120356793.jpg" width="400" alt="高难概念播客的可视化片段"></a></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><strong>秦帝国主题的历史解释动画</strong><br><sub><a href="https://x.com/aiRobertDaily">@aiRobertDaily</a> · 知识讲解</sub><br><sub>1:13 · 收藏 29 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107815114745487588">▶ 播放</a> · <a href="https://x.com/aiRobertDaily/status/2107815114745487588">原帖</a></td>
-<td width="50%" valign="top"><strong>高难概念播客的可视化片段</strong><br><sub><a href="https://x.com/theviclaw">@theviclaw</a> · 知识讲解</sub><br><sub>0:16 · 收藏 23</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103896101120356793">▶ 播放</a> · <a href="https://x.com/theviclaw/status/2103896101120356793">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103896101120356793"><img src="../assets/covers/2103896101120356793.jpg" width="400" alt="高难概念播客的可视化片段"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108120392179089496"><img src="../assets/covers/2108120392179089496.jpg" width="400" alt="为什么无法超过光速：Agent 讲解试片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104352888793477147"><img src="../assets/covers/2104352888793477147.jpg" width="365" alt="Singularity：30秒恒星演化"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>高难概念播客的可视化片段</strong><br><sub><a href="https://x.com/theviclaw">@theviclaw</a> · 知识讲解</sub><br><sub>0:16 · 收藏 23</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103896101120356793">▶ 播放</a> · <a href="https://x.com/theviclaw/status/2103896101120356793">原帖</a></td>
 <td width="50%" valign="top"><strong>为什么无法超过光速：Agent 讲解试片</strong><br><sub><a href="https://x.com/MrLarus">@MrLarus</a> · 知识讲解</sub><br><sub>1:18 · 收藏 22 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108120392179089496">▶ 播放</a> · <a href="https://x.com/MrLarus/status/2108120392179089496">原帖</a></td>
-<td width="50%" valign="top"><strong>Singularity：30秒恒星演化</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 知识讲解</sub><br><sub>0:30 · 收藏 16 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104352888793477147">▶ 播放</a> · <a href="https://x.com/techartist_/status/2104352888793477147">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104352888793477147"><img src="../assets/covers/2104352888793477147.jpg" width="365" alt="Singularity：30秒恒星演化"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104070024575242622"><img src="../assets/covers/2104070024575242622.jpg" width="400" alt="Lemo-Opuscar：白板风格创作教学片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107514903879688390"><img src="../assets/covers/2107514903879688390.jpg" width="400" alt="Jido 如何融入工程的讲解片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Singularity：30秒恒星演化</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 知识讲解</sub><br><sub>0:30 · 收藏 16 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104352888793477147">▶ 播放</a> · <a href="https://x.com/techartist_/status/2104352888793477147">原帖</a></td>
 <td width="50%" valign="top"><strong>Lemo-Opuscar：白板风格创作教学片</strong><br><sub><a href="https://x.com/lemomo_ai">@lemomo_ai</a> · 知识讲解</sub><br><sub>1:11 · 收藏 16 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104070024575242622">▶ 播放</a> · <a href="https://x.com/lemomo_ai/status/2104070024575242622">原帖</a></td>
-<td width="50%" valign="top"><strong>Jido 如何融入工程的讲解片</strong><br><sub><a href="https://x.com/h14hdotcom">@h14hdotcom</a> · 知识讲解</sub><br><sub>7:26 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107514903879688390">▶ 播放</a> · <a href="https://x.com/h14hdotcom/status/2107514903879688390">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107514903879688390"><img src="../assets/covers/2107514903879688390.jpg" width="400" alt="Jido 如何融入工程的讲解片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108949764264128808"><img src="../assets/covers/2108949764264128808.jpg" width="127" alt="我们都是恒星的孩子"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107571783729557855"><img src="../assets/covers/2107571783729557855.jpg" width="193" alt="从数据中心深入 GPU 芯片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Jido 如何融入工程的讲解片</strong><br><sub><a href="https://x.com/h14hdotcom">@h14hdotcom</a> · 知识讲解</sub><br><sub>7:26 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107514903879688390">▶ 播放</a> · <a href="https://x.com/h14hdotcom/status/2107514903879688390">原帖</a></td>
 <td width="50%" valign="top"><strong>我们都是恒星的孩子</strong><br><sub><a href="https://x.com/threeaus">@threeaus</a> · 知识讲解</sub><br><sub>2:49 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108949764264128808">▶ 播放</a> · <a href="https://x.com/threeaus/status/2108949764264128808">原帖</a></td>
-<td width="50%" valign="top"><strong>从数据中心深入 GPU 芯片</strong><br><sub><a href="https://x.com/motyka_9">@motyka_9</a> · 知识讲解</sub><br><sub>0:49 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107571783729557855">▶ 播放</a> · <a href="https://x.com/motyka_9/status/2107571783729557855">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107571783729557855"><img src="../assets/covers/2107571783729557855.jpg" width="193" alt="从数据中心深入 GPU 芯片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107600930762031447"><img src="../assets/covers/2107600930762031447.jpg" width="400" alt="魔方入门与纠错动画教程"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107473998212927525"><img src="../assets/covers/2107473998212927525.jpg" width="400" alt="十五种知识动画风格样片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>从数据中心深入 GPU 芯片</strong><br><sub><a href="https://x.com/motyka_9">@motyka_9</a> · 知识讲解</sub><br><sub>0:49 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107571783729557855">▶ 播放</a> · <a href="https://x.com/motyka_9/status/2107571783729557855">原帖</a></td>
 <td width="50%" valign="top"><strong>魔方入门与纠错动画教程</strong><br><sub><a href="https://x.com/NorthstarBrain">@NorthstarBrain</a> · 知识讲解</sub><br><sub>2:47 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107600930762031447">▶ 播放</a> · <a href="https://x.com/NorthstarBrain/status/2107600930762031447">原帖</a></td>
-<td width="50%" valign="top"><strong>十五种知识动画风格样片</strong><br><sub><a href="https://x.com/agentchengfeng">@agentchengfeng</a> · 知识讲解</sub><br><sub>2:51 · 收藏 9 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107473998212927525">▶ 播放</a> · <a href="https://x.com/agentchengfeng/status/2107473998212927525">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107473998212927525"><img src="../assets/covers/2107473998212927525.jpg" width="400" alt="十五种知识动画风格样片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108029927161541111"><img src="../assets/covers/2108029927161541111.jpg" width="400" alt="YouMind 里的历史动画风格试验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103814603100856596"><img src="../assets/covers/2103814603100856596.jpg" width="400" alt="机械键盘：三维拆解与开关录音节拍"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>十五种知识动画风格样片</strong><br><sub><a href="https://x.com/agentchengfeng">@agentchengfeng</a> · 知识讲解</sub><br><sub>2:51 · 收藏 9 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107473998212927525">▶ 播放</a> · <a href="https://x.com/agentchengfeng/status/2107473998212927525">原帖</a></td>
 <td width="50%" valign="top"><strong>YouMind 里的历史动画风格试验</strong><br><sub><a href="https://x.com/KengGuangLong">@KengGuangLong</a> · 知识讲解</sub><br><sub>4:57 · 收藏 9 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108029927161541111">▶ 播放</a> · <a href="https://x.com/KengGuangLong/status/2108029927161541111">原帖</a></td>
-<td width="50%" valign="top"><strong>机械键盘：三维拆解与开关录音节拍</strong><br><sub><a href="https://x.com/iniyanai">@iniyanai</a> · 知识讲解</sub><br><sub>0:35 · 收藏 8</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103814603100856596">▶ 播放</a> · <a href="https://x.com/iniyanai/status/2103814603100856596">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103814603100856596"><img src="../assets/covers/2103814603100856596.jpg" width="400" alt="机械键盘：三维拆解与开关录音节拍"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103183904563998809"><img src="../assets/covers/2103183904563998809.jpg" width="400" alt="变分自编码器数学讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108485332757074286"><img src="../assets/covers/2108485332757074286.jpg" width="400" alt="DeepSeek架构主题的代码讲解动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>机械键盘：三维拆解与开关录音节拍</strong><br><sub><a href="https://x.com/iniyanai">@iniyanai</a> · 知识讲解</sub><br><sub>0:35 · 收藏 8</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103814603100856596">▶ 播放</a> · <a href="https://x.com/iniyanai/status/2103814603100856596">原帖</a></td>
 <td width="50%" valign="top"><strong>变分自编码器数学讲解</strong><br><sub><a href="https://x.com/ng169onX">@ng169onX</a> · 知识讲解</sub><br><sub>5:34 · 收藏 8 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103183904563998809">▶ 播放</a> · <a href="https://x.com/ng169onX/status/2103183904563998809">原帖</a></td>
-<td width="50%" valign="top"><strong>DeepSeek架构主题的代码讲解动画</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · 知识讲解</sub><br><sub>2:07 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108485332757074286">▶ 播放</a> · <a href="https://x.com/ItsmeAjayKV/status/2108485332757074286">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108485332757074286"><img src="../assets/covers/2108485332757074286.jpg" width="400" alt="DeepSeek架构主题的代码讲解动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108304898198581689"><img src="../assets/covers/2108304898198581689.jpg" width="400" alt="SHRINCS 签名方案的解释动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106391068367597929"><img src="../assets/covers/2106391068367597929.jpg" width="127" alt="CLIProxyAPI 文章的视频讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>DeepSeek架构主题的代码讲解动画</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · 知识讲解</sub><br><sub>2:07 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108485332757074286">▶ 播放</a> · <a href="https://x.com/ItsmeAjayKV/status/2108485332757074286">原帖</a></td>
 <td width="50%" valign="top"><strong>SHRINCS 签名方案的解释动画</strong><br><sub><a href="https://x.com/NavRoudsari">@NavRoudsari</a> · 知识讲解</sub><br><sub>4:21 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108304898198581689">▶ 播放</a> · <a href="https://x.com/NavRoudsari/status/2108304898198581689">原帖</a></td>
-<td width="50%" valign="top"><strong>CLIProxyAPI 文章的视频讲解</strong><br><sub><a href="https://x.com/0xlangeai">@0xlangeai</a> · 知识讲解</sub><br><sub>0:57 · 收藏 7</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106391068367597929">▶ 播放</a> · <a href="https://x.com/0xlangeai/status/2106391068367597929">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106391068367597929"><img src="../assets/covers/2106391068367597929.jpg" width="127" alt="CLIProxyAPI 文章的视频讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107629480714076484"><img src="../assets/covers/2107629480714076484.jpg" width="400" alt="星系碰撞的粒子可视化"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108517711970234631"><img src="../assets/covers/2108517711970234631.jpg" width="400" alt="Sonnet与VOICEVOX的通讯介绍片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>CLIProxyAPI 文章的视频讲解</strong><br><sub><a href="https://x.com/0xlangeai">@0xlangeai</a> · 知识讲解</sub><br><sub>0:57 · 收藏 7</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106391068367597929">▶ 播放</a> · <a href="https://x.com/0xlangeai/status/2106391068367597929">原帖</a></td>
 <td width="50%" valign="top"><strong>星系碰撞的粒子可视化</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 知识讲解</sub><br><sub>0:29 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107629480714076484">▶ 播放</a> · <a href="https://x.com/techartist_/status/2107629480714076484">原帖</a></td>
-<td width="50%" valign="top"><strong>Sonnet与VOICEVOX的通讯介绍片</strong><br><sub><a href="https://x.com/tetumemo">@tetumemo</a> · 知识讲解</sub><br><sub>0:32 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108517711970234631">▶ 播放</a> · <a href="https://x.com/tetumemo/status/2108517711970234631">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108517711970234631"><img src="../assets/covers/2108517711970234631.jpg" width="400" alt="Sonnet与VOICEVOX的通讯介绍片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102605736002150408"><img src="../assets/covers/2102605736002150408.jpg" width="400" alt="光合作用动画课程"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104247692503204330"><img src="../assets/covers/2104247692503204330.jpg" width="400" alt="两分钟二战讲解片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Sonnet与VOICEVOX的通讯介绍片</strong><br><sub><a href="https://x.com/tetumemo">@tetumemo</a> · 知识讲解</sub><br><sub>0:32 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108517711970234631">▶ 播放</a> · <a href="https://x.com/tetumemo/status/2108517711970234631">原帖</a></td>
 <td width="50%" valign="top"><strong>光合作用动画课程</strong><br><sub><a href="https://x.com/rainwishyt">@rainwishyt</a> · 知识讲解</sub><br><sub>1:42 · 收藏 5 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102605736002150408">▶ 播放</a> · <a href="https://x.com/rainwishyt/status/2102605736002150408">原帖</a></td>
-<td width="50%" valign="top"><strong>两分钟二战讲解片</strong><br><sub><a href="https://x.com/Miguel07Code">@Miguel07Code</a> · 知识讲解</sub><br><sub>1:55 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104247692503204330">▶ 播放</a> · <a href="https://x.com/Miguel07Code/status/2104247692503204330">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104247692503204330"><img src="../assets/covers/2104247692503204330.jpg" width="400" alt="两分钟二战讲解片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103833991879053577"><img src="../assets/covers/2103833991879053577.jpg" width="180" alt="从桌面深入 CPU 与原子的连续镜头"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108506286207930467"><img src="../assets/covers/2108506286207930467.jpg" width="127" alt="逐词弹出的口播字幕"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>两分钟二战讲解片</strong><br><sub><a href="https://x.com/Miguel07Code">@Miguel07Code</a> · 知识讲解</sub><br><sub>1:55 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104247692503204330">▶ 播放</a> · <a href="https://x.com/Miguel07Code/status/2104247692503204330">原帖</a></td>
 <td width="50%" valign="top"><strong>从桌面深入 CPU 与原子的连续镜头</strong><br><sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · 知识讲解</sub><br><sub>0:44 · 收藏 4</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103833991879053577">▶ 播放</a> · <a href="https://x.com/Acoramaa/status/2103833991879053577">原帖</a></td>
-<td width="50%" valign="top"><strong>逐词弹出的口播字幕</strong><br><sub><a href="https://x.com/29meat_ai">@29meat_ai</a> · 知识讲解</sub><br><sub>0:15 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108506286207930467">▶ 播放</a> · <a href="https://x.com/29meat_ai/status/2108506286207930467">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -447,322 +427,312 @@
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108093967783080220"><img src="../assets/covers/2108093967783080220.jpg" width="248" alt="真人口播与 MG 信息卡的升学讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108926559264379318"><img src="../assets/covers/2108926559264379318.jpg" width="400" alt="Pup 小狗的量子分身叙事"></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong>真人口播与 MG 信息卡的升学讲解</strong><br><sub><a href="https://x.com/XinWEN2001">@XinWEN2001</a> · 知识讲解</sub><br><sub>1:19 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108093967783080220">▶ 播放</a> · <a href="https://x.com/XinWEN2001/status/2108093967783080220">原帖</a></td>
-<td width="50%" valign="top"><strong>Pup 小狗的量子分身叙事</strong><br><sub><a href="https://x.com/rgk_degen">@rgk_degen</a> · 知识讲解</sub><br><sub>0:25 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108926559264379318">▶ 播放</a> · <a href="https://x.com/rgk_degen/status/2108926559264379318">原帖</a></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107505590151020548"><img src="../assets/covers/2107505590151020548.jpg" width="400" alt="以真实硬件关系讲解装机"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103904436141842605"><img src="../assets/covers/2103904436141842605.jpg" width="400" alt="“树作为生态系统”的带声动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Pup 小狗的量子分身叙事</strong><br><sub><a href="https://x.com/rgk_degen">@rgk_degen</a> · 知识讲解</sub><br><sub>0:25 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108926559264379318">▶ 播放</a> · <a href="https://x.com/rgk_degen/status/2108926559264379318">原帖</a></td>
 <td width="50%" valign="top"><strong>以真实硬件关系讲解装机</strong><br><sub><a href="https://x.com/baoweiheihei">@baoweiheihei</a> · 知识讲解</sub><br><sub>1:42 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107505590151020548">▶ 播放</a> · <a href="https://x.com/baoweiheihei/status/2107505590151020548">原帖</a></td>
-<td width="50%" valign="top"><strong>“树作为生态系统”的带声动画</strong><br><sub><a href="https://x.com/hunzai">@hunzai</a> · 知识讲解</sub><br><sub>0:32 · 收藏 2</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103904436141842605">▶ 播放</a> · <a href="https://x.com/hunzai/status/2103904436141842605">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103904436141842605"><img src="../assets/covers/2103904436141842605.jpg" width="400" alt="“树作为生态系统”的带声动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107667480034562167"><img src="../assets/covers/2107667480034562167.jpg" width="180" alt="选用动效样例的日语讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107600510069182690"><img src="../assets/covers/2107600510069182690.jpg" width="400" alt="水车与灘の酒的历史讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>“树作为生态系统”的带声动画</strong><br><sub><a href="https://x.com/hunzai">@hunzai</a> · 知识讲解</sub><br><sub>0:32 · 收藏 2</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103904436141842605">▶ 播放</a> · <a href="https://x.com/hunzai/status/2103904436141842605">原帖</a></td>
 <td width="50%" valign="top"><strong>选用动效样例的日语讲解</strong><br><sub><a href="https://x.com/tenbin_ai">@tenbin_ai</a> · 知识讲解</sub><br><sub>0:58 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107667480034562167">▶ 播放</a> · <a href="https://x.com/tenbin_ai/status/2107667480034562167">原帖</a></td>
-<td width="50%" valign="top"><strong>水车与灘の酒的历史讲解</strong><br><sub><a href="https://x.com/phstarrion">@phstarrion</a> · 知识讲解</sub><br><sub>1:39 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107600510069182690">▶ 播放</a> · <a href="https://x.com/phstarrion/status/2107600510069182690">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107600510069182690"><img src="../assets/covers/2107600510069182690.jpg" width="400" alt="水车与灘の酒的历史讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107666804776775749"><img src="../assets/covers/2107666804776775749.jpg" width="127" alt="一部手机吞掉了多少东西"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108062374028783947"><img src="../assets/covers/2108062374028783947.jpg" width="400" alt="HyperFrames 与 Remotion 的制作方式讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>水车与灘の酒的历史讲解</strong><br><sub><a href="https://x.com/phstarrion">@phstarrion</a> · 知识讲解</sub><br><sub>1:39 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107600510069182690">▶ 播放</a> · <a href="https://x.com/phstarrion/status/2107600510069182690">原帖</a></td>
 <td width="50%" valign="top"><strong>一部手机吞掉了多少东西</strong><br><sub><a href="https://x.com/bangbuilds">@bangbuilds</a> · 知识讲解</sub><br><sub>1:30 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107666804776775749">▶ 播放</a> · <a href="https://x.com/bangbuilds/status/2107666804776775749">原帖</a></td>
-<td width="50%" valign="top"><strong>HyperFrames 与 Remotion 的制作方式讲解</strong><br><sub><a href="https://x.com/btcup99">@btcup99</a> · 知识讲解</sub><br><sub>2:45 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108062374028783947">▶ 播放</a> · <a href="https://x.com/btcup99/status/2108062374028783947">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108062374028783947"><img src="../assets/covers/2108062374028783947.jpg" width="400" alt="HyperFrames 与 Remotion 的制作方式讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103108964821107104"><img src="../assets/covers/2103108964821107104.jpg" width="400" alt="AI 2027 论文动画解读"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104598355372646422"><img src="../assets/covers/2104598355372646422.jpg" width="400" alt="Paul Graham 创业点子文章讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>HyperFrames 与 Remotion 的制作方式讲解</strong><br><sub><a href="https://x.com/btcup99">@btcup99</a> · 知识讲解</sub><br><sub>2:45 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108062374028783947">▶ 播放</a> · <a href="https://x.com/btcup99/status/2108062374028783947">原帖</a></td>
 <td width="50%" valign="top"><strong>AI 2027 论文动画解读</strong><br><sub><a href="https://x.com/Akash_Bang">@Akash_Bang</a> · 知识讲解</sub><br><sub>9:08 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103108964821107104">▶ 播放</a> · <a href="https://x.com/Akash_Bang/status/2103108964821107104">原帖</a></td>
-<td width="50%" valign="top"><strong>Paul Graham 创业点子文章讲解</strong><br><sub><a href="https://x.com/tejaskalpande">@tejaskalpande</a> · 知识讲解</sub><br><sub>2:19 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104598355372646422">▶ 播放</a> · <a href="https://x.com/tejaskalpande/status/2104598355372646422">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104598355372646422"><img src="../assets/covers/2104598355372646422.jpg" width="400" alt="Paul Graham 创业点子文章讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108396748217749961"><img src="../assets/covers/2108396748217749961.jpg" width="400" alt="短跑距离的 Blender 讲解片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108391993609216508"><img src="../assets/covers/2108391993609216508.jpg" width="400" alt="网络连接的 HTML 交互讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Paul Graham 创业点子文章讲解</strong><br><sub><a href="https://x.com/tejaskalpande">@tejaskalpande</a> · 知识讲解</sub><br><sub>2:19 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104598355372646422">▶ 播放</a> · <a href="https://x.com/tejaskalpande/status/2104598355372646422">原帖</a></td>
 <td width="50%" valign="top"><strong>短跑距离的 Blender 讲解片</strong><br><sub><a href="https://x.com/tanabe_fragm">@tanabe_fragm</a> · 知识讲解</sub><br><sub>0:52 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108396748217749961">▶ 播放</a> · <a href="https://x.com/tanabe_fragm/status/2108396748217749961">原帖</a></td>
-<td width="50%" valign="top"><strong>网络连接的 HTML 交互讲解</strong><br><sub><a href="https://x.com/Drake5112">@Drake5112</a> · 知识讲解</sub><br><sub>0:10 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108391993609216508">▶ 播放</a> · <a href="https://x.com/Drake5112/status/2108391993609216508">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108391993609216508"><img src="../assets/covers/2108391993609216508.jpg" width="400" alt="网络连接的 HTML 交互讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108505866626560200"><img src="../assets/covers/2108505866626560200.jpg" width="400" alt="先口播再动画的ReAct科普"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102890107200229817"><img src="../assets/covers/2102890107200229817.jpg" width="180" alt="从地球形成到人类的代码动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>网络连接的 HTML 交互讲解</strong><br><sub><a href="https://x.com/Drake5112">@Drake5112</a> · 知识讲解</sub><br><sub>0:10 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108391993609216508">▶ 播放</a> · <a href="https://x.com/Drake5112/status/2108391993609216508">原帖</a></td>
 <td width="50%" valign="top"><strong>先口播再动画的ReAct科普</strong><br><sub><a href="https://x.com/BX33666">@BX33666</a> · 知识讲解</sub><br><sub>4:52 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108505866626560200">▶ 播放</a> · <a href="https://x.com/BX33666/status/2108505866626560200">原帖</a></td>
-<td width="50%" valign="top"><strong>从地球形成到人类的代码动画</strong><br><sub><a href="https://x.com/JuancaGlez7">@JuancaGlez7</a> · 知识讲解</sub><br><sub>1:18 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102890107200229817">▶ 播放</a> · <a href="https://x.com/JuancaGlez7/status/2102890107200229817">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102890107200229817"><img src="../assets/covers/2102890107200229817.jpg" width="180" alt="从地球形成到人类的代码动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103166575071330778"><img src="../assets/covers/2103166575071330778.jpg" width="400" alt="线稿风经济学讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103202431224119500"><img src="../assets/covers/2103202431224119500.jpg" width="400" alt="MED13 综合征分层讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>从地球形成到人类的代码动画</strong><br><sub><a href="https://x.com/JuancaGlez7">@JuancaGlez7</a> · 知识讲解</sub><br><sub>1:18 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102890107200229817">▶ 播放</a> · <a href="https://x.com/JuancaGlez7/status/2102890107200229817">原帖</a></td>
 <td width="50%" valign="top"><strong>线稿风经济学讲解</strong><br><sub><a href="https://x.com/0xpai_eth">@0xpai_eth</a> · 知识讲解</sub><br><sub>4:24 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103166575071330778">▶ 播放</a> · <a href="https://x.com/0xpai_eth/status/2103166575071330778">原帖</a></td>
-<td width="50%" valign="top"><strong>MED13 综合征分层讲解</strong><br><sub><a href="https://x.com/eztati">@eztati</a> · 知识讲解</sub><br><sub>2:42 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103202431224119500">▶ 播放</a> · <a href="https://x.com/eztati/status/2103202431224119500">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103202431224119500"><img src="../assets/covers/2103202431224119500.jpg" width="400" alt="MED13 综合征分层讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107715610121760984"><img src="../assets/covers/2107715610121760984.jpg" width="127" alt="四分钟的大语言模型 Token 讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108204728534663215"><img src="../assets/covers/2108204728534663215.jpg" width="127" alt="太常引：古诗词动画学习片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>MED13 综合征分层讲解</strong><br><sub><a href="https://x.com/eztati">@eztati</a> · 知识讲解</sub><br><sub>2:42 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103202431224119500">▶ 播放</a> · <a href="https://x.com/eztati/status/2103202431224119500">原帖</a></td>
 <td width="50%" valign="top"><strong>四分钟的大语言模型 Token 讲解</strong><br><sub><a href="https://x.com/linxiaobei888">@linxiaobei888</a> · 知识讲解</sub><br><sub>4:21 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107715610121760984">▶ 播放</a> · <a href="https://x.com/linxiaobei888/status/2107715610121760984">原帖</a></td>
-<td width="50%" valign="top"><strong>太常引：古诗词动画学习片</strong><br><sub><a href="https://x.com/7998l201">@7998l201</a> · 知识讲解</sub><br><sub>3:09 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108204728534663215">▶ 播放</a> · <a href="https://x.com/7998l201/status/2108204728534663215">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108204728534663215"><img src="../assets/covers/2108204728534663215.jpg" width="127" alt="太常引：古诗词动画学习片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106208810604081208"><img src="../assets/covers/2106208810604081208.jpg" width="399" alt="How do LLMs work：可编辑代码讲解片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104466394859593915"><img src="../assets/covers/2104466394859593915.jpg" width="225" alt="十五秒搜索发展时间线"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>太常引：古诗词动画学习片</strong><br><sub><a href="https://x.com/7998l201">@7998l201</a> · 知识讲解</sub><br><sub>3:09 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108204728534663215">▶ 播放</a> · <a href="https://x.com/7998l201/status/2108204728534663215">原帖</a></td>
 <td width="50%" valign="top"><strong>How do LLMs work：可编辑代码讲解片</strong><br><sub><a href="https://x.com/ItsDarcy_AI">@ItsDarcy_AI</a> · 知识讲解</sub><br><sub>0:38 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106208810604081208">▶ 播放</a> · <a href="https://x.com/ItsDarcy_AI/status/2106208810604081208">原帖</a></td>
-<td width="50%" valign="top"><strong>十五秒搜索发展时间线</strong><br><sub><a href="https://x.com/aigame_lab">@aigame_lab</a> · 知识讲解</sub><br><sub>0:15 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104466394859593915">▶ 播放</a> · <a href="https://x.com/aigame_lab/status/2104466394859593915">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104466394859593915"><img src="../assets/covers/2104466394859593915.jpg" width="225" alt="十五秒搜索发展时间线"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103835848575746268"><img src="../assets/covers/2103835848575746268.jpg" width="400" alt="从地球山坡拉远到可观测宇宙"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107495093200691462"><img src="../assets/covers/2107495093200691462.jpg" width="370" alt="浏览器中的生物实验室"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>十五秒搜索发展时间线</strong><br><sub><a href="https://x.com/aigame_lab">@aigame_lab</a> · 知识讲解</sub><br><sub>0:15 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104466394859593915">▶ 播放</a> · <a href="https://x.com/aigame_lab/status/2104466394859593915">原帖</a></td>
 <td width="50%" valign="top"><strong>从地球山坡拉远到可观测宇宙</strong><br><sub><a href="https://x.com/kgonia7">@kgonia7</a> · 知识讲解</sub><br><sub>1:00 · 收藏 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103835848575746268">▶ 播放</a> · <a href="https://x.com/kgonia7/status/2103835848575746268">原帖</a></td>
-<td width="50%" valign="top"><strong>浏览器中的生物实验室</strong><br><sub><a href="https://x.com/nabendu82">@nabendu82</a> · 知识讲解</sub><br><sub>0:27 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107495093200691462">▶ 播放</a> · <a href="https://x.com/nabendu82/status/2107495093200691462">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107495093200691462"><img src="../assets/covers/2107495093200691462.jpg" width="370" alt="浏览器中的生物实验室"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103237989065277590"><img src="../assets/covers/2103237989065277590.jpg" width="127" alt="球形建筑演进时间线"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104196382404084075"><img src="../assets/covers/2104196382404084075.jpg" width="127" alt="三分钟 AI 史"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>浏览器中的生物实验室</strong><br><sub><a href="https://x.com/nabendu82">@nabendu82</a> · 知识讲解</sub><br><sub>0:27 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107495093200691462">▶ 播放</a> · <a href="https://x.com/nabendu82/status/2107495093200691462">原帖</a></td>
 <td width="50%" valign="top"><strong>球形建筑演进时间线</strong><br><sub><a href="https://x.com/RetropunkAI">@RetropunkAI</a> · 知识讲解</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103237989065277590">▶ 播放</a> · <a href="https://x.com/RetropunkAI/status/2103237989065277590">原帖</a></td>
-<td width="50%" valign="top"><strong>三分钟 AI 史</strong><br><sub><a href="https://x.com/shreyanshbuilds">@shreyanshbuilds</a> · 知识讲解</sub><br><sub>2:57 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104196382404084075">▶ 播放</a> · <a href="https://x.com/shreyanshbuilds/status/2104196382404084075">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104196382404084075"><img src="../assets/covers/2104196382404084075.jpg" width="127" alt="三分钟 AI 史"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104198927549604161"><img src="../assets/covers/2104198927549604161.jpg" width="400" alt="40秒解释 Coding Agent 如何工作"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107642061826445617"><img src="../assets/covers/2107642061826445617.jpg" width="127" alt="红宝石与蓝宝石的标本箱讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>三分钟 AI 史</strong><br><sub><a href="https://x.com/shreyanshbuilds">@shreyanshbuilds</a> · 知识讲解</sub><br><sub>2:57 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104196382404084075">▶ 播放</a> · <a href="https://x.com/shreyanshbuilds/status/2104196382404084075">原帖</a></td>
 <td width="50%" valign="top"><strong>40秒解释 Coding Agent 如何工作</strong><br><sub><a href="https://x.com/arthurkatcher">@arthurkatcher</a> · 知识讲解</sub><br><sub>0:40 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104198927549604161">▶ 播放</a> · <a href="https://x.com/arthurkatcher/status/2104198927549604161">原帖</a></td>
-<td width="50%" valign="top"><strong>红宝石与蓝宝石的标本箱讲解</strong><br><sub><a href="https://x.com/Ruri_Fable">@Ruri_Fable</a> · 知识讲解</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107642061826445617">▶ 播放</a> · <a href="https://x.com/Ruri_Fable/status/2107642061826445617">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107642061826445617"><img src="../assets/covers/2107642061826445617.jpg" width="127" alt="红宝石与蓝宝石的标本箱讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107680151593201743"><img src="../assets/covers/2107680151593201743.jpg" width="400" alt="黎曼猜想的科普动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108026744968298654"><img src="../assets/covers/2108026744968298654.jpg" width="127" alt="Token：剪刀与纸片的拼贴讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>红宝石与蓝宝石的标本箱讲解</strong><br><sub><a href="https://x.com/Ruri_Fable">@Ruri_Fable</a> · 知识讲解</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107642061826445617">▶ 播放</a> · <a href="https://x.com/Ruri_Fable/status/2107642061826445617">原帖</a></td>
 <td width="50%" valign="top"><strong>黎曼猜想的科普动画</strong><br><sub><a href="https://x.com/win96_fur">@win96_fur</a> · 知识讲解</sub><br><sub>12:41 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107680151593201743">▶ 播放</a> · <a href="https://x.com/win96_fur/status/2107680151593201743">原帖</a></td>
-<td width="50%" valign="top"><strong>Token：剪刀与纸片的拼贴讲解</strong><br><sub><a href="https://x.com/ALSK_ai">@ALSK_ai</a> · 知识讲解</sub><br><sub>1:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108026744968298654">▶ 播放</a> · <a href="https://x.com/ALSK_ai/status/2108026744968298654">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108026744968298654"><img src="../assets/covers/2108026744968298654.jpg" width="127" alt="Token：剪刀与纸片的拼贴讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105558561602560448"><img src="../assets/covers/2105558561602560448.jpg" width="400" alt="Three Sacrifices：国际象棋解题动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/Juleboost3/status/2106060741732147653"><img src="../assets/covers/2106060741732147653.jpg" width="400" alt="用 3D 动画解释 AI 量化"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Token：剪刀与纸片的拼贴讲解</strong><br><sub><a href="https://x.com/ALSK_ai">@ALSK_ai</a> · 知识讲解</sub><br><sub>1:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108026744968298654">▶ 播放</a> · <a href="https://x.com/ALSK_ai/status/2108026744968298654">原帖</a></td>
 <td width="50%" valign="top"><strong>Three Sacrifices：国际象棋解题动画</strong><br><sub><a href="https://x.com/TheAIObserverX">@TheAIObserverX</a> · 知识讲解</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105558561602560448">▶ 播放</a> · <a href="https://x.com/TheAIObserverX/status/2105558561602560448">原帖</a></td>
-<td width="50%" valign="top"><strong>用 3D 动画解释 AI 量化</strong><br><sub><a href="https://x.com/Juleboost3">@Juleboost3</a> · 知识讲解</sub><br><sub>1:11 · 收藏 0 · 资料待完善</sub><br><a href="https://x.com/Juleboost3/status/2106060741732147653">▶ 在 X 观看</a> · <a href="https://x.com/Juleboost3/status/2106060741732147653">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/Juleboost3/status/2106060741732147653"><img src="../assets/covers/2106060741732147653.jpg" width="400" alt="用 3D 动画解释 AI 量化"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108161420911370303"><img src="../assets/covers/2108161420911370303.jpg" width="400" alt="Nano Banana 2.1 的用途与限制讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108421410557428177"><img src="../assets/covers/2108421410557428177.jpg" width="127" alt="公开回复生成的X主题成分图"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>用 3D 动画解释 AI 量化</strong><br><sub><a href="https://x.com/Juleboost3">@Juleboost3</a> · 知识讲解</sub><br><sub>1:11 · 收藏 0 · 资料待完善</sub><br><a href="https://x.com/Juleboost3/status/2106060741732147653">▶ 在 X 观看</a> · <a href="https://x.com/Juleboost3/status/2106060741732147653">原帖</a></td>
 <td width="50%" valign="top"><strong>Nano Banana 2.1 的用途与限制讲解</strong><br><sub><a href="https://x.com/FalconG_J">@FalconG_J</a> · 知识讲解</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108161420911370303">▶ 播放</a> · <a href="https://x.com/FalconG_J/status/2108161420911370303">原帖</a></td>
-<td width="50%" valign="top"><strong>公开回复生成的X主题成分图</strong><br><sub><a href="https://x.com/bangbuilds">@bangbuilds</a> · 知识讲解</sub><br><sub>0:12 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108421410557428177">▶ 播放</a> · <a href="https://x.com/bangbuilds/status/2108421410557428177">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108421410557428177"><img src="../assets/covers/2108421410557428177.jpg" width="127" alt="公开回复生成的X主题成分图"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103130115177898208"><img src="../assets/covers/2103130115177898208.jpg" width="400" alt="历史主题讲解视频合成"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104234497156018396"><img src="../assets/covers/2104234497156018396.jpg" width="400" alt="地球自转与公转信息图"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>公开回复生成的X主题成分图</strong><br><sub><a href="https://x.com/bangbuilds">@bangbuilds</a> · 知识讲解</sub><br><sub>0:12 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108421410557428177">▶ 播放</a> · <a href="https://x.com/bangbuilds/status/2108421410557428177">原帖</a></td>
 <td width="50%" valign="top"><strong>历史主题讲解视频合成</strong><br><sub><a href="https://x.com/Hectoryu">@Hectoryu</a> · 知识讲解</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103130115177898208">▶ 播放</a> · <a href="https://x.com/Hectoryu/status/2103130115177898208">原帖</a></td>
-<td width="50%" valign="top"><strong>地球自转与公转信息图</strong><br><sub><a href="https://x.com/sidodtv">@sidodtv</a> · 知识讲解</sub><br><sub>1:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104234497156018396">▶ 播放</a> · <a href="https://x.com/sidodtv/status/2104234497156018396">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104234497156018396"><img src="../assets/covers/2104234497156018396.jpg" width="400" alt="地球自转与公转信息图"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104256238246596651"><img src="../assets/covers/2104256238246596651.jpg" width="400" alt="Starlink 工作原理讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104809653947265030"><img src="../assets/covers/2104809653947265030.jpg" width="242" alt="3500 条整数数列的交互式 3D 图谱"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>地球自转与公转信息图</strong><br><sub><a href="https://x.com/sidodtv">@sidodtv</a> · 知识讲解</sub><br><sub>1:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104234497156018396">▶ 播放</a> · <a href="https://x.com/sidodtv/status/2104234497156018396">原帖</a></td>
 <td width="50%" valign="top"><strong>Starlink 工作原理讲解</strong><br><sub><a href="https://x.com/omni1896837">@omni1896837</a> · 知识讲解</sub><br><sub>4:34 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104256238246596651">▶ 播放</a> · <a href="https://x.com/omni1896837/status/2104256238246596651">原帖</a></td>
-<td width="50%" valign="top"><strong>3500 条整数数列的交互式 3D 图谱</strong><br><sub><a href="https://x.com/decompwlj">@decompwlj</a> · 知识讲解</sub><br><sub>0:29 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104809653947265030">▶ 播放</a> · <a href="https://x.com/decompwlj/status/2104809653947265030">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104809653947265030"><img src="../assets/covers/2104809653947265030.jpg" width="242" alt="3500 条整数数列的交互式 3D 图谱"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105360011916697713"><img src="../assets/covers/2105360011916697713.jpg" width="400" alt="三轮车急刹与碰撞示意动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106053810405654768"><img src="../assets/covers/2106053810405654768.jpg" width="127" alt="从来不只有我们：人物关系教育短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>3500 条整数数列的交互式 3D 图谱</strong><br><sub><a href="https://x.com/decompwlj">@decompwlj</a> · 知识讲解</sub><br><sub>0:29 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104809653947265030">▶ 播放</a> · <a href="https://x.com/decompwlj/status/2104809653947265030">原帖</a></td>
 <td width="50%" valign="top"><strong>三轮车急刹与碰撞示意动画</strong><br><sub><a href="https://x.com/nullbytes00">@nullbytes00</a> · 知识讲解</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105360011916697713">▶ 播放</a> · <a href="https://x.com/nullbytes00/status/2105360011916697713">原帖</a></td>
-<td width="50%" valign="top"><strong>从来不只有我们：人物关系教育短片</strong><br><sub><a href="https://x.com/AliKibao">@AliKibao</a> · 知识讲解</sub><br><sub>2:41 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106053810405654768">▶ 播放</a> · <a href="https://x.com/AliKibao/status/2106053810405654768">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106053810405654768"><img src="../assets/covers/2106053810405654768.jpg" width="127" alt="从来不只有我们：人物关系教育短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107212634835849505"><img src="../assets/covers/2107212634835849505.jpg" width="127" alt="KV Cache：代码动画讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107615935570084308"><img src="../assets/covers/2107615935570084308.jpg" width="127" alt="CMYK 从版到网点再到纸张"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>从来不只有我们：人物关系教育短片</strong><br><sub><a href="https://x.com/AliKibao">@AliKibao</a> · 知识讲解</sub><br><sub>2:41 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106053810405654768">▶ 播放</a> · <a href="https://x.com/AliKibao/status/2106053810405654768">原帖</a></td>
 <td width="50%" valign="top"><strong>KV Cache：代码动画讲解</strong><br><sub><a href="https://x.com/_princegupta13">@_princegupta13</a> · 知识讲解</sub><br><sub>0:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107212634835849505">▶ 播放</a> · <a href="https://x.com/_princegupta13/status/2107212634835849505">原帖</a></td>
-<td width="50%" valign="top"><strong>CMYK 从版到网点再到纸张</strong><br><sub><a href="https://x.com/design_oyaji">@design_oyaji</a> · 知识讲解</sub><br><sub>0:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107615935570084308">▶ 播放</a> · <a href="https://x.com/design_oyaji/status/2107615935570084308">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107615935570084308"><img src="../assets/covers/2107615935570084308.jpg" width="127" alt="CMYK 从版到网点再到纸张"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108183474968654242"><img src="../assets/covers/2108183474968654242.jpg" width="400" alt="克苏鲁神话 TRPG 入门讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108314868189172216"><img src="../assets/covers/2108314868189172216.jpg" width="400" alt="二维码的浏览器三维讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>CMYK 从版到网点再到纸张</strong><br><sub><a href="https://x.com/design_oyaji">@design_oyaji</a> · 知识讲解</sub><br><sub>0:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107615935570084308">▶ 播放</a> · <a href="https://x.com/design_oyaji/status/2107615935570084308">原帖</a></td>
 <td width="50%" valign="top"><strong>克苏鲁神话 TRPG 入门讲解</strong><br><sub><a href="https://x.com/gigabit_million">@gigabit_million</a> · 知识讲解</sub><br><sub>1:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108183474968654242">▶ 播放</a> · <a href="https://x.com/gigabit_million/status/2108183474968654242">原帖</a></td>
-<td width="50%" valign="top"><strong>二维码的浏览器三维讲解</strong><br><sub><a href="https://x.com/eyadnour">@eyadnour</a> · 知识讲解</sub><br><sub>1:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108314868189172216">▶ 播放</a> · <a href="https://x.com/eyadnour/status/2108314868189172216">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108314868189172216"><img src="../assets/covers/2108314868189172216.jpg" width="400" alt="二维码的浏览器三维讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108458503367200908"><img src="../assets/covers/2108458503367200908.jpg" width="400" alt="刹车踏板断裂的3D讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109225733382086866"><img src="../assets/covers/2109225733382086866.jpg" width="227" alt="LRU 缓存与标签机制说明动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>二维码的浏览器三维讲解</strong><br><sub><a href="https://x.com/eyadnour">@eyadnour</a> · 知识讲解</sub><br><sub>1:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108314868189172216">▶ 播放</a> · <a href="https://x.com/eyadnour/status/2108314868189172216">原帖</a></td>
 <td width="50%" valign="top"><strong>刹车踏板断裂的3D讲解</strong><br><sub><a href="https://x.com/chang_">@chang_</a> · 知识讲解</sub><br><sub>5:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108458503367200908">▶ 播放</a> · <a href="https://x.com/chang_/status/2108458503367200908">原帖</a></td>
-<td width="50%" valign="top"><strong>LRU 缓存与标签机制说明动画</strong><br><sub><a href="https://x.com/dstartupkid">@dstartupkid</a> · 知识讲解</sub><br><sub>0:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109225733382086866">▶ 播放</a> · <a href="https://x.com/dstartupkid/status/2109225733382086866">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109225733382086866"><img src="../assets/covers/2109225733382086866.jpg" width="227" alt="LRU 缓存与标签机制说明动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103022039854657902"><img src="../assets/covers/2103022039854657902.jpg" width="400" alt="高考物理题动画解答"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103095131536764940"><img src="../assets/covers/2103095131536764940.jpg" width="127" alt="电力从电厂到插座的旅程"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>LRU 缓存与标签机制说明动画</strong><br><sub><a href="https://x.com/dstartupkid">@dstartupkid</a> · 知识讲解</sub><br><sub>0:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109225733382086866">▶ 播放</a> · <a href="https://x.com/dstartupkid/status/2109225733382086866">原帖</a></td>
 <td width="50%" valign="top"><strong>高考物理题动画解答</strong><br><sub><a href="https://x.com/hooyall0113">@hooyall0113</a> · 知识讲解</sub><br><sub>1:56 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103022039854657902">▶ 播放</a> · <a href="https://x.com/hooyall0113/status/2103022039854657902">原帖</a></td>
-<td width="50%" valign="top"><strong>电力从电厂到插座的旅程</strong><br><sub><a href="https://x.com/jisaku_net">@jisaku_net</a> · 知识讲解</sub><br><sub>1:17 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103095131536764940">▶ 播放</a> · <a href="https://x.com/jisaku_net/status/2103095131536764940">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103095131536764940"><img src="../assets/covers/2103095131536764940.jpg" width="127" alt="电力从电厂到插座的旅程"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103114698610683964"><img src="../assets/covers/2103114698610683964.jpg" width="400" alt="网页设计文章改编视频"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103192634395361596"><img src="../assets/covers/2103192634395361596.jpg" width="400" alt="动画赛艇入门教程"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>电力从电厂到插座的旅程</strong><br><sub><a href="https://x.com/jisaku_net">@jisaku_net</a> · 知识讲解</sub><br><sub>1:17 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103095131536764940">▶ 播放</a> · <a href="https://x.com/jisaku_net/status/2103095131536764940">原帖</a></td>
 <td width="50%" valign="top"><strong>网页设计文章改编视频</strong><br><sub><a href="https://x.com/Oscar_sanmillan">@Oscar_sanmillan</a> · 知识讲解</sub><br><sub>0:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103114698610683964">▶ 播放</a> · <a href="https://x.com/Oscar_sanmillan/status/2103114698610683964">原帖</a></td>
-<td width="50%" valign="top"><strong>动画赛艇入门教程</strong><br><sub><a href="https://x.com/Bishal_Ramdam1">@Bishal_Ramdam1</a> · 知识讲解</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103192634395361596">▶ 播放</a> · <a href="https://x.com/Bishal_Ramdam1/status/2103192634395361596">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103192634395361596"><img src="../assets/covers/2103192634395361596.jpg" width="400" alt="动画赛艇入门教程"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104166304177336520"><img src="../assets/covers/2104166304177336520.jpg" width="400" alt="甘特图关键路径讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211152662106358"><img src="../assets/covers/2104211152662106358.jpg" width="400" alt="LeJEPA 论文动画讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>动画赛艇入门教程</strong><br><sub><a href="https://x.com/Bishal_Ramdam1">@Bishal_Ramdam1</a> · 知识讲解</sub><br><sub>1:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103192634395361596">▶ 播放</a> · <a href="https://x.com/Bishal_Ramdam1/status/2103192634395361596">原帖</a></td>
 <td width="50%" valign="top"><strong>甘特图关键路径讲解</strong><br><sub><a href="https://x.com/marc_bara">@marc_bara</a> · 知识讲解</sub><br><sub>0:43 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104166304177336520">▶ 播放</a> · <a href="https://x.com/marc_bara/status/2104166304177336520">原帖</a></td>
-<td width="50%" valign="top"><strong>LeJEPA 论文动画讲解</strong><br><sub><a href="https://x.com/SimonGoodman_">@SimonGoodman_</a> · 知识讲解</sub><br><sub>6:24 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211152662106358">▶ 播放</a> · <a href="https://x.com/SimonGoodman_/status/2104211152662106358">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211152662106358"><img src="../assets/covers/2104211152662106358.jpg" width="400" alt="LeJEPA 论文动画讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104342945713561812"><img src="../assets/covers/2104342945713561812.jpg" width="180" alt="从细胞到肿瘤：86秒动画讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105231283248844875"><img src="../assets/covers/2105231283248844875.jpg" width="400" alt="安第斯汉坦病毒机制二维讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>LeJEPA 论文动画讲解</strong><br><sub><a href="https://x.com/SimonGoodman_">@SimonGoodman_</a> · 知识讲解</sub><br><sub>6:24 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104211152662106358">▶ 播放</a> · <a href="https://x.com/SimonGoodman_/status/2104211152662106358">原帖</a></td>
 <td width="50%" valign="top"><strong>从细胞到肿瘤：86秒动画讲解</strong><br><sub><a href="https://x.com/bobbyships">@bobbyships</a> · 知识讲解</sub><br><sub>1:26 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104342945713561812">▶ 播放</a> · <a href="https://x.com/bobbyships/status/2104342945713561812">原帖</a></td>
-<td width="50%" valign="top"><strong>安第斯汉坦病毒机制二维讲解</strong><br><sub><a href="https://x.com/ericpoderoso_cg">@ericpoderoso_cg</a> · 知识讲解</sub><br><sub>1:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105231283248844875">▶ 播放</a> · <a href="https://x.com/ericpoderoso_cg/status/2105231283248844875">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105231283248844875"><img src="../assets/covers/2105231283248844875.jpg" width="400" alt="安第斯汉坦病毒机制二维讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105560147863187557"><img src="../assets/covers/2105560147863187557.jpg" width="400" alt="营销策略与 LEGO 概念讲解试验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105563112539893936"><img src="../assets/covers/2105563112539893936.jpg" width="127" alt="一分钟回顾 Windows 更新"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>安第斯汉坦病毒机制二维讲解</strong><br><sub><a href="https://x.com/ericpoderoso_cg">@ericpoderoso_cg</a> · 知识讲解</sub><br><sub>1:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105231283248844875">▶ 播放</a> · <a href="https://x.com/ericpoderoso_cg/status/2105231283248844875">原帖</a></td>
 <td width="50%" valign="top"><strong>营销策略与 LEGO 概念讲解试验</strong><br><sub><a href="https://x.com/BasiratAfroz1">@BasiratAfroz1</a> · 知识讲解</sub><br><sub>1:34 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105560147863187557">▶ 播放</a> · <a href="https://x.com/BasiratAfroz1/status/2105560147863187557">原帖</a></td>
-<td width="50%" valign="top"><strong>一分钟回顾 Windows 更新</strong><br><sub><a href="https://x.com/shion_nichicoma">@shion_nichicoma</a> · 知识讲解</sub><br><sub>1:03 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105563112539893936">▶ 播放</a> · <a href="https://x.com/shion_nichicoma/status/2105563112539893936">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105563112539893936"><img src="../assets/covers/2105563112539893936.jpg" width="127" alt="一分钟回顾 Windows 更新"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107157967329960060"><img src="../assets/covers/2107157967329960060.jpg" width="127" alt="手绘式 AI 历史短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107480273969627325"><img src="../assets/covers/2107480273969627325.jpg" width="127" alt="曾侯乙编钟：三分钟历史讲解"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>一分钟回顾 Windows 更新</strong><br><sub><a href="https://x.com/shion_nichicoma">@shion_nichicoma</a> · 知识讲解</sub><br><sub>1:03 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105563112539893936">▶ 播放</a> · <a href="https://x.com/shion_nichicoma/status/2105563112539893936">原帖</a></td>
 <td width="50%" valign="top"><strong>手绘式 AI 历史短片</strong><br><sub><a href="https://x.com/13_narcissus">@13_narcissus</a> · 知识讲解</sub><br><sub>0:40 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107157967329960060">▶ 播放</a> · <a href="https://x.com/13_narcissus/status/2107157967329960060">原帖</a></td>
-<td width="50%" valign="top"><strong>曾侯乙编钟：三分钟历史讲解</strong><br><sub><a href="https://x.com/YFeng2022">@YFeng2022</a> · 知识讲解</sub><br><sub>3:01 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107480273969627325">▶ 播放</a> · <a href="https://x.com/YFeng2022/status/2107480273969627325">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107480273969627325"><img src="../assets/covers/2107480273969627325.jpg" width="127" alt="曾侯乙编钟：三分钟历史讲解"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107499968143733228"><img src="../assets/covers/2107499968143733228.jpg" width="400" alt="AI 意识与宗教的旁白讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107878084032753751"><img src="../assets/covers/2107878084032753751.jpg" width="300" alt="数据库内部结构的三维交互导览"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>曾侯乙编钟：三分钟历史讲解</strong><br><sub><a href="https://x.com/YFeng2022">@YFeng2022</a> · 知识讲解</sub><br><sub>3:01 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107480273969627325">▶ 播放</a> · <a href="https://x.com/YFeng2022/status/2107480273969627325">原帖</a></td>
 <td width="50%" valign="top"><strong>AI 意识与宗教的旁白讲解</strong><br><sub><a href="https://x.com/itnavi2022">@itnavi2022</a> · 知识讲解</sub><br><sub>3:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107499968143733228">▶ 播放</a> · <a href="https://x.com/itnavi2022/status/2107499968143733228">原帖</a></td>
-<td width="50%" valign="top"><strong>数据库内部结构的三维交互导览</strong><br><sub><a href="https://x.com/EKeric13">@EKeric13</a> · 知识讲解</sub><br><sub>2:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107878084032753751">▶ 播放</a> · <a href="https://x.com/EKeric13/status/2107878084032753751">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107878084032753751"><img src="../assets/covers/2107878084032753751.jpg" width="300" alt="数据库内部结构的三维交互导览"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108043700416954557"><img src="../assets/covers/2108043700416954557.jpg" width="180" alt="写程序画视频的二十八秒讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108091950310019268"><img src="../assets/covers/2108091950310019268.jpg" width="127" alt="模型费用主题的资讯短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>数据库内部结构的三维交互导览</strong><br><sub><a href="https://x.com/EKeric13">@EKeric13</a> · 知识讲解</sub><br><sub>2:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107878084032753751">▶ 播放</a> · <a href="https://x.com/EKeric13/status/2107878084032753751">原帖</a></td>
 <td width="50%" valign="top"><strong>写程序画视频的二十八秒讲解</strong><br><sub><a href="https://x.com/sycbruce">@sycbruce</a> · 知识讲解</sub><br><sub>0:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108043700416954557">▶ 播放</a> · <a href="https://x.com/sycbruce/status/2108043700416954557">原帖</a></td>
-<td width="50%" valign="top"><strong>模型费用主题的资讯短片</strong><br><sub><a href="https://x.com/zheng_qili666">@zheng_qili666</a> · 知识讲解</sub><br><sub>1:35 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108091950310019268">▶ 播放</a> · <a href="https://x.com/zheng_qili666/status/2108091950310019268">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108091950310019268"><img src="../assets/covers/2108091950310019268.jpg" width="127" alt="模型费用主题的资讯短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108121685752967414"><img src="../assets/covers/2108121685752967414.jpg" width="400" alt="FIRE 博客的四十六分钟动画改编"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108143447496679553"><img src="../assets/covers/2108143447496679553.jpg" width="400" alt="十三分钟的诺贝尔奖讲解试片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>模型费用主题的资讯短片</strong><br><sub><a href="https://x.com/zheng_qili666">@zheng_qili666</a> · 知识讲解</sub><br><sub>1:35 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108091950310019268">▶ 播放</a> · <a href="https://x.com/zheng_qili666/status/2108091950310019268">原帖</a></td>
 <td width="50%" valign="top"><strong>FIRE 博客的四十六分钟动画改编</strong><br><sub><a href="https://x.com/ploto_me">@ploto_me</a> · 知识讲解</sub><br><sub>46:18 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108121685752967414">▶ 播放</a> · <a href="https://x.com/ploto_me/status/2108121685752967414">原帖</a></td>
-<td width="50%" valign="top"><strong>十三分钟的诺贝尔奖讲解试片</strong><br><sub><a href="https://x.com/KeWai386772">@KeWai386772</a> · 知识讲解</sub><br><sub>13:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108143447496679553">▶ 播放</a> · <a href="https://x.com/KeWai386772/status/2108143447496679553">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108143447496679553"><img src="../assets/covers/2108143447496679553.jpg" width="400" alt="十三分钟的诺贝尔奖讲解试片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108152460523311469"><img src="../assets/covers/2108152460523311469.jpg" width="400" alt="HyperFrames 与 Three.js 讲 AI 发展史"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108152596422914490"><img src="../assets/covers/2108152596422914490.jpg" width="253" alt="从箱体预演到角色镜头"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>十三分钟的诺贝尔奖讲解试片</strong><br><sub><a href="https://x.com/KeWai386772">@KeWai386772</a> · 知识讲解</sub><br><sub>13:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108143447496679553">▶ 播放</a> · <a href="https://x.com/KeWai386772/status/2108143447496679553">原帖</a></td>
 <td width="50%" valign="top"><strong>HyperFrames 与 Three.js 讲 AI 发展史</strong><br><sub><a href="https://x.com/btcup99">@btcup99</a> · 知识讲解</sub><br><sub>2:03 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108152460523311469">▶ 播放</a> · <a href="https://x.com/btcup99/status/2108152460523311469">原帖</a></td>
-<td width="50%" valign="top"><strong>从箱体预演到角色镜头</strong><br><sub><a href="https://x.com/poppitheatre">@poppitheatre</a> · 知识讲解</sub><br><sub>1:44 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108152596422914490">▶ 播放</a> · <a href="https://x.com/poppitheatre/status/2108152596422914490">原帖</a></td>
 </tr>
 </tbody>
 <tbody>

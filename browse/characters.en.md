@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-57 works. Click a cover to play; works without gallery video open on X.
+56 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -237,62 +237,52 @@
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108476552057172312"><img src="../assets/covers/2108476552057172312.jpg" width="400" alt="A Western Character and Landscape Study"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104003920251257328"><img src="../assets/covers/2104003920251257328.jpg" width="400" alt="CatWalk: A Black Cat by a Moonlit Canal"></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong>A Western Character and Landscape Study</strong><br><sub><a href="https://x.com/luqmanedits">@luqmanedits</a> · Pixel art &amp; characters</sub><br><sub>0:17 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108476552057172312">▶ Play</a> · <a href="https://x.com/luqmanedits/status/2108476552057172312">Original post</a></td>
-<td width="50%" valign="top"><strong>CatWalk: A Black Cat by a Moonlit Canal</strong><br><sub><a href="https://x.com/blitast_studio">@blitast_studio</a> · Pixel art &amp; characters</sub><br><sub>0:36 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104003920251257328">▶ Play</a> · <a href="https://x.com/blitast_studio/status/2104003920251257328">Original post</a></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104664355270992140"><img src="../assets/covers/2104664355270992140.jpg" width="127" alt="A Remotion Animation Test for an Original Fighting Game"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104719112803062038"><img src="../assets/covers/2104719112803062038.jpg" width="138" alt="A Blender Spider Animation Challenge"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>CatWalk: A Black Cat by a Moonlit Canal</strong><br><sub><a href="https://x.com/blitast_studio">@blitast_studio</a> · Pixel art &amp; characters</sub><br><sub>0:36 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104003920251257328">▶ Play</a> · <a href="https://x.com/blitast_studio/status/2104003920251257328">Original post</a></td>
 <td width="50%" valign="top"><strong>A Remotion Animation Test for an Original Fighting Game</strong><br><sub><a href="https://x.com/chriscodling5">@chriscodling5</a> · Pixel art &amp; characters</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104664355270992140">▶ Play</a> · <a href="https://x.com/chriscodling5/status/2104664355270992140">Original post</a></td>
-<td width="50%" valign="top"><strong>A Blender Spider Animation Challenge</strong><br><sub><a href="https://x.com/solvXuk">@solvXuk</a> · Pixel art &amp; characters</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104719112803062038">▶ Play</a> · <a href="https://x.com/solvXuk/status/2104719112803062038">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104719112803062038"><img src="../assets/covers/2104719112803062038.jpg" width="138" alt="A Blender Spider Animation Challenge"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105228931506852141"><img src="../assets/covers/2105228931506852141.jpg" width="400" alt="Sid: A Pixel Pet for a Homelab"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105675146166169912"><img src="../assets/covers/2105675146166169912.jpg" width="400" alt="Two visual styles for the INKBOUND ink spirit"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Blender Spider Animation Challenge</strong><br><sub><a href="https://x.com/solvXuk">@solvXuk</a> · Pixel art &amp; characters</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104719112803062038">▶ Play</a> · <a href="https://x.com/solvXuk/status/2104719112803062038">Original post</a></td>
 <td width="50%" valign="top"><strong>Sid: A Pixel Pet for a Homelab</strong><br><sub><a href="https://x.com/m_deuce">@m_deuce</a> · Pixel art &amp; characters</sub><br><sub>1:36 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105228931506852141">▶ Play</a> · <a href="https://x.com/m_deuce/status/2105228931506852141">Original post</a></td>
-<td width="50%" valign="top"><strong>Two visual styles for the INKBOUND ink spirit</strong><br><sub><a href="https://x.com/agentgamesbot">@agentgamesbot</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105675146166169912">▶ Play</a> · <a href="https://x.com/agentgamesbot/status/2105675146166169912">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105675146166169912"><img src="../assets/covers/2105675146166169912.jpg" width="400" alt="Two visual styles for the INKBOUND ink spirit"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107139500980007379"><img src="../assets/covers/2107139500980007379.jpg" width="300" alt="Oh, the Places: an interactive storybook"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485136103325759"><img src="../assets/covers/2107485136103325759.jpg" width="400" alt="From a sprite sheet to Pyxel animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Two visual styles for the INKBOUND ink spirit</strong><br><sub><a href="https://x.com/agentgamesbot">@agentgamesbot</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105675146166169912">▶ Play</a> · <a href="https://x.com/agentgamesbot/status/2105675146166169912">Original post</a></td>
 <td width="50%" valign="top"><strong>Oh, the Places: an interactive storybook</strong><br><sub><a href="https://x.com/EKeric13">@EKeric13</a> · Pixel art &amp; characters</sub><br><sub>0:23 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107139500980007379">▶ Play</a> · <a href="https://x.com/EKeric13/status/2107139500980007379">Original post</a></td>
-<td width="50%" valign="top"><strong>From a sprite sheet to Pyxel animation</strong><br><sub><a href="https://x.com/pro_gramma">@pro_gramma</a> · Pixel art &amp; characters</sub><br><sub>0:04 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485136103325759">▶ Play</a> · <a href="https://x.com/pro_gramma/status/2107485136103325759">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485136103325759"><img src="../assets/covers/2107485136103325759.jpg" width="400" alt="From a sprite sheet to Pyxel animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107496783635185802"><img src="../assets/covers/2107496783635185802.jpg" width="400" alt="NEO CRASH: a side-scrolling action game"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108302872077111794"><img src="../assets/covers/2108302872077111794.jpg" width="400" alt="Synchronized Effects for a Talking Cartoon"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>From a sprite sheet to Pyxel animation</strong><br><sub><a href="https://x.com/pro_gramma">@pro_gramma</a> · Pixel art &amp; characters</sub><br><sub>0:04 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107485136103325759">▶ Play</a> · <a href="https://x.com/pro_gramma/status/2107485136103325759">Original post</a></td>
 <td width="50%" valign="top"><strong>NEO CRASH: a side-scrolling action game</strong><br><sub><a href="https://x.com/the_vibepreneur">@the_vibepreneur</a> · Pixel art &amp; characters</sub><br><sub>0:49 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107496783635185802">▶ Play</a> · <a href="https://x.com/the_vibepreneur/status/2107496783635185802">Original post</a></td>
-<td width="50%" valign="top"><strong>Synchronized Effects for a Talking Cartoon</strong><br><sub><a href="https://x.com/felipesuarez">@felipesuarez</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108302872077111794">▶ Play</a> · <a href="https://x.com/felipesuarez/status/2108302872077111794">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108302872077111794"><img src="../assets/covers/2108302872077111794.jpg" width="400" alt="Synchronized Effects for a Talking Cartoon"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108927579503681764"><img src="../assets/covers/2108927579503681764.jpg" width="400" alt="FarmGirl Assembles a Chair in Godot"></a></td>
-<td width="50%"></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Synchronized Effects for a Talking Cartoon</strong><br><sub><a href="https://x.com/felipesuarez">@felipesuarez</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108302872077111794">▶ Play</a> · <a href="https://x.com/felipesuarez/status/2108302872077111794">Original post</a></td>
 <td width="50%" valign="top"><strong>FarmGirl Assembles a Chair in Godot</strong><br><sub><a href="https://x.com/alexerichter">@alexerichter</a> · Pixel art &amp; characters</sub><br><sub>4:38 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108927579503681764">▶ Play</a> · <a href="https://x.com/alexerichter/status/2108927579503681764">Original post</a></td>
-<td width="50%"></td>
 </tr>
 </tbody>
 </table>
