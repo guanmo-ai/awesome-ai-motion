@@ -8,7 +8,7 @@ import path from 'node:path';
 const root = path.resolve(import.meta.dirname, '..');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/cases.json'), 'utf8'));
 
-const coverIds=body=>[...body.matchAll(/assets\/covers\/(\d+)\.jpg/g)].map(m=>m[1]);
+const coverIds=body=>[...body.matchAll(/assets\/(?:covers|readme-covers)\/(\d+)\.(?:jpg|svg)/g)].map(m=>m[1]);
 function listingCards(body) {
   return [...body.matchAll(/<tbody>(.*?)<\/tbody>/gs)].flatMap(([,group])=>{
     const rows=[...group.matchAll(/<tr>(.*?)<\/tr>/gs)].map(m=>[...m[1].matchAll(/<td\b[^>]*>(.*?)<\/td>/gs)].map(cell=>cell[1]));
@@ -93,7 +93,7 @@ test('首页先分类再精选，长提示词只出现在详情，brief 也保�
   assert.ok(readme.includes('# Awesome AI Motion'));
   assert.ok(readme.includes('README.en.md'));
   assert.ok(readme.indexOf('id="browse"')<readme.indexOf('id="featured"'));
-  assert.ok(Buffer.byteLength(readme)<32000,'首页在视觉分类预览下仍保持轻量');
+  assert.ok(Buffer.byteLength(readme)<64000,'包含 160 张可点击封面的首页 Markdown 保持在 64 KB 内');
   assert.ok(!readme.includes('make a modern slick and punchy video'));
   for(const c of catalog.cases) {
     const browse=[...outputs].filter(([file])=>/^browse\/.*(?<!\.en)\.md$/.test(file)&&!['browse/discoveries.md','browse/resources.md'].includes(file));
@@ -154,14 +154,12 @@ test('所有双语作品页的主观看入口和封面进入实际可用的观�
   }
 });
 
-test('README 与分类页双语卡片分两列对齐，保留播放与原帖入口', () => {
+test('分类页双语卡片分两列对齐，保留播放与原帖入口', () => {
   const outputs=buildOutputs(catalog);
   for(const en of [false,true]) for(const [file,body] of outputs) {
     if(/^browse\/resources(?:\.en)?\.md$/.test(file))continue;
-    if(!file.startsWith('browse/')&&file!==`README${en?'.en':''}.md`)continue;
+    if(!file.startsWith('browse/'))continue;
     if(file.startsWith('browse/')&&file.endsWith('.en.md')!==en)continue;
-    if(file.startsWith('README')&&file.endsWith('.en.md')!==en)continue;
-    if(file.startsWith('README'))assert.ok(body.includes(en?'Click a cover to play in the gallery':'点击封面打开画廊播放'));
     const cards=listingCards(body);
     assert.ok(cards.length,`${file}: 应包含可观看卡片`);
     for(const card of cards) {
@@ -203,7 +201,7 @@ test('没有画廊视频时双语详情、README 和分类页回退作者原帖'
     let browseCards=0;
     for(const file of [`README${en?'.en':''}.md`,...([...outputs.keys()].filter(name=>name.startsWith('browse/')&&(name.endsWith('.en.md')===en)))]) {
       const card=listingCards(outputs.get(file)).find(text=>text.includes(c.cover.path));
-      if(file.startsWith('README'))assert.ok(card,`${file}: 选中的案例应显示在首页`);
+      if(file.startsWith('README'))assert.ok(outputs.get(file).includes(`<a href="${c.source.url}"><img src="assets/readme-covers/${c.id}.svg"`),`${file}: 首页封面回退原帖`);
       if(!card)continue;
       if(file.startsWith('browse/'))browseCards++;
       assert.ok(card.includes(`<a href="${c.source.url}"><img `),`${file}: 无画廊视频的封面应去原帖`);
@@ -252,7 +250,7 @@ test('手动精选决定 README 选入，取消默认精选后不会重新自动
   const chosen=copy.cases[0];chosen.review.featured=true;
   for(const en of [false,true]) {
     const readme=buildOutputs(copy).get(`README${en?'.en':''}.md`);
-    const featuredSection=readme.split('<a id="featured"></a>')[1].split('<a id="category-')[0];
+    const featuredSection=readme.split('<a id="featured"></a>')[1].split('<a id="about">')[0];
     const cards=listingCards(featuredSection);
     assert.equal(cards.length,1);
     assert.ok(cards[0].includes(chosen.cover.path));
@@ -286,23 +284,25 @@ test('发现池按来源核对和编目进度标记，不把完整视听评价�
 });
 
 
-test('首页每个非空类别都有最多两张对应封面与完整分类入口',()=>{
+test('首页每个非空类别都有用途说明、准确计数与完整分类入口',()=>{
+  const slugs=['product','education','motion','characters','interactive','stories','music'];
+  const categories=['产品宣传','知识讲解','短动效','像素与角色','3D 与交互','叙事短片','音乐与歌词'];
   for(const en of [false,true]) {
     const readme=buildOutputs(catalog).get(`README${en?'.en':''}.md`);
-    const sections=[...readme.matchAll(/<a id="category-([^"]+)"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)];
-    assert.equal(sections.length,new Set(catalog.cases.map(c=>c.category)).size);
-    for(const [,slug,body] of sections) {
-      const ids=coverIds(body);
-      assert.ok(ids.length>0&&ids.length<=2);
-      assert.equal(new Set(ids).size,ids.length);
-      assert.equal(new Set(ids.map(id=>catalog.cases.find(c=>c.id===id).category)).size,1);
-      assert.ok(body.includes(`browse/${slug}${en?'.en':''}.md`));
-    }
+    const section=readme.split('<a id="browse"></a>')[1].split('<a id="more"></a>')[0];
+    assert.equal(coverIds(section).length,0,'分类目录不重复铺图');
+    categories.forEach((category,i)=>{
+      const count=catalog.cases.filter(c=>c.category===category).length;
+      if(!count)return;
+      const row=section.split('\n').find(line=>line.includes(`id="category-${slugs[i]}"`));
+      assert.ok(row.includes(`browse/${slugs[i]}${en?'.en':''}.md`));
+      assert.ok(row.endsWith(`| ${count} |`));
+    });
   }
 });
 
 
-test('首页和分类预览按收藏展示，人工排后不改变收藏榜，发现池仍可达',()=>{
+test('首页折叠收藏榜按收藏展示，人工排后不改变收藏榜，发现池仍可达',()=>{
   const copy=structuredClone(catalog),category=copy.cases[0].category;
   for(const c of copy.cases)if(c.category===category)c.review={highlights:[],later:true,featured:false};
   const ranked=[...copy.cases].sort((a,b)=>(b.metrics.bookmarks??-1)-(a.metrics.bookmarks??-1)||Date.parse(b.source.publishedAt)-Date.parse(a.source.publishedAt)||a.id.localeCompare(b.id));
@@ -313,10 +313,6 @@ test('首页和分类预览按收藏展示，人工排后不改变收藏榜，�
     assert.deepEqual(ids(intro),ranked.slice(0,6).map(c=>c.id));
     assert.ok(intro.includes(`${en?'Bookmarks':'收藏'} ${ranked[0].metrics.bookmarks.toLocaleString('en-US')}`));
     assert.ok(readme.includes(`](browse/discoveries${en?'.en':''}.md)`));
-    for(const [,body] of readme.matchAll(/<a id="category-[^"]+"><\/a>(.*?)(?=<a id="category-|首页及分类预览|Homepage and category previews)/gs)) {
-      const actual=ids(body),source=copy.cases.find(c=>c.id===actual[0]).category;
-      assert.deepEqual(actual,ranked.filter(c=>c.category===source).slice(0,2).map(c=>c.id));
-    }
     assert.doesNotMatch(readme,/<table>\s*<\/table>/);
   }
 });

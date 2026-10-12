@@ -17,7 +17,8 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
         };
       }
     }
-    addEventListener(type,listener){this.listeners.set(type,listener);}
+    addEventListener(type,listener,{signal}={}){const list=this.listeners.get(type)||[];list.push({listener,signal});this.listeners.set(type,list);}
+    getContext(){return {drawImage:()=>{this.drawCount=(this.drawCount||0)+1;}};}
     setAttribute(name,value){this[name]=String(value);}
     getAttribute(name){return this[name]??null;}
     removeAttribute(name){delete this[name];}
@@ -40,7 +41,7 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
     showModal(){this.open=true;}
     close(){this.open=false;document.activeElement=null;}
     focus(){document.activeElement=this;}
-    send(type,event={}){this.listeners.get(type)?.(event);}
+    send(type,event={}){for(const {listener,signal} of this.listeners.get(type)||[])if(!signal?.aborted)listener(event);}
   }
   const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
   const nodes=new Map([...html.matchAll(/id="([^"]+)"/g)].map(([,id])=>[id,new Node()]));
@@ -52,7 +53,7 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
   const document={getElementById:id=>nodes.get(id),createElement:tagName=>new Node(tagName),createElementNS:(_,tagName)=>new Node(tagName),createTextNode:text=>{const node=new Node('#text');node.textContent=text;return node;},querySelector:()=>new Node(),documentElement:{},body:{style:{}},addEventListener:(type,listener)=>documentListeners.set(type,listener),activeElement:null};
   document.exitFullscreen=()=>{document.fullscreenElement=null;return Promise.resolve();};
   const location=new URL(`https://gallery.test/${search}`);
-  const timers=new Map(),windowListeners=new Map();let timerId=0;
+  const timers=new Map(),windowListeners=new Map(),mediaQueries=new Map();let timerId=0;
   let observer;
   class IntersectionObserver {
     constructor(callback){this.callback=callback;this.targets=new Set();observer=this;}
@@ -64,7 +65,7 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
   const history={state:null,pushState(data,_,url){this.state=data;location.href=url;},replaceState(data,_,url){this.state=data;location.href=url;}};
   const context={...model,document,location,history,Element:Node,URL,Intl,Date,console,AbortController,IntersectionObserver,
     navigator:{connection:{saveData:Boolean(preferences.saveData)}},
-    window:{matchMedia:query=>({matches:query.includes('max-width')?Boolean(preferences.mobile):Boolean(preferences.reducedMotion),addEventListener(){}}),addEventListener:(type,listener)=>windowListeners.set(type,listener),scrollTo(){}},
+    window:{matchMedia:query=>{const media={matches:query.includes('max-width')?Boolean(preferences.mobile):Boolean(preferences.reducedMotion),addEventListener(_,listener){this.listener=listener;}};mediaQueries.set(query,media);return media;},addEventListener:(type,listener)=>windowListeners.set(type,listener),scrollTo(){}},
     fetch:async()=>({ok:true,json:async()=>({cases:rows})}),
     setTimeout:callback=>{timers.set(++timerId,callback);return timerId;},clearTimeout:id=>timers.delete(id),
   };
@@ -73,7 +74,7 @@ async function gallery(search='?page=all',rows=[],preferences={}) {
   assert.equal(nodes.get('loading').hidden,true,'真实页面初始化应成功');
   const flush=()=>{for(const [id,callback] of [...timers]){timers.delete(id);callback();}};
   const input=(value,event={})=>{nodes.get('search').value=value;nodes.get('search').send('input',event);};
-  return {nodes,location,timers,flush,input,document,windowListeners,documentListeners,observer};
+  return {nodes,location,timers,flush,input,document,windowListeners,documentListeners,observer,mediaQueries};
 }
 
 test('连续搜索只应用最后一个值，Enter 立即查询且不会留下延迟更新',async()=>{
@@ -236,16 +237,69 @@ test('视频已有播放数据时不误报网络停滞，真正缓冲超时仍�
 const settlePreviews=()=>new Promise(resolve=>setImmediate(resolve));
 const playableSample=()=>JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url))).cases.find(c=>c.webPlayback);
 
-test('观看比例由封面预设、视频尺寸校正，切换作品不继承上一条比例',async()=>{
+test('横竖视频的元数据不改变观看布局，切换和关闭仍正常',async()=>{
   const sample=playableSample(),portrait={...sample,id:'1',cover:{...sample.cover,width:480,height:852}},wide={...sample,id:'2',cover:{...sample.cover,width:960,height:540}};
   const app=await gallery('?page=all#case-1',[portrait,wide]),viewer=app.nodes.get('viewer');
-  assert.equal(Number(viewer.style['--viewer-media-ratio']),480/852);
-  const video=app.nodes.get('viewer-content').querySelector('video');
+  const layoutStyle=node=>Object.fromEntries(Object.entries(node.style).filter(([,value])=>typeof value!=='function'));
+  assert.deepEqual(layoutStyle(viewer),{});
+  const content=app.nodes.get('viewer-content'),stage=content.querySelector('.detail-stage'),materials=content.querySelector('.detail-materials');
+  assert.equal(stage.children[0].className,'player-area');
+  assert.equal(stage.querySelector('.detail-intro'),null);
+  assert.equal(materials.children[0].className,'detail-intro');
+  const video=content.querySelector('video');
   video.videoWidth=720;video.videoHeight=1280;video.send('loadedmetadata');
-  assert.equal(Number(viewer.style['--viewer-media-ratio']),720/1280);
+  assert.deepEqual(layoutStyle(viewer),{});
+  assert.deepEqual(layoutStyle(video),{});
+  assert.equal(Number(content.querySelector('.player-frame').style['--media-ratio']),720/1280);
   app.nodes.get('viewer-next').send('click');
   assert.equal(app.location.hash,'#case-2');
-  assert.equal(Number(viewer.style['--viewer-media-ratio']),16/9);
+  const nextVideo=app.nodes.get('viewer-content').querySelector('video');
+  nextVideo.videoWidth=1920;nextVideo.videoHeight=1080;nextVideo.send('loadedmetadata');
+  assert.deepEqual(layoutStyle(viewer),{});
+  assert.deepEqual(layoutStyle(nextVideo),{});
+  assert.equal(Number(content.querySelector('.player-frame').style['--media-ratio']),1920/1080);
+  app.nodes.get('close').send('click');
+  assert.equal(viewer.open,false);
+  assert.equal(nextVideo.paused,true);
+});
+
+test('氛围画面复用当前视频，暂停、隐藏、切换和关闭清理绘制',async()=>{
+  const sample=playableSample(),app=await gallery('?page=all#case-1',[{...sample,id:'1'},{...sample,id:'2'}]);
+  const content=app.nodes.get('viewer-content'),video=content.querySelector('video'),canvas=content.querySelector('canvas');
+  assert.equal(canvas.width,64);assert.equal(canvas.height,36);
+  video.readyState=4;video.paused=false;video.send('playing');
+  assert.equal(canvas.drawCount,1);
+  app.flush();assert.equal(canvas.drawCount,2);
+  video.paused=true;video.send('pause');app.flush();assert.equal(canvas.drawCount,2);
+  video.paused=false;video.send('playing');assert.equal(canvas.drawCount,3);
+  app.document.hidden=true;app.documentListeners.get('visibilitychange')();app.flush();assert.equal(canvas.drawCount,3);
+  app.document.hidden=false;app.documentListeners.get('visibilitychange')();assert.equal(canvas.drawCount,4);
+  app.nodes.get('viewer-next').send('click');app.flush();assert.equal(canvas.drawCount,4);
+  video.send('playing');assert.equal(canvas.drawCount,4,'旧视频事件已撤销');
+  const nextVideo=content.querySelector('video'),nextCanvas=content.querySelector('canvas');
+  nextVideo.readyState=4;nextVideo.paused=false;nextVideo.send('playing');assert.equal(nextCanvas.drawCount,1);
+  app.nodes.get('close').send('click');app.flush();assert.equal(nextCanvas.drawCount,1);
+});
+
+test('氛围背景在动态偏好关闭与播放失败时回退封面，重试后恢复',async()=>{
+  const sample=playableSample(),app=await gallery(`?page=all#case-${sample.id}`,[sample]);
+  const content=app.nodes.get('viewer-content'),video=content.querySelector('video'),canvas=content.querySelector('canvas');
+  video.readyState=4;video.paused=false;video.send('playing');assert.equal(canvas.hidden,false);
+  const media=app.mediaQueries.get('(prefers-reduced-motion: reduce)');media.matches=true;media.listener({matches:true});
+  assert.equal(canvas.hidden,true);const count=canvas.drawCount;app.flush();assert.equal(canvas.drawCount,count);
+  media.matches=false;media.listener({matches:false});assert.equal(canvas.hidden,false);
+  video.send('error');assert.equal(canvas.hidden,true);app.flush();
+  video.send('loadstart');assert.equal(canvas.hidden,false);
+});
+
+test('减少动态或节省流量时氛围保持静态封面',async()=>{
+  for(const preferences of [{reducedMotion:true},{saveData:true}]){
+    const sample=playableSample(),app=await gallery(`?page=all#case-${sample.id}`,[sample],preferences);
+    const content=app.nodes.get('viewer-content'),video=content.querySelector('video'),canvas=content.querySelector('canvas');
+    video.readyState=4;video.paused=false;video.send('playing');app.flush();assert.equal(canvas.drawCount,undefined);
+    assert.equal(content.querySelector('.player-frame').style['--ambient-poster'],`url(${JSON.stringify(new URL(model.coverPath(sample.cover.path),app.location.href).href)})`);
+    assert.equal(canvas.hidden,true);
+  }
 });
 
 test('全屏入口放大当前视频，保留播放位置和暂停状态',async()=>{

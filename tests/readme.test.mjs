@@ -1,8 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {resourceLinks,readState} from '../assets/gallery-model.mjs';
-import {README_SPOTLIGHTS,spotlightCases,catalogStats,sourceCases,buildOutputs} from '../scripts/build.mjs';
+import {readState} from '../assets/gallery-model.mjs';
+import {spotlightCases,catalogStats,buildOutputs} from '../scripts/build.mjs';
 
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url),'utf8'));
 const resource=(kind,url='https://example.com/source')=>({kind,url});
@@ -20,47 +20,87 @@ test('README 统计按作品计数，不把演示、工具或重复源码链接�
   assert.deepEqual(rows,before);
 });
 
-test('README 导览保留编辑次序，删除或取消精选后不补入其他作品，也不改变评价',()=>{
-  const rows=README_SPOTLIGHTS.map(({id})=>({id,cover:{path:`assets/covers/${id}.jpg`},source:{url:`https://x.com/creator/status/${id}`}}));
+const row=(id,bookmarks,publishedAt='2026-10-12T00:00:00Z')=>({id,metrics:{bookmarks},source:{url:`https://x.com/creator/status/${id}`,publishedAt},cover:{path:`assets/covers/${id}.jpg`}});
+
+test('README 综合排序在同收藏时优先较新作品，同日期时优先高收藏，保留高收藏旧作',()=>{
+  const rows=[row('1',100,'2026-09-28T00:00:00Z'),row('2',100),row('3',1000,'2026-09-28T00:00:00Z'),row('4',10)];
   const before=structuredClone(rows);
-  assert.deepEqual(spotlightCases([...rows].reverse()).map(({item})=>item.id),rows.map(c=>c.id));
+  assert.deepEqual(spotlightCases(rows).map(c=>c.id),['3','2','1','4']);
+  assert.deepEqual(spotlightCases([...rows].reverse()).map(c=>c.id),['3','2','1','4']);
+  assert.deepEqual(spotlightCases(rows,2).map(c=>c.id),['3','2']);
   assert.deepEqual(rows,before);
-  rows[0].review={featured:false,highlights:[],later:false};
-  rows[1].review={highlights:[],later:true};
-  rows[2].cover.path='invalid';
-  rows.pop();
-  assert.deepEqual(spotlightCases(rows).map(({item})=>item.id),[rows[3].id,rows[4].id]);
+});
+
+test('README 排序把未知收藏放在已知零之后，缺失日期排后，相同分数稳定排序',()=>{
+  const rows=[row('2',0),row('1',0),row('3',null),row('4',undefined),row('5',0,'invalid')];
+  assert.deepEqual(spotlightCases(rows).map(c=>c.id),['1','2','5','3','4']);
   assert.deepEqual(spotlightCases([]),[]);
 });
 
-test('源码专区不混入公开网页或工具，保留收藏次序且尊重人工排后',()=>{
-  const rows=[
-    {id:'demo',metrics:{bookmarks:100},resources:[resource('demo')]},
-    {id:'tool',metrics:{bookmarks:90},resources:[resource('tool')]},
-    {id:'later',metrics:{bookmarks:80},resources:[resource('code')],review:{later:true}},
-    {id:'code',metrics:{bookmarks:10},resources:[resource('code')]},
-    {id:'legacy',metrics:{bookmarks:5},codeUrl:'https://example.com/legacy'},
-  ];
-  assert.deepEqual(sourceCases(rows).map(c=>c.id),['code','legacy']);
+test('README 拼接墙和热门卡片排除指定水面作品、排后或取消精选作品及无效来源，不改变评价',()=>{
+  const rows=[row('1',100),row('2',90),row('3',80),row('4',70),row('5',60),row('2102786378282987591',100000)];
+  rows[1].review={featured:false,highlights:[],later:false};
+  rows[2].review={highlights:[],later:true};
+  rows[3].cover.path='invalid';
+  rows[4].source.url='javascript:alert(1)';
+  const before=structuredClone(rows);
+  assert.deepEqual(spotlightCases(rows,60).map(c=>c.id),['1']);
+  assert.deepEqual(rows,before);
+  assert.deepEqual(spotlightCases(rows.filter(c=>c.id!=='1')),[]);
 });
 
-test('双语 README 导览及统计一致，入口带正确筛选和语言，不为缺失资源补链接',()=>{
-  const outputs=buildOutputs(catalog),stats=catalogStats(catalog.cases),spotlights=spotlightCases(catalog.cases);
+test('双语拼接墙按综合热度生成一百六十个等尺寸封面，卡片仅有观看与原帖操作',()=>{
+  const outputs=buildOutputs(catalog),ranked=spotlightCases(catalog.cases,160);
+  for(const item of ranked) {
+    const framed=outputs.get(`assets/readme-covers/${item.id}.svg`);
+    assert.ok(framed.includes('width="320" height="180" viewBox="0 0 320 180"'));
+    assert.ok(framed.includes('preserveAspectRatio="xMidYMid slice"'),'居中裁切，不能拉伸画面');
+    assert.deepEqual(Buffer.from(framed.match(/data:image\/jpeg;base64,([^"]+)/)[1],'base64'),fs.readFileSync(new URL('../'+item.cover.path,import.meta.url)),'只改变画框，不改原图');
+  }
   for(const en of [false,true]) {
     const readme=outputs.get(`README${en?'.en':''}.md`);
-    const hero=readme.split('<a id="browse">')[0];
-    for(const n of Object.values(stats))assert.ok(hero.includes(String(n)));
-    const links=[...hero.matchAll(/\]\((https:\/\/guanmo-ai\.github\.io\/awesome-ai-motion\/[^)]*)\)/g)].map(m=>readState(m[1]));
-    assert.ok(links.some(s=>s.resource==='code'&&s.lang===(en?'en':'zh')));
-    assert.ok(links.some(s=>s.prompt==='original'&&s.lang===(en?'en':'zh')));
-    const section=readme.split('<a id="spotlights"></a>')[1].split('<a id="source-code">')[0];
-    assert.deepEqual([...section.matchAll(/<img src="assets\/covers\/(\d+)\.jpg"/g)].map(m=>m[1]),spotlights.map(({item})=>item.id));
-    for(const {item,note} of spotlights) {
-      assert.ok(section.includes(note[en?'en':'zh']));
-      for(const r of resourceLinks(item).filter(r=>r.kind==='code'))assert.ok(section.includes(r.url));
+    const wall=readme.split('<a id="mosaic"></a>')[1].split('<a id="spotlights"></a>')[0];
+    assert.ok(wall.includes(`${catalog.cases.length} ${en?'works':'个作品'}`));
+    assert.deepEqual([...wall.matchAll(/<img src="assets\/readme-covers\/(\d+)\.svg"/g)].map(m=>m[1]),ranked.map(c=>c.id));
+    const mosaicRows=wall.match(/<p align="center">([\s\S]*?)<\/p>/)[1].split('<br>');
+    assert.equal(mosaicRows.length,10);
+    for(const row of mosaicRows) {
+      const widths=[...row.matchAll(/width="([\d.]+)%"/g)].map(m=>Number(m[1]));
+      assert.equal(widths.length,16);
+      assert.ok(widths.every(width=>width===6.2375),'所有拼图使用相同宽度');
     }
-    const sourceLabel=en?'Source code':'查看源码';
-    assert.equal(section.split(`>${sourceLabel} ↗</a>`).length-1,spotlights.reduce((n,{item})=>n+resourceLinks(item).filter(r=>r.kind==='code').length,0));
-    assert.ok(readme.indexOf('id="spotlights"')<readme.indexOf(en?'## Most bookmarked':'## 收藏最多'));
+    const cards=readme.split('<a id="spotlights"></a>')[1].split('<a id="browse"></a>')[0];
+    assert.deepEqual([...cards.matchAll(/<img src="assets\/readme-covers\/(\d+)\.svg"/g)].map(m=>m[1]),ranked.slice(0,6).map(c=>c.id));
+    for(const item of ranked.slice(0,6)) {
+      assert.ok(cards.includes(item.source.url));
+      assert.ok(cards.includes(item.author.url));
+    }
+    assert.ok(!cards.includes('href="cases/'));
+    assert.ok(!cards.match(/>(?:提示词|源码|体验|Prompt|Source|Demo)<\/a>/));
+    assert.equal([...cards.matchAll(new RegExp(`>${en?'Original':'原帖'}</a>`,'g'))].length,6);
+    for(const m of (wall+cards).matchAll(/href="(https:\/\/guanmo-ai\.github\.io\/awesome-ai-motion\/[^"]*)"/g)) {
+      const state=readState(m[1]);
+      assert.equal(state.lang,en?'en':'zh');
+      assert.ok(state.caseId);
+    }
+    assert.ok(!readme.includes('?resource=code'));
+    assert.ok(!readme.includes('?prompt=original'));
+  }
+});
+
+test('目录删除或排后会同步移出拼接墙与热门卡片，后续作品自动补位',()=>{
+  const first=spotlightCases(catalog.cases)[0].id;
+  for(const change of ['remove','later','unfeature']) {
+    const copy=structuredClone(catalog);
+    if(change==='remove')copy.cases=copy.cases.filter(c=>c.id!==first);
+    else {
+      const item=copy.cases.find(c=>c.id===first);
+      item.review={...item.review,...(change==='later'?{later:true}:{featured:false})};
+    }
+    for(const en of [false,true]) {
+      const intro=buildOutputs(copy).get(`README${en?'.en':''}.md`).split('<a id="browse"></a>')[0];
+      assert.ok(!intro.includes(`assets/readme-covers/${first}.svg`));
+      assert.equal([...intro.matchAll(/<img /g)].length,166);
+    }
   }
 });

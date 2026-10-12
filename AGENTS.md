@@ -4,7 +4,8 @@
 
 - `data/cases.json` 是内容源；README、分类页、双语详情和提示词由 `scripts/build.mjs` 生成。
 - `index.html` 与 `assets/gallery*` 是独立静态画廊。预览使用 `PORT=4178 node scripts/serve.mjs`，仅绑定本机。
-- 发现与核验见 `docs/DISCOVERY.md`，维护与发布见 `docs/MAINTAINING.md`。参考仓库只用于找原帖，不照搬收录判断。
+- 收录范围、发现与核验见 `docs/DISCOVERY.md`，维护与发布见 `docs/MAINTAINING.md`。核心是模型编写代码产生的动效；既有制作方式不明确的案例保留待核。参考仓库只用于找原帖，不照搬收录判断。
+- 手动探索或增量更新先读本地 `.agents/skills/motion-source-research/SKILL.md` 与 `.research/DAILY_UPDATE_WORKFLOW.md`，按检查点续接；这些本地入口不随公开仓库分发。
 - `discovery` 表示来源已核对、编目资料待完善；`catalogued` 表示资料已整理。完整视听评价是可选记录，不是收录门槛；精选单独标记。
 - 保留 `.research/deleted-works/` 中的删除恢复记录；其他研究证据也只留在被忽略的 `.research/`，不公开提交。
 - 先查看工作树并保留已有改动。先本地审看，提交、推送和 PR 须获得用户授权；获准推送 `main` 时，同时完成网站自动部署与线上核验，不把网站更新拆为额外确认。仅推送成功不能视为发布完成。

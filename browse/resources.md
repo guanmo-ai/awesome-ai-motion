@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-117 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+115 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -119,12 +119,6 @@
 - **直接源码**：[BIRIBIRI 游戏与公开 HTML](https://biribiri-game.web.app/) · 未标明许可
   作者直接链接的游戏页包含可读的内联实现及日英入口；它是游戏代码，尚未取得宣传片工程，也未核得整个项目的复用许可。
   [链接出处](https://x.com/mappletour/status/2104206756482334921) · 链接核对 2026-10-10 04:56 UTC
-
-## [Seedance 与 HyperFrames 的 SaaS 广告](../cases/2104548405565595747.md) · @farooqsheik
-
-- **相关工具**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
-  作者称 HyperFrames 负责该广告的 motion graphics；这是工具关系，不是该广告工程源码。仓库固定提交许可为 Apache-2.0。
-  [链接出处](https://x.com/farooqsheik/status/2104548405565595747) · 链接核对 2026-09-30 09:55 UTC
 
 ## [IdeaVim 产品宣传片](../cases/2105231699407986785.md) · @ideavim
 
@@ -729,12 +723,6 @@
 - **公开网页**：[送别：72 秒蜡笔动画样片](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
   固定 SHA 下 README 指向的作品视频；作者原帖提供外部演示证据。视频和音频输出含源代码许可之外的声音素材边界，勿据 MIT 推断成品媒体的再分发权。
   [链接出处](https://x.com/JohnnyWang8802/status/2105304203770118434) · 链接核对 2026-10-01 16:08 UTC
-
-## [RIGHT CAN WAIT：AI音乐视频片段](../cases/2108497504576917621.md) · @SomASonI51
-
-- **公开网页**：[RIGHT CAN WAIT完整MV](https://youtu.be/G36wyDpJOFg)
-  作者原帖直接链接，YouTube标题对应；本站原帖片段与完整MV入口分开，尚未完整视听审看。
-  [链接出处](https://x.com/SomASonI51/status/2108497504576917621) · 链接核对 2026-10-09 11:56 UTC
 
 ## [Word Is Bond：威尼斯商人音乐改编](../cases/2106883204762185728.md) · @DFakkeldy
 

@@ -62,7 +62,7 @@ export function createCuration(root) {
       entry={...entry,status:'restored',restoredAt:new Date().toISOString()};
     }
     if(entry)entryFile=`${trashDir}/${entry.key}.json`;
-    const oldOutputs=buildOutputs(before),newOutputs=buildOutputs(after),changes=new Map();
+    const oldOutputs=buildOutputs(before,read),newOutputs=buildOutputs(after,file=>entry?.item.cover.path===file&&cover?cover:read(file)),changes=new Map();
     for(const file of new Set([...oldOutputs.keys(),...newOutputs.keys()])) {
       if(oldOutputs.get(file)===newOutputs.get(file))continue;
       const actual=read(file),expected=oldOutputs.get(file);

@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-117 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+115 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -119,12 +119,6 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[BIRIBIRI game and public HTML](https://biribiri-game.web.app/) · No license specified
   The creator-linked game page contains readable inline implementation and Japanese/English entry points. This is game code; the trailer project and a project-wide reuse license were not obtained.
   [Link source](https://x.com/mappletour/status/2104206756482334921) · Link checked 2026-10-10 04:56 UTC
-
-## [A SaaS Ad with Seedance and HyperFrames](../cases/2104548405565595747.en.md) · @farooqsheik
-
-- **Related tool**：[HyperFrames](https://github.com/heygen-com/hyperframes/tree/9a27b9f9349b43b9fd194a95ace830d7cbe38b42) · [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/9a27b9f9349b43b9fd194a95ace830d7cbe38b42/LICENSE)
-  The creator says HyperFrames handled motion graphics for this ad; this establishes tool use, not access to the ad's project source. The pinned repository commit is Apache-2.0.
-  [Link source](https://x.com/farooqsheik/status/2104548405565595747) · Link checked 2026-09-30 09:55 UTC
 
 ## [An IdeaVim Product Promo](../cases/2105231699407986785.en.md) · @ideavim
 
@@ -729,12 +723,6 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Songbie: 72-second crayon animation preview](https://github.com/JohnnyWang8802/songbie/blob/97225eb54a351c9938ad896e04bef7a7020393fb/media/songbie.mp4)
   The work video linked by the README at the pinned SHA; the creator's post is the external demo evidence. The rendered video/audio has sound-source boundaries outside the code license, so MIT should not be taken as a grant to redistribute the finished media.
   [Link source](https://x.com/JohnnyWang8802/status/2105304203770118434) · Link checked 2026-10-01 16:08 UTC
-
-## [RIGHT CAN WAIT: an AI Music-video Excerpt](../cases/2108497504576917621.en.md) · @SomASonI51
-
-- **Public web page**：[RIGHT CAN WAIT full music video](https://youtu.be/G36wyDpJOFg)
-  Directly linked by the creator, with a matching YouTube title. The original-post excerpt and full MV are separate entrances; complete audiovisual review has not been performed.
-  [Link source](https://x.com/SomASonI51/status/2108497504576917621) · Link checked 2026-10-09 11:56 UTC
 
 ## [Word Is Bond: The Merchant of Venice](../cases/2106883204762185728.en.md) · @DFakkeldy
 

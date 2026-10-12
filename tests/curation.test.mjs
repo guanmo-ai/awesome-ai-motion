@@ -16,23 +16,23 @@ function fixture(t) {
   const write=(file,body)=>{fs.mkdirSync(path.dirname(path.join(root,file)),{recursive:true});fs.writeFileSync(path.join(root,file),body);};
   write('data/cases.json',JSON.stringify(catalog,null,2)+'\n');
   for(const c of catalog.cases)write(c.cover.path,Buffer.from('test cover'));
-  for(const [file,body] of buildOutputs(catalog))write(file,body);
+  for(const [file,body] of buildOutputs(catalog,file=>fs.readFileSync(path.join(root,file))))write(file,body);
   return {root,catalog,write};
 }
 test('删除同步数据、双语详情、提示词、封面与分类；重启后能恢复，其他删除不被覆盖',t=>{
   const {root,catalog}=fixture(t);let editor=createCuration(root),s=editor.snapshot();
   s=editor.mutate('delete','1',s.revision);
   assert.equal(s.catalog.cases.length,1);assert.equal(s.trash.length,1);
-  for(const file of ['cases/1.md','cases/1.en.md','prompts/1.txt','assets/covers/1.jpg'])assert.equal(fs.existsSync(path.join(root,file)),false,file);
+  for(const file of ['cases/1.md','cases/1.en.md','prompts/1.txt','assets/covers/1.jpg','assets/readme-covers/1.svg'])assert.equal(fs.existsSync(path.join(root,file)),false,file);
   assert.ok(!fs.readFileSync(path.join(root,'browse/motion.md'),'utf8').includes('assets/covers/1.jpg'));
-  assert.ok(fs.readFileSync(path.join(root,'README.md'),'utf8').includes('**1 个作品 ·'));
+  assert.ok(fs.readFileSync(path.join(root,'README.md'),'utf8').includes('<sub>1 个作品 &nbsp;'));
   s=editor.mutate('delete','2',s.revision);
   assert.equal(fs.existsSync(path.join(root,'browse/motion.md')),false);
   editor=createCuration(root);s=editor.snapshot();assert.equal(s.trash.length,2);
   s=editor.mutate('restore',s.trash.find(e=>e.id==='1').key,s.revision);
   assert.deepEqual(s.catalog.cases,[catalog.cases[0]]);assert.equal(s.trash.length,1);
   assert.ok(fs.existsSync(path.join(root,'assets/covers/1.jpg')));
-  for(const [file,body] of buildOutputs(s.catalog))assert.equal(fs.readFileSync(path.join(root,file),'utf8'),body);
+  for(const [file,body] of buildOutputs(s.catalog,file=>fs.readFileSync(path.join(root,file))))assert.equal(fs.readFileSync(path.join(root,file),'utf8'),body);
 });
 test('拒绝旧版本和手改生成文件，失败不留下半次删除',t=>{
   const {root,write}=fixture(t),editor=createCuration(root),s=editor.snapshot();
@@ -44,7 +44,7 @@ test('拒绝旧版本和手改生成文件，失败不留下半次删除',t=>{
 });
 test('校验失败回滚数据、生成页和封面',t=>{
   const {root,write,catalog}=fixture(t);catalog.cases[1].model.evidenceQuote='';
-  write('data/cases.json',JSON.stringify(catalog));for(const [file,body] of buildOutputs(catalog))write(file,body);
+  write('data/cases.json',JSON.stringify(catalog));for(const [file,body] of buildOutputs(catalog,file=>fs.readFileSync(path.join(root,file))))write(file,body);
   const editor=createCuration(root),s=editor.snapshot();
   assert.throws(()=>editor.mutate('delete','1',s.revision),/模型依据/);
   assert.equal(editor.snapshot().revision,s.revision);assert.equal(editor.snapshot().trash.length,0);
@@ -78,7 +78,7 @@ test('评价保存到仓库并同步排序，删除恢复保留评价，清除�
   const browse=fs.readFileSync(path.join(root,'browse/motion.md'),'utf8');
   assert.ok(browse.indexOf('assets/covers/2.jpg')<browse.indexOf('assets/covers/1.jpg'));
   assert.match(fs.readFileSync(path.join(root,'cases/2.md'),'utf8'),/动效很酷 · 整体优秀/);
-  const featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="category-')[0];
+  const featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="about">')[0];
   assert.ok(!featured.includes('assets/covers/2.jpg'));
   assert.equal(fs.existsSync(path.join(root,'assets/covers/2.jpg')),true);
   editor=createCuration(root);s=editor.snapshot();assert.deepEqual(s.catalog.cases[1].review.highlights,['motion','overall']);
@@ -89,7 +89,7 @@ test('评价保存到仓库并同步排序，删除恢复保留评价，清除�
   assert.ok(lower.indexOf('assets/covers/1.jpg')<lower.indexOf('assets/covers/2.jpg'));
   const home=fs.readFileSync(path.join(root,'README.md'),'utf8');
   assert.ok(home.includes('assets/covers/2.jpg'),'人工排后不从首页收藏榜移除作品');
-  assert.ok(!home.split('<a id="featured"></a>')[1].split('<a id="category-')[0].includes('assets/covers/2.jpg'),'排后作品仍不进入编辑精选');
+  assert.ok(!home.split('<a id="featured"></a>')[1].split('<a id="about">')[0].includes('assets/covers/2.jpg'),'排后作品仍不进入编辑精选');
   assert.throws(()=>editor.mutate('review','2',s.revision,{highlights:['invented'],later:false}),/评价格式/);
   assert.throws(()=>editor.mutate('review','2',s.revision,{highlights:['motion'],later:true}),/评价格式/);
   s=editor.mutate('review','2',s.revision,{highlights:[],later:false});assert.deepEqual(s.catalog,catalog);
@@ -97,11 +97,11 @@ test('评价保存到仓库并同步排序，删除恢复保留评价，清除�
 test('精选可持久化、取消并覆盖内置名单；旧删除备份恢复时不带回仓库视频',t=>{
   const {root}=fixture(t);let editor=createCuration(root),s=editor.snapshot();
   s=editor.mutate('review','2',s.revision,{highlights:[],later:false,featured:true});
-  let featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="category-')[0];
+  let featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="about">')[0];
   assert.ok(featured.includes('assets/covers/2.jpg'));
   editor=createCuration(root);s=editor.snapshot();assert.equal(s.catalog.cases[1].review.featured,true);
   s=editor.mutate('review','2',s.revision,{highlights:['motion'],later:false,featured:false});
-  featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="category-')[0];
+  featured=fs.readFileSync(path.join(root,'README.md'),'utf8').split('<a id="featured"></a>')[1].split('<a id="about">')[0];
   assert.ok(!featured.includes('assets/covers/2.jpg'));
   assert.deepEqual(s.catalog.cases[1].review.highlights,['motion']);
   s=editor.mutate('delete','2',s.revision);

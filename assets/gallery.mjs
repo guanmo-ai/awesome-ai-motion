@@ -3,7 +3,7 @@ const $ = id => document.getElementById(id);
 let state = readLocation(), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
 let visibleCount=PAGE_SIZE;
 let searchTimer=null;
-let playbackTimer=null,playbackAbort=null;
+let playbackTimer=null,playbackAbort=null,ambientCleanup=null,ambientSync=null;
 const PLAYBACK_TIMEOUT_MS=12000;
 const filterKeys=['category','query','sort','prompt','resource'];
 const listKeys=['page',...filterKeys,'lang'];
@@ -72,8 +72,8 @@ function renderPreviewControl(){
 }
 const togglePreviews=()=>{previewsEnabled=!previewsEnabled;renderPreviewControl();syncPreviews();};
 $('toggle-previews').addEventListener('click',togglePreviews);
-reducedMotion?.addEventListener('change',event=>{previewsEnabled=!event.matches&&!navigator.connection?.saveData;renderPreviewControl();syncPreviews();});
-document.addEventListener('visibilitychange',syncPreviews);
+reducedMotion?.addEventListener('change',event=>{previewsEnabled=!event.matches&&!navigator.connection?.saveData;renderPreviewControl();syncPreviews();ambientSync?.();});
+document.addEventListener('visibilitychange',()=>{syncPreviews();ambientSync?.();});
 window.addEventListener('pagehide',()=>{for(const preview of previews.values())stopPreview(preview,{release:true});});
 window.addEventListener('pageshow',syncPreviews);
 function link(label,url,className='') { const node=el('a',className,label); const valid=safeUrl(url); if(valid) {node.href=valid;node.target='_blank';node.rel='noopener noreferrer';} return node; }
@@ -125,7 +125,7 @@ function renderLanguage() {
   const strings={'language-label':['English','中文'], 'browse-label':['按用途','BY USE'], 'follow-label':['关注观默','Follow Guanmo'],'search-label':['搜索作品、作者或效果','Search works, creators or effects'],'sort-label':['排序','Sort works'],'empty-title':['暂时没有匹配的作品','No matching works yet'],'empty-text':['试试其他关键词，或查看全部作品。','Try another keyword or browse all works.'],reset:['查看全部作品','Browse all works'],'footer-note':['作品归原作者所有。播放引用外部公开来源；公开提示词不一定包含完整制作过程。','Works belong to their creators. Players use external public sources; shared prompts may not include the full process.'],'source-guide':['来源说明','Source notes']};
   for(const [id,words] of Object.entries(strings)) $(id).textContent=t(...words);
   $('collection-title').textContent=t('AI 视频与动效参考','AI video & motion inspiration');
-  $('materials-label').textContent=t('资料','Materials');
+  $('materials-label').textContent=t('资料筛选','Filter by available materials');
   for(const [kind,words] of Object.entries({prompt:['有提示词','With prompts'],code:['有源码','With source'],demo:['可体验','Try online']}))$(`filter-${kind}`).textContent=t(...words);
   $('follow-creator').setAttribute('aria-label',t('在 X 关注观默 @guanmo_ai','Follow Guanmo on X @guanmo_ai'));
   $('follow-creator').title=t('在 X 关注观默 @guanmo_ai','Follow Guanmo on X @guanmo_ai');
@@ -224,7 +224,22 @@ function details(label,text,{copyable=false,source=null,open=false,className=''}
   return section;
 }
 function clearPlaybackTimer() { if(playbackTimer!==null){clearTimeout(playbackTimer);playbackTimer=null;} }
-function setViewerRatio(width,height) { $('viewer').style.setProperty('--viewer-media-ratio',String(width>0&&height>0?width/height:16/9)); }
+function addAmbient(frame,video,controller) {
+  const canvas=el('canvas','ambient-canvas');canvas.width=64;canvas.height=36;canvas.hidden=true;canvas.setAttribute('aria-hidden','true');frame.append(canvas);
+  const context=canvas.getContext?.('2d');let timer=null,failed=false;
+  const stop=()=>{if(timer!==null){clearTimeout(timer);timer=null;}};
+  const enabled=()=>!controller.signal.aborted&&!document.hidden&&!video.paused&&!reducedMotion?.matches&&!navigator.connection?.saveData&&!failed&&context;
+  const draw=()=>{
+    timer=null;if(!enabled())return;
+    if(video.readyState>=2){try{context.drawImage(video,0,0,64,36);canvas.hidden=false;}catch{failed=true;canvas.hidden=true;return;}}
+    timer=setTimeout(draw,250);
+  };
+  const sync=()=>{stop();if(reducedMotion?.matches||navigator.connection?.saveData||failed||!context)canvas.hidden=true;if(enabled())draw();};
+  ambientSync=sync;ambientCleanup=()=>{stop();if(ambientSync===sync)ambientSync=null;};
+  for(const event of ['play','playing','pause','ended'])video.addEventListener(event,sync,{signal:controller.signal});
+  video.addEventListener('error',()=>{failed=true;canvas.hidden=true;stop();},{signal:controller.signal});
+  video.addEventListener('loadstart',()=>{failed=false;canvas.hidden=true;sync();},{signal:controller.signal});
+}
 function updateViewerNavigation() {
   const {total,index,previous,next}=detailNeighbors(cases,state);
   $('viewer-navigation').hidden=false;
@@ -236,7 +251,6 @@ function updateViewerNavigation() {
   $('viewer-position').textContent=index<0?t('不在当前筛选结果中','Outside current results'):t(`${index+1} / ${total}`,`${index+1} / ${total}`);
 }
 function showViewer(c,{autoplay=false}={}) {
-  setViewerRatio(c.cover?.width,c.cover?.height);
   const content=$('viewer-content');content.replaceChildren();$('viewer-kicker').textContent=`${CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]} · ${formatDuration(c.media?.durationSeconds)}`;
   const layout=el('div','detail-layout'),stage=el('div','detail-stage'),materials=el('div','detail-materials');
   layout.append(stage,materials);content.append(layout);
@@ -245,9 +259,11 @@ function showViewer(c,{autoplay=false}={}) {
   const player=el('div','player-area'), url=playbackUrl(c);
   if(url) {
     const video=el('video');video.controls=true;video.playsInline=true;video.preload='metadata';video.setAttribute('aria-label',title(c));const poster=coverPath(c.cover?.path);if(poster)video.poster=poster;
+    const frame=el('div','player-frame');frame.style.setProperty('--media-ratio',String(c.cover?.width>0&&c.cover?.height>0?c.cover.width/c.cover.height:16/9));
+    if(poster)frame.style.setProperty('--ambient-poster',`url(${JSON.stringify(new URL(poster,location.href).href)})`);
     const assist=el('div','playback-assist'),error=el('p','playback-error'),retry=el('button','playback-retry',t('重新加载视频','Retry video'));
     error.hidden=retry.hidden=true;error.setAttribute('role','status');retry.type='button';
-    const controller=new AbortController();playbackAbort=controller;
+    const controller=new AbortController();playbackAbort=controller;addAmbient(frame,video,controller);
     const fail=(zh,en)=>{clearPlaybackTimer();if(controller.signal.aborted)return;error.textContent=t(zh,en);error.hidden=retry.hidden=false;};
     const recover=()=>{clearPlaybackTimer();error.hidden=retry.hidden=true;};
     const arm=()=>{
@@ -261,7 +277,7 @@ function showViewer(c,{autoplay=false}={}) {
     video.addEventListener('loadstart',arm,{signal:controller.signal});
     video.addEventListener('play',()=>{if(video.readyState<3)arm();},{signal:controller.signal});
     for(const event of ['waiting','stalled'])video.addEventListener(event,()=>{if(!video.paused&&video.readyState<3)arm();},{signal:controller.signal});
-    video.addEventListener('loadedmetadata',()=>{if(video.videoWidth&&video.videoHeight){video.style.aspectRatio=`${video.videoWidth} / ${video.videoHeight}`;setViewerRatio(video.videoWidth,video.videoHeight);}if(video.paused)recover();},{signal:controller.signal});
+    video.addEventListener('loadedmetadata',()=>{if(video.videoWidth>0&&video.videoHeight>0)frame.style.setProperty('--media-ratio',String(video.videoWidth/video.videoHeight));if(video.paused)recover();},{signal:controller.signal});
     for(const event of ['canplay','playing'])video.addEventListener(event,recover,{signal:controller.signal});
     for(const event of ['pause','ended'])video.addEventListener(event,clearPlaybackTimer,{signal:controller.signal});
     retry.addEventListener('click',()=>{error.hidden=retry.hidden=true;video.pause();video.src=url;video.load();arm();video.play().catch(()=>{});},{signal:controller.signal});
@@ -282,14 +298,14 @@ function showViewer(c,{autoplay=false}={}) {
       },{signal:controller.signal});
       assist.append(fullscreen,status);
     }
-    video.src=url;player.append(video,assist);arm();
+    video.src=url;frame.append(video);player.append(frame,assist);arm();
   } else {player.append(image(c,false));const message=el('div','external-message');message.append(el('p','',t('暂时无法直接播放，可查看作者原帖。','Direct playback is currently unavailable. You can check the creator’s original post.')),link(t('查看作者原帖 ↗','View original post ↗'),c.source.url,'primary-link'));player.append(message);}
   const heading=el('h2','detail-heading',title(c));heading.id='viewer-title';const credits=el('div','detail-credits');credits.append(link(`${c.author.name} · @${c.author.handle}`,c.author.url),el('span','',`· ${date(c.source.publishedAt)} UTC`));
   const links=el('div','detail-links');for(const r of resourceLinks(c))links.append(link(resourceLabel(r.kind,state.lang)+' ↗',r.url,r.kind==='demo'?'primary-link':''));
   const shareLabel=t('复制作品链接','Copy work link'),share=el('button','share-button',shareLabel);share.type='button';share.addEventListener('click',()=>copy(location.href,share,shareLabel));links.append(share);
   if(c.prompt.status==='original'&&c.prompt.display!=='source_link') {const label=t('复制提示词','Copy prompt'),button=el('button','share-button',label);button.type='button';button.addEventListener('click',()=>copy(c.prompt.text,button,label));links.append(button);}
-  const intro=el('div','detail-intro');intro.append(heading,credits);stage.append(intro,player);
-  materials.append(links,el('p','detail-summary',state.lang==='en'?c.summaryEn||c.summary:c.summary));
+  const intro=el('div','detail-intro');intro.append(heading,credits);stage.append(player);
+  materials.append(intro,links,el('p','detail-summary',state.lang==='en'?c.summaryEn||c.summary:c.summary));
   const resources=resourceLinks(c);
   if(resources.length){const section=el('details','resource-details');section.open=state.resource!=='all';section.append(el('summary','',t('源码与网页','Source & web pages')));for(const r of resources){const row=el('div','resource-item');row.append(el('span','card-tag',resourceLabel(r.kind,state.lang)),link(t(r.label,r.labelEn),r.url));if(r.note)row.append(el('p','',t(r.note,r.noteEn)));const facts=[];if(r.license)facts.push(r.license==='not_specified'?t('未标明许可','No license specified'):t('代码许可：','Code license: ')+r.license);if(r.checkedAt)facts.push(t('链接核对：','Link checked: ')+date(r.checkedAt)+' UTC');if(facts.length)row.append(el('p','',facts.join(' · ')));if(r.licenseUrl&&safeUrl(r.licenseUrl))row.append(link(t('查看许可证原文 ↗','Read the license ↗'),r.licenseUrl));if(r.evidenceUrl)row.append(link(t('链接出处 ↗','Link source ↗'),r.evidenceUrl));section.append(row);}materials.append(section);}
   const guide=c.guide;
@@ -329,7 +345,6 @@ function showViewer(c,{autoplay=false}={}) {
   if(autoplay) content.querySelector('video')?.play().catch(()=>{});
 }
 function showMissingViewer() {
-  setViewerRatio();
   const content=$('viewer-content'),continueLink=el('a','primary-link',t('继续浏览','Continue browsing'));
   $('viewer-navigation').hidden=true;
   const heading=el('h2','detail-heading',t('作品不存在或已移除','Work not found or removed'));
@@ -343,7 +358,7 @@ function showMissingViewer() {
   if(!$('viewer').open){savedOverflow=document.body.style.overflow;savedScroll=window.scrollY;document.body.style.overflow='hidden';$('viewer').showModal();} $('viewer').scrollTop=0;
   syncPreviews();
 }
-function unload() {clearPlaybackTimer();playbackAbort?.abort();playbackAbort=null;const video=$('viewer').querySelector('video');if(video){video.pause();video.removeAttribute('src');video.load();}}
+function unload() {ambientCleanup?.();ambientCleanup=null;clearPlaybackTimer();playbackAbort?.abort();playbackAbort=null;const video=$('viewer').querySelector('video');if(video){video.pause();video.removeAttribute('src');video.load();}}
 function hideViewer(){
   const closingId=activeId;
   unload();activeId=null;activeMissing=false;
