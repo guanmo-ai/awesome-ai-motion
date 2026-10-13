@@ -3,6 +3,1577 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2104957548797604116",
+      "stage": "discovery",
+      "title": "15 种代码动效风格合集",
+      "titleEn": "15 Code-Generated Motion Design Styles",
+      "category": "短动效",
+      "summary": "作者展示线条、形变、等轴测、HUD 等 15 种风格，说明画面、音乐和音效均由 Opus 5.5 编写代码制作，并公开对应源码与提示词。",
+      "summaryEn": "A collection of 15 styles including line art, morphing, isometric motion and HUD graphics. The creator credits Opus 5.5 with coding the visuals, music and sound effects, and shares source code and prompts.",
+      "author": {
+        "name": "Vincent文森特",
+        "handle": "VincentWei93",
+        "url": "https://x.com/VincentWei93"
+      },
+      "source": {
+        "url": "https://x.com/VincentWei93/status/2104957548797604116",
+        "publishedAt": "2026-09-29T15:32:42+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "整个视频、音乐、音效全程由 opus5.5 写代码制作而成",
+        "evidenceUrl": "https://x.com/VincentWei93/status/2104957548797604116"
+      },
+      "media": {
+        "durationSeconds": 178.933,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2104944871673053184/vid/avc1/1920x1080/nz27ngNjsTtHPEPP.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 89.47,
+        "width": 640,
+        "height": 360,
+        "bytes": 23438,
+        "path": "assets/covers/2104957548797604116.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/VincentWei93/status/2104957548797604116",
+        "checkedAt": "2026-10-13T09:02:16.370473+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2850,
+        "likes": 2258,
+        "views": 172373,
+        "checkedAt": "2026-10-13T09:02:16.370473+00:00",
+        "sourceUrl": "https://x.com/VincentWei93/status/2104957548797604116"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T09:02:16.370473+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104944871673053184/vid/avc1/1920x1080/nz27ngNjsTtHPEPP.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/VincentWei93/status/2104957548797604116",
+        "checkedAt": "2026-10-13T09:02:16.370473+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Vincentwei1021/mg-styles-15",
+          "label": "作者公开的作品工程与制作资料",
+          "labelEn": "Published film project and production materials",
+          "evidenceUrl": "https://x.com/VincentWei93/status/2107028148881899763",
+          "checkedAt": "2026-10-13T09:02:16.370473+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/Vincentwei1021/mg-styles-15/blob/main/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "2105657578793672722",
+      "stage": "discovery",
+      "title": "从洞穴手印到地球：人类大历史",
+      "titleEn": "Civilization: From Cave Handprints to Earth",
+      "category": "叙事短片",
+      "summary": "以洞穴手印、城市、文字与地球镜头讲述文明演进。作品署名「欸不是」执导、Claude Opus 5.5 制作；作者公开工程，代码为 MIT，影片与配乐标注 CC BY 4.0。",
+      "summaryEn": "Cave handprints, cities, writing and views of Earth trace human civilization. Credited to 欸不是 as director and Claude Opus 5.5 for production. The published code is MIT; the film and score are marked CC BY 4.0.",
+      "author": {
+        "name": "DDChen (Daniel Chen)",
+        "handle": "chen79639ddc",
+        "url": "https://x.com/chen79639ddc"
+      },
+      "source": {
+        "url": "https://x.com/chen79639ddc/status/2105657578793672722",
+        "publishedAt": "2026-10-01T13:54:22+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "made by Claude Opus 5.5",
+        "evidenceUrl": "https://github.com/DDChen666/civilization-film/blob/main/LICENSE-MEDIA.md",
+        "evidenceKind": "author_repository",
+        "authorEvidenceUrl": "https://x.com/chen79639ddc"
+      },
+      "media": {
+        "durationSeconds": 148.999,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2105656716411211776/vid/avc1/1280x720/TZP8uvM_4nw5HASo.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 74.53,
+        "width": 640,
+        "height": 360,
+        "bytes": 20710,
+        "path": "assets/covers/2105657578793672722.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chen79639ddc/status/2105657578793672722",
+        "checkedAt": "2026-10-13T07:50:17.383711+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 55,
+        "checkedAt": "2026-10-13T07:50:17.383711+00:00",
+        "sourceUrl": "https://x.com/chen79639ddc/status/2105657578793672722"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T07:50:17.383711+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2105656716411211776/vid/avc1/1280x720/TZP8uvM_4nw5HASo.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/chen79639ddc/status/2105657578793672722",
+        "checkedAt": "2026-10-13T07:50:17.383711+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/DDChen666/civilization-film",
+          "label": "作者公开的作品工程与制作资料",
+          "labelEn": "Published film project and production materials",
+          "evidenceUrl": "https://github.com/DDChen666/civilization-film/blob/main/LICENSE-MEDIA.md",
+          "checkedAt": "2026-10-13T07:50:17.383711+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/DDChen666/civilization-film/blob/main/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "2109856686588801285",
+      "stage": "discovery",
+      "title": "纸鹤的一场旅行",
+      "titleEn": "A Paper Crane’s Journey",
+      "category": "叙事短片",
+      "summary": "纸鹤从桌面起飞，穿过村庄、雪山与荷塘。作者说明每一帧由 Claude Opus 5.5 使用 JavaScript 绘制。",
+      "summaryEn": "A paper crane leaves a desk and flies over villages, snowy mountains and a lotus pond. The creator states that Claude Opus 5.5 drew every frame with JavaScript.",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source": {
+        "url": "https://x.com/kevin_t_ngo/status/2109856686588801285",
+        "publishedAt": "2026-10-13T04:00:07+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / JavaScript",
+        "evidenceQuote": "Claude Opus 5.5 drew every frame of this animation using JavaScript.",
+        "evidenceUrl": "https://x.com/kevin_t_ngo/status/2109856686588801285"
+      },
+      "media": {
+        "durationSeconds": 69.166,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109856130730242048/vid/avc1/1080x1080/pN3YDYq5aysHnU8w.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 34.58,
+        "width": 640,
+        "height": 640,
+        "bytes": 23614,
+        "path": "assets/covers/2109856686588801285.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2109856686588801285",
+        "checkedAt": "2026-10-13T09:39:42.286108+00:00"
+      },
+      "metrics": {
+        "bookmarks": 93,
+        "likes": 239,
+        "views": 6604,
+        "checkedAt": "2026-10-13T09:39:42.286108+00:00",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2109856686588801285"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T09:39:42.286108+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109856130730242048/vid/avc1/1080x1080/pN3YDYq5aysHnU8w.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kevin_t_ngo/status/2109856686588801285",
+        "checkedAt": "2026-10-13T09:39:42.286108+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109766087328100521",
+      "stage": "discovery",
+      "title": "一只蜜蜂的一生",
+      "titleEn": "The Life of a Honey Bee",
+      "category": "知识讲解",
+      "summary": "以蜂巢、飞行路线和花朵剖面展示蜜蜂的生命与授粉。作者说明画面逐帧使用 JavaScript 绘制。",
+      "summaryEn": "Honeycomb, flight paths and flower cross-sections illustrate a bee’s life and pollination. The creator states that every frame was drawn with JavaScript.",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source": {
+        "url": "https://x.com/kevin_t_ngo/status/2109766087328100521",
+        "publishedAt": "2026-10-12T22:00:07+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / JavaScript",
+        "evidenceQuote": "Claude Opus 5.5 drew every frame of this animation using JavaScript.",
+        "evidenceUrl": "https://x.com/kevin_t_ngo/status/2109766087328100521"
+      },
+      "media": {
+        "durationSeconds": 53.333,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109765702009901056/vid/avc1/1080x1080/QZc9sfoDB5zC7sTX.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 26.67,
+        "width": 640,
+        "height": 640,
+        "bytes": 45675,
+        "path": "assets/covers/2109766087328100521.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2109766087328100521",
+        "checkedAt": "2026-10-13T09:39:42.754004+00:00"
+      },
+      "metrics": {
+        "bookmarks": 236,
+        "likes": 604,
+        "views": 17921,
+        "checkedAt": "2026-10-13T09:39:42.754004+00:00",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2109766087328100521"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T09:39:42.754004+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109765702009901056/vid/avc1/1080x1080/QZc9sfoDB5zC7sTX.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kevin_t_ngo/status/2109766087328100521",
+        "checkedAt": "2026-10-13T09:39:42.754004+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109941504827654305",
+      "stage": "discovery",
+      "title": "Awesome AI Motion：让 AI 把想法变成动效",
+      "titleEn": "Awesome AI Motion: Turn Ideas into Motion with AI",
+      "category": "产品宣传",
+      "summary": "以动态文字、几何图形和三维网格介绍 Awesome AI Motion 案例库。观默用一句话让 Claude Opus 5.5 制作这支 15 秒宣传动效。",
+      "summaryEn": "Kinetic typography, geometric forms and a 3D grid introduce the Awesome AI Motion collection. Guanmo prompted Claude Opus 5.5 with one sentence to create this 15-second promo.",
+      "author": {
+        "name": "观默",
+        "handle": "guanmo_ai",
+        "url": "https://x.com/guanmo_ai"
+      },
+      "source": {
+        "url": "https://x.com/guanmo_ai/status/2109941504827654305",
+        "publishedAt": "2026-10-13T09:37:10+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "下面这个视频，就是一句话让 Claude Opus 5.5 做的视频",
+        "evidenceUrl": "https://x.com/guanmo_ai/status/2109941504827654305"
+      },
+      "media": {
+        "durationSeconds": 15.061,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2109941504827654305.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109940974734757888/vid/avc1/1920x1080/IKKXfmmZOM0kwaof.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 13.55,
+        "width": 640,
+        "height": 360,
+        "bytes": 18377
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/guanmo_ai/status/2109941504827654305",
+        "checkedAt": "2026-10-13T09:41:07.181913+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 8,
+        "sourceUrl": "https://x.com/guanmo_ai/status/2109941504827654305",
+        "checkedAt": "2026-10-13T09:41:07.181913+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T09:41:07.181913+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "review": {
+        "highlights": [],
+        "later": false,
+        "featured": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109940974734757888/vid/avc1/1920x1080/IKKXfmmZOM0kwaof.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/guanmo_ai/status/2109941504827654305",
+        "checkedAt": "2026-10-13T09:41:07.181913+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108570705692357094",
+      "stage": "discovery",
+      "title": "一个橙点串起整支动效",
+      "titleEn": "One Orange Dot Connects a Motion System",
+      "category": "短动效",
+      "summary": "橙点在开关、文字、弹簧曲线和几何形状之间连续变换。作者公开单文件 HTML、按时间计算动画及逐帧渲染的制作指令。",
+      "summaryEn": "An orange dot moves through a toggle, typography, spring curves and geometric forms. The creator shares a single-file HTML prompt with time-based animation and frame rendering.",
+      "author": {
+        "name": "testarossa",
+        "handle": "rossaxbt",
+        "url": "https://x.com/rossaxbt"
+      },
+      "source": {
+        "url": "https://x.com/rossaxbt/status/2108570705692357094",
+        "publishedAt": "2026-10-09T14:50:06+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / HTML",
+        "evidenceQuote": "One HTML file, 1920x1080 at 60fps.",
+        "evidenceUrl": "https://x.com/rossaxbt/status/2108570705692357094"
+      },
+      "media": {
+        "durationSeconds": 14.699,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108545224762851328/vid/avc1/1922x1080/mDW5KplJAX3hVnuS.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7.35,
+        "width": 480,
+        "height": 270,
+        "bytes": 3579,
+        "path": "assets/covers/2108570705692357094.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/rossaxbt/status/2108570705692357094",
+        "checkedAt": "2026-10-13T06:28:30.701741+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 275,
+        "likes": 258,
+        "views": 16981,
+        "checkedAt": "2026-10-13T06:28:30.701741+00:00",
+        "sourceUrl": "https://x.com/rossaxbt/status/2108570705692357094"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:28:30.701741+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108545224762851328/vid/avc1/1922x1080/mDW5KplJAX3hVnuS.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/rossaxbt/status/2108570705692357094",
+        "checkedAt": "2026-10-13T06:28:30.701741+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108199183983497433",
+      "stage": "discovery",
+      "title": "Opus 把任务交给 Haiku",
+      "titleEn": "Opus Delegates Small Tasks to Haiku",
+      "category": "叙事短片",
+      "summary": "以卡通角色、信件与印章表现任务分派。作者说明画面由代码动效构建，并在回复中公开 Remotion 制作指令；ChatGPT 图像用于分镜，ElevenLabs 用于声音和音乐。",
+      "summaryEn": "Cartoon characters, letters and stamps illustrate task delegation. The creator identifies code-based motion graphics and shares a Remotion prompt in a reply, with ChatGPT images for storyboards and ElevenLabs for voice and music.",
+      "author": {
+        "name": "Baptiste (Kelano)",
+        "handle": "kelanoo",
+        "url": "https://x.com/kelanoo"
+      },
+      "source": {
+        "url": "https://x.com/kelanoo/status/2108199183983497433",
+        "publishedAt": "2026-10-08T14:13:48+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Remotion",
+        "evidenceQuote": "100% motion graphics and code",
+        "evidenceUrl": "https://x.com/kelanoo/status/2108199183983497433"
+      },
+      "media": {
+        "durationSeconds": 20,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108197539115945984/vid/avc1/1920x1080/WVhyHHz7_ZpoutBU.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.0,
+        "width": 480,
+        "height": 270,
+        "bytes": 26368,
+        "path": "assets/covers/2108199183983497433.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/kelanoo/status/2108199189134053863",
+        "checkedAt": "2026-10-13T07:47:28.851279+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 162,
+        "likes": 302,
+        "views": 16782,
+        "checkedAt": "2026-10-13T06:28:31.248703+00:00",
+        "sourceUrl": "https://x.com/kelanoo/status/2108199183983497433"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:28:31.248703+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108197539115945984/vid/avc1/1920x1080/WVhyHHz7_ZpoutBU.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kelanoo/status/2108199183983497433",
+        "checkedAt": "2026-10-13T06:28:31.248703+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story",
+          "label": "作者引用的 Session Story 风格参考 Skill",
+          "labelEn": "Session Story skill cited as a style reference",
+          "evidenceUrl": "https://x.com/kelanoo/status/2108199189134053863",
+          "checkedAt": "2026-10-13T07:56:02.268827+00:00",
+          "license": "Apache-2.0",
+          "licenseUrl": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/LICENSE",
+          "note": "作者在制作指令中要求参考此 Skill 的手绘房间与角色风格；这是参考工具，不是本片 Remotion 工程。",
+          "noteEn": "The prompt cites this skill for its hand-drawn room and character style. It is a reference tool, not the Remotion project for this film."
+        }
+      ]
+    },
+    {
+      "id": "2108210884799549714",
+      "stage": "discovery",
+      "title": "点餐 App 的连续 UI 发布片",
+      "titleEn": "A Continuous UI Launch Film for Food Ordering",
+      "category": "产品宣传",
+      "summary": "输入框、按钮、结果卡片和聊天界面连续变形。作者声明影片由代码构建并公开制作指令，食物照片作为界面卡片素材。",
+      "summaryEn": "Input fields, buttons, result cards and chat views transform continuously. The creator states that the film is built from code and publishes the prompt; food photographs are used inside UI cards.",
+      "author": {
+        "name": "ultima",
+        "handle": "ultimaxbt",
+        "url": "https://x.com/ultimaxbt"
+      },
+      "source": {
+        "url": "https://x.com/ultimaxbt/status/2108210884799549714",
+        "publishedAt": "2026-10-08T15:00:18+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / HTML / Playwright",
+        "evidenceQuote": "built entirely from code",
+        "evidenceUrl": "https://x.com/ultimaxbt/status/2108210884799549714"
+      },
+      "media": {
+        "durationSeconds": 16.211,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108183368412127232/vid/avc1/1922x1080/u_51BnsDVgGQFk_O.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8.11,
+        "width": 480,
+        "height": 270,
+        "bytes": 11970,
+        "path": "assets/covers/2108210884799549714.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/ultimaxbt/status/2108210884799549714",
+        "checkedAt": "2026-10-13T06:28:29.162816+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 843,
+        "likes": 600,
+        "views": 41010,
+        "checkedAt": "2026-10-13T06:28:29.162816+00:00",
+        "sourceUrl": "https://x.com/ultimaxbt/status/2108210884799549714"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:28:29.162816+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108183368412127232/vid/avc1/1922x1080/u_51BnsDVgGQFk_O.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ultimaxbt/status/2108210884799549714",
+        "checkedAt": "2026-10-13T06:28:29.162816+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109290983896818132",
+      "stage": "discovery",
+      "title": "纸上的卡通小人站起来",
+      "titleEn": "Paper Doodle Characters Stand Up",
+      "category": "叙事短片",
+      "summary": "纸面卡通角色立起并在桌面空间运动。作者称画面全由代码制作，具体模型版本未核实；未取得影片源码。",
+      "summaryEn": "Doodle characters rise from paper and move through a tabletop setting. The creator states that the visuals are fully coded; the specific model version is unverified and the film source has not been obtained.",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2109290983896818132",
+        "publishedAt": "2026-10-11T14:32:13+00:00"
+      },
+      "model": {
+        "name": "Claude Code / 具体模型版本未确认",
+        "evidenceQuote": "fully coded",
+        "evidenceUrl": "https://x.com/chetaslua/status/2109290983896818132"
+      },
+      "media": {
+        "durationSeconds": 21.935,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109290840921354240/vid/avc1/2940x1600/wnoeFQiUhD0J-KDR.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.97,
+        "width": 480,
+        "height": 262,
+        "bytes": 14748,
+        "path": "assets/covers/2109290983896818132.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetaslua/status/2109290983896818132",
+        "checkedAt": "2026-10-13T06:28:33.171068+00:00"
+      },
+      "metrics": {
+        "bookmarks": 784,
+        "likes": 1634,
+        "views": 481651,
+        "checkedAt": "2026-10-13T06:28:33.171068+00:00",
+        "sourceUrl": "https://x.com/chetaslua/status/2109290983896818132"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:28:33.171068+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109290840921354240/vid/avc1/2940x1600/wnoeFQiUhD0J-KDR.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetaslua/status/2109290983896818132",
+        "checkedAt": "2026-10-13T06:28:33.171068+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109174851412119558",
+      "stage": "discovery",
+      "title": "一条线变成整支动效",
+      "titleEn": "One Line Becomes a Motion Design Reel",
+      "category": "短动效",
+      "summary": "线条依次变成文字、几何形状、蓝图面板和三维结构。作者公开 Canvas 按时间绘制、Playwright 渲染和 Web Audio 配乐的详细制作指令。",
+      "summaryEn": "A line becomes typography, geometric forms, blueprint panels and three-dimensional structures. The creator publishes a detailed prompt for time-based Canvas drawing, Playwright rendering and a Web Audio score.",
+      "author": {
+        "name": "Nick",
+        "handle": "heyiamnick",
+        "url": "https://x.com/heyiamnick"
+      },
+      "source": {
+        "url": "https://x.com/heyiamnick/status/2109174851412119558",
+        "publishedAt": "2026-10-11T06:50:45+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Canvas / Web Audio",
+        "evidenceQuote": "Claude Opus 5.5 a motion designer",
+        "evidenceUrl": "https://x.com/heyiamnick/status/2109174851412119558"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109174003533553665/vid/avc1/1920x1080/1SNl5okZGSh8PmZA.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 15.0,
+        "width": 640,
+        "height": 360,
+        "bytes": 13154,
+        "path": "assets/covers/2109174851412119558.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/heyiamnick/status/2109174851412119558",
+        "checkedAt": "2026-10-13T07:14:12.359803+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 15,
+        "likes": 6,
+        "views": 1619,
+        "checkedAt": "2026-10-13T07:14:12.359803+00:00",
+        "sourceUrl": "https://x.com/heyiamnick/status/2109174851412119558"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T07:14:12.359803+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109174003533553665/vid/avc1/1920x1080/1SNl5okZGSh8PmZA.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/heyiamnick/status/2109174851412119558",
+        "checkedAt": "2026-10-13T07:14:12.359803+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109087249572749553",
+      "stage": "discovery",
+      "title": "Turn It Up Now 动态歌词",
+      "titleEn": "Turn It Up Now: A Kinetic Lyric Video",
+      "category": "音乐与歌词",
+      "summary": "动态文字、波形和背景组织歌词。作者说明用 Opus 5.5 编写 HTML 视觉并在浏览器导出，歌曲来自 Suno；原帖附制作指令。",
+      "summaryEn": "Kinetic typography, waveforms and changing backgrounds present the lyrics. The creator describes HTML visuals written with Opus 5.5 and exported in the browser, using a Suno song, and shares the prompt.",
+      "author": {
+        "name": "klöss",
+        "handle": "kloss_xyz",
+        "url": "https://x.com/kloss_xyz"
+      },
+      "source": {
+        "url": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "publishedAt": "2026-10-11T01:02:39+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / HTML / Suno",
+        "evidenceQuote": "it wrote the visuals in code",
+        "evidenceUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+      },
+      "media": {
+        "durationSeconds": 110.293,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109086565519482880/vid/avc1/1920x1080/jU9H3q0IwyLZUxgo.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 55.15,
+        "width": 640,
+        "height": 360,
+        "bytes": 12854,
+        "path": "assets/covers/2109087249572749553.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "checkedAt": "2026-10-13T07:14:12.856214+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 34,
+        "likes": 60,
+        "views": 4935,
+        "checkedAt": "2026-10-13T07:14:12.856214+00:00",
+        "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T07:14:12.856214+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109086565519482880/vid/avc1/1920x1080/jU9H3q0IwyLZUxgo.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "checkedAt": "2026-10-13T07:14:12.856214+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108926571021279560",
+      "stage": "discovery",
+      "title": "品牌文字的墨水扩散效果",
+      "titleEn": "Interactive Ink Bleed Around Brand Lettering",
+      "category": "3D 与交互",
+      "summary": "演示文字轮廓向外扩散形成墨渍边缘的交互效果。作者明确说明使用 Opus 5.5、Three.js 和 WebGL；尚未核得公开工程或演示站。",
+      "summaryEn": "An interactive effect expands ink-like edges around brand lettering. The creator explicitly names Opus 5.5, Three.js and WebGL; a public project or live demo has not been verified.",
+      "author": {
+        "name": "Ann Nguyen",
+        "handle": "ann_nnng",
+        "url": "https://x.com/ann_nnng"
+      },
+      "source": {
+        "url": "https://x.com/ann_nnng/status/2108926571021279560",
+        "publishedAt": "2026-10-10T14:24:11+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Three.js / WebGL",
+        "evidenceQuote": "using three.js and webgl",
+        "evidenceUrl": "https://x.com/ann_nnng/status/2108926571021279560"
+      },
+      "media": {
+        "durationSeconds": 17.175,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108926288299978752/vid/avc1/2334x1510/rM4Ph-bFxRLNUKes.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8.59,
+        "width": 640,
+        "height": 414,
+        "bytes": 20840,
+        "path": "assets/covers/2108926571021279560.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ann_nnng/status/2108926571021279560",
+        "checkedAt": "2026-10-13T07:14:11.337425+00:00"
+      },
+      "metrics": {
+        "bookmarks": 103,
+        "likes": 246,
+        "views": 7883,
+        "checkedAt": "2026-10-13T07:14:11.337425+00:00",
+        "sourceUrl": "https://x.com/ann_nnng/status/2108926571021279560"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T07:14:11.337425+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108926288299978752/vid/avc1/2334x1510/rM4Ph-bFxRLNUKes.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ann_nnng/status/2108926571021279560",
+        "checkedAt": "2026-10-13T07:14:11.337425+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2107833536669532671",
+      "stage": "discovery",
+      "title": "用动画解释嵌入向量",
+      "titleEn": "Explaining Embeddings with Animated Slides",
+      "category": "知识讲解",
+      "summary": "搜索卡片、连线和文字图解逐步介绍嵌入向量。作者说明用 Opus 5.5 和自建幻灯片引擎制作，图像仅作为小幅示例素材；未取得引擎源码。",
+      "summaryEn": "Search cards, connecting lines and diagrams introduce embeddings. The creator describes using Opus 5.5 with a custom slide engine, with small example images; the engine source has not been obtained.",
+      "author": {
+        "name": "Antonio Leiva",
+        "handle": "antonioleivag",
+        "url": "https://x.com/antonioleivag"
+      },
+      "source": {
+        "url": "https://x.com/antonioleivag/status/2107833536669532671",
+        "publishedAt": "2026-10-07T14:00:51+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / 自建幻灯片引擎",
+        "evidenceQuote": "mi motor de slides",
+        "evidenceUrl": "https://x.com/antonioleivag/status/2107833536669532671"
+      },
+      "media": {
+        "durationSeconds": 42.2,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2107833475239739393/vid/avc1/1920x1080/RB1_Rh0Tq4bpfeCd.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 21.1,
+        "width": 640,
+        "height": 360,
+        "bytes": 13080,
+        "path": "assets/covers/2107833536669532671.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/antonioleivag/status/2107833536669532671",
+        "checkedAt": "2026-10-13T07:14:09.948761+00:00"
+      },
+      "metrics": {
+        "bookmarks": 468,
+        "likes": 263,
+        "views": 21370,
+        "checkedAt": "2026-10-13T07:14:09.948761+00:00",
+        "sourceUrl": "https://x.com/antonioleivag/status/2107833536669532671"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T07:14:09.948761+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2107833475239739393/vid/avc1/1920x1080/RB1_Rh0Tq4bpfeCd.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/antonioleivag/status/2107833536669532671",
+        "checkedAt": "2026-10-13T07:14:09.948761+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108208479358026208",
+      "stage": "discovery",
+      "title": "用卡通动画讲板块漂移",
+      "titleEn": "A Cartoon Music Video about Plate Tectonics",
+      "category": "知识讲解",
+      "summary": "卡通角色、地图和地层剖面随讲解变化。作者说明使用 Opus 5.5，以 Python 编写动画、Blender 渲染，并使用 Suno 音乐；未取得具体工程。",
+      "summaryEn": "Cartoon characters, maps and geological cross-sections accompany a musical explanation. The creator describes Opus 5.5, Python animation, Blender rendering and Suno music; the project source has not been obtained.",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source": {
+        "url": "https://x.com/kevin_t_ngo/status/2108208479358026208",
+        "publishedAt": "2026-10-08T14:50:44+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Python / Blender / Suno",
+        "evidenceQuote": "Animated in Python, rendered in Blender.",
+        "evidenceUrl": "https://x.com/kevin_t_ngo/status/2108208479358026208"
+      },
+      "media": {
+        "durationSeconds": 141.291,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108208077011091456/vid/avc1/1080x1080/lcJuu69vRWO8V_U7.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 70.65,
+        "width": 640,
+        "height": 640,
+        "bytes": 30476,
+        "path": "assets/covers/2108208479358026208.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2108208479358026208",
+        "checkedAt": "2026-10-13T07:14:10.901379+00:00"
+      },
+      "metrics": {
+        "bookmarks": 112,
+        "likes": 201,
+        "views": 9868,
+        "checkedAt": "2026-10-13T07:14:10.901379+00:00",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2108208479358026208"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T07:14:10.901379+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108208077011091456/vid/avc1/1080x1080/lcJuu69vRWO8V_U7.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kevin_t_ngo/status/2108208479358026208",
+        "checkedAt": "2026-10-13T07:14:10.901379+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109232824838467652",
+      "stage": "discovery",
+      "title": "卡片入场动效与缓动曲线校正",
+      "titleEn": "Card Entrance Animation and Easing Corrections",
+      "category": "短动效",
+      "summary": "作者用 Opus 5.5 编写 GSAP 时间轴，并用 Playwright 逐帧检查卡片、标题和文字的入场动画。录屏展示动画预览、错峰时间和缓动曲线；测量数值及修正效果为作者自述，本库未独立复现。",
+      "summaryEn": "The creator uses Opus 5.5 to write a GSAP timeline and Playwright to inspect card, title and text entrances frame by frame. The recording shows previews, stagger timing and easing curves. Measurements and correction results are self-reported and have not been independently reproduced.",
+      "author": {
+        "name": "genuenci",
+        "handle": "genuenci",
+        "url": "https://x.com/genuenci"
+      },
+      "source": {
+        "url": "https://x.com/genuenci/status/2109232824838467652",
+        "publishedAt": "2026-10-11T10:41:07+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / GSAP / Playwright",
+        "evidenceQuote": "opus writes the gsap timeline from the spec",
+        "evidenceUrl": "https://x.com/genuenci/status/2109232824838467652"
+      },
+      "media": {
+        "durationSeconds": 24.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109232795872542720/vid/avc1/1080x1350/u6OWLysEcsk7woDv.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 12.25,
+        "width": 640,
+        "height": 800,
+        "bytes": 94565,
+        "path": "assets/covers/2109232824838467652.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/genuenci/status/2109232824838467652",
+        "checkedAt": "2026-10-13T06:08:50.662434+00:00"
+      },
+      "metrics": {
+        "bookmarks": 3,
+        "likes": 51,
+        "views": 1353,
+        "checkedAt": "2026-10-13T06:08:50.662434+00:00",
+        "sourceUrl": "https://x.com/genuenci/status/2109232824838467652"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:08:50.662434+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109232795872542720/vid/avc1/1080x1350/u6OWLysEcsk7woDv.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/genuenci/status/2109232824838467652",
+        "checkedAt": "2026-10-13T06:08:54.294854+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109195278913880455",
+      "stage": "discovery",
+      "title": "Rive 卡通角色的庆祝循环",
+      "titleEn": "A Celebrating Cartoon Character in Rive",
+      "category": "短动效",
+      "summary": "作者使用 Claude Code 与 Rive MCP 制作短动画，录屏展示卡通角色举手庆祝、彩纸飘动及 Rive 时间轴。作者称制作约五分钟；原帖未提供具体模型版本、完整指令或工程。",
+      "summaryEn": "A short animation made with Claude Code and Rive MCP, showing a cartoon character celebrating with confetti alongside the Rive timeline. The creator reports about five minutes of work; the post does not share a model version, complete prompt or project.",
+      "author": {
+        "name": "osmatrixcode",
+        "handle": "osmatrixcode",
+        "url": "https://x.com/osmatrixcode"
+      },
+      "source": {
+        "url": "https://x.com/osmatrixcode/status/2109195278913880455",
+        "publishedAt": "2026-10-11T08:11:56+00:00"
+      },
+      "model": {
+        "name": "Claude Code / Rive MCP",
+        "evidenceQuote": "make claude code produce an animation",
+        "evidenceUrl": "https://x.com/osmatrixcode/status/2109195278913880455"
+      },
+      "media": {
+        "durationSeconds": 1.751,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109195144054390784/vid/avc1/2268x1472/a7r2Hixp4rJ1YNFt.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 0.88,
+        "width": 640,
+        "height": 416,
+        "bytes": 30457,
+        "path": "assets/covers/2109195278913880455.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/osmatrixcode/status/2109195278913880455",
+        "checkedAt": "2026-10-13T06:08:51.656539+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 4,
+        "views": 178,
+        "checkedAt": "2026-10-13T06:08:51.656539+00:00",
+        "sourceUrl": "https://x.com/osmatrixcode/status/2109195278913880455"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:08:51.656539+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109195144054390784/vid/avc1/2268x1472/a7r2Hixp4rJ1YNFt.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/osmatrixcode/status/2109195278913880455",
+        "checkedAt": "2026-10-13T06:08:54.859913+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109146914000457838",
+      "stage": "discovery",
+      "title": "代码逐帧绘制的剪纸风 AI 早报",
+      "titleEn": "An AI News Bulletin Drawn Frame by Frame in Code",
+      "category": "知识讲解",
+      "summary": "作者说明 Grok Bot 使用 Opus 5.5，从选题、文案和配音到动画完成一条 AI 早报，并明确称剪纸画面由代码逐帧绘制。视频以文字纸片、城市图形和纸飞机组织信息；本案例记录制作方式，不对片中新闻与性能数据作事实背书。",
+      "summaryEn": "The creator describes using Grok Bot with Opus 5.5 for research, writing, narration and an AI news bulletin, explicitly stating that its paper-cut visuals are drawn frame by frame in code. Text scraps, city graphics and paper planes organize the information. This entry documents the production approach without validating the news or performance claims in the video.",
+      "author": {
+        "name": "YOLO",
+        "handle": "yolohair",
+        "url": "https://x.com/yolohair"
+      },
+      "source": {
+        "url": "https://x.com/yolohair/status/2109146914000457838",
+        "publishedAt": "2026-10-11T04:59:45+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Grok Bot",
+        "evidenceQuote": "再写代码一帧帧画出这套剪纸动画",
+        "evidenceUrl": "https://x.com/yolohair/status/2109146914000457838"
+      },
+      "media": {
+        "durationSeconds": 46.967,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109146476890968064/vid/avc1/1080x1920/umoYMFn8owsGckTr.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2,
+        "width": 640,
+        "height": 1138,
+        "bytes": 123523,
+        "path": "assets/covers/2109146914000457838.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/yolohair/status/2109146914000457838",
+        "checkedAt": "2026-10-13T06:08:52.596366+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 3,
+        "likes": 1,
+        "views": 4465,
+        "checkedAt": "2026-10-13T06:08:52.596366+00:00",
+        "sourceUrl": "https://x.com/yolohair/status/2109146914000457838"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:08:52.596366+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109146476890968064/vid/avc1/1080x1920/umoYMFn8owsGckTr.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/yolohair/status/2109146914000457838",
+        "checkedAt": "2026-10-13T06:08:55.510914+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109257723246501895",
+      "stage": "discovery",
+      "title": "透明 CD 盒的材质与开盖交互",
+      "titleEn": "A Transparent CD Case with an Animated Lid",
+      "category": "3D 与交互",
+      "summary": "作者用 Claude Opus 5.5、Three.js 与着色器制作透明 CD 盒，可切换光盘图案并打开盒盖。作者明确说明未使用 3D 模型；原帖提供交互录屏，没有公开完整工程。",
+      "summaryEn": "A transparent CD case made with Claude Opus 5.5, Three.js and shaders, featuring interchangeable disc artwork and an animated lid. The creator states that no 3D models were used; the post shows a recording without a complete project.",
+      "author": {
+        "name": "Ann Nguyen",
+        "handle": "ann_nnng",
+        "url": "https://x.com/ann_nnng"
+      },
+      "source": {
+        "url": "https://x.com/ann_nnng/status/2109257723246501895",
+        "publishedAt": "2026-10-11T12:20:03+00:00"
+      },
+      "model": {
+        "name": "Claude Opus 5.5 / Three.js",
+        "evidenceQuote": "asked claude opus 5.5",
+        "evidenceUrl": "https://x.com/ann_nnng/status/2109257723246501895"
+      },
+      "media": {
+        "durationSeconds": 29.834,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109257462641733632/vid/avc1/1174x720/R4WWK67tw-taLS4o.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 14.92,
+        "width": 640,
+        "height": 392,
+        "bytes": 23013,
+        "path": "assets/covers/2109257723246501895.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/ann_nnng/status/2109257723246501895",
+        "checkedAt": "2026-10-13T05:46:51.156856+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 3816,
+        "likes": 5968,
+        "views": 232114,
+        "checkedAt": "2026-10-13T05:46:51.156856+00:00",
+        "sourceUrl": "https://x.com/ann_nnng/status/2109257723246501895"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T05:46:51.156856+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109257462641733632/vid/avc1/1174x720/R4WWK67tw-taLS4o.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ann_nnng/status/2109257723246501895",
+        "checkedAt": "2026-10-13T05:48:10.179780+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109237653832953921",
+      "stage": "discovery",
+      "title": "Worldfold：泳池空间与水下效果",
+      "titleEn": "Worldfold: Poolrooms and Underwater Effects",
+      "category": "3D 与交互",
+      "summary": "作者在基于 Three.js 的 Worldfold 引擎中，用 Opus 5.5 探索水下效果与可漫游的泳池空间。录屏展示水面、折射和建筑空间之间的切换；未独立验证模拟准确性或完整游玩。",
+      "summaryEn": "The creator explores underwater effects and navigable poolrooms with Opus 5.5 in Worldfold, an engine based on Three.js. The recording moves between the water surface, refraction and architectural spaces; simulation accuracy and full gameplay are not independently verified.",
+      "author": {
+        "name": "Benjamin Springer",
+        "handle": "Ben__Springer",
+        "url": "https://x.com/Ben__Springer"
+      },
+      "source": {
+        "url": "https://x.com/Ben__Springer/status/2109237653832953921",
+        "publishedAt": "2026-10-11T11:00:19+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Three.js / Worldfold",
+        "evidenceQuote": "browser graphics with opus 5.5",
+        "evidenceUrl": "https://x.com/Ben__Springer/status/2109237653832953921"
+      },
+      "media": {
+        "durationSeconds": 234.197,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109235265894006784/vid/avc1/1280x720/HVBursXtWDANZDIt.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 117.1,
+        "width": 640,
+        "height": 360,
+        "bytes": 29795,
+        "path": "assets/covers/2109237653832953921.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Ben__Springer/status/2109237653832953921",
+        "checkedAt": "2026-10-13T05:44:34.534999+00:00"
+      },
+      "metrics": {
+        "bookmarks": 16,
+        "likes": 28,
+        "views": 2065,
+        "checkedAt": "2026-10-13T05:44:34.534999+00:00",
+        "sourceUrl": "https://x.com/Ben__Springer/status/2109237653832953921"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T05:44:34.534999+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109235265894006784/vid/avc1/1280x720/HVBursXtWDANZDIt.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Ben__Springer/status/2109237653832953921",
+        "checkedAt": "2026-10-13T05:46:25.026737+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109229172484641007",
+      "stage": "discovery",
+      "title": "可破坏城市的浏览器沙盒",
+      "titleEn": "A Destructible City Sandbox in the Browser",
+      "category": "3D 与交互",
+      "summary": "作者用 Claude 与 Three.js 制作城市破坏沙盒，录屏展示建筑受击、碎块散落及环境变化。原帖未说明模型版本，也未提供完整制作指令或工程。",
+      "summaryEn": "A city destruction sandbox made with Claude and Three.js, showing buildings breaking apart, scattered debris and changing environmental conditions. The post does not specify a model version or share a complete prompt or project.",
+      "author": {
+        "name": "mr.moogler",
+        "handle": "OfSensor",
+        "url": "https://x.com/OfSensor"
+      },
+      "source": {
+        "url": "https://x.com/OfSensor/status/2109229172484641007",
+        "publishedAt": "2026-10-11T10:26:36+00:00"
+      },
+      "model": {
+        "name": "Claude / Three.js",
+        "evidenceQuote": "now with claude and three.js",
+        "evidenceUrl": "https://x.com/OfSensor/status/2109229172484641007"
+      },
+      "media": {
+        "durationSeconds": 64.179,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109228663761752064/vid/avc1/906x480/MEdVG0skifFZbNnD.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 3,
+        "width": 640,
+        "height": 340,
+        "bytes": 33132,
+        "path": "assets/covers/2109229172484641007.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/OfSensor/status/2109229172484641007",
+        "checkedAt": "2026-10-13T05:44:36.172624+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 5,
+        "views": 240,
+        "checkedAt": "2026-10-13T05:44:36.172624+00:00",
+        "sourceUrl": "https://x.com/OfSensor/status/2109229172484641007"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T05:44:36.172624+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109228663761752064/vid/avc1/906x480/MEdVG0skifFZbNnD.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/OfSensor/status/2109229172484641007",
+        "checkedAt": "2026-10-13T05:46:27.188209+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108931642542698801",
+      "stage": "discovery",
+      "title": "Aeloria：浮岛与风暴中的飞行世界",
+      "titleEn": "Aeloria: Flight Through Floating Islands and Storms",
+      "category": "3D 与交互",
+      "summary": "作者用 Opus 5.5 与 Three.js 制作 Aeloria 飞行世界，包含浮岛、穿环路线和风暴。作者说明山体、骑手与云层均由代码构建；画面为非写实三维角色与场景，工程体积和完整玩法未独立验证。",
+      "summaryEn": "Aeloria is a flying world made with Opus 5.5 and Three.js, featuring floating islands, ring courses and storms. The creator says mountains, riders and clouds are built in code. Its characters and environment are stylized; project size and full gameplay are not independently verified.",
+      "author": {
+        "name": "Rhino",
+        "handle": "0xRhinoX",
+        "url": "https://x.com/0xRhinoX"
+      },
+      "source": {
+        "url": "https://x.com/0xRhinoX/status/2108931642542698801",
+        "publishedAt": "2026-10-10T14:44:20+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5 / Three.js",
+        "evidenceQuote": "Every mountain, every rider, every cloud is code, just three.js.",
+        "evidenceUrl": "https://x.com/0xRhinoX/status/2108931642542698801"
+      },
+      "media": {
+        "durationSeconds": 28,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108930839153164288/vid/avc1/1280x720/ZDN93rOl8L3GBJjN.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 14,
+        "width": 640,
+        "height": 360,
+        "bytes": 34091,
+        "path": "assets/covers/2108931642542698801.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/0xRhinoX/status/2108931642542698801",
+        "checkedAt": "2026-10-13T05:44:38.729257+00:00"
+      },
+      "metrics": {
+        "bookmarks": 188,
+        "likes": 402,
+        "views": 17310,
+        "checkedAt": "2026-10-13T05:44:38.729257+00:00",
+        "sourceUrl": "https://x.com/0xRhinoX/status/2108931642542698801"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T05:44:38.729257+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108930839153164288/vid/avc1/1280x720/ZDN93rOl8L3GBJjN.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/0xRhinoX/status/2108931642542698801",
+        "checkedAt": "2026-10-13T05:46:29.527858+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108912938656407888",
+      "stage": "discovery",
+      "title": "布料网格精度与垂落效果对比",
+      "titleEn": "Cloth Resolution and Draping: A Model Comparison",
+      "category": "3D 与交互",
+      "summary": "作者展示 Haiku 5.5 与 GPT-6 Luna 对同一布料模拟任务的结果，网格从 4 面增加至 4096 面，观察布料覆盖球体时的形变。模型耗时与约束遵循表现是作者自述，本库未复现或确认胜负。",
+      "summaryEn": "The creator compares Haiku 5.5 and GPT-6 Luna on a cloth simulation task, increasing mesh resolution from 4 to 4,096 faces and showing cloth draping over spheres. Timing and constraint-following claims are self-reported; this library has not reproduced the comparison or determined a winner.",
+      "author": {
+        "name": "EvoLink.ai",
+        "handle": "EvoLinkAi",
+        "url": "https://x.com/EvoLinkAi"
+      },
+      "source": {
+        "url": "https://x.com/EvoLinkAi/status/2108912938656407888",
+        "publishedAt": "2026-10-10T13:30:00+00:00"
+      },
+      "model": {
+        "name": "Haiku 5.5 / GPT-6 Luna",
+        "evidenceQuote": "Build an interactive cloth simulation scaling from 4 to 4,096 faces.",
+        "evidenceUrl": "https://x.com/EvoLinkAi/status/2108912938656407888"
+      },
+      "media": {
+        "durationSeconds": 25,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108880178143207424/vid/avc1/720x810/NZvaO0Z90heisvh7.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 22.5,
+        "width": 640,
+        "height": 720,
+        "bytes": 28625,
+        "path": "assets/covers/2108912938656407888.jpg"
+      },
+      "prompt": {
+        "status": "brief",
+        "text": "",
+        "sourceUrl": "https://x.com/EvoLinkAi/status/2108912938656407888",
+        "checkedAt": "2026-10-13T05:44:39.544415+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 3,
+        "views": 581,
+        "checkedAt": "2026-10-13T05:44:39.544415+00:00",
+        "sourceUrl": "https://x.com/EvoLinkAi/status/2108912938656407888"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T05:44:39.544415+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108880178143207424/vid/avc1/720x810/NZvaO0Z90heisvh7.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/EvoLinkAi/status/2108912938656407888",
+        "checkedAt": "2026-10-13T05:46:30.441165+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2107548992640880755",
+      "stage": "discovery",
+      "title": "四十层塔楼的施工顺序动画",
+      "titleEn": "A Forty-Storey Tower Construction Sequence",
+      "category": "知识讲解",
+      "summary": "作者用 Claude Sonnet 5.5 制作单文件 HTML 施工演示，按顺序呈现基坑、主体框架、立面和塔吊。原帖明确说明施工顺序为虚构、几何经过简化，属于视觉演示；这里的原帖附件约 29 秒。",
+      "summaryEn": "A single-file HTML construction visual credited to Claude Sonnet 5.5, showing excavation, the structural frame, facade and tower cranes. The creator explicitly describes the sequence as invented and the geometry as simplified; the attached recording lasts about 29 seconds.",
+      "author": {
+        "name": "Solvaix",
+        "handle": "Solvaix",
+        "url": "https://x.com/Solvaix"
+      },
+      "source": {
+        "url": "https://x.com/Solvaix/status/2107548992640880755",
+        "publishedAt": "2026-10-06T19:10:10+00:00"
+      },
+      "model": {
+        "name": "Claude Sonnet 5.5 / HTML",
+        "evidenceQuote": "CLAUDE SONNET 5.5 BUILT",
+        "evidenceUrl": "https://x.com/Solvaix/status/2107548992640880755"
+      },
+      "media": {
+        "durationSeconds": 29.071,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2107548579329925120/vid/avc1/1340x720/huKK10yzIpv6MauT.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 14.54,
+        "width": 640,
+        "height": 344,
+        "bytes": 43345,
+        "path": "assets/covers/2107548992640880755.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Solvaix/status/2107548992640880755",
+        "checkedAt": "2026-10-13T05:44:29.856862+00:00"
+      },
+      "metrics": {
+        "bookmarks": 228,
+        "likes": 252,
+        "views": 14166,
+        "checkedAt": "2026-10-13T05:44:29.856862+00:00",
+        "sourceUrl": "https://x.com/Solvaix/status/2107548992640880755"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T05:44:29.856862+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2107548579329925120/vid/avc1/1340x720/huKK10yzIpv6MauT.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Solvaix/status/2107548992640880755",
+        "checkedAt": "2026-10-13T05:46:25.023617+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
       "id": "2109243587724755158",
       "stage": "discovery",
       "title": "机器人狗的感知与行走模拟",

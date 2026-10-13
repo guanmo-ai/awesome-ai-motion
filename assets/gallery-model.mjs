@@ -8,7 +8,7 @@ export const CATEGORIES = [
   {id:'stories', source:'叙事短片', zh:'叙事短片', en:'Storytelling'},
   {id:'music', source:'音乐与歌词', zh:'音乐与歌词', en:'Music & lyrics'},
 ];
-export const FEATURED = ['2103918792845963545','2103315922098470926','2102583898865873225','2103099194693271874','2103116235009347650'];
+export const FEATURED = ['2109941504827654305','2103918792845963545','2103315922098470926','2102583898865873225','2103099194693271874','2103116235009347650'];
 export const isFeatured = item => !item.review?.later && (item.review?.featured ?? FEATURED.includes(item.id));
 export const stageOf = item => item.stage === 'discovery' ? 'discovery' : 'catalogued';
 export const PAGE_SIZE = 36;

@@ -2,27 +2,37 @@
 
 # 产品宣传
 
-152 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+154 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103918792845963545"><img src="../assets/covers/2103918792845963545.jpg" width="400" alt="Pocketsflow 角色产品讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537"><img src="../assets/covers/2102787937482252537.jpg" width="400" alt="用一句话介绍推理服务"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109941504827654305"><img src="../assets/covers/2109941504827654305.jpg" width="400" alt="Awesome AI Motion：让 AI 把想法变成动效"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Pocketsflow 角色产品讲解</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · 产品宣传</sub><br><sub>0:15 · 收藏 2,005</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103918792845963545">▶ 播放</a> · <a href="https://x.com/achxvi/status/2103918792845963545">原帖</a></td>
-<td width="50%" valign="top"><strong>用一句话介绍推理服务</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 产品宣传</sub><br><sub>0:26 · 收藏 4,697</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537">▶ 播放</a> · <a href="https://x.com/deedydas/status/2102787937482252537">原帖</a></td>
+<td width="50%" valign="top"><strong>Awesome AI Motion：让 AI 把想法变成动效</strong><br><sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · 产品宣传</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109941504827654305">▶ 播放</a> · <a href="https://x.com/guanmo_ai/status/2109941504827654305">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537"><img src="../assets/covers/2102787937482252537.jpg" width="400" alt="用一句话介绍推理服务"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103835273813496100"><img src="../assets/covers/2103835273813496100.jpg" width="225" alt="单一形状与液态玻璃的连续发布片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102554209166000267"><img src="../assets/covers/2102554209166000267.jpg" width="400" alt="节拍同步的产品动效广告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>用一句话介绍推理服务</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 产品宣传</sub><br><sub>0:26 · 收藏 4,697</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787937482252537">▶ 播放</a> · <a href="https://x.com/deedydas/status/2102787937482252537">原帖</a></td>
 <td width="50%" valign="top"><strong>单一形状与液态玻璃的连续发布片</strong><br><sub><a href="https://x.com/twoclipping">@twoclipping</a> · 产品宣传</sub><br><sub>0:29 · 收藏 3,745</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103835273813496100">▶ 播放</a> · <a href="https://x.com/twoclipping/status/2103835273813496100">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102554209166000267"><img src="../assets/covers/2102554209166000267.jpg" width="400" alt="节拍同步的产品动效广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108210884799549714"><img src="../assets/covers/2108210884799549714.jpg" width="400" alt="点餐 App 的连续 UI 发布片"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>节拍同步的产品动效广告</strong><br><sub><a href="https://x.com/twoclipping">@twoclipping</a> · 产品宣传</sub><br><sub>0:20 · 收藏 1,422 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102554209166000267">▶ 播放</a> · <a href="https://x.com/twoclipping/status/2102554209166000267">原帖</a></td>
+<td width="50%" valign="top"><strong>点餐 App 的连续 UI 发布片</strong><br><sub><a href="https://x.com/ultimaxbt">@ultimaxbt</a> · 产品宣传</sub><br><sub>0:16 · 收藏 843 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108210884799549714">▶ 播放</a> · <a href="https://x.com/ultimaxbt/status/2108210884799549714">原帖</a></td>
 </tr>
 </tbody>
 <tbody>

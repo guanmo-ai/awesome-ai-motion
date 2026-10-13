@@ -8,7 +8,7 @@ Extraordinary motion. New creative possibilities. · [简体中文](README.md)
 
 **[Explore the gallery ↗](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** &nbsp; · &nbsp; [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>788 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
+<sub>811 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
 
 <a id="spotlights"></a>
 
@@ -29,13 +29,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 </tr>
 <tr>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926"><img src="assets/readme-covers/2103315922098470926.svg" width="260" alt="A 15-second motion design showreel"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109257723246501895"><img src="assets/readme-covers/2109257723246501895.svg" width="260" alt="A Transparent CD Case with an Animated Lid"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/readme-covers/2102591147927654847.svg" width="260" alt="An interactive camera lens lab"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="assets/readme-covers/2102801274173587569.svg" width="260" alt="Claude Pop: a mixed-workflow music video"></a></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><strong>A 15-second motion design showre&#8203;el</strong><br><sub><a href="https://x.com/stephanlivera">@stepha&#8203;nliver&#8203;a</a></sub><br><sub>Bookmarks 11,692 · 2026-09-25</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926">Watch ↗</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original</a></td>
+<td width="33%" valign="top"><strong>A Transp&#8203;arent CD Case with an Animat&#8203;ed Lid</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nn&#8203;ng</a></sub><br><sub>Bookmarks 3,816 · 2026-10-11</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109257723246501895">Watch ↗</a> · <a href="https://x.com/ann_nnng/status/2109257723246501895">Original</a></td>
 <td width="33%" valign="top"><strong>An intera&#8203;ctive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSa&#8203;el</a></sub><br><sub>Bookmarks 9,188 · 2026-09-23</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">Watch ↗</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original</a></td>
-<td width="33%" valign="top"><strong>Claude Pop: a mixed-workfl&#8203;ow music video</strong><br><sub><a href="https://x.com/donaldjewkes">@donald&#8203;jewkes</a></sub><br><sub>Bookmarks 8,096 · 2026-09-23</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">Watch ↗</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original</a></td>
 </tr>
 </table>
 
@@ -45,13 +45,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 
 | Explore | What you will find | Works |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 152 |
-| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 152 |
-| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 100 |
+| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 154 |
+| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 157 |
+| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 105 |
 | <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 56 |
-| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 193 |
-| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 74 |
-| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 61 |
+| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 199 |
+| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 78 |
+| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 62 |
 
 [Search, filter and watch all works in the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
@@ -109,32 +109,32 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 <table>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109941504827654305"><img src="assets/covers/2109941504827654305.jpg" width="400" alt="Awesome AI Motion: Turn Ideas into Motion with AI"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103918792845963545"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="A character-led Pocketsflow product explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="A 15-second motion design showreel"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Awesome AI Motion: Turn Ideas into Motion with AI</strong><br><sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109941504827654305">▶ Play</a> · <a href="https://x.com/guanmo_ai/status/2109941504827654305">Original post</a></td>
 <td width="50%" valign="top"><strong>A character-led Pocketsflow product explainer</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 2,005</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103918792845963545">▶ Play</a> · <a href="https://x.com/achxvi/status/2103918792845963545">Original post</a></td>
-<td width="50%" valign="top"><strong>A 15-second motion design showreel</strong><br><sub><a href="https://x.com/stephanlivera">@stephanlivera</a> · Motion design</sub><br><sub>0:15 · Bookmarks 11,692</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926">▶ Play</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="A 15-second motion design showreel"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102583898865873225"><img src="assets/covers/2102583898865873225.jpg" width="400" alt="Five thousand years of Chinese history"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A 15-second motion design showreel</strong><br><sub><a href="https://x.com/stephanlivera">@stephanlivera</a> · Motion design</sub><br><sub>0:15 · Bookmarks 11,692</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926">▶ Play</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original post</a></td>
 <td width="50%" valign="top"><strong>Five thousand years of Chinese history</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · Education &amp; explainers</sub><br><sub>2:38 · Bookmarks 762</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102583898865873225">▶ Play</a> · <a href="https://x.com/akokoi1/status/2102583898865873225">Original post</a></td>
-<td width="50%" valign="top"><strong>Pip travels through twelve visual styles</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · Pixel art &amp; characters</sub><br><sub>1:15 · Bookmarks 532</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874">▶ Play</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="Pip travels through twelve visual styles"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103116235009347650"><img src="assets/covers/2103116235009347650.jpg" width="400" alt="The Battle of Austerlitz in code"></a></td>
-<td width="50%"></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Pip travels through twelve visual styles</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · Pixel art &amp; characters</sub><br><sub>1:15 · Bookmarks 532</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103099194693271874">▶ Play</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">Original post</a></td>
 <td width="50%" valign="top"><strong>The Battle of Austerlitz in code</strong><br><sub><a href="https://x.com/WinterArc2125">@WinterArc2125</a> · Narrative films</sub><br><sub>5:01 · Bookmarks 272</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103116235009347650">▶ Play</a> · <a href="https://x.com/WinterArc2125/status/2103116235009347650">Original post</a></td>
-<td width="50%"></td>
 </tr>
 </tbody>
 </table>

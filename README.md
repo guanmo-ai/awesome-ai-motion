@@ -8,7 +8,7 @@
 
 **[进入作品画廊 ↗](https://guanmo-ai.github.io/awesome-ai-motion/)** &nbsp; · &nbsp; [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>788 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
+<sub>811 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
 
 <a id="spotlights"></a>
 
@@ -29,13 +29,13 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926"><img src="assets/readme-covers/2103315922098470926.svg" width="260" alt="15 秒动态设计自由发挥"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109257723246501895"><img src="assets/readme-covers/2109257723246501895.svg" width="260" alt="透明 CD 盒的材质与开盖交互"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="assets/readme-covers/2102591147927654847.svg" width="260" alt="用镜头实验室解释对焦"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569"><img src="assets/readme-covers/2102801274173587569.svg" width="260" alt="Claude Pop 混合制作 MV"></a></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><strong>15 秒动态设计自由发挥</strong><br><sub><a href="https://x.com/stephanlivera">@stepha&#8203;nliver&#8203;a</a></sub><br><sub>收藏 11,692 · 2026-09-25</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926">观看 ↗</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">原帖</a></td>
+<td width="33%" valign="top"><strong>透明 CD 盒的材质与开盖交互</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nn&#8203;ng</a></sub><br><sub>收藏 3,816 · 2026-10-11</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109257723246501895">观看 ↗</a> · <a href="https://x.com/ann_nnng/status/2109257723246501895">原帖</a></td>
 <td width="33%" valign="top"><strong>用镜头实验室解释对焦</strong><br><sub><a href="https://x.com/RyanSael">@RyanSa&#8203;el</a></sub><br><sub>收藏 9,188 · 2026-09-23</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">观看 ↗</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">原帖</a></td>
-<td width="33%" valign="top"><strong>Claude Pop 混合制作 MV</strong><br><sub><a href="https://x.com/donaldjewkes">@donald&#8203;jewkes</a></sub><br><sub>收藏 8,096 · 2026-09-23</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569">观看 ↗</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">原帖</a></td>
 </tr>
 </table>
 
@@ -45,13 +45,13 @@
 
 | 方向 | 可以发现什么 | 作品 |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 152 |
-| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 152 |
-| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 100 |
+| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 154 |
+| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 157 |
+| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 105 |
 | <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 56 |
-| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 193 |
-| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 74 |
-| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 61 |
+| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 199 |
+| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 78 |
+| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 62 |
 
 [在画廊中搜索、筛选和播放全部作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
@@ -109,32 +109,32 @@
 <table>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109941504827654305"><img src="assets/covers/2109941504827654305.jpg" width="400" alt="Awesome AI Motion：让 AI 把想法变成动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103918792845963545"><img src="assets/covers/2103918792845963545.jpg" width="400" alt="Pocketsflow 角色产品讲解"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="15 秒动态设计自由发挥"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Awesome AI Motion：让 AI 把想法变成动效</strong><br><sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · 产品宣传</sub><br><sub>0:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109941504827654305">▶ 播放</a> · <a href="https://x.com/guanmo_ai/status/2109941504827654305">原帖</a></td>
 <td width="50%" valign="top"><strong>Pocketsflow 角色产品讲解</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · 产品宣传</sub><br><sub>0:15 · 收藏 2,005</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103918792845963545">▶ 播放</a> · <a href="https://x.com/achxvi/status/2103918792845963545">原帖</a></td>
-<td width="50%" valign="top"><strong>15 秒动态设计自由发挥</strong><br><sub><a href="https://x.com/stephanlivera">@stephanlivera</a> · 短动效</sub><br><sub>0:15 · 收藏 11,692</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926">▶ 播放</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926"><img src="assets/covers/2103315922098470926.jpg" width="400" alt="15 秒动态设计自由发挥"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102583898865873225"><img src="assets/covers/2102583898865873225.jpg" width="400" alt="用线稿回顾中华五千年"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="机器人穿越十二种画风"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>15 秒动态设计自由发挥</strong><br><sub><a href="https://x.com/stephanlivera">@stephanlivera</a> · 短动效</sub><br><sub>0:15 · 收藏 11,692</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926">▶ 播放</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">原帖</a></td>
 <td width="50%" valign="top"><strong>用线稿回顾中华五千年</strong><br><sub><a href="https://x.com/akokoi1">@akokoi1</a> · 知识讲解</sub><br><sub>2:38 · 收藏 762</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102583898865873225">▶ 播放</a> · <a href="https://x.com/akokoi1/status/2102583898865873225">原帖</a></td>
-<td width="50%" valign="top"><strong>机器人穿越十二种画风</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · 角色动画</sub><br><sub>1:15 · 收藏 532</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874">▶ 播放</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874"><img src="assets/covers/2103099194693271874.jpg" width="400" alt="机器人穿越十二种画风"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103116235009347650"><img src="assets/covers/2103116235009347650.jpg" width="400" alt="用代码讲述奥斯特里茨战役"></a></td>
-<td width="50%"></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>机器人穿越十二种画风</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · 角色动画</sub><br><sub>1:15 · 收藏 532</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103099194693271874">▶ 播放</a> · <a href="https://x.com/pradeepXkapoor/status/2103099194693271874">原帖</a></td>
 <td width="50%" valign="top"><strong>用代码讲述奥斯特里茨战役</strong><br><sub><a href="https://x.com/WinterArc2125">@WinterArc2125</a> · 叙事短片</sub><br><sub>5:01 · 收藏 272</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103116235009347650">▶ 播放</a> · <a href="https://x.com/WinterArc2125/status/2103116235009347650">原帖</a></td>
-<td width="50%"></td>
 </tr>
 </tbody>
 </table>

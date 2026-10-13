@@ -2,27 +2,37 @@
 
 # Product & marketing
 
-152 works. Click a cover to play; works without gallery video open on X.
+154 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103918792845963545"><img src="../assets/covers/2103918792845963545.jpg" width="400" alt="A character-led Pocketsflow product explainer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537"><img src="../assets/covers/2102787937482252537.jpg" width="400" alt="A one-line prompt for an inference startup launch"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109941504827654305"><img src="../assets/covers/2109941504827654305.jpg" width="400" alt="Awesome AI Motion: Turn Ideas into Motion with AI"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A character-led Pocketsflow product explainer</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 2,005</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103918792845963545">▶ Play</a> · <a href="https://x.com/achxvi/status/2103918792845963545">Original post</a></td>
-<td width="50%" valign="top"><strong>A one-line prompt for an inference startup launch</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Product &amp; marketing</sub><br><sub>0:26 · Bookmarks 4,697</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537">▶ Play</a> · <a href="https://x.com/deedydas/status/2102787937482252537">Original post</a></td>
+<td width="50%" valign="top"><strong>Awesome AI Motion: Turn Ideas into Motion with AI</strong><br><sub><a href="https://x.com/guanmo_ai">@guanmo_ai</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109941504827654305">▶ Play</a> · <a href="https://x.com/guanmo_ai/status/2109941504827654305">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537"><img src="../assets/covers/2102787937482252537.jpg" width="400" alt="A one-line prompt for an inference startup launch"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103835273813496100"><img src="../assets/covers/2103835273813496100.jpg" width="225" alt="A continuous launch film with shape morphs and liquid glass"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102554209166000267"><img src="../assets/covers/2102554209166000267.jpg" width="400" alt="Beat-Synced Product Motion Ad"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A one-line prompt for an inference startup launch</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Product &amp; marketing</sub><br><sub>0:26 · Bookmarks 4,697</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787937482252537">▶ Play</a> · <a href="https://x.com/deedydas/status/2102787937482252537">Original post</a></td>
 <td width="50%" valign="top"><strong>A continuous launch film with shape morphs and liquid glass</strong><br><sub><a href="https://x.com/twoclipping">@twoclipping</a> · Product &amp; marketing</sub><br><sub>0:29 · Bookmarks 3,745</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103835273813496100">▶ Play</a> · <a href="https://x.com/twoclipping/status/2103835273813496100">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102554209166000267"><img src="../assets/covers/2102554209166000267.jpg" width="400" alt="Beat-Synced Product Motion Ad"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108210884799549714"><img src="../assets/covers/2108210884799549714.jpg" width="400" alt="A Continuous UI Launch Film for Food Ordering"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Beat-Synced Product Motion Ad</strong><br><sub><a href="https://x.com/twoclipping">@twoclipping</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 1,422 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102554209166000267">▶ Play</a> · <a href="https://x.com/twoclipping/status/2102554209166000267">Original post</a></td>
+<td width="50%" valign="top"><strong>A Continuous UI Launch Film for Food Ordering</strong><br><sub><a href="https://x.com/ultimaxbt">@ultimaxbt</a> · Product &amp; marketing</sub><br><sub>0:16 · Bookmarks 843 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108210884799549714">▶ Play</a> · <a href="https://x.com/ultimaxbt/status/2108210884799549714">Original post</a></td>
 </tr>
 </tbody>
 <tbody>

@@ -382,7 +382,13 @@ export function validateCatalog(catalog,root=ROOT) {
     if(!['width','height'].every(key=>Number.isSafeInteger(c.cover?.[key])&&c.cover[key]>0))fail('封面尺寸无效');
     if(c.author?.url!==`https://x.com/${c.author?.handle}`)fail('作者主页不一致');
     const model=c.model?.evidenceUrl?.match(/^https:\/\/x\.com\/([\w]+)\/status\/\d+$/);
-    if(!model||model[1].toLowerCase()!==c.author?.handle?.toLowerCase())fail('模型证据作者不一致');
+    const authorRepository=c.model.evidenceKind==='author_repository'
+      &&c.model.authorEvidenceUrl===c.author.url
+      &&c.resources?.some(resource=>resource.kind==='code'
+        &&/^https:\/\/github\.com\/[\w.-]+\/[\w.-]+$/.test(resource.url)
+        &&c.model.evidenceUrl.startsWith(`${resource.url}/blob/`)
+        &&resource.evidenceUrl===c.model.evidenceUrl);
+    if(!(model&&model[1].toLowerCase()===c.author?.handle?.toLowerCase())&&!authorRepository)fail('模型证据作者不一致');
 
   }
   return errors;

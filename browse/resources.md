@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-115 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+118 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -51,6 +51,12 @@
 - **直接源码**：[作者源码](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · 未标明许可
   包含影片网页引擎、地形数据、声音与渲染工具；未见整体许可证。
   [链接出处](https://x.com/WinterArc2125/status/2103116235009347650) · 链接核对 2026-09-29 05:50 UTC
+
+## [Opus 把任务交给 Haiku](../cases/2108199183983497433.md) · @kelanoo
+
+- **相关工具**：[作者引用的 Session Story 风格参考 Skill](https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story) · [Apache-2.0](https://github.com/heygen-com/hyperframes-community-skills/blob/master/LICENSE)
+  作者在制作指令中要求参考此 Skill 的手绘房间与角色风格；这是参考工具，不是本片 Remotion 工程。
+  [链接出处](https://x.com/kelanoo/status/2108199189134053863) · 链接核对 2026-10-13 07:56 UTC
 
 ## [One Prompt：p5.js 音乐视频](../cases/2105230653457650116.md) · @ppop123
 
@@ -226,6 +232,11 @@
   [链接出处](https://x.com/donaldjewkes/status/2102801469976248500) · 链接核对 2026-09-29 05:50 UTC
 - **相关工具**：[ClaudeAnimationBase 动画基础工程](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
   [链接出处](https://github.com/JohnHeibel/PDoomVideo) · 链接核对 2026-09-29 06:16 UTC
+
+## [15 种代码动效风格合集](../cases/2104957548797604116.md) · @VincentWei93
+
+- **直接源码**：[作者公开的作品工程与制作资料](https://github.com/Vincentwei1021/mg-styles-15) · [MIT](https://github.com/Vincentwei1021/mg-styles-15/blob/main/LICENSE)
+  [链接出处](https://x.com/VincentWei93/status/2107028148881899763) · 链接核对 2026-10-13 09:02 UTC
 
 ## [单页文件生成的视觉演示](../cases/2102893186330841502.md) · @JustinPerea
 
@@ -679,6 +690,11 @@
 - **相关工具**：[Three.js](https://github.com/mrdoob/three.js/tree/2db428484342e13fdfa9c2af62d5347da9426d9b) · [MIT](https://github.com/mrdoob/three.js/blob/2db428484342e13fdfa9c2af62d5347da9426d9b/LICENSE)
   作者原帖称用 @threejs 制作合作恐怖游戏；此链接是通用 3D 库，不是该游戏源码。固定提交的 LICENSE 为 MIT。
   [链接出处](https://x.com/AmaySignedIn/status/2104747385692053930) · 链接核对 2026-09-30 09:55 UTC
+
+## [从洞穴手印到地球：人类大历史](../cases/2105657578793672722.md) · @chen79639ddc
+
+- **直接源码**：[作者公开的作品工程与制作资料](https://github.com/DDChen666/civilization-film) · [MIT](https://github.com/DDChen666/civilization-film/blob/main/LICENSE)
+  [链接出处](https://github.com/DDChen666/civilization-film/blob/main/LICENSE-MEDIA.md) · 链接核对 2026-10-13 07:50 UTC
 
 ## [功能性情绪论文歌曲影像](../cases/2102610626321490404.md) · @eudaemonea
 

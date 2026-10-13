@@ -67,6 +67,20 @@ test('缺少模型证据、错误作者来源、缺失封面和重复 ID 都不�
   for(const kind of ['模型依据','提示词作者','封面','重复']) assert.ok(errors.includes(kind),kind);
 });
 
+test('作者仓库模型依据必须关联同一作者和已登记源码，不能接受任意外站',()=>{
+  const copy=structuredClone(catalog);
+  const item=copy.cases.find(c=>c.model.evidenceKind==='author_repository');
+  assert.ok(item);
+  assert.deepEqual(validateCatalog(copy,root),[]);
+  item.model.authorEvidenceUrl='https://x.com/wrong_author';
+  assert.ok(validateCatalog(copy,root).some(e=>e.includes('模型证据作者不一致')));
+  item.model.authorEvidenceUrl=item.author.url;
+  item.model.evidenceUrl='https://github.com/other/project/blob/main/README.md';
+  assert.ok(validateCatalog(copy,root).some(e=>e.includes('模型证据作者不一致')));
+  item.model.evidenceUrl='https://example.com/claim';
+  assert.ok(validateCatalog(copy,root).some(e=>e.includes('模型证据作者不一致')));
+});
+
 test('生成文件的相对链接可解析；每条案例含作者、原帖和提示词来源', () => {
   const outputs=buildOutputs(catalog);
   for(const c of catalog.cases) {

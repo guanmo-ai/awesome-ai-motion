@@ -5,7 +5,7 @@ const author={name:scalar,handle:scalar,url:scalar};
 const caseFields={
   id:scalar,title:scalar,titleEn:scalar,category:scalar,summary:scalar,summaryEn:scalar,stage:scalar,
   author,source:{url:scalar,publishedAt:scalar},
-  model:{name:scalar,basis:scalar,evidenceUrl:scalar,evidenceQuote:scalar},
+  model:{name:scalar,basis:scalar,evidenceUrl:scalar,evidenceQuote:scalar,evidenceKind:scalar,authorEvidenceUrl:scalar},
   media:{durationSeconds:scalar,videoCount:scalar},
   cover:{path:scalar,sourceUrl:scalar,kind:scalar,timeSeconds:scalar,width:scalar,height:scalar,bytes:scalar},
   prompt:{status:scalar,display:scalar,text:scalar,language:scalar,sourceUrl:scalar,checkedAt:scalar,translationZh:scalar,noteZh:scalar,noteEn:scalar},

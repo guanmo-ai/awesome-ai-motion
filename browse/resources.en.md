@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-115 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+118 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -51,6 +51,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[Creator’s source code](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · No license specified
   Includes the web film engine, terrain data, audio and rendering tools; no overall license was found.
   [Link source](https://x.com/WinterArc2125/status/2103116235009347650) · Link checked 2026-09-29 05:50 UTC
+
+## [Opus Delegates Small Tasks to Haiku](../cases/2108199183983497433.en.md) · @kelanoo
+
+- **Related tool**：[Session Story skill cited as a style reference](https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story) · [Apache-2.0](https://github.com/heygen-com/hyperframes-community-skills/blob/master/LICENSE)
+  The prompt cites this skill for its hand-drawn room and character style. It is a reference tool, not the Remotion project for this film.
+  [Link source](https://x.com/kelanoo/status/2108199189134053863) · Link checked 2026-10-13 07:56 UTC
 
 ## [One Prompt: A p5.js Music Video](../cases/2105230653457650116.en.md) · @ppop123
 
@@ -226,6 +232,11 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/donaldjewkes/status/2102801469976248500) · Link checked 2026-09-29 05:50 UTC
 - **Related tool**：[ClaudeAnimationBase animation starter](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
   [Link source](https://github.com/JohnHeibel/PDoomVideo) · Link checked 2026-09-29 06:16 UTC
+
+## [15 Code-Generated Motion Design Styles](../cases/2104957548797604116.en.md) · @VincentWei93
+
+- **Direct source**：[Published film project and production materials](https://github.com/Vincentwei1021/mg-styles-15) · [MIT](https://github.com/Vincentwei1021/mg-styles-15/blob/main/LICENSE)
+  [Link source](https://x.com/VincentWei93/status/2107028148881899763) · Link checked 2026-10-13 09:02 UTC
 
 ## [One-File Generative Visual Demo](../cases/2102893186330841502.en.md) · @JustinPerea
 
@@ -679,6 +690,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Three.js](https://github.com/mrdoob/three.js/tree/2db428484342e13fdfa9c2af62d5347da9426d9b) · [MIT](https://github.com/mrdoob/three.js/blob/2db428484342e13fdfa9c2af62d5347da9426d9b/LICENSE)
   The creator says they built the co-op horror game using @threejs; this is the general 3D library, not the game's source. The pinned commit's LICENSE is MIT.
   [Link source](https://x.com/AmaySignedIn/status/2104747385692053930) · Link checked 2026-09-30 09:55 UTC
+
+## [Civilization: From Cave Handprints to Earth](../cases/2105657578793672722.en.md) · @chen79639ddc
+
+- **Direct source**：[Published film project and production materials](https://github.com/DDChen666/civilization-film) · [MIT](https://github.com/DDChen666/civilization-film/blob/main/LICENSE)
+  [Link source](https://github.com/DDChen666/civilization-film/blob/main/LICENSE-MEDIA.md) · Link checked 2026-10-13 07:50 UTC
 
 ## [Music Film About Functional Emotions](../cases/2102610626321490404.en.md) · @eudaemonea
 
