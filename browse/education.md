@@ -2,7 +2,7 @@
 
 # 知识讲解
 
-157 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+159 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -177,12 +177,22 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109244702235275680"><img src="../assets/covers/2109244702235275680.jpg" width="400" alt="从生命诞生到大脑：人体科普"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103174501345493197"><img src="../assets/covers/2103174501345493197.jpg" width="127" alt="宜家说明书转三维教程"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102722719502704941"><img src="../assets/covers/2102722719502704941.jpg" width="225" alt="双生子佯谬剪纸动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>从生命诞生到大脑：人体科普</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 知识讲解</sub><br><sub>0:30 · 收藏 630 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109244702235275680">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2109244702235275680">原帖</a></td>
 <td width="50%" valign="top"><strong>宜家说明书转三维教程</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · 知识讲解</sub><br><sub>1:42 · 收藏 596 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103174501345493197">▶ 播放</a> · <a href="https://x.com/deedydas/status/2103174501345493197">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102722719502704941"><img src="../assets/covers/2102722719502704941.jpg" width="225" alt="双生子佯谬剪纸动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102498682931441977"><img src="../assets/covers/2102498682931441977.jpg" width="400" alt="从细胞到眼睛的科普动效"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>双生子佯谬剪纸动画</strong><br><sub><a href="https://x.com/masahirochaen">@masahirochaen</a> · 知识讲解</sub><br><sub>0:47 · 收藏 577 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102722719502704941">▶ 播放</a> · <a href="https://x.com/masahirochaen/status/2102722719502704941">原帖</a></td>
+<td width="50%" valign="top"><strong>从细胞到眼睛的科普动效</strong><br><sub><a href="https://x.com/rege_dev">@rege_dev</a> · 知识讲解</sub><br><sub>0:50 · 收藏 569 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102498682931441977">▶ 播放</a> · <a href="https://x.com/rege_dev/status/2102498682931441977">原帖</a></td>
 </tr>
 </tbody>
 <tbody>

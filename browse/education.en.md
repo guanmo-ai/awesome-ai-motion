@@ -2,7 +2,7 @@
 
 # Education & explainers
 
-157 works. Click a cover to play; works without gallery video open on X.
+159 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -177,12 +177,22 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109244702235275680"><img src="../assets/covers/2109244702235275680.jpg" width="400" alt="From Human Life to the Brain"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103174501345493197"><img src="../assets/covers/2103174501345493197.jpg" width="127" alt="IKEA Manual Becomes a 3D Tutorial"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102722719502704941"><img src="../assets/covers/2102722719502704941.jpg" width="225" alt="Twin paradox paper cutout animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>From Human Life to the Brain</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Education &amp; explainers</sub><br><sub>0:30 · Bookmarks 630 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109244702235275680">▶ Play</a> · <a href="https://x.com/chetaslua/status/2109244702235275680">Original post</a></td>
 <td width="50%" valign="top"><strong>IKEA Manual Becomes a 3D Tutorial</strong><br><sub><a href="https://x.com/deedydas">@deedydas</a> · Education &amp; explainers</sub><br><sub>1:42 · Bookmarks 596 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103174501345493197">▶ Play</a> · <a href="https://x.com/deedydas/status/2103174501345493197">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102722719502704941"><img src="../assets/covers/2102722719502704941.jpg" width="225" alt="Twin paradox paper cutout animation"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102498682931441977"><img src="../assets/covers/2102498682931441977.jpg" width="400" alt="From Cells to the Eye"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Twin paradox paper cutout animation</strong><br><sub><a href="https://x.com/masahirochaen">@masahirochaen</a> · Education &amp; explainers</sub><br><sub>0:47 · Bookmarks 577 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102722719502704941">▶ Play</a> · <a href="https://x.com/masahirochaen/status/2102722719502704941">Original post</a></td>
+<td width="50%" valign="top"><strong>From Cells to the Eye</strong><br><sub><a href="https://x.com/rege_dev">@rege_dev</a> · Education &amp; explainers</sub><br><sub>0:50 · Bookmarks 569 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102498682931441977">▶ Play</a> · <a href="https://x.com/rege_dev/status/2102498682931441977">Original post</a></td>
 </tr>
 </tbody>
 <tbody>

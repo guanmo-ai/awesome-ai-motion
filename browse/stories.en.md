@@ -2,7 +2,7 @@
 
 # Narrative films
 
-78 works. Click a cover to play; works without gallery video open on X.
+81 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -107,31 +107,41 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102774951434695083"><img src="../assets/covers/2102774951434695083.jpg" width="400" alt="A Pop-Up Adventure Story"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102986085328716066"><img src="../assets/covers/2102986085328716066.jpg" width="400" alt="Collage Animation of a Mid-Autumn Night"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102478640428773861"><img src="../assets/covers/2102478640428773861.jpg" width="400" alt="Code animation about hard problems"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Pop-Up Adventure Story</strong><br><sub><a href="https://x.com/nickwalton00">@nickwalton00</a> · Narrative films</sub><br><sub>1:03 · Bookmarks 642 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102774951434695083">▶ Play</a> · <a href="https://x.com/nickwalton00/status/2102774951434695083">Original post</a></td>
 <td width="50%" valign="top"><strong>Collage Animation of a Mid-Autumn Night</strong><br><sub><a href="https://x.com/ring_hyacinth">@ring_hyacinth</a> · Narrative films</sub><br><sub>0:40 · Bookmarks 492 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102986085328716066">▶ Play</a> · <a href="https://x.com/ring_hyacinth/status/2102986085328716066">Original post</a></td>
-<td width="50%" valign="top"><strong>Code animation about hard problems</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Narrative films</sub><br><sub>0:30 · Bookmarks 393 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102478640428773861">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102478640428773861">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102478640428773861"><img src="../assets/covers/2102478640428773861.jpg" width="400" alt="Code animation about hard problems"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103523994440012086"><img src="../assets/covers/2103523994440012086.jpg" width="400" alt="From rocks to AI short film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103457566978162901"><img src="../assets/covers/2103457566978162901.jpg" width="180" alt="Future Fable in a World Without Humans"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Code animation about hard problems</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Narrative films</sub><br><sub>0:30 · Bookmarks 393 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102478640428773861">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102478640428773861">Original post</a></td>
 <td width="50%" valign="top"><strong>From rocks to AI short film</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · Narrative films</sub><br><sub>3:00 · Bookmarks 381 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103523994440012086">▶ Play</a> · <a href="https://x.com/devteamdrew/status/2103523994440012086">Original post</a></td>
-<td width="50%" valign="top"><strong>Future Fable in a World Without Humans</strong><br><sub><a href="https://x.com/Hesamation">@Hesamation</a> · Narrative films</sub><br><sub>1:28 · Bookmarks 355 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103457566978162901">▶ Play</a> · <a href="https://x.com/Hesamation/status/2103457566978162901">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103457566978162901"><img src="../assets/covers/2103457566978162901.jpg" width="180" alt="Future Fable in a World Without Humans"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104186357824487573"><img src="../assets/covers/2104186357824487573.jpg" width="334" alt="Memory Fading into Watercolor: A Coded Short"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Future Fable in a World Without Humans</strong><br><sub><a href="https://x.com/Hesamation">@Hesamation</a> · Narrative films</sub><br><sub>1:28 · Bookmarks 355 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103457566978162901">▶ Play</a> · <a href="https://x.com/Hesamation/status/2103457566978162901">Original post</a></td>
+<td width="50%" valign="top"><strong>Memory Fading into Watercolor: A Coded Short</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · Narrative films</sub><br><sub>0:12 · Bookmarks 260 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104186357824487573">▶ Play</a> · <a href="https://x.com/techartist_/status/2104186357824487573">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109108146438275128"><img src="../assets/covers/2109108146438275128.jpg" width="400" alt="A Low-Poly Storytelling Scene"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102558320695402885"><img src="../assets/covers/2102558320695402885.jpg" width="400" alt="Stick Figures Loot a Labyrinth"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Memory Fading into Watercolor: A Coded Short</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · Narrative films</sub><br><sub>0:12 · Bookmarks 260 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104186357824487573">▶ Play</a> · <a href="https://x.com/techartist_/status/2104186357824487573">Original post</a></td>
+<td width="50%" valign="top"><strong>A Low-Poly Storytelling Scene</strong><br><sub><a href="https://x.com/fishesareweird">@fishesareweird</a> · Narrative films</sub><br><sub>0:06 · Bookmarks 186 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109108146438275128">▶ Play</a> · <a href="https://x.com/fishesareweird/status/2109108146438275128">Original post</a></td>
 <td width="50%" valign="top"><strong>Stick Figures Loot a Labyrinth</strong><br><sub><a href="https://x.com/ForwardEditor">@ForwardEditor</a> · Narrative films</sub><br><sub>1:47 · Bookmarks 142 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102558320695402885">▶ Play</a> · <a href="https://x.com/ForwardEditor/status/2102558320695402885">Original post</a></td>
 </tr>
 </tbody>
@@ -358,41 +368,51 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108494077389926611"><img src="../assets/covers/2108494077389926611.jpg" width="127" alt="Half a Blanket: a Story Across the Miles"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="Three Everyday Coincidence Vignettes"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109636175841660963"><img src="../assets/covers/2109636175841660963.jpg" width="126" alt="An Illustrated Woodworking Shop"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Half a Blanket: a Story Across the Miles</strong><br><sub><a href="https://x.com/Vallabh469">@Vallabh469</a> · Narrative films</sub><br><sub>0:39 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108494077389926611">▶ Play</a> · <a href="https://x.com/Vallabh469/status/2108494077389926611">Original post</a></td>
-<td width="50%" valign="top"><strong>Three Everyday Coincidence Vignettes</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · Narrative films</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875">▶ Play</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">Original post</a></td>
+<td width="50%" valign="top"><strong>An Illustrated Woodworking Shop</strong><br><sub><a href="https://x.com/kudela_maxim">@kudela_maxim</a> · Narrative films</sub><br><sub>0:35 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109636175841660963">▶ Play</a> · <a href="https://x.com/kudela_maxim/status/2109636175841660963">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875"><img src="../assets/covers/2102910805721362875.jpg" width="400" alt="Three Everyday Coincidence Vignettes"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/NoFollowers2023/status/2104792004978974928"><img src="../assets/covers/2104792004978974928.jpg" width="400" alt="Far from the Madding Crowd: A Space-Outpost Paper Film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="Humans choose the direction in the AI era"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three Everyday Coincidence Vignettes</strong><br><sub><a href="https://x.com/YoshiKura535130">@YoshiKura535130</a> · Narrative films</sub><br><sub>0:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102910805721362875">▶ Play</a> · <a href="https://x.com/YoshiKura535130/status/2102910805721362875">Original post</a></td>
 <td width="50%" valign="top"><strong>Far from the Madding Crowd: A Space-Outpost Paper Film</strong><br><sub><a href="https://x.com/NoFollowers2023">@NoFollowers2023</a> · Narrative films</sub><br><sub>5:27 · Bookmarks 0 · Details pending</sub><br><a href="https://x.com/NoFollowers2023/status/2104792004978974928">▶ Watch on X</a> · <a href="https://x.com/NoFollowers2023/status/2104792004978974928">Original post</a></td>
-<td width="50%" valign="top"><strong>Humans choose the direction in the AI era</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · Narrative films</sub><br><sub>1:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877">▶ Play</a> · <a href="https://x.com/nakazakifam/status/2105361184543133877">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877"><img src="../assets/covers/2105361184543133877.jpg" width="400" alt="Humans choose the direction in the AI era"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105657578793672722"><img src="../assets/covers/2105657578793672722.jpg" width="400" alt="Civilization: From Cave Handprints to Earth"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107434660057800861"><img src="../assets/covers/2107434660057800861.jpg" width="400" alt="Emergence: a code-built short film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Humans choose the direction in the AI era</strong><br><sub><a href="https://x.com/nakazakifam">@nakazakifam</a> · Narrative films</sub><br><sub>1:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105361184543133877">▶ Play</a> · <a href="https://x.com/nakazakifam/status/2105361184543133877">Original post</a></td>
 <td width="50%" valign="top"><strong>Civilization: From Cave Handprints to Earth</strong><br><sub><a href="https://x.com/chen79639ddc">@chen79639ddc</a> · Narrative films</sub><br><sub>2:29 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105657578793672722">▶ Play</a> · <a href="https://x.com/chen79639ddc/status/2105657578793672722">Original post</a></td>
-<td width="50%" valign="top"><strong>Emergence: a code-built short film</strong><br><sub><a href="https://x.com/JindaLi_">@JindaLi_</a> · Narrative films</sub><br><sub>4:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107434660057800861">▶ Play</a> · <a href="https://x.com/JindaLi_/status/2107434660057800861">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107434660057800861"><img src="../assets/covers/2107434660057800861.jpg" width="400" alt="Emergence: a code-built short film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107501886844891607"><img src="../assets/covers/2107501886844891607.jpg" width="127" alt="When Sand Speaks: Episode One"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108340003613053354"><img src="../assets/covers/2108340003613053354.jpg" width="400" alt="A Codex Anime-style Introduction Test"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Emergence: a code-built short film</strong><br><sub><a href="https://x.com/JindaLi_">@JindaLi_</a> · Narrative films</sub><br><sub>4:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107434660057800861">▶ Play</a> · <a href="https://x.com/JindaLi_/status/2107434660057800861">Original post</a></td>
 <td width="50%" valign="top"><strong>When Sand Speaks: Episode One</strong><br><sub><a href="https://x.com/kevrussell">@kevrussell</a> · Narrative films</sub><br><sub>0:54 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107501886844891607">▶ Play</a> · <a href="https://x.com/kevrussell/status/2107501886844891607">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108340003613053354"><img src="../assets/covers/2108340003613053354.jpg" width="400" alt="A Codex Anime-style Introduction Test"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>A Codex Anime-style Introduction Test</strong><br><sub><a href="https://x.com/Quantzuma">@Quantzuma</a> · Narrative films</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108340003613053354">▶ Play</a> · <a href="https://x.com/Quantzuma/status/2108340003613053354">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

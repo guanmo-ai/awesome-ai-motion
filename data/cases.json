@@ -3,6 +3,678 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2109003656280646014",
+      "stage": "discovery",
+      "title": "纸上小人的循环动画",
+      "titleEn": "Paper Doodle Animation Loops",
+      "category": "短动效",
+      "summary": "纸面上的卡通小人翻转、探头与摆动。作者说明使用 Opus 5.5 和 JavaScript 制作；原帖包含四个循环，画廊展示其中一个。",
+      "summaryEn": "Cartoon doodles flip, peek and sway on paper. The creator credits Opus 5.5 and JavaScript. The original post contains four loops; the gallery plays one.",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source": {
+        "url": "https://x.com/kevin_t_ngo/status/2109003656280646014",
+        "publishedAt": "2026-10-10T19:30:29+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 animated GIFs on paper using JavaScript.",
+        "evidenceUrl": "https://x.com/kevin_t_ngo/status/2109003656280646014"
+      },
+      "media": {
+        "durationSeconds": 4.8,
+        "videoCount": 4
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/tweet_video/HUSu9L1bUAEjnn4.mp4",
+        "kind": "video_frame",
+        "timeSeconds": 2.2,
+        "width": 480,
+        "height": 480,
+        "bytes": 40193,
+        "path": "assets/covers/2109003656280646014.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2109003656280646014",
+        "checkedAt": "2026-10-14T04:45:34.886516+00:00"
+      },
+      "metrics": {
+        "bookmarks": 259,
+        "likes": 415,
+        "views": 14973,
+        "checkedAt": "2026-10-14T04:45:34.886516+00:00",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2109003656280646014"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:45:34.886516+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/tweet_video/HUSu9L1bUAEjnn4.mp4",
+        "sourcePostUrl": "https://x.com/kevin_t_ngo/status/2109003656280646014",
+        "checkedAt": "2026-10-14T04:45:34.886516+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109244702235275680",
+      "stage": "discovery",
+      "title": "从生命诞生到大脑：人体科普",
+      "titleEn": "From Human Life to the Brain",
+      "category": "知识讲解",
+      "summary": "卡通人物、细胞和大脑图解组成科普动效。作者说明使用 Opus 5.5，逐帧以 JavaScript 绘制。",
+      "summaryEn": "Cartoon characters, cells and brain diagrams form an educational animation. The creator credits Opus 5.5 and frame-by-frame JavaScript drawing.",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2109244702235275680",
+        "publishedAt": "2026-10-11T11:28:19+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/chetaslua/status/2109244702235275680"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109242172038115328/vid/avc1/1920x1080/IgM8KpfqWDsOL45b.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 16.5,
+        "width": 480,
+        "height": 270,
+        "bytes": 13918,
+        "path": "assets/covers/2109244702235275680.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetaslua/status/2109244702235275680",
+        "checkedAt": "2026-10-14T04:45:38.524808+00:00"
+      },
+      "metrics": {
+        "bookmarks": 630,
+        "likes": 1837,
+        "views": 263040,
+        "checkedAt": "2026-10-14T04:45:38.524808+00:00",
+        "sourceUrl": "https://x.com/chetaslua/status/2109244702235275680"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:45:38.524808+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109242172038115328/vid/avc1/1920x1080/IgM8KpfqWDsOL45b.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetaslua/status/2109244702235275680",
+        "checkedAt": "2026-10-14T04:45:38.524808+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109108146438275128",
+      "stage": "discovery",
+      "title": "低多边形小剧场",
+      "titleEn": "A Low-Poly Storytelling Scene",
+      "category": "叙事短片",
+      "summary": "低多边形卡通角色在小店场景中活动。作者在对应回复中说明使用 Opus 5.5 制作三维动画，并用 ElevenLabs 配音。",
+      "summaryEn": "Low-poly cartoon characters inhabit a small shop. In a reply, the creator credits Opus 5.5 for the 3D animation and ElevenLabs for narration.",
+      "author": {
+        "name": "joão",
+        "handle": "fishesareweird",
+        "url": "https://x.com/fishesareweird"
+      },
+      "source": {
+        "url": "https://x.com/fishesareweird/status/2109108146438275128",
+        "publishedAt": "2026-10-11T02:25:42+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "make the 3d animations with opus 5.5",
+        "evidenceUrl": "https://x.com/fishesareweird/status/2109108149647004103"
+      },
+      "media": {
+        "durationSeconds": 5.9,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109107026932449280/vid/avc1/1920x1080/O4n9Zr6tVmpAMmlD.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.25,
+        "width": 480,
+        "height": 270,
+        "bytes": 15256,
+        "path": "assets/covers/2109108146438275128.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/fishesareweird/status/2109108146438275128",
+        "checkedAt": "2026-10-14T04:45:39.015068+00:00"
+      },
+      "metrics": {
+        "bookmarks": 186,
+        "likes": 153,
+        "views": 24707,
+        "checkedAt": "2026-10-14T04:45:39.015068+00:00",
+        "sourceUrl": "https://x.com/fishesareweird/status/2109108146438275128"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:45:39.015068+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109107026932449280/vid/avc1/1920x1080/O4n9Zr6tVmpAMmlD.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/fishesareweird/status/2109108146438275128",
+        "checkedAt": "2026-10-14T04:45:39.015068+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2110010240825737683",
+      "stage": "discovery",
+      "title": "蓝色小球穿过热气球世界",
+      "titleEn": "A Blue Ball, Rings and Hot-Air Balloons",
+      "category": "短动效",
+      "summary": "蓝色小球穿过圆环，背景转为热气球与柔和彩色地形。作者说明使用 Opus 5.5、Python 和 Blender 制作三维动画。",
+      "summaryEn": "A blue ball moves through rings against hot-air balloons and softly colored terrain. The creator credits Opus 5.5, Python and Blender for the 3D animation.",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source": {
+        "url": "https://x.com/kevin_t_ngo/status/2110010240825737683",
+        "publishedAt": "2026-10-13T14:10:18+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "3D Animation made by Claude Opus 5.5",
+        "evidenceUrl": "https://x.com/kevin_t_ngo/status/2110010240825737683"
+      },
+      "media": {
+        "durationSeconds": 28,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110009522949640193/vid/avc1/1920x1080/8idTOJ4A7H5EM5vX.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 15.4,
+        "width": 480,
+        "height": 270,
+        "bytes": 13605,
+        "path": "assets/covers/2110010240825737683.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2110010240825737683",
+        "checkedAt": "2026-10-14T04:47:25.179444+00:00"
+      },
+      "metrics": {
+        "bookmarks": 663,
+        "likes": 1054,
+        "views": 34801,
+        "checkedAt": "2026-10-14T04:47:25.179444+00:00",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2110010240825737683"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:47:25.179444+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110009522949640193/vid/avc1/1920x1080/8idTOJ4A7H5EM5vX.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kevin_t_ngo/status/2110010240825737683",
+        "checkedAt": "2026-10-14T04:47:25.179444+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108237822029099461",
+      "stage": "discovery",
+      "title": "四个音乐驱动的三维世界",
+      "titleEn": "Four Audio-Driven 3D Worlds",
+      "category": "音乐与歌词",
+      "summary": "眼睛、液态金属、磁流体和晶体空间随音乐变化并连续转场。作者说明让 Opus 5.5 在 Blender 中扩展成完整音乐短片。",
+      "summaryEn": "An eye, liquid metal, ferrofluid and crystalline spaces evolve with music and flow into each other. The creator describes using Opus 5.5 and Blender to expand the sequence into a full music video.",
+      "author": {
+        "name": "klöss",
+        "handle": "kloss_xyz",
+        "url": "https://x.com/kloss_xyz"
+      },
+      "source": {
+        "url": "https://x.com/kloss_xyz/status/2108237822029099461",
+        "publishedAt": "2026-10-08T16:47:20+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "I asked Opus 5.5 to extend it into a full song and music video.",
+        "evidenceUrl": "https://x.com/kloss_xyz/status/2108237822029099461"
+      },
+      "media": {
+        "durationSeconds": 102.442,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108237585327812608/vid/avc1/1920x1080/xSTPi4F27a2DH7US.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 56.34,
+        "width": 480,
+        "height": 270,
+        "bytes": 22878,
+        "path": "assets/covers/2108237822029099461.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kloss_xyz/status/2108237822029099461",
+        "checkedAt": "2026-10-14T04:57:03.147297+00:00"
+      },
+      "metrics": {
+        "bookmarks": 30,
+        "likes": 96,
+        "views": 5463,
+        "checkedAt": "2026-10-14T04:57:03.147297+00:00",
+        "sourceUrl": "https://x.com/kloss_xyz/status/2108237822029099461"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:57:03.147297+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108237585327812608/vid/avc1/1920x1080/xSTPi4F27a2DH7US.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kloss_xyz/status/2108237822029099461",
+        "checkedAt": "2026-10-14T04:57:03.147297+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2102501773705670994",
+      "stage": "discovery",
+      "title": "茶杯、花朵与纸片动画",
+      "titleEn": "Tea, Flowers and Paper-Cut Motion",
+      "category": "短动效",
+      "summary": "茶杯、花朵、树木与文字组成剪纸风格动画。作者声明由 Opus 5.5 仅用 JavaScript 制作，并提供 CodePen 页面入口。",
+      "summaryEn": "Tea, flowers, trees and text form a paper-cut animation. The creator credits Opus 5.5 and JavaScript without external assets, and links a CodePen page.",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2102501773705670994",
+        "publishedAt": "2026-09-22T20:54:20+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 coded no assets",
+        "evidenceUrl": "https://x.com/chetaslua/status/2102501773705670994"
+      },
+      "media": {
+        "durationSeconds": 10,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 5.5,
+        "width": 480,
+        "height": 270,
+        "bytes": 16178,
+        "path": "assets/covers/2102501773705670994.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetaslua/status/2102501773705670994",
+        "checkedAt": "2026-10-14T04:58:34.667135+00:00"
+      },
+      "metrics": {
+        "bookmarks": 769,
+        "likes": 930,
+        "views": 56476,
+        "checkedAt": "2026-10-14T04:58:34.667135+00:00",
+        "sourceUrl": "https://x.com/chetaslua/status/2102501773705670994"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:58:34.667135+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetaslua/status/2102501773705670994",
+        "checkedAt": "2026-10-14T04:58:34.667135+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://codepen.io/editor/ChetasLua/pen/01a0cadf-5b81-756f-8647-8cf5a47e7adf",
+          "label": "作者 CodePen 页面",
+          "labelEn": "Creator’s CodePen page",
+          "evidenceUrl": "https://x.com/chetaslua/status/2102501773705670994",
+          "checkedAt": "2026-10-14T04:58:34.667135+00:00",
+          "note": "作者原帖提供此入口；页面内容本次未能读取，未核得完整源码或复用许可。",
+          "noteEn": "Linked by the creator. Page contents could not be read during this check; complete source and reuse permission are unverified."
+        }
+      ]
+    },
+    {
+      "id": "2109636175841660963",
+      "stage": "discovery",
+      "title": "木工作坊的插画短片",
+      "titleEn": "An Illustrated Woodworking Shop",
+      "category": "叙事短片",
+      "summary": "蓝白插画中的木工作坊、人物与店面组成连续叙事。作者将这支作品标为 Opus 5.5 视频，未提供具体工程。",
+      "summaryEn": "A blue-and-white illustrated woodworking shop, characters and storefront form a narrative sequence. The creator identifies it as an Opus 5.5 video; no project files are provided.",
+      "author": {
+        "name": "Max",
+        "handle": "kudela_maxim",
+        "url": "https://x.com/kudela_maxim"
+      },
+      "source": {
+        "url": "https://x.com/kudela_maxim/status/2109636175841660963",
+        "publishedAt": "2026-10-12T13:23:54+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "another opus 5.5 video",
+        "evidenceUrl": "https://x.com/kudela_maxim/status/2109636175841660963"
+      },
+      "media": {
+        "durationSeconds": 34.6,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109635502806618112/vid/avc1/1080x1920/gS5-xhYHYhwdvTOK.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 19.03,
+        "width": 480,
+        "height": 854,
+        "bytes": 22834,
+        "path": "assets/covers/2109636175841660963.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kudela_maxim/status/2109636175841660963",
+        "checkedAt": "2026-10-14T04:59:50.990314+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 1,
+        "views": 52,
+        "checkedAt": "2026-10-14T04:59:50.990314+00:00",
+        "sourceUrl": "https://x.com/kudela_maxim/status/2109636175841660963"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:59:50.990314+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109635502806618112/vid/avc1/1080x1920/gS5-xhYHYhwdvTOK.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kudela_maxim/status/2109636175841660963",
+        "checkedAt": "2026-10-14T04:59:50.990314+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2102774951434695083",
+      "stage": "discovery",
+      "title": "立体书里的冒险故事",
+      "titleEn": "A Pop-Up Adventure Story",
+      "category": "叙事短片",
+      "summary": "书页翻动并展开为森林和卡通角色场景。作者说明让 Opus 5.5 将 AI Dungeon 故事制作成动画。",
+      "summaryEn": "Turning pages unfold into forest scenery and cartoon characters. The creator says Opus 5.5 animated an AI Dungeon story.",
+      "author": {
+        "name": "Nick Walton",
+        "handle": "nickwalton00",
+        "url": "https://x.com/nickwalton00"
+      },
+      "source": {
+        "url": "https://x.com/nickwalton00/status/2102774951434695083",
+        "publishedAt": "2026-09-23T14:59:50+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "opus 5.5 is insane",
+        "evidenceUrl": "https://x.com/nickwalton00/status/2102774951434695083"
+      },
+      "media": {
+        "durationSeconds": 63.005,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102774122338246656/vid/avc1/1920x1080/NI8NAGKjuGt3Y5aH.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 34.65,
+        "width": 480,
+        "height": 270,
+        "bytes": 7997,
+        "path": "assets/covers/2102774951434695083.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/nickwalton00/status/2102774951434695083",
+        "checkedAt": "2026-10-14T04:58:34.210499+00:00"
+      },
+      "metrics": {
+        "bookmarks": 642,
+        "likes": 870,
+        "views": 48563,
+        "checkedAt": "2026-10-14T04:58:34.210499+00:00",
+        "sourceUrl": "https://x.com/nickwalton00/status/2102774951434695083"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:58:34.210499+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2102774122338246656/vid/avc1/1920x1080/NI8NAGKjuGt3Y5aH.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/nickwalton00/status/2102774951434695083",
+        "checkedAt": "2026-10-14T04:58:34.210499+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2102575622912631261",
+      "stage": "discovery",
+      "title": "Opus 的卡通介绍短片",
+      "titleEn": "A Cartoon Introduction to Opus",
+      "category": "产品宣传",
+      "summary": "卡通形象在纸面风景中串起文字和信息变化。作者说明这支介绍 Opus 5.5 的短片由 Opus 5.5 生成。",
+      "summaryEn": "A cartoon character moves through paper-like scenery, text and information graphics. The creator credits Opus 5.5 with generating this introduction to the model.",
+      "author": {
+        "name": "nicekate",
+        "handle": "nicekate8888",
+        "url": "https://x.com/nicekate8888"
+      },
+      "source": {
+        "url": "https://x.com/nicekate8888/status/2102575622912631261",
+        "publishedAt": "2026-09-23T01:47:47+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 生成介绍 Opus 5.5 短片",
+        "evidenceUrl": "https://x.com/nicekate8888/status/2102575622912631261"
+      },
+      "media": {
+        "durationSeconds": 90,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102575438552076288/vid/avc1/1920x1080/Rmumie03Qfa_vXBK.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 49.5,
+        "width": 480,
+        "height": 270,
+        "bytes": 20470,
+        "path": "assets/covers/2102575622912631261.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/nicekate8888/status/2102575622912631261",
+        "checkedAt": "2026-10-14T04:58:36.242607+00:00"
+      },
+      "metrics": {
+        "bookmarks": 55,
+        "likes": 147,
+        "views": 13912,
+        "checkedAt": "2026-10-14T04:58:36.242607+00:00",
+        "sourceUrl": "https://x.com/nicekate8888/status/2102575622912631261"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:58:36.242607+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2102575438552076288/vid/avc1/1920x1080/Rmumie03Qfa_vXBK.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/nicekate8888/status/2102575622912631261",
+        "checkedAt": "2026-10-14T04:58:36.242607+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2102498682931441977",
+      "stage": "discovery",
+      "title": "从细胞到眼睛的科普动效",
+      "titleEn": "From Cells to the Eye",
+      "category": "知识讲解",
+      "summary": "细胞和眼睛结构通过插画与图形变化呈现。作者说明使用 Opus 5.5 和 CoAnimator 制作动画、时间线与音效。",
+      "summaryEn": "Illustrations and changing diagrams depict cells and eye structures. The creator credits Opus 5.5 and CoAnimator for the animation, timelines and sound effects.",
+      "author": {
+        "name": "rege",
+        "handle": "rege_dev",
+        "url": "https://x.com/rege_dev"
+      },
+      "source": {
+        "url": "https://x.com/rege_dev/status/2102498682931441977",
+        "publishedAt": "2026-09-22T20:42:03+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 is insanely good",
+        "evidenceUrl": "https://x.com/rege_dev/status/2102498682931441977"
+      },
+      "media": {
+        "durationSeconds": 49.941,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/3840x2160/rP01Z_WUrHHohmkS.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 27.47,
+        "width": 480,
+        "height": 270,
+        "bytes": 5807,
+        "path": "assets/covers/2102498682931441977.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/rege_dev/status/2102498682931441977",
+        "checkedAt": "2026-10-14T04:58:37.135656+00:00"
+      },
+      "metrics": {
+        "bookmarks": 569,
+        "likes": 550,
+        "views": 134459,
+        "checkedAt": "2026-10-14T04:58:37.135656+00:00",
+        "sourceUrl": "https://x.com/rege_dev/status/2102498682931441977"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-14T04:58:37.135656+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/3840x2160/rP01Z_WUrHHohmkS.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/rege_dev/status/2102498682931441977",
+        "checkedAt": "2026-10-14T04:58:37.135656+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
       "id": "2104957548797604116",
       "stage": "discovery",
       "title": "15 种代码动效风格合集",

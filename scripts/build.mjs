@@ -376,7 +376,8 @@ export function validateCatalog(catalog,root=ROOT) {
       if(v.sourcePostUrl!==c.source.url)fail('画廊媒体与原帖记录不一致');
       if(v.contentType!=='video/mp4'||!v.checkedAt||Number.isNaN(Date.parse(v.checkedAt))||v.verificationLevel!=='source_media_matched')fail('画廊媒体核对记录缺失');
       if(v.reuploadPermission!=='not_verified')fail('画廊媒体只支持外部引用');
-      const mediaId=url?.pathname.match(/^\/(?:amplify_video|ext_tw_video)\/(\d+)\//)?.[1];
+      const mediaId=url?.pathname.match(/^\/(?:amplify_video|ext_tw_video)\/(\d+)\//)?.[1]
+        ||url?.pathname.match(/^\/tweet_video\/([\w-]+)\.mp4$/)?.[1];
       if(mediaId){if(seenMedia.has(mediaId))fail('重复作品媒体');seenMedia.add(mediaId);}
     }
     if(!['width','height'].every(key=>Number.isSafeInteger(c.cover?.[key])&&c.cover[key]>0))fail('封面尺寸无效');

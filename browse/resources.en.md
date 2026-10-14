@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-118 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+119 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -243,6 +243,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[Ex Nihilo single HTML file (runnable)](https://justinperea.com/lab/ex-nihilo/ex-nihilo.html) · No license specified
   The creator’s complete visual and audio code; run the page or save the HTML. No redistribution license was found.
   [Link source](https://justinperea.com/lab/ex-nihilo) · Link checked 2026-09-29 05:50 UTC
+
+## [Tea, Flowers and Paper-Cut Motion](../cases/2102501773705670994.en.md) · @chetaslua
+
+- **Public web page**：[Creator’s CodePen page](https://codepen.io/editor/ChetasLua/pen/01a0cadf-5b81-756f-8647-8cf5a47e7adf)
+  Linked by the creator. Page contents could not be read during this check; complete source and reuse permission are unverified.
+  [Link source](https://x.com/chetaslua/status/2102501773705670994) · Link checked 2026-10-14 04:58 UTC
 
 ## [Anidoodle: code-drawn motion and music](../cases/2107086004964282814.en.md) · @alexgreensh
 

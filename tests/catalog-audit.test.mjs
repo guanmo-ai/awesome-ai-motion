@@ -49,7 +49,18 @@ test('媒体地址中的非标准端口和片段不能通过构建校验',()=>{
 });
 
 test('不同帖子引用同一媒体，即使换码率或查询参数也拒绝重复收录',()=>{
+  const urls=[
+    ['https://video.twimg.com/amplify_video/123/vid/avc1/640x360/a.mp4','https://video.twimg.com/amplify_video/123/vid/avc1/1280x720/b.mp4?tag=99'],
+    ['https://video.twimg.com/ext_tw_video/123/vid/a.mp4','https://video.twimg.com/ext_tw_video/123/vid/b.mp4?tag=99'],
+    ['https://video.twimg.com/tweet_video/ExampleGif.mp4','https://video.twimg.com/tweet_video/ExampleGif.mp4?tag=99'],
+  ];
+  for(const [first,second] of urls) {
+    const data=structuredClone(catalog);data.cases=data.cases.filter(c=>c.webPlayback).slice(0,2);
+    data.cases[0].webPlayback.url=first;data.cases[1].webPlayback.url=second;
+    assert.ok(validateCatalog(data).some(e=>e.includes('重复作品媒体')),first);
+  }
   const data=structuredClone(catalog);data.cases=data.cases.filter(c=>c.webPlayback).slice(0,2);
-  data.cases[1].webPlayback.url=data.cases[0].webPlayback.url.replace(/\?.*$/,'')+'?tag=99';
-  assert.ok(validateCatalog(data).some(e=>e.includes('重复作品媒体')));
+  data.cases[0].webPlayback.url='https://video.twimg.com/tweet_video/FirstGif.mp4';
+  data.cases[1].webPlayback.url='https://video.twimg.com/tweet_video/SecondGif.mp4';
+  assert.ok(!validateCatalog(data).some(e=>e.includes('重复作品媒体')));
 });

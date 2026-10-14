@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-118 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+119 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -243,6 +243,12 @@
 - **直接源码**：[Ex Nihilo 单文件 HTML（可直接运行）](https://justinperea.com/lab/ex-nihilo/ex-nihilo.html) · 未标明许可
   作者提供的完整画面与声音代码；网页可运行或另存为 HTML，未见再分发许可。
   [链接出处](https://justinperea.com/lab/ex-nihilo) · 链接核对 2026-09-29 05:50 UTC
+
+## [茶杯、花朵与纸片动画](../cases/2102501773705670994.md) · @chetaslua
+
+- **公开网页**：[作者 CodePen 页面](https://codepen.io/editor/ChetasLua/pen/01a0cadf-5b81-756f-8647-8cf5a47e7adf)
+  作者原帖提供此入口；页面内容本次未能读取，未核得完整源码或复用许可。
+  [链接出处](https://x.com/chetaslua/status/2102501773705670994) · 链接核对 2026-10-14 04:58 UTC
 
 ## [Anidoodle：代码绘制与配乐样片](../cases/2107086004964282814.md) · @alexgreensh
 
