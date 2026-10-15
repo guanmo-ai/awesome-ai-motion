@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-119 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+121 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -98,6 +98,11 @@
 - **相关工具**：[作者分享的动效制作 Skills](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
   教程配套工具集，不是该 Mac 发布片的完整源码。
   [链接出处](https://x.com/charliejhills/status/2104204601553777129) · 链接核对 2026-09-29 06:16 UTC
+
+## [reFresh 酸奶品牌动效](../cases/2108181230692807097.md) · @exploraX\_
+
+- **公开网页**：[作者关联落地页](https://moh4696.github.io/refresh-yoghurt/)
+  [链接出处](https://x.com/exploraX_/status/2108181230692807097) · 链接核对 2026-10-15 06:12 UTC
 
 ## [HyperFrames 风格化广告实验](../cases/2104595346882175311.md) · @washow\_cfo
 
@@ -398,6 +403,13 @@
 
 - **公开网页**：[作者公开试玩页](https://soccar-one.vercel.app/)
   [链接出处](https://x.com/BlendiByl/status/2104800823620632641) · 链接核对 2026-09-29 08:35 UTC
+
+## [黑曜石、教堂与巨鲸](../cases/2106848293678620860.md) · @techartist\_
+
+- **直接源码**：[对应作品源码](https://github.com/iamtechartist/obsidian) · [MIT](https://github.com/iamtechartist/obsidian/blob/main/LICENSE)
+  [链接出处](https://x.com/techartist_/status/2106848293678620860) · 链接核对 2026-10-15 10:24 UTC
+- **公开网页**：[作者在线演示](https://iamtechartist.github.io/obsidian/)
+  [链接出处](https://github.com/iamtechartist/obsidian) · 链接核对 2026-10-15 10:24 UTC
 
 ## [Mars GT：红色峡谷中的驾驶演示](../cases/2106449409978626416.md) · @AndreiProvkin
 

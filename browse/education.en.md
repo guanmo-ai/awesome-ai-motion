@@ -2,7 +2,7 @@
 
 # Education & explainers
 
-159 works. Click a cover to play; works without gallery video open on X.
+160 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -798,11 +798,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109167882261373356"><img src="../assets/covers/2109167882261373356.jpg" width="127" alt="A Suspension Bridge Construction Explainer"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109201684622913822"><img src="../assets/covers/2109201684622913822.jpg" width="400" alt="Light, Prisms and Rainbows"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A Suspension Bridge Construction Explainer</strong><br><sub><a href="https://x.com/VisPhysLab">@VisPhysLab</a> · Education &amp; explainers</sub><br><sub>0:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109167882261373356">▶ Play</a> · <a href="https://x.com/VisPhysLab/status/2109167882261373356">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>Light, Prisms and Rainbows</strong><br><sub><a href="https://x.com/_goaltracker_">@_goaltracker_</a> · Education &amp; explainers</sub><br><sub>2:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109201684622913822">▶ Play</a> · <a href="https://x.com/_goaltracker_/status/2109201684622913822">Original post</a></td>
 </tr>
 </tbody>
 </table>

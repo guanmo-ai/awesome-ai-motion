@@ -3,6 +3,1159 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2110334942362337403",
+      "stage": "discovery",
+      "title": "派对米饭：竖屏餐饮品牌动效",
+      "titleEn": "Party Rice: A Vertical Food Brand Film",
+      "category": "产品宣传",
+      "summary": "食物图片、大字、菜单和色块组合成竖屏广告。作者明确称使用 Claude Opus 5.5。",
+      "summaryEn": "Food images, bold typography, menu panels and color blocks form a vertical restaurant advertisement. The creator credits Claude Opus 5.5.",
+      "author": {
+        "name": "Bamdalas",
+        "handle": "Bamdalas",
+        "url": "https://x.com/Bamdalas"
+      },
+      "source": {
+        "url": "https://x.com/Bamdalas/status/2110334942362337403",
+        "publishedAt": "2026-10-14T11:40:33+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": " @item7go_ ,  o i used claude opus 5.5 for this.",
+        "evidenceUrl": "https://x.com/Bamdalas/status/2110334942362337403"
+      },
+      "media": {
+        "durationSeconds": 23.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110334642196729856/vid/avc1/1080x1920/aXRSJ4qV0Sx170V3.mp4",
+        "kind": "video_frame",
+        "timeSeconds": 3.52,
+        "width": 480,
+        "height": 854,
+        "bytes": 39552,
+        "path": "assets/covers/2110334942362337403.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Bamdalas/status/2110334942362337403",
+        "checkedAt": "2026-10-15T10:26:41.857621+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": 9,
+        "views": null,
+        "checkedAt": "2026-10-15T10:26:41.857621+00:00",
+        "sourceUrl": "https://x.com/Bamdalas/status/2110334942362337403"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T10:26:41.857621+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110334642196729856/vid/avc1/1080x1920/aXRSJ4qV0Sx170V3.mp4",
+        "sourcePostUrl": "https://x.com/Bamdalas/status/2110334942362337403",
+        "checkedAt": "2026-10-15T10:26:41.857621+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2110426116288827709",
+      "stage": "discovery",
+      "title": "Homeview：三维产品与界面发布片",
+      "titleEn": "Homeview: A 3D Product Launch Concept",
+      "category": "产品宣传",
+      "summary": "产品多角度、色彩版本和界面切换组成概念发布片。作者称使用 Opus 5.5 + Three.js，每帧由代码生成。",
+      "summaryEn": "Device angles, color variations and interface transitions form a concept launch film. The creator credits Opus 5.5 and Three.js and says every frame is code.",
+      "author": {
+        "name": "Chris",
+        "handle": "everestchris6",
+        "url": "https://x.com/everestchris6"
+      },
+      "source": {
+        "url": "https://x.com/everestchris6/status/2110426116288827709",
+        "publishedAt": "2026-10-14T17:42:50+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "claude opus 5.5 + three.js is literally AGI",
+        "evidenceUrl": "https://x.com/everestchris6/status/2110426116288827709"
+      },
+      "media": {
+        "durationSeconds": 18.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110419478874091521/vid/avc1/1920x1080/RF_MN6cx9XBL4DoE.mp4",
+        "kind": "video_frame",
+        "timeSeconds": 2.77,
+        "width": 480,
+        "height": 270,
+        "bytes": 8437,
+        "path": "assets/covers/2110426116288827709.jpg"
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/everestchris6/status/2110426116288827709",
+        "checkedAt": "2026-10-15T10:26:42.090560+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": 39,
+        "views": null,
+        "checkedAt": "2026-10-15T10:26:42.090560+00:00",
+        "sourceUrl": "https://x.com/everestchris6/status/2110426116288827709"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T10:26:42.090560+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110419478874091521/vid/avc1/1920x1080/RF_MN6cx9XBL4DoE.mp4",
+        "sourcePostUrl": "https://x.com/everestchris6/status/2110426116288827709",
+        "checkedAt": "2026-10-15T10:26:42.090560+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2103293794594816100",
+      "stage": "discovery",
+      "title": "Replit Animation：从提示到品牌短片",
+      "titleEn": "Replit Animation: From Prompt to Brand Film",
+      "category": "产品宣传",
+      "summary": "代码输入开场后，动态文字、卡片与图表组成发布视频。作者说明由 Opus 5.5 用 JavaScript 制作。",
+      "summaryEn": "A prompt-entry opening leads into animated typography, cards and charts. The creator credits Opus 5.5 and JavaScript.",
+      "author": {
+        "name": "Samuel Spitz",
+        "handle": "samuel_spitz",
+        "url": "https://x.com/samuel_spitz"
+      },
+      "source": {
+        "url": "https://x.com/samuel_spitz/status/2103293794594816100",
+        "publishedAt": "2026-09-25T01:21:32+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Replit Animation + Opus 5.5 = 🔥",
+        "evidenceUrl": "https://x.com/samuel_spitz/status/2103293794594816100"
+      },
+      "media": {
+        "durationSeconds": 28.0,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2103292714066587649/vid/avc1/1920x1080/iUbysTlTs2_IxpDB.mp4",
+        "kind": "video_frame",
+        "timeSeconds": 4.2,
+        "width": 480,
+        "height": 270,
+        "bytes": 3050,
+        "path": "assets/covers/2103293794594816100.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/samuel_spitz/status/2103293794594816100",
+        "checkedAt": "2026-10-15T10:26:45.433668+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": 1035,
+        "views": null,
+        "checkedAt": "2026-10-15T10:26:45.433668+00:00",
+        "sourceUrl": "https://x.com/samuel_spitz/status/2103293794594816100"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T10:26:45.433668+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2103292714066587649/vid/avc1/1920x1080/iUbysTlTs2_IxpDB.mp4",
+        "sourcePostUrl": "https://x.com/samuel_spitz/status/2103293794594816100",
+        "checkedAt": "2026-10-15T10:26:45.433668+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109201684622913822",
+      "stage": "discovery",
+      "title": "光线与棱镜的科普动效",
+      "titleEn": "Light, Prisms and Rainbows",
+      "category": "知识讲解",
+      "summary": "棱镜、光线和光谱组成科普讲解。作者明确称 Opus 5.5 Medium 一次生成；未公开具体工程。",
+      "summaryEn": "A prism, light rays and spectra explain rainbows through motion graphics. The creator says it was made in one pass with Opus 5.5 at medium effort; no project source was supplied.",
+      "author": {
+        "name": "Kryptoknight",
+        "handle": "_goaltracker_",
+        "url": "https://x.com/_goaltracker_"
+      },
+      "source": {
+        "url": "https://x.com/_goaltracker_/status/2109201684622913822",
+        "publishedAt": "2026-10-11T08:37:23+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": " was completely one shoted by Opus 5.5 at Medium Effort. Comment your thoughts on this.",
+        "evidenceUrl": "https://x.com/_goaltracker_/status/2109201684622913822"
+      },
+      "media": {
+        "durationSeconds": 120,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109201558651260930/vid/avc1/1920x1080/hvAImGMzAPYrIab2.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 60.0,
+        "width": 480,
+        "height": 270,
+        "bytes": 4997,
+        "path": "assets/covers/2109201684622913822.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/_goaltracker_/status/2109201684622913822",
+        "checkedAt": "2026-10-13T06:06:39.480792+00:00"
+      },
+      "metrics": {
+        "bookmarks": 0,
+        "likes": 0,
+        "views": 29,
+        "checkedAt": "2026-10-13T06:06:39.480792+00:00",
+        "sourceUrl": "https://x.com/_goaltracker_/status/2109201684622913822"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-13T06:06:39.480792+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109201558651260930/vid/avc1/1920x1080/hvAImGMzAPYrIab2.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/_goaltracker_/status/2109201684622913822",
+        "checkedAt": "2026-10-13T06:06:39.480792+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2106848293678620860",
+      "stage": "discovery",
+      "title": "黑曜石、教堂与巨鲸",
+      "titleEn": "Obsidian: Monolith, Cathedral and Whale",
+      "category": "3D 与交互",
+      "summary": "32,000 块碎片从石碑展开，重组为教堂与巨鲸。作者原帖明确使用 Opus 5.5 + Three.js。",
+      "summaryEn": "Procedural fragments transform a monolith into a cathedral and a whale. The creator credits Opus 5.5 and Three.js and publishes the matching project under MIT.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2106848293678620860",
+        "publishedAt": "2026-10-04T20:45:51+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "ral, a whale and back again. Built with Opus 5.5 using Three.js.",
+        "evidenceUrl": "https://x.com/techartist_/status/2106848293678620860"
+      },
+      "media": {
+        "durationSeconds": 18,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2106847484157059072/vid/avc1/1920x1080/o1PJSOz6HKK3-Sd9.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 9.9,
+        "width": 480,
+        "height": 270,
+        "bytes": 25707,
+        "path": "assets/covers/2106848293678620860.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2106848293678620860",
+        "checkedAt": "2026-10-15T06:14:05.748717+00:00"
+      },
+      "metrics": {
+        "bookmarks": 44,
+        "likes": 118,
+        "views": 5182,
+        "checkedAt": "2026-10-15T06:14:05.748717+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2106848293678620860"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:14:05.748717+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2106847484157059072/vid/avc1/1920x1080/o1PJSOz6HKK3-Sd9.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2106848293678620860",
+        "checkedAt": "2026-10-15T06:14:05.748717+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/iamtechartist/obsidian",
+          "label": "对应作品源码",
+          "labelEn": "Matching film source",
+          "evidenceUrl": "https://x.com/techartist_/status/2106848293678620860",
+          "checkedAt": "2026-10-15T10:24:12.647800+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/iamtechartist/obsidian/blob/main/LICENSE"
+        },
+        {
+          "kind": "demo",
+          "url": "https://iamtechartist.github.io/obsidian/",
+          "label": "作者在线演示",
+          "labelEn": "Creator demo",
+          "evidenceUrl": "https://github.com/iamtechartist/obsidian",
+          "checkedAt": "2026-10-15T10:24:12.647800+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2109598040889942476",
+      "stage": "discovery",
+      "title": "PIXEL WORLD：方块世界不断重组",
+      "titleEn": "PIXEL WORLD: A Rebuilding World",
+      "category": "3D 与交互",
+      "summary": "从一个像素展开城市、港口和游乐园，方块拆散后重组下一场景。作者说明画面与音乐由代码制作。",
+      "summaryEn": "Pixel cubes build and reassemble a city, port and amusement park. The creator credits Opus 5.5, Blender, After Effects and Python.",
+      "author": {
+        "name": "aicreataro",
+        "handle": "aicreataro",
+        "url": "https://x.com/aicreataro"
+      },
+      "source": {
+        "url": "https://x.com/aicreataro/status/2109598040889942476",
+        "publishedAt": "2026-10-12T10:52:22+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 × Blender × After Effects × Python",
+        "evidenceUrl": "https://x.com/aicreataro/status/2109598040889942476"
+      },
+      "media": {
+        "durationSeconds": 65.875,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109596901016494080/vid/avc1/1920x1080/_KeNNnGYWtis4z6c.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 36.23,
+        "width": 480,
+        "height": 270,
+        "bytes": 28745,
+        "path": "assets/covers/2109598040889942476.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/aicreataro/status/2109598040889942476",
+        "checkedAt": "2026-10-15T06:11:58.137392+00:00"
+      },
+      "metrics": {
+        "bookmarks": 199,
+        "likes": 235,
+        "views": 10235,
+        "checkedAt": "2026-10-15T06:11:58.137392+00:00",
+        "sourceUrl": "https://x.com/aicreataro/status/2109598040889942476"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:11:58.137392+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109596901016494080/vid/avc1/1920x1080/_KeNNnGYWtis4z6c.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/aicreataro/status/2109598040889942476",
+        "checkedAt": "2026-10-15T06:11:58.137392+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109657381881962673",
+      "stage": "discovery",
+      "title": "带一条线去散步",
+      "titleEn": "Taking a Line for a Walk",
+      "category": "短动效",
+      "summary": "单线延伸成不同物体，用极少元素连续讲述。作者明确称由 Opus 5.5 制作。",
+      "summaryEn": "A single line stretches into familiar objects in a minimal continuous animation. The creator credits Opus 5.5.",
+      "author": {
+        "name": "Pradeep Kapoor",
+        "handle": "pradeepXkapoor",
+        "url": "https://x.com/pradeepXkapoor"
+      },
+      "source": {
+        "url": "https://x.com/pradeepXkapoor/status/2109657381881962673",
+        "publishedAt": "2026-10-12T14:48:10+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 took 'A line for a walk'",
+        "evidenceUrl": "https://x.com/pradeepXkapoor/status/2109657381881962673"
+      },
+      "media": {
+        "durationSeconds": 40.966,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109657274402906112/vid/avc1/2430x1524/X8OeVD1ErsMQc9ht.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 302,
+        "bytes": 3387,
+        "path": "assets/covers/2109657381881962673.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/pradeepXkapoor/status/2109657381881962673",
+        "checkedAt": "2026-10-15T06:12:00.094075+00:00"
+      },
+      "metrics": {
+        "bookmarks": 2,
+        "likes": 11,
+        "views": 482,
+        "checkedAt": "2026-10-15T06:12:00.094075+00:00",
+        "sourceUrl": "https://x.com/pradeepXkapoor/status/2109657381881962673"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:00.094075+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109657274402906112/vid/avc1/2430x1524/X8OeVD1ErsMQc9ht.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/pradeepXkapoor/status/2109657381881962673",
+        "checkedAt": "2026-10-15T06:12:00.094075+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2110389810258968965",
+      "stage": "discovery",
+      "title": "Clawd 从终端走进草地",
+      "titleEn": "Clawd Leaves the Terminal",
+      "category": "叙事短片",
+      "summary": "橙色方块角色从屏幕世界进入三维草地。作者明确称使用 Opus 5.5 Ultracode。",
+      "summaryEn": "An orange block character moves from a terminal-like setting into a 3D meadow. The creator credits Opus 5.5 Ultracode.",
+      "author": {
+        "name": "Leon Lin",
+        "handle": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source": {
+        "url": "https://x.com/LexnLin/status/2110389810258968965",
+        "publishedAt": "2026-10-14T15:18:34+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Clawd animation made with Opus 5.5 Ultracode. ",
+        "evidenceUrl": "https://x.com/LexnLin/status/2110389810258968965"
+      },
+      "media": {
+        "durationSeconds": 60,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110389703232917504/vid/avc1/1920x1080/SZ0_M4RKeJZOeb2q.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 33.0,
+        "width": 480,
+        "height": 270,
+        "bytes": 18508,
+        "path": "assets/covers/2110389810258968965.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LexnLin/status/2110389810258968965",
+        "checkedAt": "2026-10-15T06:12:29.573778+00:00"
+      },
+      "metrics": {
+        "bookmarks": 723,
+        "likes": 1513,
+        "views": 61071,
+        "checkedAt": "2026-10-15T06:12:29.573778+00:00",
+        "sourceUrl": "https://x.com/LexnLin/status/2110389810258968965"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:29.573778+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110389703232917504/vid/avc1/1920x1080/SZ0_M4RKeJZOeb2q.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LexnLin/status/2110389810258968965",
+        "checkedAt": "2026-10-15T06:12:29.573778+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109718604883370450",
+      "stage": "discovery",
+      "title": "生活提醒的文字与卡片短片",
+      "titleEn": "Reminders in Motion",
+      "category": "产品宣传",
+      "summary": "待办文字、对话气泡和卡片交替展开。作者声明 Opus 5.5 high，并说明改进了音效。",
+      "summaryEn": "To-do text, message bubbles and cards unfold in a short product film. The creator credits Opus 5.5 at high effort and notes improved sound effects.",
+      "author": {
+        "name": "Leon Lin",
+        "handle": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source": {
+        "url": "https://x.com/LexnLin/status/2109718604883370450",
+        "publishedAt": "2026-10-12T18:51:26+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "This is made by Opus 5.5 high. ",
+        "evidenceUrl": "https://x.com/LexnLin/status/2109718604883370450"
+      },
+      "media": {
+        "durationSeconds": 39.936,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109718241077526529/vid/avc1/1920x1080/bnzMSlXRdPZnOtDd.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 270,
+        "bytes": 5168,
+        "path": "assets/covers/2109718604883370450.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LexnLin/status/2109718604883370450",
+        "checkedAt": "2026-10-15T06:12:01.605073+00:00"
+      },
+      "metrics": {
+        "bookmarks": 639,
+        "likes": 957,
+        "views": 41204,
+        "checkedAt": "2026-10-15T06:12:01.605073+00:00",
+        "sourceUrl": "https://x.com/LexnLin/status/2109718604883370450"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:01.605073+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109718241077526529/vid/avc1/1920x1080/bnzMSlXRdPZnOtDd.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LexnLin/status/2109718604883370450",
+        "checkedAt": "2026-10-15T06:12:01.605073+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2110013871532490973",
+      "stage": "discovery",
+      "title": "Happily：一封 AI 来信",
+      "titleEn": "Happily: An AI Letter",
+      "category": "产品宣传",
+      "summary": "以书信式大字与图形组织 AI 产品短片。作者明确称使用 Opus 5.5 制作动效。",
+      "summaryEn": "Letter-like typography and graphic transitions introduce an AI product. The creator credits Opus 5.5 for the motion design.",
+      "author": {
+        "name": "Leon Lin",
+        "handle": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source": {
+        "url": "https://x.com/LexnLin/status/2110013871532490973",
+        "publishedAt": "2026-10-13T14:24:43+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 is REALLY REALLY good for motion video designs, this one's about an AI product. ",
+        "evidenceUrl": "https://x.com/LexnLin/status/2110013871532490973"
+      },
+      "media": {
+        "durationSeconds": 40,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110009219084689408/vid/avc1/1920x1080/wYL772CgErh_tCe_.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 270,
+        "bytes": 5936,
+        "path": "assets/covers/2110013871532490973.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LexnLin/status/2110013871532490973",
+        "checkedAt": "2026-10-15T06:13:44.375201+00:00"
+      },
+      "metrics": {
+        "bookmarks": 169,
+        "likes": 333,
+        "views": 12704,
+        "checkedAt": "2026-10-15T06:13:44.375201+00:00",
+        "sourceUrl": "https://x.com/LexnLin/status/2110013871532490973"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:13:44.375201+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110009219084689408/vid/avc1/1920x1080/wYL772CgErh_tCe_.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LexnLin/status/2110013871532490973",
+        "checkedAt": "2026-10-15T06:13:44.375201+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2107794785188864070",
+      "stage": "discovery",
+      "title": "冻结的手记：文字叙事",
+      "titleEn": "A Frozen Notebook",
+      "category": "叙事短片",
+      "summary": "竖排文字、字形运动和暗色空间组成叙事。作者说明 Opus 5.5 编写 HTML/Three.js，配 Gemini TTS 与合成音效。",
+      "summaryEn": "Vertical Japanese typography moves through a dark narrative space. The creator credits Opus 5.5 for HTML/Three.js animation, Gemini TTS for voice and FFmpeg for synthesized effects.",
+      "author": {
+        "name": "aicreataro",
+        "handle": "aicreataro",
+        "url": "https://x.com/aicreataro"
+      },
+      "source": {
+        "url": "https://x.com/aicreataro/status/2107794785188864070",
+        "publishedAt": "2026-10-07T11:26:52+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5にHTML/Three.jsを書かせた、ナレーションとモーションのテスト。",
+        "evidenceUrl": "https://x.com/aicreataro/status/2107794785188864070"
+      },
+      "media": {
+        "durationSeconds": 86.3,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2107793524091764736/vid/avc1/1920x1080/GKiYMnXoThAxr8bp.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 270,
+        "bytes": 10378,
+        "path": "assets/covers/2107794785188864070.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/aicreataro/status/2107794785188864070",
+        "checkedAt": "2026-10-15T06:11:58.640327+00:00"
+      },
+      "metrics": {
+        "bookmarks": 1083,
+        "likes": 967,
+        "views": 85051,
+        "checkedAt": "2026-10-15T06:11:58.640327+00:00",
+        "sourceUrl": "https://x.com/aicreataro/status/2107794785188864070"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:11:58.640327+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2107793524091764736/vid/avc1/1920x1080/GKiYMnXoThAxr8bp.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/aicreataro/status/2107794785188864070",
+        "checkedAt": "2026-10-15T06:11:58.640327+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2110208232392454500",
+      "stage": "discovery",
+      "title": "丛林昼夜插画动画",
+      "titleEn": "Day and Night in the Jungle",
+      "category": "叙事短片",
+      "summary": "巨嘴鸟、叶片和花朵组成彩色丛林，由白天转入夜晚。作者明确称画面与声音使用 Opus 5.5；未详述代码实现。",
+      "summaryEn": "A toucan, leaves and flowers animate a jungle from day to night. The creator credits Opus 5.5 for video and sound; implementation details are not supplied.",
+      "author": {
+        "name": "maggie",
+        "handle": "untitled_sys",
+        "url": "https://x.com/untitled_sys"
+      },
+      "source": {
+        "url": "https://x.com/untitled_sys/status/2110208232392454500",
+        "publishedAt": "2026-10-14T03:17:03+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "gle scene, video and sound, with Claude Opus 5.5 🦎",
+        "evidenceUrl": "https://x.com/untitled_sys/status/2110208232392454500"
+      },
+      "media": {
+        "durationSeconds": 20,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110207691302092800/vid/avc1/960x720/xE-TLQd17I_A6MWf.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 360,
+        "bytes": 31434,
+        "path": "assets/covers/2110208232392454500.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/untitled_sys/status/2110208232392454500",
+        "checkedAt": "2026-10-15T06:12:00.732559+00:00"
+      },
+      "metrics": {
+        "bookmarks": 64,
+        "likes": 88,
+        "views": 5914,
+        "checkedAt": "2026-10-15T06:12:00.732559+00:00",
+        "sourceUrl": "https://x.com/untitled_sys/status/2110208232392454500"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:00.732559+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110207691302092800/vid/avc1/960x720/xE-TLQd17I_A6MWf.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/untitled_sys/status/2110208232392454500",
+        "checkedAt": "2026-10-15T06:12:00.732559+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109980058597437575",
+      "stage": "discovery",
+      "title": "月下奔跑的粒子马",
+      "titleEn": "Particle Horses Under the Moon",
+      "category": "3D 与交互",
+      "summary": "白色粒子构成奔马与水面倒影。作者明确称使用 Opus 5.5 + Three.js 编写。",
+      "summaryEn": "White particles form galloping horses and their reflections under the moon. The creator credits Opus 5.5 and Three.js.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2109980058597437575",
+        "publishedAt": "2026-10-13T12:10:22+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Built with Opus 5.5 using Three.js",
+        "evidenceUrl": "https://x.com/techartist_/status/2109980058597437575"
+      },
+      "media": {
+        "durationSeconds": 4,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/tweet_video/HUgm7yCbQAAnmqc.mp4",
+        "kind": "video_frame",
+        "timeSeconds": 0.6,
+        "width": 480,
+        "height": 480,
+        "bytes": 17406,
+        "path": "assets/covers/2109980058597437575.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2109980058597437575",
+        "checkedAt": "2026-10-15T06:11:56.317941+00:00"
+      },
+      "metrics": {
+        "bookmarks": 14,
+        "likes": 94,
+        "views": 2979,
+        "checkedAt": "2026-10-15T06:11:56.317941+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2109980058597437575"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:11:56.317941+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/tweet_video/HUgm7yCbQAAnmqc.mp4",
+        "sourcePostUrl": "https://x.com/techartist_/status/2109980058597437575",
+        "checkedAt": "2026-10-15T06:11:56.317941+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2110427429965873559",
+      "stage": "discovery",
+      "title": "一万架模拟无人机灯光秀",
+      "titleEn": "A Simulated Drone Light Show",
+      "category": "3D 与交互",
+      "summary": "城市上空的粒子编队组成花朵等造型。作者说明使用 Opus 5.5、Three.js 与 Blender。",
+      "summaryEn": "Simulated drone formations create flowers and other shapes above a harbor city. The creator credits Opus 5.5, Three.js and Blender.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2110427429965873559",
+        "publishedAt": "2026-10-14T17:48:03+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Built with Opus 5.5 using Three.js + Blender",
+        "evidenceUrl": "https://x.com/techartist_/status/2110427429965873559"
+      },
+      "media": {
+        "durationSeconds": 28.366,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2110426406161416192/vid/avc1/1920x1080/au19Xo0h8GzGYHUl.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 270,
+        "bytes": 31950,
+        "path": "assets/covers/2110427429965873559.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2110427429965873559",
+        "checkedAt": "2026-10-15T06:12:30.195183+00:00"
+      },
+      "metrics": {
+        "bookmarks": 31,
+        "likes": 99,
+        "views": 2742,
+        "checkedAt": "2026-10-15T06:12:30.195183+00:00",
+        "sourceUrl": "https://x.com/techartist_/status/2110427429965873559"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:30.195183+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2110426406161416192/vid/avc1/1920x1080/au19Xo0h8GzGYHUl.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2110427429965873559",
+        "checkedAt": "2026-10-15T06:12:30.195183+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109286588891214094",
+      "stage": "discovery",
+      "title": "把创作过程做成动效",
+      "titleEn": "The Creative Process in Motion",
+      "category": "短动效",
+      "summary": "文字、屏幕平面与空间镜头表现反复修改的创作过程。作者说明使用 Opus 5.5、Blender 和 After Effects。",
+      "summaryEn": "Typography, screen planes and spatial camera moves depict an iterative creative process. The creator credits Opus 5.5, Blender and After Effects.",
+      "author": {
+        "name": "aicreataro",
+        "handle": "aicreataro",
+        "url": "https://x.com/aicreataro"
+      },
+      "source": {
+        "url": "https://x.com/aicreataro/status/2109286588891214094",
+        "publishedAt": "2026-10-11T14:14:46+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 × Blender × After Effects",
+        "evidenceUrl": "https://x.com/aicreataro/status/2109286588891214094"
+      },
+      "media": {
+        "durationSeconds": 41.666,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2109286286704168960/vid/avc1/1920x1080/wWDWJD7EYqylZAGG.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 270,
+        "bytes": 16386,
+        "path": "assets/covers/2109286588891214094.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/aicreataro/status/2109286588891214094",
+        "checkedAt": "2026-10-15T06:11:57.506128+00:00"
+      },
+      "metrics": {
+        "bookmarks": 184,
+        "likes": 255,
+        "views": 15589,
+        "checkedAt": "2026-10-15T06:11:57.506128+00:00",
+        "sourceUrl": "https://x.com/aicreataro/status/2109286588891214094"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:11:57.506128+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2109286286704168960/vid/avc1/1920x1080/wWDWJD7EYqylZAGG.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/aicreataro/status/2109286588891214094",
+        "checkedAt": "2026-10-15T06:11:57.506128+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2109946042355753399",
+      "stage": "discovery",
+      "title": "12 种微动效组合展示",
+      "titleEn": "Twelve Micro-Animation Studies",
+      "category": "短动效",
+      "summary": "按钮、计数器、卡片等 12 个小动效并列展示，按一个合集计数。作者说明使用 Opus 5.5，附制作课程入口。",
+      "summaryEn": "Twelve animated buttons, counters and cards appear together in one motion study. The creator credits Opus 5.5 and links a workflow course.",
+      "author": {
+        "name": "Hamza Khalid",
+        "handle": "humzaakhalid",
+        "url": "https://x.com/humzaakhalid"
+      },
+      "source": {
+        "url": "https://x.com/humzaakhalid/status/2109946042355753399",
+        "publishedAt": "2026-10-13T09:55:12+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "Opus 5.5 can (actually) make motion graphics",
+        "evidenceUrl": "https://x.com/humzaakhalid/status/2109946042355753399"
+      },
+      "media": {
+        "durationSeconds": 4,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/tweet_video/HUgIuFUa8AAF0Vk.mp4",
+        "kind": "video_frame",
+        "timeSeconds": 0.6,
+        "width": 480,
+        "height": 600,
+        "bytes": 37194,
+        "path": "assets/covers/2109946042355753399.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/humzaakhalid/status/2109946042355753399",
+        "checkedAt": "2026-10-15T06:12:31.547439+00:00"
+      },
+      "metrics": {
+        "bookmarks": 222,
+        "likes": 194,
+        "views": 11325,
+        "checkedAt": "2026-10-15T06:12:31.547439+00:00",
+        "sourceUrl": "https://x.com/humzaakhalid/status/2109946042355753399"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:31.547439+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/tweet_video/HUgIuFUa8AAF0Vk.mp4",
+        "sourcePostUrl": "https://x.com/humzaakhalid/status/2109946042355753399",
+        "checkedAt": "2026-10-15T06:12:31.547439+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      }
+    },
+    {
+      "id": "2108181230692807097",
+      "stage": "discovery",
+      "title": "reFresh 酸奶品牌动效",
+      "titleEn": "reFresh Yoghurt Brand Motion",
+      "category": "产品宣传",
+      "summary": "瓶形图标、品牌文字与包装图像连续切换。作者明确称使用 Opus 5.5；关联落地页仓库不能替代视频工程。",
+      "summaryEn": "Bottle icons, brand typography and packaging images transition through a yoghurt brand film. The creator credits Opus 5.5; the related landing-page repository is not verified as the film project.",
+      "author": {
+        "name": "m0h",
+        "handle": "exploraX_",
+        "url": "https://x.com/exploraX_"
+      },
+      "source": {
+        "url": "https://x.com/exploraX_/status/2108181230692807097",
+        "publishedAt": "2026-10-08T13:02:28+00:00"
+      },
+      "model": {
+        "name": "Opus 5.5",
+        "evidenceQuote": "so opus 5.5 created this product motion graphics video in just 15mins. ",
+        "evidenceUrl": "https://x.com/exploraX_/status/2108181230692807097"
+      },
+      "media": {
+        "durationSeconds": 20,
+        "videoCount": 1
+      },
+      "cover": {
+        "sourceUrl": "https://video.twimg.com/amplify_video/2108177760984219648/vid/avc1/1920x1080/uzo1_DV7tuBobhT8.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1,
+        "width": 480,
+        "height": 270,
+        "bytes": 6162,
+        "path": "assets/covers/2108181230692807097.jpg"
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/exploraX_/status/2108181230692807097",
+        "checkedAt": "2026-10-15T06:12:32.728827+00:00"
+      },
+      "metrics": {
+        "bookmarks": 11,
+        "likes": 27,
+        "views": 3288,
+        "checkedAt": "2026-10-15T06:12:32.728827+00:00",
+        "sourceUrl": "https://x.com/exploraX_/status/2108181230692807097"
+      },
+      "verification": {
+        "sourceReadAt": "2026-10-15T06:12:32.728827+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2108177760984219648/vid/avc1/1920x1080/uzo1_DV7tuBobhT8.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/exploraX_/status/2108181230692807097",
+        "checkedAt": "2026-10-15T06:12:32.728827+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "demo",
+          "url": "https://moh4696.github.io/refresh-yoghurt/",
+          "label": "作者关联落地页",
+          "labelEn": "Related creator landing page",
+          "evidenceUrl": "https://x.com/exploraX_/status/2108181230692807097",
+          "checkedAt": "2026-10-15T06:12:32.728827+00:00"
+        }
+      ]
+    },
+    {
       "id": "2109003656280646014",
       "stage": "discovery",
       "title": "纸上小人的循环动画",

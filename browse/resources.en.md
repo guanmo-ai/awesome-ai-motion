@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-119 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+121 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -98,6 +98,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Motion graphics skills shared by the creator](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
   The tutorial’s tool collection, not the complete source of this Mac launch film.
   [Link source](https://x.com/charliejhills/status/2104204601553777129) · Link checked 2026-09-29 06:16 UTC
+
+## [reFresh Yoghurt Brand Motion](../cases/2108181230692807097.en.md) · @exploraX\_
+
+- **Public web page**：[Related creator landing page](https://moh4696.github.io/refresh-yoghurt/)
+  [Link source](https://x.com/exploraX_/status/2108181230692807097) · Link checked 2026-10-15 06:12 UTC
 
 ## [A Stylized HyperFrames Commercial Experiment](../cases/2104595346882175311.en.md) · @washow\_cfo
 
@@ -398,6 +403,13 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Creator’s playable webpage](https://soccar-one.vercel.app/)
   [Link source](https://x.com/BlendiByl/status/2104800823620632641) · Link checked 2026-09-29 08:35 UTC
+
+## [Obsidian: Monolith, Cathedral and Whale](../cases/2106848293678620860.en.md) · @techartist\_
+
+- **Direct source**：[Matching film source](https://github.com/iamtechartist/obsidian) · [MIT](https://github.com/iamtechartist/obsidian/blob/main/LICENSE)
+  [Link source](https://x.com/techartist_/status/2106848293678620860) · Link checked 2026-10-15 10:24 UTC
+- **Public web page**：[Creator demo](https://iamtechartist.github.io/obsidian/)
+  [Link source](https://github.com/iamtechartist/obsidian) · Link checked 2026-10-15 10:24 UTC
 
 ## [Mars GT: a driving demo through red canyons](../cases/2106449409978626416.en.md) · @AndreiProvkin
 

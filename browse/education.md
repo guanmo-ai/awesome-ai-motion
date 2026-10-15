@@ -2,7 +2,7 @@
 
 # 知识讲解
 
-159 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+160 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -798,11 +798,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109167882261373356"><img src="../assets/covers/2109167882261373356.jpg" width="127" alt="吊桥施工过程示意动画"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109201684622913822"><img src="../assets/covers/2109201684622913822.jpg" width="400" alt="光线与棱镜的科普动效"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>吊桥施工过程示意动画</strong><br><sub><a href="https://x.com/VisPhysLab">@VisPhysLab</a> · 知识讲解</sub><br><sub>0:24 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109167882261373356">▶ 播放</a> · <a href="https://x.com/VisPhysLab/status/2109167882261373356">原帖</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>光线与棱镜的科普动效</strong><br><sub><a href="https://x.com/_goaltracker_">@_goaltracker_</a> · 知识讲解</sub><br><sub>2:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109201684622913822">▶ 播放</a> · <a href="https://x.com/_goaltracker_/status/2109201684622913822">原帖</a></td>
 </tr>
 </tbody>
 </table>
