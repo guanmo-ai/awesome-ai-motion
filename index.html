@@ -11,7 +11,7 @@
   <link rel="preload" href="./assets/fonts/Newsreader-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="./assets/fonts/DMSans-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="./assets/gallery.css?v=20261012-quiet-toolbar">
-  <script type="module" src="./assets/gallery.mjs?v=20261013-featured"></script>
+  <script type="module" src="./assets/gallery.mjs?v=20261015-pagination"></script>
 </head>
 <body>
   <a class="skip-link" href="#works">跳到作品 / Skip to works</a>
@@ -32,7 +32,7 @@
       <p id="collection-context" class="sr-only"></p>
       <p id="sort-note" class="sr-only" hidden></p>
       <div id="works" class="grid" tabindex="-1"></div>
-      <div id="pagination" class="pagination" hidden><p id="shown-count"></p><button id="load-more" type="button" hidden>加载更多</button></div>
+      <div id="pagination" class="pagination" hidden><p id="shown-count" aria-live="polite"></p><button id="load-more" type="button" hidden>再显示 108 条</button><button id="load-all" type="button" hidden>显示全部</button></div>
       <div id="empty" class="empty" hidden><span aria-hidden="true">↗</span><h2 id="empty-title">暂时没有匹配的作品</h2><p id="empty-text">试试其他关键词，或查看全部作品。</p><button id="reset" type="button">查看全部作品</button></div>
       <div id="loading" class="empty" role="status">正在载入作品…</div>
       <noscript><p>浏览画廊需要 JavaScript。你也可以在 <a href="https://github.com/guanmo-ai/awesome-ai-motion">GitHub 浏览完整作品目录</a>。</p></noscript>

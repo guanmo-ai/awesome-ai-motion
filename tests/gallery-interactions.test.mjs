@@ -187,16 +187,46 @@ test('不存在作品的分享提示关闭后保留分类并恢复浏览焦点',
   assert.equal(app.document.activeElement,app.nodes.get('works'));
 });
 
-test('加载更多后聚焦第一张新增作品，最后一批按钮消失也不丢失焦点',async()=>{
-  const rows=Array.from({length:73},(_,i)=>({id:String(i+1),title:'测试作品',category:'短动效',author:{handle:'maker'},metrics:{bookmarks:1000-i}}));
-  const app=await gallery('?page=all',rows),more=app.nodes.get('load-more');
+test('首批 36 条后每次追加 108 条，末批按剩余数显示且焦点不丢失',async()=>{
+  const rows=Array.from({length:155},(_,i)=>({id:String(i+1),title:'测试作品',category:'短动效',author:{handle:'maker'},metrics:{bookmarks:1000-i}}));
+  const app=await gallery('',rows),more=app.nodes.get('load-more'),all=app.nodes.get('load-all'),grid=app.nodes.get('works');
+  const first=grid.children[0];
+  assert.equal(grid.children.length,36);
+  assert.equal(more.textContent,'再显示 108 条');assert.equal(all.textContent,'显示全部 155 条');
   more.focus();more.send('click');
-  assert.equal(app.nodes.get('works').children.length,72);
+  assert.equal(grid.children.length,144);assert.equal(grid.children[0],first);
   assert.equal(app.document.activeElement?.dataset.caseId,'37');
+  assert.equal(more.textContent,'再显示 11 条');
   more.focus();more.send('click');
-  assert.equal(app.nodes.get('works').children.length,73);
-  assert.equal(more.hidden,true);
-  assert.equal(app.document.activeElement?.dataset.caseId,'73');
+  assert.equal(grid.children.length,155);assert.equal(new Set(grid.children.map(c=>c.dataset.caseId)).size,155);
+  assert.equal(app.nodes.get('shown-count').textContent,'已显示 155 / 155');
+  assert.equal(more.hidden,true);assert.equal(all.hidden,true);
+  assert.equal(app.document.activeElement?.dataset.caseId,'145');
+});
+
+test('显示全部仅展开筛选结果，保留顺序与节点，离屏媒体不载入；语言和详情不重置数量',async()=>{
+  const sample=playableSample(),rows=Array.from({length:220},(_,i)=>({...sample,id:String(i+1),title:i<180?'Match':'Other',metrics:{bookmarks:1000-i}}));
+  const app=await gallery('?q=Match',rows),grid=app.nodes.get('works');
+  app.nodes.get('load-more').send('click');
+  const first=grid.children[0];
+  assert.equal(app.nodes.get('load-all').textContent,'显示全部 180 条');
+  app.nodes.get('load-all').send('click');
+  assert.deepEqual(grid.children.map(c=>c.dataset.caseId),rows.slice(0,180).map(c=>c.id));
+  assert.equal(grid.children[0],first);assert.equal(app.document.activeElement?.dataset.caseId,'145');
+  assert.equal(app.nodes.get('load-all').hidden,true);
+  for(const card of grid.children)assert.equal(card.querySelector('video').src,undefined);
+  for(const card of grid.children.slice(36))assert.equal(card.querySelector('img').loading,'lazy');
+  app.location.hash='#case-180';app.windowListeners.get('hashchange')();
+  app.nodes.get('close').send('click');assert.equal(grid.children.length,180);
+  app.nodes.get('language').send('click');assert.equal(grid.children.length,180);
+  assert.equal(app.nodes.get('shown-count').textContent,'Showing 180 of 180');
+  app.input('');app.flush();assert.equal(grid.children.length,36);
+  assert.equal(app.nodes.get('load-more').textContent,'Show 108 more');
+  assert.equal(app.nodes.get('load-all').textContent,'Show all 220');
+  app.nodes.get('load-all').send('click');assert.equal(grid.children.length,220);
+  app.nodes.get('sort-latest').send('click');assert.equal(grid.children.length,36);
+  app.input('NOT_FOUND');app.flush();assert.equal(grid.children.length,0);
+  assert.equal(app.nodes.get('pagination').hidden,true);
 });
 
 test('播放器方向键保留快进快退，详情其他控件仍可切换作品',async()=>{

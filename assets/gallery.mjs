@@ -1,6 +1,7 @@
 import {resourceLinks,resourceLabel,CATEGORIES,stageOf,PAGE_SIZE,pageCases,categoryOf,safeUrl,coverPath,playbackUrl,tagsOf,readState,stateUrl,selectCases,detailNeighbors,categoryCounts,formatDuration,relatedCases} from './gallery-model.mjs?v=20261013-featured';
 const $ = id => document.getElementById(id);
 let state = readLocation(), cases = [], activeId = null, activeMissing = false, returnFocus = null, savedOverflow = '', savedScroll = 0;
+const LOAD_MORE_COUNT=108;
 let visibleCount=PAGE_SIZE;
 let searchTimer=null;
 let playbackTimer=null,playbackAbort=null,ambientCleanup=null,ambientSync=null;
@@ -191,7 +192,9 @@ function renderPagination(selected) {
   $('pagination').hidden=selected.length===0;
   $('shown-count').textContent=t(`已显示 ${visible.length} / ${selected.length}`,`Showing ${visible.length} of ${selected.length}`);
   $('load-more').hidden=remaining===0;
-  $('load-more').textContent=t(`加载更多 ${Math.min(PAGE_SIZE,remaining)} 条`, `Load ${Math.min(PAGE_SIZE,remaining)} more`);
+  $('load-more').textContent=t(`再显示 ${Math.min(LOAD_MORE_COUNT,remaining)} 条`, `Show ${Math.min(LOAD_MORE_COUNT,remaining)} more`);
+  $('load-all').hidden=remaining===0;
+  $('load-all').textContent=t(`显示全部 ${selected.length} 条`, `Show all ${selected.length}`);
 }
 function card(c,eager=false) {
   const article=el('article','card'),button=el('button','card-open');article.dataset.caseId=c.id;button.type='button';button.dataset.caseId=c.id;button.setAttribute('aria-label',t(`打开作品：${title(c)}`,`Open work: ${title(c)}`));
@@ -405,12 +408,15 @@ $('search').addEventListener('compositionend',scheduleSearch);
 $('search').addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.isComposing)applySearch();});
 function resetCollection(){navigate({page:'all',category:'all',query:'',playable:false,duration:'all',prompt:'all',resource:'all',caseId:null});$('search').focus({preventScroll:true});}
 $('reset').addEventListener('click',resetCollection);
-$('load-more').addEventListener('click',()=>{
-  const selected=selectCases(cases,state),previous=visibleCount;visibleCount+=PAGE_SIZE;
+function showMore(all=false){
+  const selected=selectCases(cases,state),previous=visibleCount;
+  visibleCount=all?selected.length:Math.min(previous+LOAD_MORE_COUNT,selected.length);
   const added=selected.slice(previous,visibleCount).map(c=>card(c));
   $('works').append(...added);renderPagination(selected);
   added[0]?.querySelector('.card-open')?.focus({preventScroll:true});
-});
+}
+$('load-more').addEventListener('click',()=>showMore());
+$('load-all').addEventListener('click',()=>showMore(true));
 $('language').addEventListener('click',()=>navigate({lang:state.lang==='zh'?'en':'zh'},{replace:true}));
 function onLocation(){closeSort({motion:false});clearTimeout(searchTimer);searchTimer=null;const next=readLocation(),filterChanged=filterKeys.some(key=>state[key]!==next[key]),listChanged=listKeys.some(key=>state[key]!==next[key]),languageChanged=state.lang!==next.lang;state=next;if(filterChanged)visibleCount=PAGE_SIZE;if(listChanged)render();syncViewer({refresh:languageChanged});}window.addEventListener('popstate',onLocation);window.addEventListener('hashchange',onLocation);
 try { const response=await fetch('./data/cases.json');if(!response.ok)throw new Error('Catalog unavailable');const catalog=await response.json();if(!Array.isArray(catalog.cases))throw new Error('Invalid catalog');cases=catalog.cases;$('loading').hidden=true;render();syncViewer(); }catch { renderLanguage();$('loading').textContent=t('作品列表暂时无法载入。请刷新重试，或从上方 GitHub 入口浏览。若在本地打开，请使用 HTTP 静态服务器预览。','The catalog could not load. Refresh or browse via GitHub above. For a local preview, use an HTTP static server.'); }
