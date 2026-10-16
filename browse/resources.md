@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-121 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+133 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -73,6 +73,12 @@
   包含 Tessel 发布片的画面代码、程序化配乐和渲染脚本。
   [链接出处](https://x.com/LexnLin/status/2104148235698774036) · 链接核对 2026-09-29 08:35 UTC
 
+## [Claude 发布片：地平线与材质切换](../cases/2102457403119985005.md) · @chetaslua
+
+- **公开网页**：[作者提供的 CodePen 入口](https://codepen.io/editor/ChetasLua/pen/01a0ca42-115b-7f4c-b081-65d1f389afe5)
+  原帖直接链接，页面代码本轮未读取，不标记为已核验源码。
+  [链接出处](https://x.com/chetaslua/status/2102457403119985005) · 链接核对 2026-10-16 07:19 UTC
+
 ## [Claude 帮助小镇居民的发布动画](../cases/2102370144546889735.md) · @chetaslua
 
 - **直接源码**：[Little Neighbourhood 单文件工程](https://github.com/ChetasLua/little-neighbourhood) · [MIT](https://github.com/ChetasLua/little-neighbourhood/blob/7888ed552f85d63a57351efc7a69345b791936eb/LICENSE)
@@ -103,6 +109,18 @@
 
 - **公开网页**：[作者关联落地页](https://moh4696.github.io/refresh-yoghurt/)
   [链接出处](https://x.com/exploraX_/status/2108181230692807097) · 链接核对 2026-10-15 06:12 UTC
+
+## [LiteLLM Day 0：弧形地平线发布片](../cases/2102486455126020521.md) · @MisbahSy
+
+- **直接源码**：[LiteLLM 发布片对应示例源码](https://github.com/misbahsy/claude-horizon-animation/tree/main/skills/horizon-reel/examples/opus-5-5) · 未标明许可
+  作者原帖链接仓库，README 和 film.json 明确对应 Day 0 / LiteLLM。未见统一代码许可证，不推定可商用；素材、字体和音乐权利另计。
+  [链接出处](https://x.com/MisbahSy/status/2102486455126020521) · 链接核对 2026-10-16 07:19 UTC
+
+## [motion-use：三维时间线宣传片](../cases/2108783389704929381.md) · @leeguooooo
+
+- **直接源码**：[对应 102 秒影片工程（MIT）](https://github.com/leeguooooo/motion-use/tree/main/examples/motion-use-promo) · MIT
+  已核对 film.json 时长 102 秒及 composition/draw.js；这是具体影片示例，非仅工具首页。未独立运行。
+  [链接出处](https://x.com/leeguooooo/status/2108783389704929381) · 链接核对 2026-10-16 07:22 UTC
 
 ## [HyperFrames 风格化广告实验](../cases/2104595346882175311.md) · @washow\_cfo
 
@@ -164,6 +182,12 @@
 - **相关工具**：[作者的手绘 Canvas 动画 Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [链接出处](https://x.com/superalesha/status/2102463796149440888) · 链接核对 2026-09-29 06:18 UTC
 
+## [五座日本建筑的线框搭建](../cases/2105746986339283305.md) · @yoshifujidesign
+
+- **公开网页**：[作者演示及页面实现代码（许可未注明）](https://re-presentation.jp/tool/KigumiArchitecture.html)
+  页面有实现代码，未找到开放源码许可。
+  [链接出处](https://x.com/yoshifujidesign/status/2105746986339283305) · 链接核对 2026-10-16 06:52 UTC
+
 ## [九种 KV Cache 讲解风格](../cases/2107408409859359211.md) · @LufzzLiz
 
 - **直接源码**：[KV Cache 九种风格示例源码](https://github.com/cclank/lanshu-create-ai-presenter-video/tree/c24720a85d63b1bd494f6447e48a59384733647b/explainer/examples/kv-cache) · [MIT](https://github.com/cclank/lanshu-create-ai-presenter-video/blob/c24720a85d63b1bd494f6447e48a59384733647b/LICENSE)
@@ -196,6 +220,12 @@
 - **相关工具**：[Lemo-Opuscar 视频制作 Skill 与风格工具集](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
   作者的制作 Skill 与风格样片集；未核得这支教学片的独立工程。代码 MIT，指南、风格文档与影片为 CC BY 4.0。
   [链接出处](https://x.com/lemomo_ai/status/2103812417457463552) · 链接核对 2026-09-29 08:35 UTC
+
+## [狮子岩：斯里兰卡历史故事动画](../cases/2103054687016825162.md) · @hashir
+
+- **直接源码**：[对应完整动画源码（代码 MIT）](https://github.com/hashmil/sigiriya) · MIT
+  已核对作者原帖、README 和 index.html；参考照片及其衍生图另为 CC BY-SA 3.0。未独立运行。
+  [链接出处](https://x.com/hashir/status/2103054687016825162) · 链接核对 2026-10-16 07:22 UTC
 
 ## [3500 条整数数列的交互式 3D 图谱](../cases/2104809653947265030.md) · @decompwlj
 
@@ -275,6 +305,12 @@
   提供制作工具和示例引擎；不包含作者的私人会话记录。内置引擎另附 MIT 许可。
   [链接出处](https://x.com/jake11moran/status/2103247490237825416) · 链接核对 2026-09-29 06:17 UTC
 
+## [184 种 SwiftUI 文字动效](../cases/2109056620831649927.md) · @amos\_gyamfi
+
+- **直接源码**：[对应文字动效合集（MIT）](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations) · [MIT](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations/blob/main/LICENSE)
+  前两种为作者手工实现，其他 182 种由 Opus 5.5 扩展；不是整片视频素材的统一许可。
+  [链接出处](https://x.com/amos_gyamfi/status/2109056620831649927) · 链接核对 2026-10-16 16:06 UTC
+
 ## [Roblox 魔法特效修改试验](../cases/2107484860717973791.md) · @JohnKlerAI
 
 - **公开网页**：[Roblox 特效展示场](https://www.roblox.com/games/115404945679619/Effects-Showcase)
@@ -286,6 +322,12 @@
 - **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
   代码和文档为 MIT；字体、笔顺数据各有许可，花叔角色及其示范影像仅供演示。未核得本条视频整体复用许可。
   [链接出处](https://x.com/AlchainHust/status/2107641558073803075) · 链接核对 2026-10-08 14:49 UTC
+
+## [THE CHEF / THE DISH：Motion DSL 动画](../cases/2108956236742074521.md) · @sofwath
+
+- **直接源码**：[对应 Motion DSL 动画代码](https://gist.github.com/Sofwath/c6363720ac7e26a5a2d766bf25d9ae78) · 未标明许可
+  作者直接提供的 dslcode.f；内容明确 THE CHEF / RECIPE / DISH 的时间线。未注明许可，未独立运行。
+  [链接出处](https://x.com/sofwath/status/2108956236742074521) · 链接核对 2026-10-16 07:22 UTC
 
 ## [Roblox 放射状效果展示](../cases/2108929788517789892.md) · @JohnKlerAI
 
@@ -375,11 +417,23 @@
   从作者原帖所链箱庭目录的第 25 项进入，作品名与 Akakumaya 署名对应；本轮未完整验证场景操作。
   [链接出处](https://claude.ai/artifact/PPSchejbnywNbPnAurCBSk) · 链接核对 2026-10-06 16:26 UTC
 
+## [金色时刻的日本寺院](../cases/2110657641831956870.md) · @LexnLin
+
+- **直接源码**：[完整影片工程（MIT）](https://github.com/Leonxlnx/golden-temple) · [MIT](https://github.com/Leonxlnx/golden-temple/blob/97fd9ec35ee5c0f02769addb4e35cb5e22f951dd/LICENSE)
+  代码 MIT；配乐单独采用 CC BY 4.0，不包含在代码许可内。未独立运行或复现。
+  [链接出处](https://x.com/LexnLin/status/2110657654808830313) · 链接核对 2026-10-16 06:39 UTC
+
 ## [Hollowmere：五种画风的可探索三维世界](../cases/2106493673425047896.md) · @LexnLin
 
 - **公开网页**：[Hollowmere 公开交互世界](https://claude.ai/artifact/FTUS2WmKKUFaqTKVHE7k4f)
   作者原帖直链，网页提供探索控制与五种画风切换。已检查 Natural 到 Painterly 的界面切换；公开网页不代表完整工程或开源许可。
   [链接出处](https://x.com/LexnLin/status/2106493673425047896) · 链接核对 2026-10-04 08:31 UTC
+
+## [24 种程序化动物](../cases/2105723245722812598.md) · @majidmanzarpour
+
+- **直接源码**：[对应动物生成与动画源码（MIT）](https://github.com/majidmanzarpour/threejs-procedural-animals) · MIT
+  仓库包含动物生成、绑定、IK 与展示代码；不是另行声称整条剪辑视频的时间线工程，未独立运行。
+  [链接出处](https://x.com/majidmanzarpour/status/2105723245722812598) · 链接核对 2026-10-16 06:52 UTC
 
 ## [可拆解聚变反应堆讲解](../cases/2104216976801587629.md) · @konstantinsaifo
 
@@ -392,6 +446,12 @@
   [链接出处](https://x.com/akokoi1/status/2104771886236553568) · 链接核对 2026-09-29 05:50 UTC
 - **公开网页**：[户型装修 2D / 3D 演示](https://wy51ai.github.io/floorplan-3d/)
   [链接出处](https://x.com/akokoi1/status/2104771886236553568) · 链接核对 2026-09-29 05:50 UTC
+
+## [海浪中的哥特城堡着色器](../cases/2102441628661080384.md) · @emollick
+
+- **公开网页**：[作者提供的着色器演示入口](https://twigl.app/?ol=true&ss=-P291BpUn5JvZhohk-c0)
+  原帖直接链接，页面源码与许可本轮未读取。
+  [链接出处](https://x.com/emollick/status/2102441628661080384) · 链接核对 2026-10-16 07:18 UTC
 
 ## [Heatsink：城市无人机竞速游戏](../cases/2107973550300856334.md) · @aniketjart
 
@@ -728,11 +788,23 @@
 - **公开网页**：[Neon Overdrive 在线音画](https://evangelion-neon-overdrive.vercel.app/)
   [链接出处](https://x.com/LuisBizarro/status/2104111432149164474) · 链接核对 2026-09-29 05:50 UTC
 
+## [One More Prompt：再来一个提示词](../cases/2109779693792883178.md) · @LexnLin
+
+- **相关工具**：[作者使用的 Cinetic Skill（非本片源码）](https://github.com/Leonxlnx/cinetic) · 未标明许可
+  通用制作工具，不是本片工程。
+  [链接出处](https://x.com/LexnLin/status/2109779697131258272) · 链接核对 2026-10-16 06:39 UTC
+
 ## [MusicKit 与 WebGPU 交互歌词播放器](../cases/2105174061697618314.md) · @LuisBizarro
 
 - **公开网页**：[交互歌词播放器](https://player.bizar.ro/)
   公开网页；作者说明本地演示中的失真及音频反应效果未包含在网页版本中。
   [链接出处](https://x.com/LuisBizarro/status/2105174061697618314) · 链接核对 2026-09-30 10:04 UTC
+
+## [命运：古典音乐的代码可视化 MV](../cases/2106674256855617890.md) · @jtydhr88
+
+- **直接源码**：[《命运》MV 对应源码](https://github.com/jtydhr88/fate-pv) · 未标明许可
+  已核对影片章节、工程与渲染入口。仓库明确 MIT 的是引用的 pdoom 引擎；不据此声称整部作品或音乐均为 MIT。未独立运行。
+  [链接出处](https://x.com/jtydhr88/status/2106674256855617890) · 链接核对 2026-10-16 07:22 UTC
 
 ## [GenMotion 制作的 P(doom) 音乐视频](../cases/2105282502726484258.md) · @haxzie\_
 

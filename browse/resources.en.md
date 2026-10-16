@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-121 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+133 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -73,6 +73,12 @@ Public work pages also count as implementation references; a web link alone does
   Includes visual code, a procedural soundtrack and rendering scripts for the Tessel launch film.
   [Link source](https://x.com/LexnLin/status/2104148235698774036) · Link checked 2026-09-29 08:35 UTC
 
+## [Claude: A Horizon Launch Film](../cases/2102457403119985005.en.md) · @chetaslua
+
+- **Public web page**：[Creator-linked CodePen](https://codepen.io/editor/ChetasLua/pen/01a0ca42-115b-7f4c-b081-65d1f389afe5)
+  The creator links this page; its implementation has not been independently inspected.
+  [Link source](https://x.com/chetaslua/status/2102457403119985005) · Link checked 2026-10-16 07:19 UTC
+
 ## [Launch Animation of Claude Helping a Neighbourhood](../cases/2102370144546889735.en.md) · @chetaslua
 
 - **Direct source**：[Little Neighbourhood single-file project](https://github.com/ChetasLua/little-neighbourhood) · [MIT](https://github.com/ChetasLua/little-neighbourhood/blob/7888ed552f85d63a57351efc7a69345b791936eb/LICENSE)
@@ -103,6 +109,18 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Related creator landing page](https://moh4696.github.io/refresh-yoghurt/)
   [Link source](https://x.com/exploraX_/status/2108181230692807097) · Link checked 2026-10-15 06:12 UTC
+
+## [LiteLLM Day Zero](../cases/2102486455126020521.en.md) · @MisbahSy
+
+- **Direct source**：[LiteLLM launch-film example](https://github.com/misbahsy/claude-horizon-animation/tree/main/skills/horizon-reel/examples/opus-5-5) · No license specified
+  The README and film.json identify this specific film. No unified code license was found; asset rights are separate.
+  [Link source](https://x.com/MisbahSy/status/2102486455126020521) · Link checked 2026-10-16 07:19 UTC
+
+## [motion-use: A 3D Timeline](../cases/2108783389704929381.en.md) · @leeguooooo
+
+- **Direct source**：[Matching 102-second film project](https://github.com/leeguooooo/motion-use/tree/main/examples/motion-use-promo) · MIT
+  The example includes film.json and composition/draw.js under the repository MIT license.
+  [Link source](https://x.com/leeguooooo/status/2108783389704929381) · Link checked 2026-10-16 07:22 UTC
 
 ## [A Stylized HyperFrames Commercial Experiment](../cases/2104595346882175311.en.md) · @washow\_cfo
 
@@ -164,6 +182,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Creator’s hand-drawn Canvas animation skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [Link source](https://x.com/superalesha/status/2102463796149440888) · Link checked 2026-09-29 06:18 UTC
 
+## [Five Japanese Buildings Assembled in Lines](../cases/2105746986339283305.en.md) · @yoshifujidesign
+
+- **Public web page**：[Building demo and page implementation](https://re-presentation.jp/tool/KigumiArchitecture.html)
+  The page contains implementation code; no open-source license was found.
+  [Link source](https://x.com/yoshifujidesign/status/2105746986339283305) · Link checked 2026-10-16 06:52 UTC
+
 ## [Nine styles for explaining KV Cache](../cases/2107408409859359211.en.md) · @LufzzLiz
 
 - **Direct source**：[Source for nine KV Cache styles](https://github.com/cclank/lanshu-create-ai-presenter-video/tree/c24720a85d63b1bd494f6447e48a59384733647b/explainer/examples/kv-cache) · [MIT](https://github.com/cclank/lanshu-create-ai-presenter-video/blob/c24720a85d63b1bd494f6447e48a59384733647b/LICENSE)
@@ -196,6 +220,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Lemo-Opuscar video creation skill and style toolkit](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
   The creator’s skill and style-sample collection; no separate project for this tutorial film was verified. Code is MIT; guides, style documents and films are CC BY 4.0.
   [Link source](https://x.com/lemomo_ai/status/2103812417457463552) · Link checked 2026-09-29 08:35 UTC
+
+## [The Story of Sigiriya](../cases/2103054687016825162.en.md) · @hashir
+
+- **Direct source**：[Complete animation source](https://github.com/hashmil/sigiriya) · MIT
+  Code is MIT; the reference photo and its derivatives have separate CC BY-SA 3.0 terms.
+  [Link source](https://x.com/hashir/status/2103054687016825162) · Link checked 2026-10-16 07:22 UTC
 
 ## [An Interactive 3D Atlas of 3,500 Integer Sequences](../cases/2104809653947265030.en.md) · @decompwlj
 
@@ -275,6 +305,12 @@ Public work pages also count as implementation references; a web link alone does
   Provides the skill and example engine, not the creator’s private session history. The bundled engine has a separate MIT license.
   [Link source](https://x.com/jake11moran/status/2103247490237825416) · Link checked 2026-09-29 06:17 UTC
 
+## [SwiftUI Thinking-Text Animations](../cases/2109056620831649927.en.md) · @amos\_gyamfi
+
+- **Direct source**：[Matching SwiftUI text-animation collection](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations) · [MIT](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations/blob/main/LICENSE)
+  The first two animations are handmade; Opus 5.5 added 182 more. This is not a blanket license for the video.
+  [Link source](https://x.com/amos_gyamfi/status/2109056620831649927) · Link checked 2026-10-16 16:06 UTC
+
 ## [A Roblox magical-effects refinement](../cases/2107484860717973791.en.md) · @JohnKlerAI
 
 - **Public web page**：[Roblox Effects Showcase](https://www.roblox.com/games/115404945679619/Effects-Showcase)
@@ -286,6 +322,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[huashu-art-motion animation toolkit](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
   Code and docs use MIT; fonts and stroke data have separate licenses, while the Huashu character and its demo imagery are demonstration-only. Overall reuse rights for this video are unverified.
   [Link source](https://x.com/AlchainHust/status/2107641558073803075) · Link checked 2026-10-08 14:49 UTC
+
+## [The Chef and the Dish](../cases/2108956236742074521.en.md) · @sofwath
+
+- **Direct source**：[Matching Motion DSL source](https://gist.github.com/Sofwath/c6363720ac7e26a5a2d766bf25d9ae78) · No license specified
+  The supplied file contains the Chef, Recipe and Dish timeline; no license was specified.
+  [Link source](https://x.com/sofwath/status/2108956236742074521) · Link checked 2026-10-16 07:22 UTC
 
 ## [Roblox Radial Effects Showcase](../cases/2108929788517789892.en.md) · @JohnKlerAI
 
@@ -375,11 +417,23 @@ Public work pages also count as implementation references; a web link alone does
   Reached through item 25 of the diorama catalog linked by the creator; the title and Akakumaya attribution match. Scene interactions were not fully tested.
   [Link source](https://claude.ai/artifact/PPSchejbnywNbPnAurCBSk) · Link checked 2026-10-06 16:26 UTC
 
+## [A Japanese Temple at Golden Hour](../cases/2110657641831956870.en.md) · @LexnLin
+
+- **Direct source**：[Complete film project](https://github.com/Leonxlnx/golden-temple) · [MIT](https://github.com/Leonxlnx/golden-temple/blob/97fd9ec35ee5c0f02769addb4e35cb5e22f951dd/LICENSE)
+  Code is MIT; music is separately CC BY 4.0. Not independently reproduced.
+  [Link source](https://x.com/LexnLin/status/2110657654808830313) · Link checked 2026-10-16 06:39 UTC
+
 ## [Hollowmere: an explorable 3D world in five styles](../cases/2106493673425047896.en.md) · @LexnLin
 
 - **Public web page**：[Hollowmere public interactive world](https://claude.ai/artifact/FTUS2WmKKUFaqTKVHE7k4f)
   Linked directly by the creator, with exploration controls and five rendering styles. The Natural-to-Painterly interface switch was checked; the public page does not establish a complete project or an open-source license.
   [Link source](https://x.com/LexnLin/status/2106493673425047896) · Link checked 2026-10-04 08:31 UTC
+
+## [Twenty-Four Procedural Animals](../cases/2105723245722812598.en.md) · @majidmanzarpour
+
+- **Direct source**：[Procedural animal animation source](https://github.com/majidmanzarpour/threejs-procedural-animals) · MIT
+  Generation, rigging, IK and display code, not a claim to the complete edited film timeline.
+  [Link source](https://x.com/majidmanzarpour/status/2105723245722812598) · Link checked 2026-10-16 06:52 UTC
 
 ## [An Explorable Fusion Reactor](../cases/2104216976801587629.en.md) · @konstantinsaifo
 
@@ -392,6 +446,12 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/akokoi1/status/2104771886236553568) · Link checked 2026-09-29 05:50 UTC
 - **Public web page**：[Floorplan 2D / 3D demo](https://wy51ai.github.io/floorplan-3d/)
   [Link source](https://x.com/akokoi1/status/2104771886236553568) · Link checked 2026-09-29 05:50 UTC
+
+## [A Gothic Castle in the Waves](../cases/2102441628661080384.en.md) · @emollick
+
+- **Public web page**：[Creator-linked shader demo](https://twigl.app/?ol=true&ss=-P291BpUn5JvZhohk-c0)
+  The creator links this demo; its source and license have not been checked.
+  [Link source](https://x.com/emollick/status/2102441628661080384) · Link checked 2026-10-16 07:18 UTC
 
 ## [Heatsink: a City Drone Racing Game](../cases/2107973550300856334.en.md) · @aniketjart
 
@@ -728,11 +788,23 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Neon Overdrive live audiovisual demo](https://evangelion-neon-overdrive.vercel.app/)
   [Link source](https://x.com/LuisBizarro/status/2104111432149164474) · Link checked 2026-09-29 05:50 UTC
 
+## [One More Prompt](../cases/2109779693792883178.en.md) · @LexnLin
+
+- **Related tool**：[Cinetic workflow tool](https://github.com/Leonxlnx/cinetic) · No license specified
+  A general tool, not the source project of this film.
+  [Link source](https://x.com/LexnLin/status/2109779697131258272) · Link checked 2026-10-16 06:39 UTC
+
 ## [An Interactive MusicKit and WebGPU Lyrics Player](../cases/2105174061697618314.en.md) · @LuisBizarro
 
 - **Public web page**：[Interactive lyrics player](https://player.bizar.ro/)
   Public player; the creator says the local demo’s distortion and audio reactivity are omitted from the web version.
   [Link source](https://x.com/LuisBizarro/status/2105174061697618314) · Link checked 2026-09-30 10:04 UTC
+
+## [Fate: Classical Music in Code](../cases/2106674256855617890.en.md) · @jtydhr88
+
+- **Direct source**：[Fate music-video project](https://github.com/jtydhr88/fate-pv) · No license specified
+  The included pdoom engine is MIT. This does not establish a license for the complete film or its music.
+  [Link source](https://x.com/jtydhr88/status/2106674256855617890) · Link checked 2026-10-16 07:22 UTC
 
 ## [A P(doom) music video made with GenMotion](../cases/2105282502726484258.en.md) · @haxzie\_
 

@@ -8,7 +8,7 @@ Extraordinary motion. New creative possibilities. · [简体中文](README.md)
 
 **[Explore the gallery ↗](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** &nbsp; · &nbsp; [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>838 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
+<sub>1020 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
 
 <a id="spotlights"></a>
 
@@ -45,13 +45,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 
 | Explore | What you will find | Works |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 161 |
-| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 160 |
-| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 111 |
-| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 56 |
-| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 203 |
-| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 84 |
-| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 63 |
+| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 213 |
+| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 202 |
+| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 145 |
+| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 68 |
+| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 215 |
+| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 96 |
+| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 81 |
 
 [Search, filter and watch all works in the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 

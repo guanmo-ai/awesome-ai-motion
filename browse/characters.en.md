@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-56 works. Click a cover to play; works without gallery video open on X.
+68 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -38,40 +38,70 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107086714820870617"><img src="../assets/covers/2107086714820870617.jpg" width="400" alt="Rounded characters animated in Blender"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862"><img src="../assets/covers/2105757136219504862.jpg" width="400" alt="Superman across changing art styles"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103112945341251920"><img src="../assets/covers/2103112945341251920.jpg" width="400" alt="A Rainy Pixel Paris"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Rounded characters animated in Blender</strong><br><sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · Pixel art &amp; characters</sub><br><sub>0:17 · Bookmarks 1,356 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107086714820870617">▶ Play</a> · <a href="https://x.com/JaydenDavisNC/status/2107086714820870617">Original post</a></td>
-<td width="50%" valign="top"><strong>Superman across changing art styles</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Pixel art &amp; characters</sub><br><sub>0:40 · Bookmarks 1,278 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862">▶ Play</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">Original post</a></td>
+<td width="50%" valign="top"><strong>A Rainy Pixel Paris</strong><br><sub><a href="https://x.com/minosdevs">@minosdevs</a> · Pixel art &amp; characters</sub><br><sub>0:06 · Bookmarks 1,338 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103112945341251920">▶ Play</a> · <a href="https://x.com/minosdevs/status/2103112945341251920">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862"><img src="../assets/covers/2105757136219504862.jpg" width="400" alt="Superman across changing art styles"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105825930799432073"><img src="../assets/covers/2105825930799432073.jpg" width="400" alt="A red dot’s small woodland adventure"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923"><img src="../assets/covers/2104008163561451923.jpg" width="400" alt="An AITuber Streaming and Explaining Prototype"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Superman across changing art styles</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Pixel art &amp; characters</sub><br><sub>0:40 · Bookmarks 1,278 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105757136219504862">▶ Play</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">Original post</a></td>
 <td width="50%" valign="top"><strong>A red dot’s small woodland adventure</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 1,072 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105825930799432073">▶ Play</a> · <a href="https://x.com/cherry_mx_reds/status/2105825930799432073">Original post</a></td>
-<td width="50%" valign="top"><strong>An AITuber Streaming and Explaining Prototype</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · Pixel art &amp; characters</sub><br><sub>0:55 · Bookmarks 985 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923">▶ Play</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923"><img src="../assets/covers/2104008163561451923.jpg" width="400" alt="An AITuber Streaming and Explaining Prototype"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102515055116063144"><img src="../assets/covers/2102515055116063144.jpg" width="400" alt="Pixel Characters on a Rainbow Track"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>An AITuber Streaming and Explaining Prototype</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · Pixel art &amp; characters</sub><br><sub>0:55 · Bookmarks 985 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104008163561451923">▶ Play</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">Original post</a></td>
+<td width="50%" valign="top"><strong>Pixel Characters on a Rainbow Track</strong><br><sub><a href="https://x.com/riku720720">@riku720720</a> · Pixel art &amp; characters</sub><br><sub>0:19 · Bookmarks 837 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102515055116063144">▶ Play</a> · <a href="https://x.com/riku720720/status/2102515055116063144">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107132523755307179"><img src="../assets/covers/2107132523755307179.jpg" width="400" alt="A Rainy Pixel Island"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107399371121930610"><img src="../assets/covers/2107399371121930610.jpg" width="225" alt="Two approaches to building a 3D avatar"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Rainy Pixel Island</strong><br><sub><a href="https://x.com/SahilExec">@SahilExec</a> · Pixel art &amp; characters</sub><br><sub>0:13 · Bookmarks 586 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107132523755307179">▶ Play</a> · <a href="https://x.com/SahilExec/status/2107132523755307179">Original post</a></td>
+<td width="50%" valign="top"><strong>Two approaches to building a 3D avatar</strong><br><sub><a href="https://x.com/lnkiai">@lnkiai</a> · Pixel art &amp; characters</sub><br><sub>0:11 · Bookmarks 549 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107399371121930610">▶ Play</a> · <a href="https://x.com/lnkiai/status/2107399371121930610">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105315982525014067"><img src="../assets/covers/2105315982525014067.jpg" width="400" alt="A Painterly Mechanical Dragonfly"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107634512226058434"><img src="../assets/covers/2107634512226058434.jpg" width="400" alt="From Two Illustrations to a Streaming 3D Avatar"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Two approaches to building a 3D avatar</strong><br><sub><a href="https://x.com/lnkiai">@lnkiai</a> · Pixel art &amp; characters</sub><br><sub>0:11 · Bookmarks 549 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107399371121930610">▶ Play</a> · <a href="https://x.com/lnkiai/status/2107399371121930610">Original post</a></td>
+<td width="50%" valign="top"><strong>A Painterly Mechanical Dragonfly</strong><br><sub><a href="https://x.com/xikhar">@xikhar</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 522 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105315982525014067">▶ Play</a> · <a href="https://x.com/xikhar/status/2105315982525014067">Original post</a></td>
 <td width="50%" valign="top"><strong>From Two Illustrations to a Streaming 3D Avatar</strong><br><sub><a href="https://x.com/kokushing">@kokushing</a> · Pixel art &amp; characters</sub><br><sub>1:15 · Bookmarks 388 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107634512226058434">▶ Play</a> · <a href="https://x.com/kokushing/status/2107634512226058434">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102472218269900876"><img src="../assets/covers/2102472218269900876.jpg" width="225" alt="Candy-Themed Character Animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105804692811137242"><img src="../assets/covers/2105804692811137242.jpg" width="400" alt="A model self-portrait in a floating voxel world"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102545213218803769"><img src="../assets/covers/2102545213218803769.jpg" width="400" alt="A Pixel Ocean"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Candy-Themed Character Animation</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · Pixel art &amp; characters</sub><br><sub>0:30 · Bookmarks 350 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102472218269900876">▶ Play</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">Original post</a></td>
+<td width="50%" valign="top"><strong>A Pixel Ocean</strong><br><sub><a href="https://x.com/akiy_8">@akiy_8</a> · Pixel art &amp; characters</sub><br><sub>0:20 · Bookmarks 299 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102545213218803769">▶ Play</a> · <a href="https://x.com/akiy_8/status/2102545213218803769">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109691802160615787"><img src="../assets/covers/2109691802160615787.jpg" width="400" alt="When Context Fills Up"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105804692811137242"><img src="../assets/covers/2105804692811137242.jpg" width="400" alt="A model self-portrait in a floating voxel world"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>When Context Fills Up</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · Pixel art &amp; characters</sub><br><sub>0:49 · Bookmarks 247 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109691802160615787">▶ Play</a> · <a href="https://x.com/devteamdrew/status/2109691802160615787">Original post</a></td>
 <td width="50%" valign="top"><strong>A model self-portrait in a floating voxel world</strong><br><sub><a href="https://x.com/blueemi99">@blueemi99</a> · Pixel art &amp; characters</sub><br><sub>0:26 · Bookmarks 213 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105804692811137242">▶ Play</a> · <a href="https://x.com/blueemi99/status/2105804692811137242">Original post</a></td>
 </tr>
 </tbody>
@@ -107,6 +137,16 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102515158233034828"><img src="../assets/covers/2102515158233034828.jpg" width="400" alt="A Blocky Billiards Fantasy"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105401665360986275"><img src="../assets/covers/2105401665360986275.jpg" width="400" alt="A Mecha's All-Out Attack"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Blocky Billiards Fantasy</strong><br><sub><a href="https://x.com/MrPowerGamerBR">@MrPowerGamerBR</a> · Pixel art &amp; characters</sub><br><sub>0:47 · Bookmarks 52 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102515158233034828">▶ Play</a> · <a href="https://x.com/MrPowerGamerBR/status/2102515158233034828">Original post</a></td>
+<td width="50%" valign="top"><strong>A Mecha's All-Out Attack</strong><br><sub><a href="https://x.com/PDyv9gdatT4132">@PDyv9gdatT4132</a> · Pixel art &amp; characters</sub><br><sub>0:32 · Bookmarks 51 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105401665360986275">▶ Play</a> · <a href="https://x.com/PDyv9gdatT4132/status/2105401665360986275">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108319151127175422"><img src="../assets/covers/2108319151127175422.jpg" width="360" alt="Walking and Howling on the Same Wolf Mesh"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106402474676588632"><img src="../assets/covers/2106402474676588632.jpg" width="400" alt="A beat-driven pixel character short"></a></td>
 </tr>
@@ -133,6 +173,16 @@
 <tr>
 <td width="50%" valign="top"><strong>A single illustration becomes a conversational avatar</strong><br><sub><a href="https://x.com/shinshin86">@shinshin86</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105556318132310361">▶ Play</a> · <a href="https://x.com/shinshin86/status/2105556318132310361">Original post</a></td>
 <td width="50%" valign="top"><strong>A Mascot Vector-rig Animation Panel</strong><br><sub><a href="https://x.com/okooo5km">@okooo5km</a> · Pixel art &amp; characters</sub><br><sub>0:21 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107738086079909920">▶ Play</a> · <a href="https://x.com/okooo5km/status/2107738086079909920">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109297316242812936"><img src="../assets/covers/2109297316242812936.jpg" width="180" alt="Gregg Hatches"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106434118640619627"><img src="../assets/covers/2106434118640619627.jpg" width="400" alt="A Tiny Film Set for a Cat"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Gregg Hatches</strong><br><sub><a href="https://x.com/MyWestLord">@MyWestLord</a> · Pixel art &amp; characters</sub><br><sub>0:19 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109297316242812936">▶ Play</a> · <a href="https://x.com/MyWestLord/status/2109297316242812936">Original post</a></td>
+<td width="50%" valign="top"><strong>A Tiny Film Set for a Cat</strong><br><sub><a href="https://x.com/flxrnc">@flxrnc</a> · Pixel art &amp; characters</sub><br><sub>0:15 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106434118640619627">▶ Play</a> · <a href="https://x.com/flxrnc/status/2106434118640619627">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -237,11 +287,21 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110771116092608538"><img src="../assets/covers/2110771116092608538.jpg" width="400" alt="Alone, a Spark"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104003920251257328"><img src="../assets/covers/2104003920251257328.jpg" width="400" alt="CatWalk: A Black Cat by a Moonlit Canal"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Alone, a Spark</strong><br><sub><a href="https://x.com/JanjireAditya">@JanjireAditya</a> · Pixel art &amp; characters</sub><br><sub>0:45 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110771116092608538">▶ Play</a> · <a href="https://x.com/JanjireAditya/status/2110771116092608538">Original post</a></td>
+<td width="50%" valign="top"><strong>CatWalk: A Black Cat by a Moonlit Canal</strong><br><sub><a href="https://x.com/blitast_studio">@blitast_studio</a> · Pixel art &amp; characters</sub><br><sub>0:36 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104003920251257328">▶ Play</a> · <a href="https://x.com/blitast_studio/status/2104003920251257328">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104225527401972058"><img src="../assets/covers/2104225527401972058.jpg" width="400" alt="Pixel Characters on Stage"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104664355270992140"><img src="../assets/covers/2104664355270992140.jpg" width="127" alt="A Remotion Animation Test for an Original Fighting Game"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>CatWalk: A Black Cat by a Moonlit Canal</strong><br><sub><a href="https://x.com/blitast_studio">@blitast_studio</a> · Pixel art &amp; characters</sub><br><sub>0:36 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104003920251257328">▶ Play</a> · <a href="https://x.com/blitast_studio/status/2104003920251257328">Original post</a></td>
+<td width="50%" valign="top"><strong>Pixel Characters on Stage</strong><br><sub><a href="https://x.com/chapi13">@chapi13</a> · Pixel art &amp; characters</sub><br><sub>1:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104225527401972058">▶ Play</a> · <a href="https://x.com/chapi13/status/2104225527401972058">Original post</a></td>
 <td width="50%" valign="top"><strong>A Remotion Animation Test for an Original Fighting Game</strong><br><sub><a href="https://x.com/chriscodling5">@chriscodling5</a> · Pixel art &amp; characters</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104664355270992140">▶ Play</a> · <a href="https://x.com/chriscodling5/status/2104664355270992140">Original post</a></td>
 </tr>
 </tbody>

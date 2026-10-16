@@ -2,7 +2,7 @@
 
 # 角色动画
 
-56 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+68 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -38,40 +38,70 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107086714820870617"><img src="../assets/covers/2107086714820870617.jpg" width="400" alt="Blender 中的圆润角色动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862"><img src="../assets/covers/2105757136219504862.jpg" width="400" alt="超人跨画风的连续动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103112945341251920"><img src="../assets/covers/2103112945341251920.jpg" width="400" alt="像素巴黎的雨夜循环"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Blender 中的圆润角色动画</strong><br><sub><a href="https://x.com/JaydenDavisNC">@JaydenDavisNC</a> · 角色动画</sub><br><sub>0:17 · 收藏 1,356 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107086714820870617">▶ 播放</a> · <a href="https://x.com/JaydenDavisNC/status/2107086714820870617">原帖</a></td>
-<td width="50%" valign="top"><strong>超人跨画风的连续动画</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 角色动画</sub><br><sub>0:40 · 收藏 1,278 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">原帖</a></td>
+<td width="50%" valign="top"><strong>像素巴黎的雨夜循环</strong><br><sub><a href="https://x.com/minosdevs">@minosdevs</a> · 角色动画</sub><br><sub>0:06 · 收藏 1,338 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103112945341251920">▶ 播放</a> · <a href="https://x.com/minosdevs/status/2103112945341251920">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862"><img src="../assets/covers/2105757136219504862.jpg" width="400" alt="超人跨画风的连续动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105825930799432073"><img src="../assets/covers/2105825930799432073.jpg" width="400" alt="一颗红点的森林小冒险"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923"><img src="../assets/covers/2104008163561451923.jpg" width="400" alt="AITuber 系统：直播与讲解原型"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>超人跨画风的连续动画</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 角色动画</sub><br><sub>0:40 · 收藏 1,278 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105757136219504862">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2105757136219504862">原帖</a></td>
 <td width="50%" valign="top"><strong>一颗红点的森林小冒险</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · 角色动画</sub><br><sub>0:15 · 收藏 1,072 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105825930799432073">▶ 播放</a> · <a href="https://x.com/cherry_mx_reds/status/2105825930799432073">原帖</a></td>
-<td width="50%" valign="top"><strong>AITuber 系统：直播与讲解原型</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · 角色动画</sub><br><sub>0:55 · 收藏 985 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923">▶ 播放</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923"><img src="../assets/covers/2104008163561451923.jpg" width="400" alt="AITuber 系统：直播与讲解原型"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102515055116063144"><img src="../assets/covers/2102515055116063144.jpg" width="400" alt="彩虹轨道上的像素角色"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>AITuber 系统：直播与讲解原型</strong><br><sub><a href="https://x.com/manaimovie">@manaimovie</a> · 角色动画</sub><br><sub>0:55 · 收藏 985 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104008163561451923">▶ 播放</a> · <a href="https://x.com/manaimovie/status/2104008163561451923">原帖</a></td>
+<td width="50%" valign="top"><strong>彩虹轨道上的像素角色</strong><br><sub><a href="https://x.com/riku720720">@riku720720</a> · 角色动画</sub><br><sub>0:19 · 收藏 837 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102515055116063144">▶ 播放</a> · <a href="https://x.com/riku720720/status/2102515055116063144">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107132523755307179"><img src="../assets/covers/2107132523755307179.jpg" width="400" alt="雨夜像素岛"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107399371121930610"><img src="../assets/covers/2107399371121930610.jpg" width="225" alt="两种 3D 头像制作方式"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>雨夜像素岛</strong><br><sub><a href="https://x.com/SahilExec">@SahilExec</a> · 角色动画</sub><br><sub>0:13 · 收藏 586 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107132523755307179">▶ 播放</a> · <a href="https://x.com/SahilExec/status/2107132523755307179">原帖</a></td>
+<td width="50%" valign="top"><strong>两种 3D 头像制作方式</strong><br><sub><a href="https://x.com/lnkiai">@lnkiai</a> · 角色动画</sub><br><sub>0:11 · 收藏 549 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107399371121930610">▶ 播放</a> · <a href="https://x.com/lnkiai/status/2107399371121930610">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105315982525014067"><img src="../assets/covers/2105315982525014067.jpg" width="400" alt="机械蜻蜓的手绘三维短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107634512226058434"><img src="../assets/covers/2107634512226058434.jpg" width="400" alt="从两张插画到直播三维角色"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>两种 3D 头像制作方式</strong><br><sub><a href="https://x.com/lnkiai">@lnkiai</a> · 角色动画</sub><br><sub>0:11 · 收藏 549 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107399371121930610">▶ 播放</a> · <a href="https://x.com/lnkiai/status/2107399371121930610">原帖</a></td>
+<td width="50%" valign="top"><strong>机械蜻蜓的手绘三维短片</strong><br><sub><a href="https://x.com/xikhar">@xikhar</a> · 角色动画</sub><br><sub>0:15 · 收藏 522 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105315982525014067">▶ 播放</a> · <a href="https://x.com/xikhar/status/2105315982525014067">原帖</a></td>
 <td width="50%" valign="top"><strong>从两张插画到直播三维角色</strong><br><sub><a href="https://x.com/kokushing">@kokushing</a> · 角色动画</sub><br><sub>1:15 · 收藏 388 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107634512226058434">▶ 播放</a> · <a href="https://x.com/kokushing/status/2107634512226058434">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472218269900876"><img src="../assets/covers/2102472218269900876.jpg" width="225" alt="糖果主题角色动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105804692811137242"><img src="../assets/covers/2105804692811137242.jpg" width="400" alt="漂浮体素世界中的模型自画像"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102545213218803769"><img src="../assets/covers/2102545213218803769.jpg" width="400" alt="像素海底：鱼群、水母与昼夜"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>糖果主题角色动画</strong><br><sub><a href="https://x.com/cherry_mx_reds">@cherry_mx_reds</a> · 角色动画</sub><br><sub>0:30 · 收藏 350 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472218269900876">▶ 播放</a> · <a href="https://x.com/cherry_mx_reds/status/2102472218269900876">原帖</a></td>
+<td width="50%" valign="top"><strong>像素海底：鱼群、水母与昼夜</strong><br><sub><a href="https://x.com/akiy_8">@akiy_8</a> · 角色动画</sub><br><sub>0:20 · 收藏 299 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102545213218803769">▶ 播放</a> · <a href="https://x.com/akiy_8/status/2102545213218803769">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109691802160615787"><img src="../assets/covers/2109691802160615787.jpg" width="400" alt="上下文塞满之后会怎样"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105804692811137242"><img src="../assets/covers/2105804692811137242.jpg" width="400" alt="漂浮体素世界中的模型自画像"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>上下文塞满之后会怎样</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · 角色动画</sub><br><sub>0:49 · 收藏 247 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109691802160615787">▶ 播放</a> · <a href="https://x.com/devteamdrew/status/2109691802160615787">原帖</a></td>
 <td width="50%" valign="top"><strong>漂浮体素世界中的模型自画像</strong><br><sub><a href="https://x.com/blueemi99">@blueemi99</a> · 角色动画</sub><br><sub>0:26 · 收藏 213 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105804692811137242">▶ 播放</a> · <a href="https://x.com/blueemi99/status/2105804692811137242">原帖</a></td>
 </tr>
 </tbody>
@@ -107,6 +137,16 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102515158233034828"><img src="../assets/covers/2102515158233034828.jpg" width="400" alt="方块角色的台球幻想"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105401665360986275"><img src="../assets/covers/2105401665360986275.jpg" width="400" alt="机甲全弹发射演出"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>方块角色的台球幻想</strong><br><sub><a href="https://x.com/MrPowerGamerBR">@MrPowerGamerBR</a> · 角色动画</sub><br><sub>0:47 · 收藏 52 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102515158233034828">▶ 播放</a> · <a href="https://x.com/MrPowerGamerBR/status/2102515158233034828">原帖</a></td>
+<td width="50%" valign="top"><strong>机甲全弹发射演出</strong><br><sub><a href="https://x.com/PDyv9gdatT4132">@PDyv9gdatT4132</a> · 角色动画</sub><br><sub>0:32 · 收藏 51 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105401665360986275">▶ 播放</a> · <a href="https://x.com/PDyv9gdatT4132/status/2105401665360986275">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319151127175422"><img src="../assets/covers/2108319151127175422.jpg" width="360" alt="同一狼模型的行走与嚎叫对照"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106402474676588632"><img src="../assets/covers/2106402474676588632.jpg" width="400" alt="按节拍编排的像素角色短片"></a></td>
 </tr>
@@ -133,6 +173,16 @@
 <tr>
 <td width="50%" valign="top"><strong>单张插画到可对话的 Live2D 风角色</strong><br><sub><a href="https://x.com/shinshin86">@shinshin86</a> · 角色动画</sub><br><sub>0:10 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105556318132310361">▶ 播放</a> · <a href="https://x.com/shinshin86/status/2105556318132310361">原帖</a></td>
 <td width="50%" valign="top"><strong>吉祥物的矢量骨骼动画面板</strong><br><sub><a href="https://x.com/okooo5km">@okooo5km</a> · 角色动画</sub><br><sub>0:21 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107738086079909920">▶ 播放</a> · <a href="https://x.com/okooo5km/status/2107738086079909920">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109297316242812936"><img src="../assets/covers/2109297316242812936.jpg" width="180" alt="Gregg：从蛋中诞生的吉祥物"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106434118640619627"><img src="../assets/covers/2106434118640619627.jpg" width="400" alt="小猫片场：导演、灯光与微缩舞台"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Gregg：从蛋中诞生的吉祥物</strong><br><sub><a href="https://x.com/MyWestLord">@MyWestLord</a> · 角色动画</sub><br><sub>0:19 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109297316242812936">▶ 播放</a> · <a href="https://x.com/MyWestLord/status/2109297316242812936">原帖</a></td>
+<td width="50%" valign="top"><strong>小猫片场：导演、灯光与微缩舞台</strong><br><sub><a href="https://x.com/flxrnc">@flxrnc</a> · 角色动画</sub><br><sub>0:15 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106434118640619627">▶ 播放</a> · <a href="https://x.com/flxrnc/status/2106434118640619627">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -237,11 +287,21 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110771116092608538"><img src="../assets/covers/2110771116092608538.jpg" width="400" alt="Alone, a Spark：发光小角色故事"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104003920251257328"><img src="../assets/covers/2104003920251257328.jpg" width="400" alt="CatWalk：月夜运河边的黑猫"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Alone, a Spark：发光小角色故事</strong><br><sub><a href="https://x.com/JanjireAditya">@JanjireAditya</a> · 角色动画</sub><br><sub>0:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110771116092608538">▶ 播放</a> · <a href="https://x.com/JanjireAditya/status/2110771116092608538">原帖</a></td>
+<td width="50%" valign="top"><strong>CatWalk：月夜运河边的黑猫</strong><br><sub><a href="https://x.com/blitast_studio">@blitast_studio</a> · 角色动画</sub><br><sub>0:36 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104003920251257328">▶ 播放</a> · <a href="https://x.com/blitast_studio/status/2104003920251257328">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104225527401972058"><img src="../assets/covers/2104225527401972058.jpg" width="400" alt="像素人物对话与舞台动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104664355270992140"><img src="../assets/covers/2104664355270992140.jpg" width="127" alt="原创格斗游戏的 Remotion 动画试片"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>CatWalk：月夜运河边的黑猫</strong><br><sub><a href="https://x.com/blitast_studio">@blitast_studio</a> · 角色动画</sub><br><sub>0:36 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104003920251257328">▶ 播放</a> · <a href="https://x.com/blitast_studio/status/2104003920251257328">原帖</a></td>
+<td width="50%" valign="top"><strong>像素人物对话与舞台动画</strong><br><sub><a href="https://x.com/chapi13">@chapi13</a> · 角色动画</sub><br><sub>1:15 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104225527401972058">▶ 播放</a> · <a href="https://x.com/chapi13/status/2104225527401972058">原帖</a></td>
 <td width="50%" valign="top"><strong>原创格斗游戏的 Remotion 动画试片</strong><br><sub><a href="https://x.com/chriscodling5">@chriscodling5</a> · 角色动画</sub><br><sub>0:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104664355270992140">▶ 播放</a> · <a href="https://x.com/chriscodling5/status/2104664355270992140">原帖</a></td>
 </tr>
 </tbody>

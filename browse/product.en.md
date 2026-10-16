@@ -2,7 +2,7 @@
 
 # Product & marketing
 
-161 works. Click a cover to play; works without gallery video open on X.
+213 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -38,130 +38,160 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103499977632997524"><img src="../assets/covers/2103499977632997524.jpg" width="400" alt="Explain a business in five scenes"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102827288190689364"><img src="../assets/covers/2102827288190689364.jpg" width="400" alt="Punchy Promo for a Writing Tool"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107507518817878117"><img src="../assets/covers/2107507518817878117.jpg" width="400" alt="One Prompt, Two Opus Motion Workflows"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Explain a business in five scenes</strong><br><sub><a href="https://x.com/alex_prompter">@alex_prompter</a> · Product &amp; marketing</sub><br><sub>0:35 · Bookmarks 659</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103499977632997524">▶ Play</a> · <a href="https://x.com/alex_prompter/status/2103499977632997524">Original post</a></td>
-<td width="50%" valign="top"><strong>Punchy Promo for a Writing Tool</strong><br><sub><a href="https://x.com/shribuilds">@shribuilds</a> · Product &amp; marketing</sub><br><sub>0:41 · Bookmarks 383 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102827288190689364">▶ Play</a> · <a href="https://x.com/shribuilds/status/2102827288190689364">Original post</a></td>
+<td width="50%" valign="top"><strong>One Prompt, Two Opus Motion Workflows</strong><br><sub><a href="https://x.com/motion_so">@motion_so</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 420 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107507518817878117">▶ Play</a> · <a href="https://x.com/motion_so/status/2107507518817878117">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102827288190689364"><img src="../assets/covers/2102827288190689364.jpg" width="400" alt="Punchy Promo for a Writing Tool"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107186094777434454"><img src="../assets/covers/2107186094777434454.jpg" width="400" alt="Inbox Zero: a code-based product-video workflow"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103483957266268381"><img src="../assets/covers/2103483957266268381.jpg" width="225" alt="MakerMap: a continuous product journey"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Punchy Promo for a Writing Tool</strong><br><sub><a href="https://x.com/shribuilds">@shribuilds</a> · Product &amp; marketing</sub><br><sub>0:41 · Bookmarks 383 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102827288190689364">▶ Play</a> · <a href="https://x.com/shribuilds/status/2102827288190689364">Original post</a></td>
 <td width="50%" valign="top"><strong>Inbox Zero: a code-based product-video workflow</strong><br><sub><a href="https://x.com/elie2222">@elie2222</a> · Product &amp; marketing</sub><br><sub>0:58 · Bookmarks 371 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107186094777434454">▶ Play</a> · <a href="https://x.com/elie2222/status/2107186094777434454">Original post</a></td>
-<td width="50%" valign="top"><strong>MakerMap: a continuous product journey</strong><br><sub><a href="https://x.com/verbove">@verbove</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 334</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103483957266268381">▶ Play</a> · <a href="https://x.com/verbove/status/2103483957266268381">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103483957266268381"><img src="../assets/covers/2103483957266268381.jpg" width="225" alt="MakerMap: a continuous product journey"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103800569584562538"><img src="../assets/covers/2103800569584562538.jpg" width="400" alt="Distilbook: score inspiration and a composition prompt"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106640261623537875"><img src="../assets/covers/2106640261623537875.jpg" width="400" alt="AI In Public: visuals and sound written in code"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>MakerMap: a continuous product journey</strong><br><sub><a href="https://x.com/verbove">@verbove</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 334</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103483957266268381">▶ Play</a> · <a href="https://x.com/verbove/status/2103483957266268381">Original post</a></td>
 <td width="50%" valign="top"><strong>Distilbook: score inspiration and a composition prompt</strong><br><sub><a href="https://x.com/ajith_io">@ajith_io</a> · Product &amp; marketing</sub><br><sub>0:40 · Bookmarks 57</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103800569584562538">▶ Play</a> · <a href="https://x.com/ajith_io/status/2103800569584562538">Original post</a></td>
-<td width="50%" valign="top"><strong>AI In Public: visuals and sound written in code</strong><br><sub><a href="https://x.com/humzaakhalid">@humzaakhalid</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 56</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106640261623537875">▶ Play</a> · <a href="https://x.com/humzaakhalid/status/2106640261623537875">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106640261623537875"><img src="../assets/covers/2106640261623537875.jpg" width="400" alt="AI In Public: visuals and sound written in code"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103761658745335993"><img src="../assets/covers/2103761658745335993.jpg" width="400" alt="A 30-second product motion brief"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104336637752955094"><img src="../assets/covers/2104336637752955094.jpg" width="127" alt="Onde Fica: real app footage and a mixed-tool reel"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>AI In Public: visuals and sound written in code</strong><br><sub><a href="https://x.com/humzaakhalid">@humzaakhalid</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 56</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106640261623537875">▶ Play</a> · <a href="https://x.com/humzaakhalid/status/2106640261623537875">Original post</a></td>
 <td width="50%" valign="top"><strong>A 30-second product motion brief</strong><br><sub><a href="https://x.com/sudo_kiran">@sudo_kiran</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 11</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103761658745335993">▶ Play</a> · <a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post</a></td>
-<td width="50%" valign="top"><strong>Onde Fica: real app footage and a mixed-tool reel</strong><br><sub><a href="https://x.com/jesscaroline7">@jesscaroline7</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 8</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104336637752955094">▶ Play</a> · <a href="https://x.com/jesscaroline7/status/2104336637752955094">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104336637752955094"><img src="../assets/covers/2104336637752955094.jpg" width="127" alt="Onde Fica: real app footage and a mixed-tool reel"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787822855893072"><img src="../assets/covers/2102787822855893072.jpg" width="127" alt="Ad for a UI Components Product"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104249941136666741"><img src="../assets/covers/2104249941136666741.jpg" width="400" alt="Hoplite feature launch animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Onde Fica: real app footage and a mixed-tool reel</strong><br><sub><a href="https://x.com/jesscaroline7">@jesscaroline7</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 8</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104336637752955094">▶ Play</a> · <a href="https://x.com/jesscaroline7/status/2104336637752955094">Original post</a></td>
 <td width="50%" valign="top"><strong>Ad for a UI Components Product</strong><br><sub><a href="https://x.com/deweytn">@deweytn</a> · Product &amp; marketing</sub><br><sub>0:26 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102787822855893072">▶ Play</a> · <a href="https://x.com/deweytn/status/2102787822855893072">Original post</a></td>
-<td width="50%" valign="top"><strong>Hoplite feature launch animation</strong><br><sub><a href="https://x.com/ryan_morr">@ryan_morr</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104249941136666741">▶ Play</a> · <a href="https://x.com/ryan_morr/status/2104249941136666741">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104249941136666741"><img src="../assets/covers/2104249941136666741.jpg" width="400" alt="Hoplite feature launch animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108326197516198346"><img src="../assets/covers/2108326197516198346.jpg" width="400" alt="A One-line Trailer Test for a Roblox Game"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105567585680941521"><img src="../assets/covers/2105567585680941521.jpg" width="400" alt="A one-minute concept promo for a podcast"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Hoplite feature launch animation</strong><br><sub><a href="https://x.com/ryan_morr">@ryan_morr</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104249941136666741">▶ Play</a> · <a href="https://x.com/ryan_morr/status/2104249941136666741">Original post</a></td>
 <td width="50%" valign="top"><strong>A One-line Trailer Test for a Roblox Game</strong><br><sub><a href="https://x.com/Aryanpxcr7">@Aryanpxcr7</a> · Product &amp; marketing</sub><br><sub>0:41 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108326197516198346">▶ Play</a> · <a href="https://x.com/Aryanpxcr7/status/2108326197516198346">Original post</a></td>
-<td width="50%" valign="top"><strong>A one-minute concept promo for a podcast</strong><br><sub><a href="https://x.com/wuhao1031">@wuhao1031</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105567585680941521">▶ Play</a> · <a href="https://x.com/wuhao1031/status/2105567585680941521">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105567585680941521"><img src="../assets/covers/2105567585680941521.jpg" width="400" alt="A one-minute concept promo for a podcast"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106057217040368042"><img src="../assets/covers/2106057217040368042.jpg" width="400" alt="Uptimepage: a 30-second Three.js promo"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107869205588848985"><img src="../assets/covers/2107869205588848985.jpg" width="400" alt="A Glaido Product Demo with a Jingle"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A one-minute concept promo for a podcast</strong><br><sub><a href="https://x.com/wuhao1031">@wuhao1031</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105567585680941521">▶ Play</a> · <a href="https://x.com/wuhao1031/status/2105567585680941521">Original post</a></td>
 <td width="50%" valign="top"><strong>Uptimepage: a 30-second Three.js promo</strong><br><sub><a href="https://x.com/kevindatas">@kevindatas</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106057217040368042">▶ Play</a> · <a href="https://x.com/kevindatas/status/2106057217040368042">Original post</a></td>
-<td width="50%" valign="top"><strong>A Glaido Product Demo with a Jingle</strong><br><sub><a href="https://x.com/AIJackRoberts">@AIJackRoberts</a> · Product &amp; marketing</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107869205588848985">▶ Play</a> · <a href="https://x.com/AIJackRoberts/status/2107869205588848985">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107869205588848985"><img src="../assets/covers/2107869205588848985.jpg" width="400" alt="A Glaido Product Demo with a Jingle"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103746671591256286"><img src="../assets/covers/2103746671591256286.jpg" width="400" alt="An analytics product made from real web assets"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039666093572362"><img src="../assets/covers/2104039666093572362.jpg" width="400" alt="A promotional animation for deckuse"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Glaido Product Demo with a Jingle</strong><br><sub><a href="https://x.com/AIJackRoberts">@AIJackRoberts</a> · Product &amp; marketing</sub><br><sub>0:26 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107869205588848985">▶ Play</a> · <a href="https://x.com/AIJackRoberts/status/2107869205588848985">Original post</a></td>
 <td width="50%" valign="top"><strong>An analytics product made from real web assets</strong><br><sub><a href="https://x.com/zigapoto">@zigapoto</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103746671591256286">▶ Play</a> · <a href="https://x.com/zigapoto/status/2103746671591256286">Original post</a></td>
-<td width="50%" valign="top"><strong>A promotional animation for deckuse</strong><br><sub><a href="https://x.com/feiflow">@feiflow</a> · Product &amp; marketing</sub><br><sub>1:05 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039666093572362">▶ Play</a> · <a href="https://x.com/feiflow/status/2104039666093572362">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039666093572362"><img src="../assets/covers/2104039666093572362.jpg" width="400" alt="A promotional animation for deckuse"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109225353243988478"><img src="../assets/covers/2109225353243988478.jpg" width="400" alt="SF Symbols Picker Product Animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104765209596612730"><img src="../assets/covers/2104765209596612730.jpg" width="400" alt="Creative Promo from a Single Instruction"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A promotional animation for deckuse</strong><br><sub><a href="https://x.com/feiflow">@feiflow</a> · Product &amp; marketing</sub><br><sub>1:05 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104039666093572362">▶ Play</a> · <a href="https://x.com/feiflow/status/2104039666093572362">Original post</a></td>
 <td width="50%" valign="top"><strong>SF Symbols Picker Product Animation</strong><br><sub><a href="https://x.com/21Terrence1">@21Terrence1</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109225353243988478">▶ Play</a> · <a href="https://x.com/21Terrence1/status/2109225353243988478">Original post</a></td>
-<td width="50%" valign="top"><strong>Creative Promo from a Single Instruction</strong><br><sub><a href="https://x.com/nikomaster01">@nikomaster01</a> · Product &amp; marketing</sub><br><sub>0:47 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104765209596612730">▶ Play</a> · <a href="https://x.com/nikomaster01/status/2104765209596612730">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104765209596612730"><img src="../assets/covers/2104765209596612730.jpg" width="400" alt="Creative Promo from a Single Instruction"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107644501372322001"><img src="../assets/covers/2107644501372322001.jpg" width="400" alt="A tile build revealing an advertisement"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110426116288827709"><img src="../assets/covers/2110426116288827709.jpg" width="400" alt="Homeview: A 3D Product Launch Concept"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Creative Promo from a Single Instruction</strong><br><sub><a href="https://x.com/nikomaster01">@nikomaster01</a> · Product &amp; marketing</sub><br><sub>0:47 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104765209596612730">▶ Play</a> · <a href="https://x.com/nikomaster01/status/2104765209596612730">Original post</a></td>
 <td width="50%" valign="top"><strong>A tile build revealing an advertisement</strong><br><sub><a href="https://x.com/tanabe_fragm">@tanabe_fragm</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107644501372322001">▶ Play</a> · <a href="https://x.com/tanabe_fragm/status/2107644501372322001">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110426116288827709"><img src="../assets/covers/2110426116288827709.jpg" width="400" alt="Homeview: A 3D Product Launch Concept"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105270766996701686"><img src="../assets/covers/2105270766996701686.jpg" width="225" alt="UDC: An Animated Conference Poster"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Homeview: A 3D Product Launch Concept</strong><br><sub><a href="https://x.com/everestchris6">@everestchris6</a> · Product &amp; marketing</sub><br><sub>0:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110426116288827709">▶ Play</a> · <a href="https://x.com/everestchris6/status/2110426116288827709">Original post</a></td>
+<td width="50%" valign="top"><strong>UDC: An Animated Conference Poster</strong><br><sub><a href="https://x.com/johncodunayo">@johncodunayo</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 3,756 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105270766996701686">▶ Play</a> · <a href="https://x.com/johncodunayo/status/2105270766996701686">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105255710531674358"><img src="../assets/covers/2105255710531674358.jpg" width="400" alt="Stickers and Pixel Games for an Event"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102441708395041170"><img src="../assets/covers/2102441708395041170.jpg" width="400" alt="Shotbase product launch animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104148233106723099"><img src="../assets/covers/2104148233106723099.jpg" width="400" alt="A Fully Coded Launch Film for a Fictional Calendar App"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Stickers and Pixel Games for an Event</strong><br><sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · Product &amp; marketing</sub><br><sub>0:50 · Bookmarks 2,277 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105255710531674358">▶ Play</a> · <a href="https://x.com/tkm_hmng8/status/2105255710531674358">Original post</a></td>
 <td width="50%" valign="top"><strong>Shotbase product launch animation</strong><br><sub><a href="https://x.com/Miguel07Code">@Miguel07Code</a> · Product &amp; marketing</sub><br><sub>0:58 · Bookmarks 1,683 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102441708395041170">▶ Play</a> · <a href="https://x.com/Miguel07Code/status/2102441708395041170">Original post</a></td>
-<td width="50%" valign="top"><strong>A Fully Coded Launch Film for a Fictional Calendar App</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · Product &amp; marketing</sub><br><sub>0:33 · Bookmarks 1,240 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104148233106723099">▶ Play</a> · <a href="https://x.com/LexnLin/status/2104148233106723099">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104148233106723099"><img src="../assets/covers/2104148233106723099.jpg" width="400" alt="A Fully Coded Launch Film for a Fictional Calendar App"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102477340920152162"><img src="../assets/covers/2102477340920152162.jpg" width="398" alt="Personal website redesign trailer"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Fully Coded Launch Film for a Fictional Calendar App</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · Product &amp; marketing</sub><br><sub>0:33 · Bookmarks 1,240 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104148233106723099">▶ Play</a> · <a href="https://x.com/LexnLin/status/2104148233106723099">Original post</a></td>
+<td width="50%" valign="top"><strong>Personal website redesign trailer</strong><br><sub><a href="https://x.com/trq212">@trq212</a> · Product &amp; marketing</sub><br><sub>1:35 · Bookmarks 1,122 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102477340920152162">▶ Play</a> · <a href="https://x.com/trq212/status/2102477340920152162">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106101651010449796"><img src="../assets/covers/2106101651010449796.jpg" width="127" alt="Claude Makes Its Own Typographic Ad"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103152093733253544"><img src="../assets/covers/2103152093733253544.jpg" width="128" alt="Tutorial for Code-Drawn Product Ads"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Personal website redesign trailer</strong><br><sub><a href="https://x.com/trq212">@trq212</a> · Product &amp; marketing</sub><br><sub>1:35 · Bookmarks 1,122 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102477340920152162">▶ Play</a> · <a href="https://x.com/trq212/status/2102477340920152162">Original post</a></td>
+<td width="50%" valign="top"><strong>Claude Makes Its Own Typographic Ad</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · Product &amp; marketing</sub><br><sub>0:14 · Bookmarks 1,119 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106101651010449796">▶ Play</a> · <a href="https://x.com/LexnLin/status/2106101651010449796">Original post</a></td>
 <td width="50%" valign="top"><strong>Tutorial for Code-Drawn Product Ads</strong><br><sub><a href="https://x.com/Lucas_IA_">@Lucas_IA_</a> · Product &amp; marketing</sub><br><sub>1:12 · Bookmarks 1,119 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103152093733253544">▶ Play</a> · <a href="https://x.com/Lucas_IA_/status/2103152093733253544">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103542300844474452"><img src="../assets/covers/2103542300844474452.jpg" width="400" alt="Pixel Uploads and Retro Social Screens"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096209514248958161"><img src="../assets/covers/2096209514248958161.jpg" width="400" alt="Model-Built Launch Film"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Pixel Uploads and Retro Social Screens</strong><br><sub><a href="https://x.com/trymirage">@trymirage</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 1,011 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103542300844474452">▶ Play</a> · <a href="https://x.com/trymirage/status/2103542300844474452">Original post</a></td>
+<td width="50%" valign="top"><strong>Model-Built Launch Film</strong><br><sub><a href="https://x.com/athrix_codes">@athrix_codes</a> · Product &amp; marketing</sub><br><sub>0:53 · Bookmarks 951 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096209514248958161">▶ Play</a> · <a href="https://x.com/athrix_codes/status/2096209514248958161">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108250410221781009"><img src="../assets/covers/2108250410221781009.jpg" width="400" alt="From Reference to Animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109718604883370450"><img src="../assets/covers/2109718604883370450.jpg" width="400" alt="Reminders in Motion"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Model-Built Launch Film</strong><br><sub><a href="https://x.com/athrix_codes">@athrix_codes</a> · Product &amp; marketing</sub><br><sub>0:53 · Bookmarks 951 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2096209514248958161">▶ Play</a> · <a href="https://x.com/athrix_codes/status/2096209514248958161">Original post</a></td>
+<td width="50%" valign="top"><strong>From Reference to Animation</strong><br><sub><a href="https://x.com/ishuagra02">@ishuagra02</a> · Product &amp; marketing</sub><br><sub>1:02 · Bookmarks 754 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108250410221781009">▶ Play</a> · <a href="https://x.com/ishuagra02/status/2108250410221781009">Original post</a></td>
 <td width="50%" valign="top"><strong>Reminders in Motion</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · Product &amp; marketing</sub><br><sub>0:40 · Bookmarks 639 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109718604883370450">▶ Play</a> · <a href="https://x.com/LexnLin/status/2109718604883370450">Original post</a></td>
 </tr>
 </tbody>
@@ -177,6 +207,16 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105283486487896448"><img src="../assets/covers/2105283486487896448.jpg" width="127" alt="A Sticker Library Launch"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109019765134213540"><img src="../assets/covers/2109019765134213540.jpg" width="400" alt="Tabi: From Keyboard to Words"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Sticker Library Launch</strong><br><sub><a href="https://x.com/javiiarchive">@javiiarchive</a> · Product &amp; marketing</sub><br><sub>0:23 · Bookmarks 566 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105283486487896448">▶ Play</a> · <a href="https://x.com/javiiarchive/status/2105283486487896448">Original post</a></td>
+<td width="50%" valign="top"><strong>Tabi: From Keyboard to Words</strong><br><sub><a href="https://x.com/nikhilbhima">@nikhilbhima</a> · Product &amp; marketing</sub><br><sub>0:44 · Bookmarks 449 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109019765134213540">▶ Play</a> · <a href="https://x.com/nikhilbhima/status/2109019765134213540">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103148835270971419"><img src="../assets/covers/2103148835270971419.jpg" width="127" alt="Animated Mushroom Coffee Ad"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103037586663235713"><img src="../assets/covers/2103037586663235713.jpg" width="400" alt="Complete Promo for a Unified Chat App"></a></td>
 </tr>
@@ -187,21 +227,41 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103625902211088880"><img src="../assets/covers/2103625902211088880.jpg" width="400" alt="Dub: A Globe of Particles"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104093497561436573"><img src="../assets/covers/2104093497561436573.jpg" width="400" alt="A PCB Enclosure and Printable Parts Promo"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103132260589338762"><img src="../assets/covers/2103132260589338762.jpg" width="127" alt="Short Film from App Redesign Assets"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Dub: A Globe of Particles</strong><br><sub><a href="https://x.com/steventey">@steventey</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 300 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103625902211088880">▶ Play</a> · <a href="https://x.com/steventey/status/2103625902211088880">Original post</a></td>
 <td width="50%" valign="top"><strong>A PCB Enclosure and Printable Parts Promo</strong><br><sub><a href="https://x.com/VectorCrossProd">@VectorCrossProd</a> · Product &amp; marketing</sub><br><sub>0:10 · Bookmarks 271 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104093497561436573">▶ Play</a> · <a href="https://x.com/VectorCrossProd/status/2104093497561436573">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103132260589338762"><img src="../assets/covers/2103132260589338762.jpg" width="127" alt="Short Film from App Redesign Assets"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105268326381625845"><img src="../assets/covers/2105268326381625845.jpg" width="400" alt="LaunchBuddy: Ready for Launch"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Short Film from App Redesign Assets</strong><br><sub><a href="https://x.com/jackfriks">@jackfriks</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 192 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103132260589338762">▶ Play</a> · <a href="https://x.com/jackfriks/status/2103132260589338762">Original post</a></td>
+<td width="50%" valign="top"><strong>LaunchBuddy: Ready for Launch</strong><br><sub><a href="https://x.com/FloWritesCode">@FloWritesCode</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 174 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105268326381625845">▶ Play</a> · <a href="https://x.com/FloWritesCode/status/2105268326381625845">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110013871532490973"><img src="../assets/covers/2110013871532490973.jpg" width="400" alt="Happily: An AI Letter"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102370144546889735"><img src="../assets/covers/2102370144546889735.jpg" width="400" alt="Launch Animation of Claude Helping a Neighbourhood"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102457403119985005"><img src="../assets/covers/2102457403119985005.jpg" width="400" alt="Claude: A Horizon Launch Film"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Happily: An AI Letter</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · Product &amp; marketing</sub><br><sub>0:40 · Bookmarks 169 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110013871532490973">▶ Play</a> · <a href="https://x.com/LexnLin/status/2110013871532490973">Original post</a></td>
+<td width="50%" valign="top"><strong>Claude: A Horizon Launch Film</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 168 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102457403119985005">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102457403119985005">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108644023330390194"><img src="../assets/covers/2108644023330390194.jpg" width="400" alt="Fish a Friend: A Game Trailer"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102370144546889735"><img src="../assets/covers/2102370144546889735.jpg" width="400" alt="Launch Animation of Claude Helping a Neighbourhood"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Fish a Friend: A Game Trailer</strong><br><sub><a href="https://x.com/Blushneyy">@Blushneyy</a> · Product &amp; marketing</sub><br><sub>0:43 · Bookmarks 154 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108644023330390194">▶ Play</a> · <a href="https://x.com/Blushneyy/status/2108644023330390194">Original post</a></td>
 <td width="50%" valign="top"><strong>Launch Animation of Claude Helping a Neighbourhood</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Product &amp; marketing</sub><br><sub>0:56 · Bookmarks 139 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102370144546889735">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102370144546889735">Original post</a></td>
 </tr>
 </tbody>
@@ -217,22 +277,52 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105310327886029275"><img src="../assets/covers/2105310327886029275.jpg" width="400" alt="Loctax: Brand Motion"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102741813719138661"><img src="../assets/covers/2102741813719138661.jpg" width="400" alt="Building a Roblox Game Trailer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131805175844923"><img src="../assets/covers/2104131805175844923.jpg" width="180" alt="Stream Launch Film: Original and Code Recreation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Loctax: Brand Motion</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · Product &amp; marketing</sub><br><sub>0:38 · Bookmarks 107 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105310327886029275">▶ Play</a> · <a href="https://x.com/achxvi/status/2105310327886029275">Original post</a></td>
 <td width="50%" valign="top"><strong>Building a Roblox Game Trailer</strong><br><sub><a href="https://x.com/NiloTechInc">@NiloTechInc</a> · Product &amp; marketing</sub><br><sub>0:07 · Bookmarks 105 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102741813719138661">▶ Play</a> · <a href="https://x.com/NiloTechInc/status/2102741813719138661">Original post</a></td>
-<td width="50%" valign="top"><strong>Stream Launch Film: Original and Code Recreation</strong><br><sub><a href="https://x.com/JurgenPloeger">@JurgenPloeger</a> · Product &amp; marketing</sub><br><sub>0:48 · Bookmarks 97 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131805175844923">▶ Play</a> · <a href="https://x.com/JurgenPloeger/status/2104131805175844923">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107740493262225688"><img src="../assets/covers/2107740493262225688.jpg" width="127" alt="Soft Shapes for a Creative Launch"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105773778676429021"><img src="../assets/covers/2105773778676429021.jpg" width="127" alt="A Computer in a Dark Studio"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Soft Shapes for a Creative Launch</strong><br><sub><a href="https://x.com/ai4everyday">@ai4everyday</a> · Product &amp; marketing</sub><br><sub>0:46 · Bookmarks 99 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107740493262225688">▶ Play</a> · <a href="https://x.com/ai4everyday/status/2107740493262225688">Original post</a></td>
+<td width="50%" valign="top"><strong>A Computer in a Dark Studio</strong><br><sub><a href="https://x.com/granttheeking">@granttheeking</a> · Product &amp; marketing</sub><br><sub>0:51 · Bookmarks 97 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105773778676429021">▶ Play</a> · <a href="https://x.com/granttheeking/status/2105773778676429021">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131805175844923"><img src="../assets/covers/2104131805175844923.jpg" width="180" alt="Stream Launch Film: Original and Code Recreation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102684116525437206"><img src="../assets/covers/2102684116525437206.jpg" width="400" alt="Sixty-Second Siege Game Promo"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Stream Launch Film: Original and Code Recreation</strong><br><sub><a href="https://x.com/JurgenPloeger">@JurgenPloeger</a> · Product &amp; marketing</sub><br><sub>0:48 · Bookmarks 97 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131805175844923">▶ Play</a> · <a href="https://x.com/JurgenPloeger/status/2104131805175844923">Original post</a></td>
+<td width="50%" valign="top"><strong>Sixty-Second Siege Game Promo</strong><br><sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 95 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102684116525437206">▶ Play</a> · <a href="https://x.com/KanaWorks_AI/status/2102684116525437206">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103920117025554453"><img src="../assets/covers/2103920117025554453.jpg" width="400" alt="Firstsales: An Email Product Film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104610435571884086"><img src="../assets/covers/2104610435571884086.jpg" width="400" alt="Notion column permissions: four directions to a final cut"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Sixty-Second Siege Game Promo</strong><br><sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 95 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102684116525437206">▶ Play</a> · <a href="https://x.com/KanaWorks_AI/status/2102684116525437206">Original post</a></td>
+<td width="50%" valign="top"><strong>Firstsales: An Email Product Film</strong><br><sub><a href="https://x.com/iuditg">@iuditg</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 94 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103920117025554453">▶ Play</a> · <a href="https://x.com/iuditg/status/2103920117025554453">Original post</a></td>
 <td width="50%" valign="top"><strong>Notion column permissions: four directions to a final cut</strong><br><sub><a href="https://x.com/wustep">@wustep</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 78</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104610435571884086">▶ Play</a> · <a href="https://x.com/wustep/status/2104610435571884086">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110245136953139577"><img src="../assets/covers/2110245136953139577.jpg" width="127" alt="Ideas Become Editable Motion"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105279421435572498"><img src="../assets/covers/2105279421435572498.jpg" width="400" alt="A Thai AI Team Introduction"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Ideas Become Editable Motion</strong><br><sub><a href="https://x.com/ai4everyday">@ai4everyday</a> · Product &amp; marketing</sub><br><sub>1:39 · Bookmarks 64 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110245136953139577">▶ Play</a> · <a href="https://x.com/ai4everyday/status/2110245136953139577">Original post</a></td>
+<td width="50%" valign="top"><strong>A Thai AI Team Introduction</strong><br><sub><a href="https://x.com/vibecodingth">@vibecodingth</a> · Product &amp; marketing</sub><br><sub>2:21 · Bookmarks 61 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105279421435572498">▶ Play</a> · <a href="https://x.com/vibecodingth/status/2105279421435572498">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -267,12 +357,22 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109609404450607352"><img src="../assets/covers/2109609404450607352.jpg" width="400" alt="An Assembly Line for USDai"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107481547242873319"><img src="../assets/covers/2107481547242873319.jpg" width="400" alt="QuanCard: a card-stack launch film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108384911245869197"><img src="../assets/covers/2108384911245869197.jpg" width="400" alt="A Three.js-coded Car Short"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An Assembly Line for USDai</strong><br><sub><a href="https://x.com/0xZergs">@0xZergs</a> · Product &amp; marketing</sub><br><sub>1:44 · Bookmarks 42 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109609404450607352">▶ Play</a> · <a href="https://x.com/0xZergs/status/2109609404450607352">Original post</a></td>
 <td width="50%" valign="top"><strong>QuanCard: a card-stack launch film</strong><br><sub><a href="https://x.com/luoleiorg">@luoleiorg</a> · Product &amp; marketing</sub><br><sub>0:42 · Bookmarks 39 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107481547242873319">▶ Play</a> · <a href="https://x.com/luoleiorg/status/2107481547242873319">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108384911245869197"><img src="../assets/covers/2108384911245869197.jpg" width="400" alt="A Three.js-coded Car Short"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110654224061366745"><img src="../assets/covers/2110654224061366745.jpg" width="400" alt="Slidesign: A Commercial Showreel"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>A Three.js-coded Car Short</strong><br><sub><a href="https://x.com/higgsfield">@higgsfield</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 37 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108384911245869197">▶ Play</a> · <a href="https://x.com/higgsfield/status/2108384911245869197">Original post</a></td>
+<td width="50%" valign="top"><strong>Slidesign: A Commercial Showreel</strong><br><sub><a href="https://x.com/dashiAIxz">@dashiAIxz</a> · Product &amp; marketing</sub><br><sub>1:48 · Bookmarks 36 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110654224061366745">▶ Play</a> · <a href="https://x.com/dashiAIxz/status/2110654224061366745">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -287,11 +387,21 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108539312556089566"><img src="../assets/covers/2108539312556089566.jpg" width="400" alt="Grok Bot: An X Integration Launch"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105750054908891423"><img src="../assets/covers/2105750054908891423.jpg" width="400" alt="A HyperFrames trending celebration film"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Grok Bot: An X Integration Launch</strong><br><sub><a href="https://x.com/kocer_eth">@kocer_eth</a> · Product &amp; marketing</sub><br><sub>0:43 · Bookmarks 29 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108539312556089566">▶ Play</a> · <a href="https://x.com/kocer_eth/status/2108539312556089566">Original post</a></td>
+<td width="50%" valign="top"><strong>A HyperFrames trending celebration film</strong><br><sub><a href="https://x.com/liu8in">@liu8in</a> · Product &amp; marketing</sub><br><sub>0:17 · Bookmarks 28</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105750054908891423">▶ Play</a> · <a href="https://x.com/liu8in/status/2105750054908891423">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104734251295863242"><img src="../assets/covers/2104734251295863242.jpg" width="400" alt="Wells Intelligence"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107990570002252237"><img src="../assets/covers/2107990570002252237.jpg" width="400" alt="A Haiku 5.5 Self-promotion Film"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>A HyperFrames trending celebration film</strong><br><sub><a href="https://x.com/liu8in">@liu8in</a> · Product &amp; marketing</sub><br><sub>0:17 · Bookmarks 28</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105750054908891423">▶ Play</a> · <a href="https://x.com/liu8in/status/2105750054908891423">Original post</a></td>
+<td width="50%" valign="top"><strong>Wells Intelligence</strong><br><sub><a href="https://x.com/kyle_e_walker">@kyle_e_walker</a> · Product &amp; marketing</sub><br><sub>1:14 · Bookmarks 27 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104734251295863242">▶ Play</a> · <a href="https://x.com/kyle_e_walker/status/2104734251295863242">Original post</a></td>
 <td width="50%" valign="top"><strong>A Haiku 5.5 Self-promotion Film</strong><br><sub><a href="https://x.com/LufzzLiz">@LufzzLiz</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 27 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107990570002252237">▶ Play</a> · <a href="https://x.com/LufzzLiz/status/2107990570002252237">Original post</a></td>
 </tr>
 </tbody>
@@ -317,12 +427,22 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110720587026846101"><img src="../assets/covers/2110720587026846101.jpg" width="400" alt="Vitals: Minimal Type in Many Languages"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104715277120180702"><img src="../assets/covers/2104715277120180702.jpg" width="350" alt="A Sonnet Concept Car Generated in Code"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102966807376334856"><img src="../assets/covers/2102966807376334856.jpg" width="400" alt="Nine-Scene Product Launch Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Vitals: Minimal Type in Many Languages</strong><br><sub><a href="https://x.com/attacomsian">@attacomsian</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 19 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110720587026846101">▶ Play</a> · <a href="https://x.com/attacomsian/status/2110720587026846101">Original post</a></td>
 <td width="50%" valign="top"><strong>A Sonnet Concept Car Generated in Code</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · Product &amp; marketing</sub><br><sub>0:18 · Bookmarks 18 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104715277120180702">▶ Play</a> · <a href="https://x.com/techartist_/status/2104715277120180702">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102966807376334856"><img src="../assets/covers/2102966807376334856.jpg" width="400" alt="Nine-Scene Product Launch Film"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103290592679879074"><img src="../assets/covers/2103290592679879074.jpg" width="400" alt="SAHI: From Trading Screens to Space"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Nine-Scene Product Launch Film</strong><br><sub><a href="https://x.com/ish_creative">@ish_creative</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 18 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102966807376334856">▶ Play</a> · <a href="https://x.com/ish_creative/status/2102966807376334856">Original post</a></td>
+<td width="50%" valign="top"><strong>SAHI: From Trading Screens to Space</strong><br><sub><a href="https://x.com/dale_vaz">@dale_vaz</a> · Product &amp; marketing</sub><br><sub>0:47 · Bookmarks 17 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103290592679879074">▶ Play</a> · <a href="https://x.com/dale_vaz/status/2103290592679879074">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -337,11 +457,21 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104617112673427527"><img src="../assets/covers/2104617112673427527.jpg" width="400" alt="Seven Hundred Launches"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104159752095998343"><img src="../assets/covers/2104159752095998343.jpg" width="400" alt="Tokyo Tower in a 3D Promo Sequence"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Seven Hundred Launches</strong><br><sub><a href="https://x.com/Suryanshti777">@Suryanshti777</a> · Product &amp; marketing</sub><br><sub>1:05 · Bookmarks 13 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104617112673427527">▶ Play</a> · <a href="https://x.com/Suryanshti777/status/2104617112673427527">Original post</a></td>
+<td width="50%" valign="top"><strong>Tokyo Tower in a 3D Promo Sequence</strong><br><sub><a href="https://x.com/Maruo_0314">@Maruo_0314</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 13 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104159752095998343">▶ Play</a> · <a href="https://x.com/Maruo_0314/status/2104159752095998343">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110786126558486777"><img src="../assets/covers/2110786126558486777.jpg" width="225" alt="An AI Rack, Layer by Layer"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108181230692807097"><img src="../assets/covers/2108181230692807097.jpg" width="400" alt="reFresh Yoghurt Brand Motion"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Tokyo Tower in a 3D Promo Sequence</strong><br><sub><a href="https://x.com/Maruo_0314">@Maruo_0314</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 13 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104159752095998343">▶ Play</a> · <a href="https://x.com/Maruo_0314/status/2104159752095998343">Original post</a></td>
+<td width="50%" valign="top"><strong>An AI Rack, Layer by Layer</strong><br><sub><a href="https://x.com/w1nklerr">@w1nklerr</a> · Product &amp; marketing</sub><br><sub>0:12 · Bookmarks 11 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110786126558486777">▶ Play</a> · <a href="https://x.com/w1nklerr/status/2110786126558486777">Original post</a></td>
 <td width="50%" valign="top"><strong>reFresh Yoghurt Brand Motion</strong><br><sub><a href="https://x.com/exploraX_">@exploraX_</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 11 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108181230692807097">▶ Play</a> · <a href="https://x.com/exploraX_/status/2108181230692807097">Original post</a></td>
 </tr>
 </tbody>
@@ -358,70 +488,90 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109204810818064634"><img src="../assets/covers/2109204810818064634.jpg" width="400" alt="Fumadocs Product Animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107741413769347341"><img src="../assets/covers/2107741413769347341.jpg" width="400" alt="Nafa: a Product Marketing Film from One Workflow"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102486455126020521"><img src="../assets/covers/2102486455126020521.jpg" width="400" alt="LiteLLM Day Zero"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Fumadocs Product Animation</strong><br><sub><a href="https://x.com/fuma_nama">@fuma_nama</a> · Product &amp; marketing</sub><br><sub>1:03 · Bookmarks 8 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109204810818064634">▶ Play</a> · <a href="https://x.com/fuma_nama/status/2109204810818064634">Original post</a></td>
-<td width="50%" valign="top"><strong>Nafa: a Product Marketing Film from One Workflow</strong><br><sub><a href="https://x.com/SaadPastaDev">@SaadPastaDev</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107741413769347341">▶ Play</a> · <a href="https://x.com/SaadPastaDev/status/2107741413769347341">Original post</a></td>
+<td width="50%" valign="top"><strong>LiteLLM Day Zero</strong><br><sub><a href="https://x.com/MisbahSy">@MisbahSy</a> · Product &amp; marketing</sub><br><sub>0:10 · Bookmarks 8 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102486455126020521">▶ Play</a> · <a href="https://x.com/MisbahSy/status/2102486455126020521">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107741413769347341"><img src="../assets/covers/2107741413769347341.jpg" width="400" alt="Nafa: a Product Marketing Film from One Workflow"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107187734414582139"><img src="../assets/covers/2107187734414582139.jpg" width="400" alt="own.page: a cinematic launch film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108379423808635005"><img src="../assets/covers/2108379423808635005.jpg" width="400" alt="Halloween Festival: an Automatically Shot World Promo"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Nafa: a Product Marketing Film from One Workflow</strong><br><sub><a href="https://x.com/SaadPastaDev">@SaadPastaDev</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107741413769347341">▶ Play</a> · <a href="https://x.com/SaadPastaDev/status/2107741413769347341">Original post</a></td>
 <td width="50%" valign="top"><strong>own.page: a cinematic launch film</strong><br><sub><a href="https://x.com/ElitzaVasileva">@ElitzaVasileva</a> · Product &amp; marketing</sub><br><sub>0:45 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107187734414582139">▶ Play</a> · <a href="https://x.com/ElitzaVasileva/status/2107187734414582139">Original post</a></td>
-<td width="50%" valign="top"><strong>Halloween Festival: an Automatically Shot World Promo</strong><br><sub><a href="https://x.com/yuripi_2023">@yuripi_2023</a> · Product &amp; marketing</sub><br><sub>0:59 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108379423808635005">▶ Play</a> · <a href="https://x.com/yuripi_2023/status/2108379423808635005">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108379423808635005"><img src="../assets/covers/2108379423808635005.jpg" width="400" alt="Halloween Festival: an Automatically Shot World Promo"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102766871007436993"><img src="../assets/covers/2102766871007436993.jpg" width="400" alt="Unofficial BLVCKOUT promo"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Halloween Festival: an Automatically Shot World Promo</strong><br><sub><a href="https://x.com/yuripi_2023">@yuripi_2023</a> · Product &amp; marketing</sub><br><sub>0:59 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108379423808635005">▶ Play</a> · <a href="https://x.com/yuripi_2023/status/2108379423808635005">Original post</a></td>
+<td width="50%" valign="top"><strong>Unofficial BLVCKOUT promo</strong><br><sub><a href="https://x.com/ystknsh">@ystknsh</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102766871007436993">▶ Play</a> · <a href="https://x.com/ystknsh/status/2102766871007436993">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108055549200003356"><img src="../assets/covers/2108055549200003356.jpg" width="400" alt="A PDF Becomes a Turning Book"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103104303808348305"><img src="../assets/covers/2103104303808348305.jpg" width="399" alt="Code Recreation of a Launch Film"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Unofficial BLVCKOUT promo</strong><br><sub><a href="https://x.com/ystknsh">@ystknsh</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102766871007436993">▶ Play</a> · <a href="https://x.com/ystknsh/status/2102766871007436993">Original post</a></td>
+<td width="50%" valign="top"><strong>A PDF Becomes a Turning Book</strong><br><sub><a href="https://x.com/BuildFastWithAI">@BuildFastWithAI</a> · Product &amp; marketing</sub><br><sub>0:37 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108055549200003356">▶ Play</a> · <a href="https://x.com/BuildFastWithAI/status/2108055549200003356">Original post</a></td>
 <td width="50%" valign="top"><strong>Code Recreation of a Launch Film</strong><br><sub><a href="https://x.com/vikktorrrre">@vikktorrrre</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 5 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103104303808348305">▶ Play</a> · <a href="https://x.com/vikktorrrre/status/2103104303808348305">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221575117324685"><img src="../assets/covers/2105221575117324685.jpg" width="400" alt="Sorank Product Launch Motion"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107985883949600983"><img src="../assets/covers/2107985883949600983.jpg" width="400" alt="An Anti-LinkedIn Launch Video"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104076374281510985"><img src="../assets/covers/2104076374281510985.jpg" width="400" alt="Omia: Windows in a 3D Corridor"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Sorank Product Launch Motion</strong><br><sub><a href="https://x.com/thibaultbessonm">@thibaultbessonm</a> · Product &amp; marketing</sub><br><sub>1:14 · Bookmarks 5 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221575117324685">▶ Play</a> · <a href="https://x.com/thibaultbessonm/status/2105221575117324685">Original post</a></td>
-<td width="50%" valign="top"><strong>An Anti-LinkedIn Launch Video</strong><br><sub><a href="https://x.com/MaxHirsch13">@MaxHirsch13</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107985883949600983">▶ Play</a> · <a href="https://x.com/MaxHirsch13/status/2107985883949600983">Original post</a></td>
+<td width="50%" valign="top"><strong>Omia: Windows in a 3D Corridor</strong><br><sub><a href="https://x.com/xiaoerzhan">@xiaoerzhan</a> · Product &amp; marketing</sub><br><sub>1:31 · Bookmarks 5 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104076374281510985">▶ Play</a> · <a href="https://x.com/xiaoerzhan/status/2104076374281510985">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107985883949600983"><img src="../assets/covers/2107985883949600983.jpg" width="400" alt="An Anti-LinkedIn Launch Video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102752585371226241"><img src="../assets/covers/2102752585371226241.jpg" width="360" alt="YouWare Launch Video: Opus, Sol and Fable Compared"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107547689819017555"><img src="../assets/covers/2107547689819017555.jpg" width="400" alt="TopSlash product launch film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An Anti-LinkedIn Launch Video</strong><br><sub><a href="https://x.com/MaxHirsch13">@MaxHirsch13</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107985883949600983">▶ Play</a> · <a href="https://x.com/MaxHirsch13/status/2107985883949600983">Original post</a></td>
 <td width="50%" valign="top"><strong>YouWare Launch Video: Opus, Sol and Fable Compared</strong><br><sub><a href="https://x.com/yrzhe_top">@yrzhe_top</a> · Product &amp; marketing</sub><br><sub>0:40 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102752585371226241">▶ Play</a> · <a href="https://x.com/yrzhe_top/status/2102752585371226241">Original post</a></td>
-<td width="50%" valign="top"><strong>TopSlash product launch film</strong><br><sub><a href="https://x.com/EnvolDev">@EnvolDev</a> · Product &amp; marketing</sub><br><sub>0:57 · Bookmarks 4</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107547689819017555">▶ Play</a> · <a href="https://x.com/EnvolDev/status/2107547689819017555">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107547689819017555"><img src="../assets/covers/2107547689819017555.jpg" width="400" alt="TopSlash product launch film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108477835463766340"><img src="../assets/covers/2108477835463766340.jpg" width="169" alt="A Phone-led Promo for an Yingge Dance Game"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103133462798483752"><img src="../assets/covers/2103133462798483752.jpg" width="400" alt="Model Launch Concept Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>TopSlash product launch film</strong><br><sub><a href="https://x.com/EnvolDev">@EnvolDev</a> · Product &amp; marketing</sub><br><sub>0:57 · Bookmarks 4</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107547689819017555">▶ Play</a> · <a href="https://x.com/EnvolDev/status/2107547689819017555">Original post</a></td>
 <td width="50%" valign="top"><strong>A Phone-led Promo for an Yingge Dance Game</strong><br><sub><a href="https://x.com/Gimi_min">@Gimi_min</a> · Product &amp; marketing</sub><br><sub>1:01 · Bookmarks 4 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108477835463766340">▶ Play</a> · <a href="https://x.com/Gimi_min/status/2108477835463766340">Original post</a></td>
-<td width="50%" valign="top"><strong>Model Launch Concept Film</strong><br><sub><a href="https://x.com/marcthecreatorr">@marcthecreatorr</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103133462798483752">▶ Play</a> · <a href="https://x.com/marcthecreatorr/status/2103133462798483752">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103133462798483752"><img src="../assets/covers/2103133462798483752.jpg" width="400" alt="Model Launch Concept Film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106414547569676331"><img src="../assets/covers/2106414547569676331.jpg" width="400" alt="SPECTRA+: a DeepSeek motion experiment"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Model Launch Concept Film</strong><br><sub><a href="https://x.com/marcthecreatorr">@marcthecreatorr</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103133462798483752">▶ Play</a> · <a href="https://x.com/marcthecreatorr/status/2103133462798483752">Original post</a></td>
+<td width="50%" valign="top"><strong>SPECTRA+: a DeepSeek motion experiment</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · Product &amp; marketing</sub><br><sub>0:40 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106414547569676331">▶ Play</a> · <a href="https://x.com/ItsmeAjayKV/status/2106414547569676331">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106228800606573028"><img src="../assets/covers/2106228800606573028.jpg" width="400" alt="Minicut's Script Spider"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106666146456125931"><img src="../assets/covers/2106666146456125931.jpg" width="400" alt="LongCat: a halftone launch film led by cat eyes"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>SPECTRA+: a DeepSeek motion experiment</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · Product &amp; marketing</sub><br><sub>0:40 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106414547569676331">▶ Play</a> · <a href="https://x.com/ItsmeAjayKV/status/2106414547569676331">Original post</a></td>
+<td width="50%" valign="top"><strong>Minicut's Script Spider</strong><br><sub><a href="https://x.com/minicut_ai">@minicut_ai</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106228800606573028">▶ Play</a> · <a href="https://x.com/minicut_ai/status/2106228800606573028">Original post</a></td>
 <td width="50%" valign="top"><strong>LongCat: a halftone launch film led by cat eyes</strong><br><sub><a href="https://x.com/LeowenAI">@LeowenAI</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 3</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106666146456125931">▶ Play</a> · <a href="https://x.com/LeowenAI/status/2106666146456125931">Original post</a></td>
 </tr>
 </tbody>
@@ -458,81 +608,101 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106941357915058661"><img src="../assets/covers/2106941357915058661.jpg" width="400" alt="Atlasnote-pro: a Git-history film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104360004715446416"><img src="../assets/covers/2104360004715446416.jpg" width="180" alt="Motion Experiments for an Ad Library"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108471807372325100"><img src="../assets/covers/2108471807372325100.jpg" width="400" alt="Vano: Market Graphics"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Atlasnote-pro: a Git-history film</strong><br><sub><a href="https://x.com/Tao100086">@Tao100086</a> · Product &amp; marketing</sub><br><sub>2:06 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106941357915058661">▶ Play</a> · <a href="https://x.com/Tao100086/status/2106941357915058661">Original post</a></td>
-<td width="50%" valign="top"><strong>Motion Experiments for an Ad Library</strong><br><sub><a href="https://x.com/uglyrobot">@uglyrobot</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104360004715446416">▶ Play</a> · <a href="https://x.com/uglyrobot/status/2104360004715446416">Original post</a></td>
+<td width="50%" valign="top"><strong>Vano: Market Graphics</strong><br><sub><a href="https://x.com/_MasterMal">@_MasterMal</a> · Product &amp; marketing</sub><br><sub>1:08 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108471807372325100">▶ Play</a> · <a href="https://x.com/_MasterMal/status/2108471807372325100">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104360004715446416"><img src="../assets/covers/2104360004715446416.jpg" width="180" alt="Motion Experiments for an Ad Library"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106706231029314030"><img src="../assets/covers/2106706231029314030.jpg" width="400" alt="Recall: a knowledge-app launch film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206465863131449"><img src="../assets/covers/2104206465863131449.jpg" width="127" alt="Promo for ten indie apps"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Motion Experiments for an Ad Library</strong><br><sub><a href="https://x.com/uglyrobot">@uglyrobot</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104360004715446416">▶ Play</a> · <a href="https://x.com/uglyrobot/status/2104360004715446416">Original post</a></td>
 <td width="50%" valign="top"><strong>Recall: a knowledge-app launch film</strong><br><sub><a href="https://x.com/shivamdesignin">@shivamdesignin</a> · Product &amp; marketing</sub><br><sub>0:48 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106706231029314030">▶ Play</a> · <a href="https://x.com/shivamdesignin/status/2106706231029314030">Original post</a></td>
-<td width="50%" valign="top"><strong>Promo for ten indie apps</strong><br><sub><a href="https://x.com/chapi13">@chapi13</a> · Product &amp; marketing</sub><br><sub>0:27 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206465863131449">▶ Play</a> · <a href="https://x.com/chapi13/status/2104206465863131449">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206465863131449"><img src="../assets/covers/2104206465863131449.jpg" width="127" alt="Promo for ten indie apps"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104528012746309680"><img src="../assets/covers/2104528012746309680.jpg" width="127" alt="Synclify DM: one beat file for visuals and music"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104753708584095936"><img src="../assets/covers/2104753708584095936.jpg" width="400" alt="Ply: A Mac App Launch Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Promo for ten indie apps</strong><br><sub><a href="https://x.com/chapi13">@chapi13</a> · Product &amp; marketing</sub><br><sub>0:27 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104206465863131449">▶ Play</a> · <a href="https://x.com/chapi13/status/2104206465863131449">Original post</a></td>
 <td width="50%" valign="top"><strong>Synclify DM: one beat file for visuals and music</strong><br><sub><a href="https://x.com/apoorvjain25">@apoorvjain25</a> · Product &amp; marketing</sub><br><sub>0:51 · Bookmarks 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104528012746309680">▶ Play</a> · <a href="https://x.com/apoorvjain25/status/2104528012746309680">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104753708584095936"><img src="../assets/covers/2104753708584095936.jpg" width="400" alt="Ply: A Mac App Launch Film"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108783389704929381"><img src="../assets/covers/2108783389704929381.jpg" width="400" alt="motion-use: A 3D Timeline"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Ply: A Mac App Launch Film</strong><br><sub><a href="https://x.com/Khazs0">@Khazs0</a> · Product &amp; marketing</sub><br><sub>0:38 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104753708584095936">▶ Play</a> · <a href="https://x.com/Khazs0/status/2104753708584095936">Original post</a></td>
+<td width="50%" valign="top"><strong>motion-use: A 3D Timeline</strong><br><sub><a href="https://x.com/leeguooooo">@leeguooooo</a> · Product &amp; marketing</sub><br><sub>1:42 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108783389704929381">▶ Play</a> · <a href="https://x.com/leeguooooo/status/2108783389704929381">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106223957506658698"><img src="../assets/covers/2106223957506658698.jpg" width="127" alt="Thinkr: Documents in Motion"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107915831900512276"><img src="../assets/covers/2107915831900512276.jpg" width="127" alt="A Vertical Promo Test for an Indie Game"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221279100141928"><img src="../assets/covers/2105221279100141928.jpg" width="225" alt="A Namashkar Bharat Website Promo"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Thinkr: Documents in Motion</strong><br><sub><a href="https://x.com/galangaulia_">@galangaulia_</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106223957506658698">▶ Play</a> · <a href="https://x.com/galangaulia_/status/2106223957506658698">Original post</a></td>
 <td width="50%" valign="top"><strong>A Vertical Promo Test for an Indie Game</strong><br><sub><a href="https://x.com/buluntus_dev">@buluntus_dev</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107915831900512276">▶ Play</a> · <a href="https://x.com/buluntus_dev/status/2107915831900512276">Original post</a></td>
-<td width="50%" valign="top"><strong>A Namashkar Bharat Website Promo</strong><br><sub><a href="https://x.com/ajinkya_shejul">@ajinkya_shejul</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221279100141928">▶ Play</a> · <a href="https://x.com/ajinkya_shejul/status/2105221279100141928">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221279100141928"><img src="../assets/covers/2105221279100141928.jpg" width="225" alt="A Namashkar Bharat Website Promo"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102849219388133592"><img src="../assets/covers/2102849219388133592.jpg" width="400" alt="Brand Explainer Using Existing Product UI"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104771867781574928"><img src="../assets/covers/2104771867781574928.jpg" width="400" alt="Imagine MCP Launch Motion"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Namashkar Bharat Website Promo</strong><br><sub><a href="https://x.com/ajinkya_shejul">@ajinkya_shejul</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105221279100141928">▶ Play</a> · <a href="https://x.com/ajinkya_shejul/status/2105221279100141928">Original post</a></td>
 <td width="50%" valign="top"><strong>Brand Explainer Using Existing Product UI</strong><br><sub><a href="https://x.com/imthatcarlos">@imthatcarlos</a> · Product &amp; marketing</sub><br><sub>0:59 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102849219388133592">▶ Play</a> · <a href="https://x.com/imthatcarlos/status/2102849219388133592">Original post</a></td>
-<td width="50%" valign="top"><strong>Imagine MCP Launch Motion</strong><br><sub><a href="https://x.com/ImagineArt_X">@ImagineArt_X</a> · Product &amp; marketing</sub><br><sub>0:49 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104771867781574928">▶ Play</a> · <a href="https://x.com/ImagineArt_X/status/2104771867781574928">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104771867781574928"><img src="../assets/covers/2104771867781574928.jpg" width="400" alt="Imagine MCP Launch Motion"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105939128705802479"><img src="../assets/covers/2105939128705802479.jpg" width="400" alt="Lernok product teaser"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104359673382175100"><img src="../assets/covers/2104359673382175100.jpg" width="400" alt="A Playbook Promo from a Website Link"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Imagine MCP Launch Motion</strong><br><sub><a href="https://x.com/ImagineArt_X">@ImagineArt_X</a> · Product &amp; marketing</sub><br><sub>0:49 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104771867781574928">▶ Play</a> · <a href="https://x.com/ImagineArt_X/status/2104771867781574928">Original post</a></td>
 <td width="50%" valign="top"><strong>Lernok product teaser</strong><br><sub><a href="https://x.com/nehalmax">@nehalmax</a> · Product &amp; marketing</sub><br><sub>0:32 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105939128705802479">▶ Play</a> · <a href="https://x.com/nehalmax/status/2105939128705802479">Original post</a></td>
-<td width="50%" valign="top"><strong>A Playbook Promo from a Website Link</strong><br><sub><a href="https://x.com/chuhaiqu">@chuhaiqu</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104359673382175100">▶ Play</a> · <a href="https://x.com/chuhaiqu/status/2104359673382175100">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104359673382175100"><img src="../assets/covers/2104359673382175100.jpg" width="400" alt="A Playbook Promo from a Website Link"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104607774793679182"><img src="../assets/covers/2104607774793679182.jpg" width="400" alt="A 60-Second Product Launch Film in HTML and GSAP"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104649028193632524"><img src="../assets/covers/2104649028193632524.jpg" width="127" alt="grouped.news: A Launch Ad Using Site Design Tokens"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Playbook Promo from a Website Link</strong><br><sub><a href="https://x.com/chuhaiqu">@chuhaiqu</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104359673382175100">▶ Play</a> · <a href="https://x.com/chuhaiqu/status/2104359673382175100">Original post</a></td>
 <td width="50%" valign="top"><strong>A 60-Second Product Launch Film in HTML and GSAP</strong><br><sub><a href="https://x.com/maheshdhiman">@maheshdhiman</a> · Product &amp; marketing</sub><br><sub>1:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104607774793679182">▶ Play</a> · <a href="https://x.com/maheshdhiman/status/2104607774793679182">Original post</a></td>
-<td width="50%" valign="top"><strong>grouped.news: A Launch Ad Using Site Design Tokens</strong><br><sub><a href="https://x.com/l3d1c">@l3d1c</a> · Product &amp; marketing</sub><br><sub>0:34 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104649028193632524">▶ Play</a> · <a href="https://x.com/l3d1c/status/2104649028193632524">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104649028193632524"><img src="../assets/covers/2104649028193632524.jpg" width="127" alt="grouped.news: A Launch Ad Using Site Design Tokens"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107367341973717334"><img src="../assets/covers/2107367341973717334.jpg" width="400" alt="An HTML showreel for a personal résumé"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108097480437219614"><img src="../assets/covers/2108097480437219614.jpg" width="225" alt="Dexter: a Framer Plugin Explainer"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>grouped.news: A Launch Ad Using Site Design Tokens</strong><br><sub><a href="https://x.com/l3d1c">@l3d1c</a> · Product &amp; marketing</sub><br><sub>0:34 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104649028193632524">▶ Play</a> · <a href="https://x.com/l3d1c/status/2104649028193632524">Original post</a></td>
 <td width="50%" valign="top"><strong>An HTML showreel for a personal résumé</strong><br><sub><a href="https://x.com/offcod8">@offcod8</a> · Product &amp; marketing</sub><br><sub>0:41 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107367341973717334">▶ Play</a> · <a href="https://x.com/offcod8/status/2107367341973717334">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108097480437219614"><img src="../assets/covers/2108097480437219614.jpg" width="225" alt="Dexter: a Framer Plugin Explainer"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110152535613034843"><img src="../assets/covers/2110152535613034843.jpg" width="400" alt="Eternal Return: Type in Fragments"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Dexter: a Framer Plugin Explainer</strong><br><sub><a href="https://x.com/Gacheruthegreat">@Gacheruthegreat</a> · Product &amp; marketing</sub><br><sub>0:58 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108097480437219614">▶ Play</a> · <a href="https://x.com/Gacheruthegreat/status/2108097480437219614">Original post</a></td>
+<td width="50%" valign="top"><strong>Eternal Return: Type in Fragments</strong><br><sub><a href="https://x.com/Sindas_9">@Sindas_9</a> · Product &amp; marketing</sub><br><sub>0:03 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110152535613034843">▶ Play</a> · <a href="https://x.com/Sindas_9/status/2110152535613034843">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -547,62 +717,72 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108802612669891048"><img src="../assets/covers/2108802612669891048.jpg" width="400" alt="A Model Introduces Itself in Particles"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103885113528635793"><img src="../assets/covers/2103885113528635793.jpg" width="127" alt="A 3D commercial for a fictional drink"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103885710734540960"><img src="../assets/covers/2103885710734540960.jpg" width="127" alt="A mixed-tool Meta VR introduction"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Model Introduces Itself in Particles</strong><br><sub><a href="https://x.com/olezhavich">@olezhavich</a> · Product &amp; marketing</sub><br><sub>0:12 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108802612669891048">▶ Play</a> · <a href="https://x.com/olezhavich/status/2108802612669891048">Original post</a></td>
 <td width="50%" valign="top"><strong>A 3D commercial for a fictional drink</strong><br><sub><a href="https://x.com/_petert">@_petert</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103885113528635793">▶ Play</a> · <a href="https://x.com/_petert/status/2103885113528635793">Original post</a></td>
-<td width="50%" valign="top"><strong>A mixed-tool Meta VR introduction</strong><br><sub><a href="https://x.com/_petert">@_petert</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103885710734540960">▶ Play</a> · <a href="https://x.com/_petert/status/2103885710734540960">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103885710734540960"><img src="../assets/covers/2103885710734540960.jpg" width="127" alt="A mixed-tool Meta VR introduction"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104432185277341827"><img src="../assets/covers/2104432185277341827.jpg" width="400" alt="A one-pass Lysa product teaser"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104595346882175311"><img src="../assets/covers/2104595346882175311.jpg" width="400" alt="A Stylized HyperFrames Commercial Experiment"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A mixed-tool Meta VR introduction</strong><br><sub><a href="https://x.com/_petert">@_petert</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103885710734540960">▶ Play</a> · <a href="https://x.com/_petert/status/2103885710734540960">Original post</a></td>
 <td width="50%" valign="top"><strong>A one-pass Lysa product teaser</strong><br><sub><a href="https://x.com/devarshukani">@devarshukani</a> · Product &amp; marketing</sub><br><sub>0:22 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104432185277341827">▶ Play</a> · <a href="https://x.com/devarshukani/status/2104432185277341827">Original post</a></td>
-<td width="50%" valign="top"><strong>A Stylized HyperFrames Commercial Experiment</strong><br><sub><a href="https://x.com/washow_cfo">@washow_cfo</a> · Product &amp; marketing</sub><br><sub>0:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104595346882175311">▶ Play</a> · <a href="https://x.com/washow_cfo/status/2104595346882175311">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104595346882175311"><img src="../assets/covers/2104595346882175311.jpg" width="400" alt="A Stylized HyperFrames Commercial Experiment"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105666912097358187"><img src="../assets/covers/2105666912097358187.jpg" width="345" alt="A car showcase with editorial typography"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105976102074437835"><img src="../assets/covers/2105976102074437835.jpg" width="400" alt="A fifteen-second fictional business reel"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Stylized HyperFrames Commercial Experiment</strong><br><sub><a href="https://x.com/washow_cfo">@washow_cfo</a> · Product &amp; marketing</sub><br><sub>0:37 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104595346882175311">▶ Play</a> · <a href="https://x.com/washow_cfo/status/2104595346882175311">Original post</a></td>
 <td width="50%" valign="top"><strong>A car showcase with editorial typography</strong><br><sub><a href="https://x.com/msbr_dev">@msbr_dev</a> · Product &amp; marketing</sub><br><sub>0:28 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105666912097358187">▶ Play</a> · <a href="https://x.com/msbr_dev/status/2105666912097358187">Original post</a></td>
-<td width="50%" valign="top"><strong>A fifteen-second fictional business reel</strong><br><sub><a href="https://x.com/asei_ikarashi">@asei_ikarashi</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105976102074437835">▶ Play</a> · <a href="https://x.com/asei_ikarashi/status/2105976102074437835">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105976102074437835"><img src="../assets/covers/2105976102074437835.jpg" width="400" alt="A fifteen-second fictional business reel"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106067189300113572"><img src="../assets/covers/2106067189300113572.jpg" width="400" alt="An explainer for the dplanner project"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106442652522885551"><img src="../assets/covers/2106442652522885551.jpg" width="169" alt="Agent HUD: motion graphics for an iPhone Duo interface"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A fifteen-second fictional business reel</strong><br><sub><a href="https://x.com/asei_ikarashi">@asei_ikarashi</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105976102074437835">▶ Play</a> · <a href="https://x.com/asei_ikarashi/status/2105976102074437835">Original post</a></td>
 <td width="50%" valign="top"><strong>An explainer for the dplanner project</strong><br><sub><a href="https://x.com/knutsi">@knutsi</a> · Product &amp; marketing</sub><br><sub>1:40 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106067189300113572">▶ Play</a> · <a href="https://x.com/knutsi/status/2106067189300113572">Original post</a></td>
-<td width="50%" valign="top"><strong>Agent HUD: motion graphics for an iPhone Duo interface</strong><br><sub><a href="https://x.com/Jazzen_Chen">@Jazzen_Chen</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106442652522885551">▶ Play</a> · <a href="https://x.com/Jazzen_Chen/status/2106442652522885551">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106442652522885551"><img src="../assets/covers/2106442652522885551.jpg" width="169" alt="Agent HUD: motion graphics for an iPhone Duo interface"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106755940326523082"><img src="../assets/covers/2106755940326523082.jpg" width="400" alt="A freelance web-design showreel"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107794301891842359"><img src="../assets/covers/2107794301891842359.jpg" width="400" alt="Terminator Line: a Code-made News Product Ad"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Agent HUD: motion graphics for an iPhone Duo interface</strong><br><sub><a href="https://x.com/Jazzen_Chen">@Jazzen_Chen</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106442652522885551">▶ Play</a> · <a href="https://x.com/Jazzen_Chen/status/2106442652522885551">Original post</a></td>
 <td width="50%" valign="top"><strong>A freelance web-design showreel</strong><br><sub><a href="https://x.com/ashh_codes">@ashh_codes</a> · Product &amp; marketing</sub><br><sub>0:21 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106755940326523082">▶ Play</a> · <a href="https://x.com/ashh_codes/status/2106755940326523082">Original post</a></td>
-<td width="50%" valign="top"><strong>Terminator Line: a Code-made News Product Ad</strong><br><sub><a href="https://x.com/finderlzy">@finderlzy</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107794301891842359">▶ Play</a> · <a href="https://x.com/finderlzy/status/2107794301891842359">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107794301891842359"><img src="../assets/covers/2107794301891842359.jpg" width="400" alt="Terminator Line: a Code-made News Product Ad"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108333603377877195"><img src="../assets/covers/2108333603377877195.jpg" width="400" alt="A Tama.dev Episode Five Event Promo"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108414058718547983"><img src="../assets/covers/2108414058718547983.jpg" width="104" alt="Party Monster: a Party Mini-game App"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Terminator Line: a Code-made News Product Ad</strong><br><sub><a href="https://x.com/finderlzy">@finderlzy</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107794301891842359">▶ Play</a> · <a href="https://x.com/finderlzy/status/2107794301891842359">Original post</a></td>
 <td width="50%" valign="top"><strong>A Tama.dev Episode Five Event Promo</strong><br><sub><a href="https://x.com/asagayanaoki">@asagayanaoki</a> · Product &amp; marketing</sub><br><sub>0:15 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108333603377877195">▶ Play</a> · <a href="https://x.com/asagayanaoki/status/2108333603377877195">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108414058718547983"><img src="../assets/covers/2108414058718547983.jpg" width="104" alt="Party Monster: a Party Mini-game App"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108595684236755242"><img src="../assets/covers/2108595684236755242.jpg" width="400" alt="Taxtello: Receipts and German Type"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Party Monster: a Party Mini-game App</strong><br><sub><a href="https://x.com/feeyarcat">@feeyarcat</a> · Product &amp; marketing</sub><br><sub>1:46 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108414058718547983">▶ Play</a> · <a href="https://x.com/feeyarcat/status/2108414058718547983">Original post</a></td>
+<td width="50%" valign="top"><strong>Taxtello: Receipts and German Type</strong><br><sub><a href="https://x.com/daniel_haida">@daniel_haida</a> · Product &amp; marketing</sub><br><sub>0:31 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108595684236755242">▶ Play</a> · <a href="https://x.com/daniel_haida/status/2108595684236755242">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -637,71 +817,101 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105170934394921463"><img src="../assets/covers/2105170934394921463.jpg" width="400" alt="ZEXET in Silver Geometry"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346293724045443"><img src="../assets/covers/2105346293724045443.jpg" width="400" alt="OpenSend product promo"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106066675166531796"><img src="../assets/covers/2106066675166531796.jpg" width="225" alt="A Project256 website-to-video explainer"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>ZEXET in Silver Geometry</strong><br><sub><a href="https://x.com/RibiryS">@RibiryS</a> · Product &amp; marketing</sub><br><sub>0:48 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105170934394921463">▶ Play</a> · <a href="https://x.com/RibiryS/status/2105170934394921463">Original post</a></td>
 <td width="50%" valign="top"><strong>OpenSend product promo</strong><br><sub><a href="https://x.com/codewithkamal">@codewithkamal</a> · Product &amp; marketing</sub><br><sub>0:46 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105346293724045443">▶ Play</a> · <a href="https://x.com/codewithkamal/status/2105346293724045443">Original post</a></td>
-<td width="50%" valign="top"><strong>A Project256 website-to-video explainer</strong><br><sub><a href="https://x.com/0xzxch">@0xzxch</a> · Product &amp; marketing</sub><br><sub>2:19 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106066675166531796">▶ Play</a> · <a href="https://x.com/0xzxch/status/2106066675166531796">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106066675166531796"><img src="../assets/covers/2106066675166531796.jpg" width="225" alt="A Project256 website-to-video explainer"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106265463378350200"><img src="../assets/covers/2106265463378350200.jpg" width="399" alt="A launch film built from one video reference"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107352553382195584"><img src="../assets/covers/2107352553382195584.jpg" width="127" alt="A dim-sum restaurant film with HyperFrames"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Project256 website-to-video explainer</strong><br><sub><a href="https://x.com/0xzxch">@0xzxch</a> · Product &amp; marketing</sub><br><sub>2:19 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106066675166531796">▶ Play</a> · <a href="https://x.com/0xzxch/status/2106066675166531796">Original post</a></td>
 <td width="50%" valign="top"><strong>A launch film built from one video reference</strong><br><sub><a href="https://x.com/Sonali_Sahu_09">@Sonali_Sahu_09</a> · Product &amp; marketing</sub><br><sub>0:46 · Bookmarks 0</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106265463378350200">▶ Play</a> · <a href="https://x.com/Sonali_Sahu_09/status/2106265463378350200">Original post</a></td>
-<td width="50%" valign="top"><strong>A dim-sum restaurant film with HyperFrames</strong><br><sub><a href="https://x.com/realunclena">@realunclena</a> · Product &amp; marketing</sub><br><sub>0:22 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107352553382195584">▶ Play</a> · <a href="https://x.com/realunclena/status/2107352553382195584">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107352553382195584"><img src="../assets/covers/2107352553382195584.jpg" width="127" alt="A dim-sum restaurant film with HyperFrames"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107369442602876972"><img src="../assets/covers/2107369442602876972.jpg" width="127" alt="Lives Mobile: film and loupe animation"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107499626265784473"><img src="../assets/covers/2107499626265784473.jpg" width="127" alt="Old Fashioned: a cocktail-series film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A dim-sum restaurant film with HyperFrames</strong><br><sub><a href="https://x.com/realunclena">@realunclena</a> · Product &amp; marketing</sub><br><sub>0:22 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107352553382195584">▶ Play</a> · <a href="https://x.com/realunclena/status/2107352553382195584">Original post</a></td>
 <td width="50%" valign="top"><strong>Lives Mobile: film and loupe animation</strong><br><sub><a href="https://x.com/ohmyangboy">@ohmyangboy</a> · Product &amp; marketing</sub><br><sub>0:57 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107369442602876972">▶ Play</a> · <a href="https://x.com/ohmyangboy/status/2107369442602876972">Original post</a></td>
-<td width="50%" valign="top"><strong>Old Fashioned: a cocktail-series film</strong><br><sub><a href="https://x.com/onmanjrekar">@onmanjrekar</a> · Product &amp; marketing</sub><br><sub>0:42 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107499626265784473">▶ Play</a> · <a href="https://x.com/onmanjrekar/status/2107499626265784473">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107499626265784473"><img src="../assets/covers/2107499626265784473.jpg" width="127" alt="Old Fashioned: a cocktail-series film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107828023076811083"><img src="../assets/covers/2107828023076811083.jpg" width="400" alt="A Fan-made Claude Thinking Ad"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103015561076564319"><img src="../assets/covers/2103015561076564319.jpg" width="400" alt="Short Film Introducing a New Project"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Old Fashioned: a cocktail-series film</strong><br><sub><a href="https://x.com/onmanjrekar">@onmanjrekar</a> · Product &amp; marketing</sub><br><sub>0:42 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107499626265784473">▶ Play</a> · <a href="https://x.com/onmanjrekar/status/2107499626265784473">Original post</a></td>
 <td width="50%" valign="top"><strong>A Fan-made Claude Thinking Ad</strong><br><sub><a href="https://x.com/Phavorism">@Phavorism</a> · Product &amp; marketing</sub><br><sub>0:33 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107828023076811083">▶ Play</a> · <a href="https://x.com/Phavorism/status/2107828023076811083">Original post</a></td>
-<td width="50%" valign="top"><strong>Short Film Introducing a New Project</strong><br><sub><a href="https://x.com/haidaulau">@haidaulau</a> · Product &amp; marketing</sub><br><sub>2:29 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103015561076564319">▶ Play</a> · <a href="https://x.com/haidaulau/status/2103015561076564319">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108206233362567596"><img src="../assets/covers/2108206233362567596.jpg" width="127" alt="A Purple-and-Orange Logo Reveal"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108494133262532882"><img src="../assets/covers/2108494133262532882.jpg" width="400" alt="A Game-Data App in Motion"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Purple-and-Orange Logo Reveal</strong><br><sub><a href="https://x.com/ArtBSol">@ArtBSol</a> · Product &amp; marketing</sub><br><sub>0:08 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108206233362567596">▶ Play</a> · <a href="https://x.com/ArtBSol/status/2108206233362567596">Original post</a></td>
+<td width="50%" valign="top"><strong>A Game-Data App in Motion</strong><br><sub><a href="https://x.com/shreyamin_">@shreyamin_</a> · Product &amp; marketing</sub><br><sub>1:19 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108494133262532882">▶ Play</a> · <a href="https://x.com/shreyamin_/status/2108494133262532882">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103015561076564319"><img src="../assets/covers/2103015561076564319.jpg" width="400" alt="Short Film Introducing a New Project"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108551799632050"><img src="../assets/covers/2103108551799632050.jpg" width="400" alt="Bilingual Promo for a Reading App"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517"><img src="../assets/covers/2104240538941538517.jpg" width="400" alt="Moonshoot product launch video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Short Film Introducing a New Project</strong><br><sub><a href="https://x.com/haidaulau">@haidaulau</a> · Product &amp; marketing</sub><br><sub>2:29 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103015561076564319">▶ Play</a> · <a href="https://x.com/haidaulau/status/2103015561076564319">Original post</a></td>
 <td width="50%" valign="top"><strong>Bilingual Promo for a Reading App</strong><br><sub><a href="https://x.com/WangYeruo">@WangYeruo</a> · Product &amp; marketing</sub><br><sub>0:44 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108551799632050">▶ Play</a> · <a href="https://x.com/WangYeruo/status/2103108551799632050">Original post</a></td>
-<td width="50%" valign="top"><strong>Moonshoot product launch video</strong><br><sub><a href="https://x.com/bekamakhar">@bekamakhar</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517">▶ Play</a> · <a href="https://x.com/bekamakhar/status/2104240538941538517">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103868924337238383"><img src="../assets/covers/2103868924337238383.jpg" width="127" alt="A Korean App Introduction"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104232817723118079"><img src="../assets/covers/2104232817723118079.jpg" width="127" alt="Mixo: A Cat Companion"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Korean App Introduction</strong><br><sub><a href="https://x.com/groundcode_io">@groundcode_io</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103868924337238383">▶ Play</a> · <a href="https://x.com/groundcode_io/status/2103868924337238383">Original post</a></td>
+<td width="50%" valign="top"><strong>Mixo: A Cat Companion</strong><br><sub><a href="https://x.com/SamuSalas">@SamuSalas</a> · Product &amp; marketing</sub><br><sub>0:25 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104232817723118079">▶ Play</a> · <a href="https://x.com/SamuSalas/status/2104232817723118079">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517"><img src="../assets/covers/2104240538941538517.jpg" width="400" alt="Moonshoot product launch video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104773492491346349"><img src="../assets/covers/2104773492491346349.jpg" width="400" alt="AKAI Cinematic Product Clip"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785"><img src="../assets/covers/2105231699407986785.jpg" width="400" alt="An IdeaVim Product Promo"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Moonshoot product launch video</strong><br><sub><a href="https://x.com/bekamakhar">@bekamakhar</a> · Product &amp; marketing</sub><br><sub>0:24 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104240538941538517">▶ Play</a> · <a href="https://x.com/bekamakhar/status/2104240538941538517">Original post</a></td>
 <td width="50%" valign="top"><strong>AKAI Cinematic Product Clip</strong><br><sub><a href="https://x.com/rao_abhi_17">@rao_abhi_17</a> · Product &amp; marketing</sub><br><sub>0:29 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104773492491346349">▶ Play</a> · <a href="https://x.com/rao_abhi_17/status/2104773492491346349">Original post</a></td>
-<td width="50%" valign="top"><strong>An IdeaVim Product Promo</strong><br><sub><a href="https://x.com/ideavim">@ideavim</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785">▶ Play</a> · <a href="https://x.com/ideavim/status/2105231699407986785">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785"><img src="../assets/covers/2105231699407986785.jpg" width="400" alt="An IdeaVim Product Promo"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105560227622076768"><img src="../assets/covers/2105560227622076768.jpg" width="400" alt="WhoonHub: a startup product-demo experiment"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>An IdeaVim Product Promo</strong><br><sub><a href="https://x.com/ideavim">@ideavim</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105231699407986785">▶ Play</a> · <a href="https://x.com/ideavim/status/2105231699407986785">Original post</a></td>
+<td width="50%" valign="top"><strong>WhoonHub: a startup product-demo experiment</strong><br><sub><a href="https://x.com/huannguyenduc28">@huannguyenduc28</a> · Product &amp; marketing</sub><br><sub>0:27 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105560227622076768">▶ Play</a> · <a href="https://x.com/huannguyenduc28/status/2105560227622076768">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105945330336596393"><img src="../assets/covers/2105945330336596393.jpg" width="400" alt="OmniMux: Calls and Billing"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106044513177194584"><img src="../assets/covers/2106044513177194584.jpg" width="225" alt="A short video built around mobile messaging"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>WhoonHub: a startup product-demo experiment</strong><br><sub><a href="https://x.com/huannguyenduc28">@huannguyenduc28</a> · Product &amp; marketing</sub><br><sub>0:27 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105560227622076768">▶ Play</a> · <a href="https://x.com/huannguyenduc28/status/2105560227622076768">Original post</a></td>
+<td width="50%" valign="top"><strong>OmniMux: Calls and Billing</strong><br><sub><a href="https://x.com/evander2021">@evander2021</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105945330336596393">▶ Play</a> · <a href="https://x.com/evander2021/status/2105945330336596393">Original post</a></td>
 <td width="50%" valign="top"><strong>A short video built around mobile messaging</strong><br><sub><a href="https://x.com/aeng_t5">@aeng_t5</a> · Product &amp; marketing</sub><br><sub>0:44 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106044513177194584">▶ Play</a> · <a href="https://x.com/aeng_t5/status/2106044513177194584">Original post</a></td>
 </tr>
 </tbody>
@@ -788,20 +998,70 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108173852715176322"><img src="../assets/covers/2108173852715176322.jpg" width="300" alt="A Looping Promo for a Board-game Event"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108392443112731082"><img src="../assets/covers/2108392443112731082.jpg" width="400" alt="Opus and Sonnet Compare a Personal Intro Ad"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108346529660760571"><img src="../assets/covers/2108346529660760571.jpg" width="127" alt="Apple Car: An Upside-Down Concept"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A Looping Promo for a Board-game Event</strong><br><sub><a href="https://x.com/FujiHamlet27331">@FujiHamlet27331</a> · Product &amp; marketing</sub><br><sub>0:57 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108173852715176322">▶ Play</a> · <a href="https://x.com/FujiHamlet27331/status/2108173852715176322">Original post</a></td>
-<td width="50%" valign="top"><strong>Opus and Sonnet Compare a Personal Intro Ad</strong><br><sub><a href="https://x.com/zou_aidouga">@zou_aidouga</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108392443112731082">▶ Play</a> · <a href="https://x.com/zou_aidouga/status/2108392443112731082">Original post</a></td>
+<td width="50%" valign="top"><strong>Apple Car: An Upside-Down Concept</strong><br><sub><a href="https://x.com/TheLeaders">@TheLeaders</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108346529660760571">▶ Play</a> · <a href="https://x.com/TheLeaders/status/2108346529660760571">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108392443112731082"><img src="../assets/covers/2108392443112731082.jpg" width="400" alt="Opus and Sonnet Compare a Personal Intro Ad"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109241610190168550"><img src="../assets/covers/2109241610190168550.jpg" width="300" alt="A Fictional Arcade Ad with Audio and UI Compositing"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Opus and Sonnet Compare a Personal Intro Ad</strong><br><sub><a href="https://x.com/zou_aidouga">@zou_aidouga</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108392443112731082">▶ Play</a> · <a href="https://x.com/zou_aidouga/status/2108392443112731082">Original post</a></td>
+<td width="50%" valign="top"><strong>A Fictional Arcade Ad with Audio and UI Compositing</strong><br><sub><a href="https://x.com/nAI_station">@nAI_station</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109241610190168550">▶ Play</a> · <a href="https://x.com/nAI_station/status/2109241610190168550">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110370341050523999"><img src="../assets/covers/2110370341050523999.jpg" width="225" alt="Opus in Thirty Seconds"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110391303842488804"><img src="../assets/covers/2110391303842488804.jpg" width="127" alt="Tora Base on the Beat"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Opus in Thirty Seconds</strong><br><sub><a href="https://x.com/kapishagarwal_">@kapishagarwal_</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110370341050523999">▶ Play</a> · <a href="https://x.com/kapishagarwal_/status/2110370341050523999">Original post</a></td>
+<td width="50%" valign="top"><strong>Tora Base on the Beat</strong><br><sub><a href="https://x.com/toranobase">@toranobase</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110391303842488804">▶ Play</a> · <a href="https://x.com/toranobase/status/2110391303842488804">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110523480819302839"><img src="../assets/covers/2110523480819302839.jpg" width="127" alt="Marnie: Expense-App Motion"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110550293511590243"><img src="../assets/covers/2110550293511590243.jpg" width="400" alt="A Restaurant Ordering System"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Marnie: Expense-App Motion</strong><br><sub><a href="https://x.com/OddHourBuilder">@OddHourBuilder</a> · Product &amp; marketing</sub><br><sub>1:43 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110523480819302839">▶ Play</a> · <a href="https://x.com/OddHourBuilder/status/2110523480819302839">Original post</a></td>
+<td width="50%" valign="top"><strong>A Restaurant Ordering System</strong><br><sub><a href="https://x.com/vsv1020">@vsv1020</a> · Product &amp; marketing</sub><br><sub>4:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110550293511590243">▶ Play</a> · <a href="https://x.com/vsv1020/status/2110550293511590243">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110672169034465662"><img src="../assets/covers/2110672169034465662.jpg" width="400" alt="Communities in a Ring"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110770438490186227"><img src="../assets/covers/2110770438490186227.jpg" width="180" alt="App Branch"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Communities in a Ring</strong><br><sub><a href="https://x.com/Livvux">@Livvux</a> · Product &amp; marketing</sub><br><sub>0:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110672169034465662">▶ Play</a> · <a href="https://x.com/Livvux/status/2110672169034465662">Original post</a></td>
+<td width="50%" valign="top"><strong>App Branch</strong><br><sub><a href="https://x.com/tamergpt">@tamergpt</a> · Product &amp; marketing</sub><br><sub>0:16 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110770438490186227">▶ Play</a> · <a href="https://x.com/tamergpt/status/2110770438490186227">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110811315971477900"><img src="../assets/covers/2110811315971477900.jpg" width="400" alt="CuboPlus: Versions in Motion"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110844594233737494"><img src="../assets/covers/2110844594233737494.jpg" width="225" alt="A Community for Newcomers"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>CuboPlus: Versions in Motion</strong><br><sub><a href="https://x.com/_cuboplus">@_cuboplus</a> · Product &amp; marketing</sub><br><sub>0:59 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110811315971477900">▶ Play</a> · <a href="https://x.com/_cuboplus/status/2110811315971477900">Original post</a></td>
+<td width="50%" valign="top"><strong>A Community for Newcomers</strong><br><sub><a href="https://x.com/davestevearch">@davestevearch</a> · Product &amp; marketing</sub><br><sub>1:01 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110844594233737494">▶ Play</a> · <a href="https://x.com/davestevearch/status/2110844594233737494">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110853371552743751"><img src="../assets/covers/2110853371552743751.jpg" width="400" alt="PMDesk in Thirty Seconds"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103293794594816100"><img src="../assets/covers/2103293794594816100.jpg" width="400" alt="Replit Animation: From Prompt to Brand Film"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>A Fictional Arcade Ad with Audio and UI Compositing</strong><br><sub><a href="https://x.com/nAI_station">@nAI_station</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109241610190168550">▶ Play</a> · <a href="https://x.com/nAI_station/status/2109241610190168550">Original post</a></td>
+<td width="50%" valign="top"><strong>PMDesk in Thirty Seconds</strong><br><sub><a href="https://x.com/pmdesk_dev">@pmdesk_dev</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110853371552743751">▶ Play</a> · <a href="https://x.com/pmdesk_dev/status/2110853371552743751">Original post</a></td>
 <td width="50%" valign="top"><strong>Replit Animation: From Prompt to Brand Film</strong><br><sub><a href="https://x.com/samuel_spitz">@samuel_spitz</a> · Product &amp; marketing</sub><br><sub>0:28 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103293794594816100">▶ Play</a> · <a href="https://x.com/samuel_spitz/status/2103293794594816100">Original post</a></td>
 </tr>
 </tbody>
