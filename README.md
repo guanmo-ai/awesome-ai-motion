@@ -8,7 +8,7 @@
 
 **[进入作品画廊 ↗](https://guanmo-ai.github.io/awesome-ai-motion/)** &nbsp; · &nbsp; [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>1020 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
+<sub>1218 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
 
 <a id="spotlights"></a>
 
@@ -18,24 +18,24 @@
 
 <table>
 <tr>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109962425512734739"><img src="assets/readme-covers/2109962425512734739.svg" width="260" alt="小王子：跨越星辰的场景预告"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103273003555402193"><img src="assets/readme-covers/2103273003555402193.svg" width="260" alt="一个形状串起整套 UI"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106426962738880879"><img src="assets/readme-covers/2106426962738880879.svg" width="260" alt="Wareflow：策略游戏式仓库管理界面"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516"><img src="assets/readme-covers/2108948624004526516.svg" width="260" alt="Anatomy：会动的机器说明图"></a></td>
 </tr>
 <tr>
+<td width="33%" valign="top"><strong>小王子：跨越星辰的场景预告</strong><br><sub><a href="https://x.com/Saccc_c">@Saccc_&#8203;c</a></sub><br><sub>收藏 9,884 · 2026-10-13</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109962425512734739">观看 ↗</a> · <a href="https://x.com/Saccc_c/status/2109962425512734739">原帖</a></td>
 <td width="33%" valign="top"><strong>一个形状串起整套 UI</strong><br><sub><a href="https://x.com/twoclipping">@twocli&#8203;pping</a></sub><br><sub>收藏 19,303 · 2026-09-24</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103273003555402193">观看 ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">原帖</a></td>
 <td width="33%" valign="top"><strong>Warefl&#8203;ow：策略游戏式仓库管理界面</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumS&#8203;anjaya</a></sub><br><sub>收藏 10,714 · 2026-10-03</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106426962738880879">观看 ↗</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">原帖</a></td>
-<td width="33%" valign="top"><strong>Anatom&#8203;y：会动的机器说明图</strong><br><sub><a href="https://x.com/wheresryan22">@wheres&#8203;ryan22</a></sub><br><sub>收藏 6,423 · 2026-10-10</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516">观看 ↗</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">原帖</a></td>
 </tr>
 <tr>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516"><img src="assets/readme-covers/2108948624004526516.svg" width="260" alt="Anatomy：会动的机器说明图"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926"><img src="assets/readme-covers/2103315922098470926.svg" width="260" alt="15 秒动态设计自由发挥"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109257723246501895"><img src="assets/readme-covers/2109257723246501895.svg" width="260" alt="透明 CD 盒的材质与开盖交互"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="assets/readme-covers/2102591147927654847.svg" width="260" alt="用镜头实验室解释对焦"></a></td>
 </tr>
 <tr>
+<td width="33%" valign="top"><strong>Anatom&#8203;y：会动的机器说明图</strong><br><sub><a href="https://x.com/wheresryan22">@wheres&#8203;ryan22</a></sub><br><sub>收藏 6,423 · 2026-10-10</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516">观看 ↗</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">原帖</a></td>
 <td width="33%" valign="top"><strong>15 秒动态设计自由发挥</strong><br><sub><a href="https://x.com/stephanlivera">@stepha&#8203;nliver&#8203;a</a></sub><br><sub>收藏 11,692 · 2026-09-25</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926">观看 ↗</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">原帖</a></td>
 <td width="33%" valign="top"><strong>透明 CD 盒的材质与开盖交互</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nn&#8203;ng</a></sub><br><sub>收藏 3,816 · 2026-10-11</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109257723246501895">观看 ↗</a> · <a href="https://x.com/ann_nnng/status/2109257723246501895">原帖</a></td>
-<td width="33%" valign="top"><strong>用镜头实验室解释对焦</strong><br><sub><a href="https://x.com/RyanSael">@RyanSa&#8203;el</a></sub><br><sub>收藏 9,188 · 2026-09-23</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">观看 ↗</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">原帖</a></td>
 </tr>
 </table>
 
@@ -45,13 +45,13 @@
 
 | 方向 | 可以发现什么 | 作品 |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 213 |
-| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 202 |
-| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 145 |
-| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 68 |
-| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 215 |
-| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 96 |
-| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 81 |
+| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 233 |
+| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 248 |
+| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 178 |
+| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 86 |
+| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 266 |
+| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 114 |
+| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 93 |
 
 [在画廊中搜索、筛选和播放全部作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
@@ -78,21 +78,21 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106426962738880879"><img src="assets/covers/2106426962738880879.jpg" width="390" alt="Wareflow：策略游戏式仓库管理界面"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="用镜头实验室解释对焦"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109962425512734739"><img src="assets/covers/2109962425512734739.jpg" width="400" alt="小王子：跨越星辰的场景预告"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Wareflow：策略游戏式仓库管理界面</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 交互演示</sub><br><sub>1:12 · 收藏 10,714 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106426962738880879">▶ 播放</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">原帖</a></td>
-<td width="50%" valign="top"><strong>用镜头实验室解释对焦</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 知识讲解</sub><br><sub>0:32 · 收藏 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">▶ 播放</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">原帖</a></td>
+<td width="50%" valign="top"><strong>小王子：跨越星辰的场景预告</strong><br><sub><a href="https://x.com/Saccc_c">@Saccc_c</a> · 交互演示</sub><br><sub>1:03 · 收藏 9,884 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109962425512734739">▶ 播放</a> · <a href="https://x.com/Saccc_c/status/2109962425512734739">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="用镜头实验室解释对焦"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop 混合制作 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516"><img src="assets/covers/2108948624004526516.jpg" width="400" alt="Anatomy：会动的机器说明图"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>用镜头实验室解释对焦</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 知识讲解</sub><br><sub>0:32 · 收藏 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">▶ 播放</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">原帖</a></td>
 <td width="50%" valign="top"><strong>Claude Pop 混合制作 MV</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · 音乐与歌词</sub><br><sub>2:22 · 收藏 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569">▶ 播放</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">原帖</a></td>
-<td width="50%" valign="top"><strong>Anatomy：会动的机器说明图</strong><br><sub><a href="https://x.com/wheresryan22">@wheresryan22</a> · 交互演示</sub><br><sub>0:39 · 收藏 6,423 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516">▶ 播放</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">原帖</a></td>
 </tr>
 </tbody>
 </table>

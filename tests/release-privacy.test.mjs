@@ -50,10 +50,16 @@ test('持续补充的案例 JSON 有独立上限，超限仍被拒绝',t=>{
   fs.mkdirSync(path.join(root,'data'));
   const catalog=path.join(root,'data/cases.json');
   const json=JSON.stringify({schemaVersion:2,name:'Awesome AI Motion',repository:'https://github.com/guanmo-ai/awesome-ai-motion',cases:[]});
-  fs.writeFileSync(catalog,json+' '.repeat(3_000_000-Buffer.byteLength(json)));
+  fs.writeFileSync(catalog,json+' '.repeat(4_000_000-Buffer.byteLength(json)));
   assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[]);
   fs.appendFileSync(catalog,' ');
   assert.ok(checkRelease(root,{checkIdentity:false}).errors.some(error=>error.includes('文件过大')&&error.includes('cases.json')));
+  execFileSync('git',['add','data/cases.json'],{cwd:root});
+  fs.writeFileSync(catalog,json);
+  fs.writeFileSync(path.join(root,'data/other.json'),' '.repeat(500_001));
+  const {errors}=checkRelease(root,{checkIdentity:false});
+  assert.ok(errors.some(error=>error.includes('文件过大')&&error.includes('cases.json')&&error.includes('暂存')));
+  assert.ok(errors.some(error=>error.includes('文件过大')&&error.includes('other.json')));
 });
 
 test('中英文发现列表有独立预算，超限和其他 Markdown 仍被拒绝',t=>{
@@ -61,12 +67,16 @@ test('中英文发现列表有独立预算，超限和其他 Markdown 仍被拒�
   t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
   execFileSync('git',['init','-q'],{cwd:root});
   fs.mkdirSync(path.join(root,'browse'));
-  for(const file of ['discoveries.md','discoveries.en.md'])fs.writeFileSync(path.join(root,'browse',file),' '.repeat(750_000));
+  for(const file of ['discoveries.md','discoveries.en.md'])fs.writeFileSync(path.join(root,'browse',file),' '.repeat(1_000_000));
   assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[]);
   for(const file of ['discoveries.md','discoveries.en.md'])fs.appendFileSync(path.join(root,'browse',file),' ');
   fs.writeFileSync(path.join(root,'browse/motion.md'),' '.repeat(500_001));
   const {errors}=checkRelease(root,{checkIdentity:false});
   for(const file of ['discoveries.md','discoveries.en.md','motion.md'])assert.ok(errors.some(error=>error.includes('文件过大')&&error.includes(file)));
+  execFileSync('git',['add','browse/discoveries.md','browse/discoveries.en.md'],{cwd:root});
+  for(const file of ['discoveries.md','discoveries.en.md'])fs.writeFileSync(path.join(root,'browse',file),'clean');
+  const stagedErrors=checkRelease(root,{checkIdentity:false}).errors;
+  for(const file of ['discoveries.md','discoveries.en.md'])assert.ok(stagedErrors.some(error=>error.includes('文件过大')&&error.includes(file)&&error.includes('暂存')));
 });
 
 test('索引和工作树分别扫描，强制暂存的私有文件与符号链接被拒绝且不回显秘密',t=>{
