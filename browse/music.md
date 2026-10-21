@@ -2,7 +2,7 @@
 
 # 音乐与歌词
 
-93 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+94 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -197,282 +197,282 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103638115206500382"><img src="../assets/covers/2103638115206500382.jpg" width="400" alt="Clawd 的代码 K-pop 演出"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102599211212554616"><img src="../assets/covers/2102599211212554616.jpg" width="400" alt="既有歌曲的程序化影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107637301488836782"><img src="../assets/covers/2107637301488836782.jpg" width="400" alt="另一台机械音乐机"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Clawd 的代码 K-pop 演出</strong><br><sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · 音乐与歌词</sub><br><sub>3:08 · 收藏 20 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103638115206500382">▶ 播放</a> · <a href="https://x.com/aj_dev_smith/status/2103638115206500382">原帖</a></td>
 <td width="50%" valign="top"><strong>既有歌曲的程序化影像</strong><br><sub><a href="https://x.com/ExistentialEnso">@ExistentialEnso</a> · 音乐与歌词</sub><br><sub>5:40 · 收藏 20 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102599211212554616">▶ 播放</a> · <a href="https://x.com/ExistentialEnso/status/2102599211212554616">原帖</a></td>
-<td width="50%" valign="top"><strong>另一台机械音乐机</strong><br><sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · 音乐与歌词</sub><br><sub>1:44 · 收藏 17 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107637301488836782">▶ 播放</a> · <a href="https://x.com/aj_dev_smith/status/2107637301488836782">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107637301488836782"><img src="../assets/covers/2107637301488836782.jpg" width="400" alt="另一台机械音乐机"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103170666187117006"><img src="../assets/covers/2103170666187117006.jpg" width="400" alt="水彩渲染的歌曲影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105174061697618314"><img src="../assets/covers/2105174061697618314.jpg" width="400" alt="MusicKit 与 WebGPU 交互歌词播放器"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>另一台机械音乐机</strong><br><sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · 音乐与歌词</sub><br><sub>1:44 · 收藏 17 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107637301488836782">▶ 播放</a> · <a href="https://x.com/aj_dev_smith/status/2107637301488836782">原帖</a></td>
 <td width="50%" valign="top"><strong>水彩渲染的歌曲影像</strong><br><sub><a href="https://x.com/johnknopf">@johnknopf</a> · 音乐与歌词</sub><br><sub>3:26 · 收藏 15 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103170666187117006">▶ 播放</a> · <a href="https://x.com/johnknopf/status/2103170666187117006">原帖</a></td>
-<td width="50%" valign="top"><strong>MusicKit 与 WebGPU 交互歌词播放器</strong><br><sub><a href="https://x.com/LuisBizarro">@LuisBizarro</a> · 音乐与歌词</sub><br><sub>0:18 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105174061697618314">▶ 播放</a> · <a href="https://x.com/LuisBizarro/status/2105174061697618314">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105174061697618314"><img src="../assets/covers/2105174061697618314.jpg" width="400" alt="MusicKit 与 WebGPU 交互歌词播放器"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108309888535576621"><img src="../assets/covers/2108309888535576621.jpg" width="400" alt="Red Lines：AI 安全主题音乐片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104227002295140607"><img src="../assets/covers/2104227002295140607.jpg" width="400" alt="月光剪影的歌曲叙事"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>MusicKit 与 WebGPU 交互歌词播放器</strong><br><sub><a href="https://x.com/LuisBizarro">@LuisBizarro</a> · 音乐与歌词</sub><br><sub>0:18 · 收藏 14 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105174061697618314">▶ 播放</a> · <a href="https://x.com/LuisBizarro/status/2105174061697618314">原帖</a></td>
 <td width="50%" valign="top"><strong>Red Lines：AI 安全主题音乐片</strong><br><sub><a href="https://x.com/kasikp">@kasikp</a> · 音乐与歌词</sub><br><sub>6:08 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108309888535576621">▶ 播放</a> · <a href="https://x.com/kasikp/status/2108309888535576621">原帖</a></td>
-<td width="50%" valign="top"><strong>月光剪影的歌曲叙事</strong><br><sub><a href="https://x.com/yasinozmeen">@yasinozmeen</a> · 音乐与歌词</sub><br><sub>3:13 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104227002295140607">▶ 播放</a> · <a href="https://x.com/yasinozmeen/status/2104227002295140607">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104227002295140607"><img src="../assets/covers/2104227002295140607.jpg" width="400" alt="月光剪影的歌曲叙事"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110560349283930478"><img src="../assets/covers/2110560349283930478.jpg" width="400" alt="以 Tibo 之名：额度焦虑的木偶之歌"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110007900936810827"><img src="../assets/covers/2110007900936810827.jpg" width="400" alt="Run It Again：模型的关机请求"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>月光剪影的歌曲叙事</strong><br><sub><a href="https://x.com/yasinozmeen">@yasinozmeen</a> · 音乐与歌词</sub><br><sub>3:13 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104227002295140607">▶ 播放</a> · <a href="https://x.com/yasinozmeen/status/2104227002295140607">原帖</a></td>
 <td width="50%" valign="top"><strong>以 Tibo 之名：额度焦虑的木偶之歌</strong><br><sub><a href="https://x.com/dotey">@dotey</a> · 音乐与歌词</sub><br><sub>3:43 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110560349283930478">▶ 播放</a> · <a href="https://x.com/dotey/status/2110560349283930478">原帖</a></td>
-<td width="50%" valign="top"><strong>Run It Again：模型的关机请求</strong><br><sub><a href="https://x.com/makevoid">@makevoid</a> · 音乐与歌词</sub><br><sub>4:48 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110007900936810827">▶ 播放</a> · <a href="https://x.com/makevoid/status/2110007900936810827">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110007900936810827"><img src="../assets/covers/2110007900936810827.jpg" width="400" alt="Run It Again：模型的关机请求"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106674256855617890"><img src="../assets/covers/2106674256855617890.jpg" width="400" alt="命运：古典音乐的代码可视化 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103173729656459455"><img src="../assets/covers/2103173729656459455.jpg" width="180" alt="二十秒音乐短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Run It Again：模型的关机请求</strong><br><sub><a href="https://x.com/makevoid">@makevoid</a> · 音乐与歌词</sub><br><sub>4:48 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110007900936810827">▶ 播放</a> · <a href="https://x.com/makevoid/status/2110007900936810827">原帖</a></td>
 <td width="50%" valign="top"><strong>命运：古典音乐的代码可视化 MV</strong><br><sub><a href="https://x.com/jtydhr88">@jtydhr88</a> · 音乐与歌词</sub><br><sub>5:07 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106674256855617890">▶ 播放</a> · <a href="https://x.com/jtydhr88/status/2106674256855617890">原帖</a></td>
-<td width="50%" valign="top"><strong>二十秒音乐短片</strong><br><sub><a href="https://x.com/anjmaxx">@anjmaxx</a> · 音乐与歌词</sub><br><sub>0:20 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103173729656459455">▶ 播放</a> · <a href="https://x.com/anjmaxx/status/2103173729656459455">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103173729656459455"><img src="../assets/covers/2103173729656459455.jpg" width="180" alt="二十秒音乐短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106240012593635647"><img src="../assets/covers/2106240012593635647.jpg" width="400" alt="Heat Waves：列车与鸟居的卡通 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107402637700460669"><img src="../assets/covers/2107402637700460669.jpg" width="400" alt="音符蹦迪：三首旋律串烧"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>二十秒音乐短片</strong><br><sub><a href="https://x.com/anjmaxx">@anjmaxx</a> · 音乐与歌词</sub><br><sub>0:20 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103173729656459455">▶ 播放</a> · <a href="https://x.com/anjmaxx/status/2103173729656459455">原帖</a></td>
 <td width="50%" valign="top"><strong>Heat Waves：列车与鸟居的卡通 MV</strong><br><sub><a href="https://x.com/kagniea">@kagniea</a> · 音乐与歌词</sub><br><sub>0:51 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106240012593635647">▶ 播放</a> · <a href="https://x.com/kagniea/status/2106240012593635647">原帖</a></td>
-<td width="50%" valign="top"><strong>音符蹦迪：三首旋律串烧</strong><br><sub><a href="https://x.com/YangOnchain">@YangOnchain</a> · 音乐与歌词</sub><br><sub>1:17 · 收藏 5 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107402637700460669">▶ 播放</a> · <a href="https://x.com/YangOnchain/status/2107402637700460669">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107402637700460669"><img src="../assets/covers/2107402637700460669.jpg" width="400" alt="音符蹦迪：三首旋律串烧"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104241160487338005"><img src="../assets/covers/2104241160487338005.jpg" width="400" alt="吉他歌曲的 techno 混音 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102879729594343605"><img src="../assets/covers/2102879729594343605.jpg" width="127" alt="十三分钟乐队歌曲影像"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>音符蹦迪：三首旋律串烧</strong><br><sub><a href="https://x.com/YangOnchain">@YangOnchain</a> · 音乐与歌词</sub><br><sub>1:17 · 收藏 5 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107402637700460669">▶ 播放</a> · <a href="https://x.com/YangOnchain/status/2107402637700460669">原帖</a></td>
 <td width="50%" valign="top"><strong>吉他歌曲的 techno 混音 MV</strong><br><sub><a href="https://x.com/qiqing">@qiqing</a> · 音乐与歌词</sub><br><sub>2:10 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104241160487338005">▶ 播放</a> · <a href="https://x.com/qiqing/status/2104241160487338005">原帖</a></td>
-<td width="50%" valign="top"><strong>十三分钟乐队歌曲影像</strong><br><sub><a href="https://x.com/cube__lol">@cube__lol</a> · 音乐与歌词</sub><br><sub>13:53 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102879729594343605">▶ 播放</a> · <a href="https://x.com/cube__lol/status/2102879729594343605">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102879729594343605"><img src="../assets/covers/2102879729594343605.jpg" width="127" alt="十三分钟乐队歌曲影像"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103015953877647820"><img src="../assets/covers/2103015953877647820.jpg" width="400" alt="着色器绘制的歌曲影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102692569792835994"><img src="../assets/covers/2102692569792835994.jpg" width="400" alt="角色穿越时代的歌曲短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>十三分钟乐队歌曲影像</strong><br><sub><a href="https://x.com/cube__lol">@cube__lol</a> · 音乐与歌词</sub><br><sub>13:53 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102879729594343605">▶ 播放</a> · <a href="https://x.com/cube__lol/status/2102879729594343605">原帖</a></td>
 <td width="50%" valign="top"><strong>着色器绘制的歌曲影像</strong><br><sub><a href="https://x.com/xlcomplete">@xlcomplete</a> · 音乐与歌词</sub><br><sub>4:51 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103015953877647820">▶ 播放</a> · <a href="https://x.com/xlcomplete/status/2103015953877647820">原帖</a></td>
-<td width="50%" valign="top"><strong>角色穿越时代的歌曲短片</strong><br><sub><a href="https://x.com/Aadidev0">@Aadidev0</a> · 音乐与歌词</sub><br><sub>2:44 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102692569792835994">▶ 播放</a> · <a href="https://x.com/Aadidev0/status/2102692569792835994">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102692569792835994"><img src="../assets/covers/2102692569792835994.jpg" width="400" alt="角色穿越时代的歌曲短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108157846005350754"><img src="../assets/covers/2108157846005350754.jpg" width="400" alt="玄帝宫：歌曲驱动的市井影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108241523200676048"><img src="../assets/covers/2108241523200676048.jpg" width="127" alt="从中文情歌到六幕 JS 动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>角色穿越时代的歌曲短片</strong><br><sub><a href="https://x.com/Aadidev0">@Aadidev0</a> · 音乐与歌词</sub><br><sub>2:44 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102692569792835994">▶ 播放</a> · <a href="https://x.com/Aadidev0/status/2102692569792835994">原帖</a></td>
 <td width="50%" valign="top"><strong>玄帝宫：歌曲驱动的市井影像</strong><br><sub><a href="https://x.com/cgnot996">@cgnot996</a> · 音乐与歌词</sub><br><sub>5:39 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108157846005350754">▶ 播放</a> · <a href="https://x.com/cgnot996/status/2108157846005350754">原帖</a></td>
-<td width="50%" valign="top"><strong>从中文情歌到六幕 JS 动画</strong><br><sub><a href="https://x.com/nicekate8888">@nicekate8888</a> · 音乐与歌词</sub><br><sub>2:03 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108241523200676048">▶ 播放</a> · <a href="https://x.com/nicekate8888/status/2108241523200676048">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108241523200676048"><img src="../assets/covers/2108241523200676048.jpg" width="127" alt="从中文情歌到六幕 JS 动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787420399825023"><img src="../assets/covers/2102787420399825023.jpg" width="400" alt="程序化音乐与动画短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104736947822645622"><img src="../assets/covers/2104736947822645622.jpg" width="225" alt="铁磁流体与原创音乐"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>从中文情歌到六幕 JS 动画</strong><br><sub><a href="https://x.com/nicekate8888">@nicekate8888</a> · 音乐与歌词</sub><br><sub>2:03 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108241523200676048">▶ 播放</a> · <a href="https://x.com/nicekate8888/status/2108241523200676048">原帖</a></td>
 <td width="50%" valign="top"><strong>程序化音乐与动画短片</strong><br><sub><a href="https://x.com/NoFollowers2023">@NoFollowers2023</a> · 音乐与歌词</sub><br><sub>2:41 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102787420399825023">▶ 播放</a> · <a href="https://x.com/NoFollowers2023/status/2102787420399825023">原帖</a></td>
-<td width="50%" valign="top"><strong>铁磁流体与原创音乐</strong><br><sub><a href="https://x.com/gogu_name">@gogu_name</a> · 音乐与歌词</sub><br><sub>0:16 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104736947822645622">▶ 播放</a> · <a href="https://x.com/gogu_name/status/2104736947822645622">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104736947822645622"><img src="../assets/covers/2104736947822645622.jpg" width="225" alt="铁磁流体与原创音乐"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106874360678023377"><img src="../assets/covers/2106874360678023377.jpg" width="400" alt="钢琴机械装置的音画同步"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108514277502099949"><img src="../assets/covers/2108514277502099949.jpg" width="400" alt="TouchDesigner：随声音变形的世界"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>铁磁流体与原创音乐</strong><br><sub><a href="https://x.com/gogu_name">@gogu_name</a> · 音乐与歌词</sub><br><sub>0:16 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104736947822645622">▶ 播放</a> · <a href="https://x.com/gogu_name/status/2104736947822645622">原帖</a></td>
 <td width="50%" valign="top"><strong>钢琴机械装置的音画同步</strong><br><sub><a href="https://x.com/dilemma017">@dilemma017</a> · 音乐与歌词</sub><br><sub>0:09 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106874360678023377">▶ 播放</a> · <a href="https://x.com/dilemma017/status/2106874360678023377">原帖</a></td>
-<td width="50%" valign="top"><strong>TouchDesigner：随声音变形的世界</strong><br><sub><a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 音乐与歌词</sub><br><sub>0:33 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108514277502099949">▶ 播放</a> · <a href="https://x.com/akiyoshisan/status/2108514277502099949">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108514277502099949"><img src="../assets/covers/2108514277502099949.jpg" width="400" alt="TouchDesigner：随声音变形的世界"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105282502726484258"><img src="../assets/covers/2105282502726484258.jpg" width="400" alt="GenMotion 制作的 P(doom) 音乐视频"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106201281199284735"><img src="../assets/covers/2106201281199284735.jpg" width="400" alt="鸽子音乐开场与逐字歌词同步"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>TouchDesigner：随声音变形的世界</strong><br><sub><a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 音乐与歌词</sub><br><sub>0:33 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108514277502099949">▶ 播放</a> · <a href="https://x.com/akiyoshisan/status/2108514277502099949">原帖</a></td>
 <td width="50%" valign="top"><strong>GenMotion 制作的 P(doom) 音乐视频</strong><br><sub><a href="https://x.com/haxzie_">@haxzie_</a> · 音乐与歌词</sub><br><sub>2:37 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105282502726484258">▶ 播放</a> · <a href="https://x.com/haxzie_/status/2105282502726484258">原帖</a></td>
-<td width="50%" valign="top"><strong>鸽子音乐开场与逐字歌词同步</strong><br><sub><a href="https://x.com/aijipusi75693">@aijipusi75693</a> · 音乐与歌词</sub><br><sub>0:40 · 收藏 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106201281199284735">▶ 播放</a> · <a href="https://x.com/aijipusi75693/status/2106201281199284735">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106201281199284735"><img src="../assets/covers/2106201281199284735.jpg" width="400" alt="鸽子音乐开场与逐字歌词同步"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104145227573248467"><img src="../assets/covers/2104145227573248467.jpg" width="400" alt="会听音乐的机械魔眼"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105926129567879524"><img src="../assets/covers/2105926129567879524.jpg" width="400" alt="EUDoom：欧洲版 P(doom) 音乐动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>鸽子音乐开场与逐字歌词同步</strong><br><sub><a href="https://x.com/aijipusi75693">@aijipusi75693</a> · 音乐与歌词</sub><br><sub>0:40 · 收藏 1</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106201281199284735">▶ 播放</a> · <a href="https://x.com/aijipusi75693/status/2106201281199284735">原帖</a></td>
 <td width="50%" valign="top"><strong>会听音乐的机械魔眼</strong><br><sub><a href="https://x.com/Acoramaa">@Acoramaa</a> · 音乐与歌词</sub><br><sub>0:28 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104145227573248467">▶ 播放</a> · <a href="https://x.com/Acoramaa/status/2104145227573248467">原帖</a></td>
-<td width="50%" valign="top"><strong>EUDoom：欧洲版 P(doom) 音乐动画</strong><br><sub><a href="https://x.com/JSalmisaari">@JSalmisaari</a> · 音乐与歌词</sub><br><sub>2:37 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105926129567879524">▶ 播放</a> · <a href="https://x.com/JSalmisaari/status/2105926129567879524">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105926129567879524"><img src="../assets/covers/2105926129567879524.jpg" width="400" alt="EUDoom：欧洲版 P(doom) 音乐动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105304203770118434"><img src="../assets/covers/2105304203770118434.jpg" width="225" alt="送别：雪人与黑猫的钢琴动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106836531734581448"><img src="../assets/covers/2106836531734581448.jpg" width="400" alt="Skill Issue：AI 乐观与担忧的歌曲"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>EUDoom：欧洲版 P(doom) 音乐动画</strong><br><sub><a href="https://x.com/JSalmisaari">@JSalmisaari</a> · 音乐与歌词</sub><br><sub>2:37 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105926129567879524">▶ 播放</a> · <a href="https://x.com/JSalmisaari/status/2105926129567879524">原帖</a></td>
 <td width="50%" valign="top"><strong>送别：雪人与黑猫的钢琴动画</strong><br><sub><a href="https://x.com/JohnnyWang8802">@JohnnyWang8802</a> · 音乐与歌词</sub><br><sub>1:13 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105304203770118434">▶ 播放</a> · <a href="https://x.com/JohnnyWang8802/status/2105304203770118434">原帖</a></td>
-<td width="50%" valign="top"><strong>Skill Issue：AI 乐观与担忧的歌曲</strong><br><sub><a href="https://x.com/ZackSample">@ZackSample</a> · 音乐与歌词</sub><br><sub>3:34 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106836531734581448">▶ 播放</a> · <a href="https://x.com/ZackSample/status/2106836531734581448">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106836531734581448"><img src="../assets/covers/2106836531734581448.jpg" width="400" alt="Skill Issue：AI 乐观与担忧的歌曲"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107478488760385762"><img src="../assets/covers/2107478488760385762.jpg" width="400" alt="代码构成的机器人歌曲 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105590078638792932"><img src="../assets/covers/2105590078638792932.jpg" width="400" alt="Slip Out of the Frame：纸戏爵士版"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Skill Issue：AI 乐观与担忧的歌曲</strong><br><sub><a href="https://x.com/ZackSample">@ZackSample</a> · 音乐与歌词</sub><br><sub>3:34 · 收藏 1 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106836531734581448">▶ 播放</a> · <a href="https://x.com/ZackSample/status/2106836531734581448">原帖</a></td>
 <td width="50%" valign="top"><strong>代码构成的机器人歌曲 MV</strong><br><sub><a href="https://x.com/jpshrodinger">@jpshrodinger</a> · 音乐与歌词</sub><br><sub>2:50 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107478488760385762">▶ 播放</a> · <a href="https://x.com/jpshrodinger/status/2107478488760385762">原帖</a></td>
-<td width="50%" valign="top"><strong>Slip Out of the Frame：纸戏爵士版</strong><br><sub><a href="https://x.com/6_KAKUU">@6_KAKUU</a> · 音乐与歌词</sub><br><sub>1:07 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105590078638792932">▶ 播放</a> · <a href="https://x.com/6_KAKUU/status/2105590078638792932">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105590078638792932"><img src="../assets/covers/2105590078638792932.jpg" width="400" alt="Slip Out of the Frame：纸戏爵士版"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104039791444808170"><img src="../assets/covers/2104039791444808170.jpg" width="400" alt="Dubstep：三维线条与粒子音乐 PV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104964729018151105"><img src="../assets/covers/2104964729018151105.jpg" width="400" alt="等轴测音乐工作室片头"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Slip Out of the Frame：纸戏爵士版</strong><br><sub><a href="https://x.com/6_KAKUU">@6_KAKUU</a> · 音乐与歌词</sub><br><sub>1:07 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105590078638792932">▶ 播放</a> · <a href="https://x.com/6_KAKUU/status/2105590078638792932">原帖</a></td>
 <td width="50%" valign="top"><strong>Dubstep：三维线条与粒子音乐 PV</strong><br><sub><a href="https://x.com/shuminchuuu">@shuminchuuu</a> · 音乐与歌词</sub><br><sub>3:34 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104039791444808170">▶ 播放</a> · <a href="https://x.com/shuminchuuu/status/2104039791444808170">原帖</a></td>
-<td width="50%" valign="top"><strong>等轴测音乐工作室片头</strong><br><sub><a href="https://x.com/animatek">@animatek</a> · 音乐与歌词</sub><br><sub>2:40 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104964729018151105">▶ 播放</a> · <a href="https://x.com/animatek/status/2104964729018151105">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104964729018151105"><img src="../assets/covers/2104964729018151105.jpg" width="400" alt="等轴测音乐工作室片头"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110453264877502686"><img src="../assets/covers/2110453264877502686.jpg" width="400" alt="AI 替代工程师：卡通流行 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="127" alt="弦、笛与水泡：代码物理合成音效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>等轴测音乐工作室片头</strong><br><sub><a href="https://x.com/animatek">@animatek</a> · 音乐与歌词</sub><br><sub>2:40 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104964729018151105">▶ 播放</a> · <a href="https://x.com/animatek/status/2104964729018151105">原帖</a></td>
 <td width="50%" valign="top"><strong>AI 替代工程师：卡通流行 MV</strong><br><sub><a href="https://x.com/FranciAnjinho">@FranciAnjinho</a> · 音乐与歌词</sub><br><sub>2:19 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110453264877502686">▶ 播放</a> · <a href="https://x.com/FranciAnjinho/status/2110453264877502686">原帖</a></td>
-<td width="50%" valign="top"><strong>弦、笛与水泡：代码物理合成音效</strong><br><sub><a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a> · 音乐与歌词</sub><br><sub>0:26 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921">▶ 播放</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921"><img src="../assets/covers/2104144532644544921.jpg" width="127" alt="弦、笛与水泡：代码物理合成音效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106883204762185728"><img src="../assets/covers/2106883204762185728.jpg" width="400" alt="Word Is Bond：威尼斯商人音乐改编"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107611329137971317"><img src="../assets/covers/2107611329137971317.jpg" width="400" alt="单图驱动的复古电视音乐影像"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>弦、笛与水泡：代码物理合成音效</strong><br><sub><a href="https://x.com/Rakhsh_Tech">@Rakhsh_Tech</a> · 音乐与歌词</sub><br><sub>0:26 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104144532644544921">▶ 播放</a> · <a href="https://x.com/Rakhsh_Tech/status/2104144532644544921">原帖</a></td>
 <td width="50%" valign="top"><strong>Word Is Bond：威尼斯商人音乐改编</strong><br><sub><a href="https://x.com/DFakkeldy">@DFakkeldy</a> · 音乐与歌词</sub><br><sub>6:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106883204762185728">▶ 播放</a> · <a href="https://x.com/DFakkeldy/status/2106883204762185728">原帖</a></td>
-<td width="50%" valign="top"><strong>单图驱动的复古电视音乐影像</strong><br><sub><a href="https://x.com/SousakujikkenH">@SousakujikkenH</a> · 音乐与歌词</sub><br><sub>3:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107611329137971317">▶ 播放</a> · <a href="https://x.com/SousakujikkenH/status/2107611329137971317">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107611329137971317"><img src="../assets/covers/2107611329137971317.jpg" width="400" alt="单图驱动的复古电视音乐影像"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110390739859611707"><img src="../assets/covers/2110390739859611707.jpg" width="127" alt="稳稳接住你：中文自我介绍 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110781009272922529"><img src="../assets/covers/2110781009272922529.jpg" width="400" alt="Everything is Rust Now：齿轮歌词 MV"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>单图驱动的复古电视音乐影像</strong><br><sub><a href="https://x.com/SousakujikkenH">@SousakujikkenH</a> · 音乐与歌词</sub><br><sub>3:37 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107611329137971317">▶ 播放</a> · <a href="https://x.com/SousakujikkenH/status/2107611329137971317">原帖</a></td>
 <td width="50%" valign="top"><strong>稳稳接住你：中文自我介绍 MV</strong><br><sub><a href="https://x.com/DylanChiangAI">@DylanChiangAI</a> · 音乐与歌词</sub><br><sub>0:45 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110390739859611707">▶ 播放</a> · <a href="https://x.com/DylanChiangAI/status/2110390739859611707">原帖</a></td>
-<td width="50%" valign="top"><strong>Everything is Rust Now：齿轮歌词 MV</strong><br><sub><a href="https://x.com/mroczekdev">@mroczekdev</a> · 音乐与歌词</sub><br><sub>2:57 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110781009272922529">▶ 播放</a> · <a href="https://x.com/mroczekdev/status/2110781009272922529">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110781009272922529"><img src="../assets/covers/2110781009272922529.jpg" width="400" alt="Everything is Rust Now：齿轮歌词 MV"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103127192591065595"><img src="../assets/covers/2103127192591065595.jpg" width="400" alt="孩子的涂鸦变成音乐影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105354745988927980"><img src="../assets/covers/2105354745988927980.jpg" width="400" alt="Ctrl ALT Goodbye：多模型协作 MV"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Everything is Rust Now：齿轮歌词 MV</strong><br><sub><a href="https://x.com/mroczekdev">@mroczekdev</a> · 音乐与歌词</sub><br><sub>2:57 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110781009272922529">▶ 播放</a> · <a href="https://x.com/mroczekdev/status/2110781009272922529">原帖</a></td>
 <td width="50%" valign="top"><strong>孩子的涂鸦变成音乐影像</strong><br><sub><a href="https://x.com/coolbat1999">@coolbat1999</a> · 音乐与歌词</sub><br><sub>3:47 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103127192591065595">▶ 播放</a> · <a href="https://x.com/coolbat1999/status/2103127192591065595">原帖</a></td>
-<td width="50%" valign="top"><strong>Ctrl ALT Goodbye：多模型协作 MV</strong><br><sub><a href="https://x.com/NISSANNS2">@NISSANNS2</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105354745988927980">▶ 播放</a> · <a href="https://x.com/NISSANNS2/status/2105354745988927980">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105354745988927980"><img src="../assets/covers/2105354745988927980.jpg" width="400" alt="Ctrl ALT Goodbye：多模型协作 MV"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106472635391529002"><img src="../assets/covers/2106472635391529002.jpg" width="400" alt="Last Call Magic：像素角色音乐 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106877108693913741"><img src="../assets/covers/2106877108693913741.jpg" width="127" alt="动画乐队的音乐片段"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Ctrl ALT Goodbye：多模型协作 MV</strong><br><sub><a href="https://x.com/NISSANNS2">@NISSANNS2</a> · 音乐与歌词</sub><br><sub>3:28 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105354745988927980">▶ 播放</a> · <a href="https://x.com/NISSANNS2/status/2105354745988927980">原帖</a></td>
 <td width="50%" valign="top"><strong>Last Call Magic：像素角色音乐 MV</strong><br><sub><a href="https://x.com/duramirmagus">@duramirmagus</a> · 音乐与歌词</sub><br><sub>4:20 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106472635391529002">▶ 播放</a> · <a href="https://x.com/duramirmagus/status/2106472635391529002">原帖</a></td>
-<td width="50%" valign="top"><strong>动画乐队的音乐片段</strong><br><sub><a href="https://x.com/Kyle_Coghlan">@Kyle_Coghlan</a> · 音乐与歌词</sub><br><sub>0:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106877108693913741">▶ 播放</a> · <a href="https://x.com/Kyle_Coghlan/status/2106877108693913741">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106877108693913741"><img src="../assets/covers/2106877108693913741.jpg" width="127" alt="动画乐队的音乐片段"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107494910731698494"><img src="../assets/covers/2107494910731698494.jpg" width="127" alt="Reverie：代码动画音乐 MV"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108164224887492731"><img src="../assets/covers/2108164224887492731.jpg" width="400" alt="Claude 组织的动漫片头试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>动画乐队的音乐片段</strong><br><sub><a href="https://x.com/Kyle_Coghlan">@Kyle_Coghlan</a> · 音乐与歌词</sub><br><sub>0:22 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106877108693913741">▶ 播放</a> · <a href="https://x.com/Kyle_Coghlan/status/2106877108693913741">原帖</a></td>
 <td width="50%" valign="top"><strong>Reverie：代码动画音乐 MV</strong><br><sub><a href="https://x.com/hikarinosunmin">@hikarinosunmin</a> · 音乐与歌词</sub><br><sub>3:03 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107494910731698494">▶ 播放</a> · <a href="https://x.com/hikarinosunmin/status/2107494910731698494">原帖</a></td>
-<td width="50%" valign="top"><strong>Claude 组织的动漫片头试验</strong><br><sub><a href="https://x.com/YosumiNoa">@YosumiNoa</a> · 音乐与歌词</sub><br><sub>1:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108164224887492731">▶ 播放</a> · <a href="https://x.com/YosumiNoa/status/2108164224887492731">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108164224887492731"><img src="../assets/covers/2108164224887492731.jpg" width="400" alt="Claude 组织的动漫片头试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108505253738058209"><img src="../assets/covers/2108505253738058209.jpg" width="400" alt="歌词动效的迭代实验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104346758968975606"><img src="../assets/covers/2104346758968975606.jpg" width="218" alt="彩色光点球音乐可视化"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Claude 组织的动漫片头试验</strong><br><sub><a href="https://x.com/YosumiNoa">@YosumiNoa</a> · 音乐与歌词</sub><br><sub>1:31 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108164224887492731">▶ 播放</a> · <a href="https://x.com/YosumiNoa/status/2108164224887492731">原帖</a></td>
 <td width="50%" valign="top"><strong>歌词动效的迭代实验</strong><br><sub><a href="https://x.com/NEMUNFT">@NEMUNFT</a> · 音乐与歌词</sub><br><sub>0:35 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108505253738058209">▶ 播放</a> · <a href="https://x.com/NEMUNFT/status/2108505253738058209">原帖</a></td>
-<td width="50%" valign="top"><strong>彩色光点球音乐可视化</strong><br><sub><a href="https://x.com/prvctice_com">@prvctice_com</a> · 音乐与歌词</sub><br><sub>0:32 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104346758968975606">▶ 播放</a> · <a href="https://x.com/prvctice_com/status/2104346758968975606">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104346758968975606"><img src="../assets/covers/2104346758968975606.jpg" width="218" alt="彩色光点球音乐可视化"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106039413645996348"><img src="../assets/covers/2106039413645996348.jpg" width="400" alt="像素都市中的音乐视频"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106041581119971749"><img src="../assets/covers/2106041581119971749.jpg" width="400" alt="Just Predicting：模型辅助音乐视频"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>彩色光点球音乐可视化</strong><br><sub><a href="https://x.com/prvctice_com">@prvctice_com</a> · 音乐与歌词</sub><br><sub>0:32 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104346758968975606">▶ 播放</a> · <a href="https://x.com/prvctice_com/status/2104346758968975606">原帖</a></td>
 <td width="50%" valign="top"><strong>像素都市中的音乐视频</strong><br><sub><a href="https://x.com/91_elon">@91_elon</a> · 音乐与歌词</sub><br><sub>0:16 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106039413645996348">▶ 播放</a> · <a href="https://x.com/91_elon/status/2106039413645996348">原帖</a></td>
-<td width="50%" valign="top"><strong>Just Predicting：模型辅助音乐视频</strong><br><sub><a href="https://x.com/HarbingerDan">@HarbingerDan</a> · 音乐与歌词</sub><br><sub>3:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106041581119971749">▶ 播放</a> · <a href="https://x.com/HarbingerDan/status/2106041581119971749">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106041581119971749"><img src="../assets/covers/2106041581119971749.jpg" width="400" alt="Just Predicting：模型辅助音乐视频"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106223615499005966"><img src="../assets/covers/2106223615499005966.jpg" width="400" alt="彩色街区里的卡通音乐短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106761257647022351"><img src="../assets/covers/2106761257647022351.jpg" width="400" alt="卡拉 OK 字幕与卡通音乐 MV"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Just Predicting：模型辅助音乐视频</strong><br><sub><a href="https://x.com/HarbingerDan">@HarbingerDan</a> · 音乐与歌词</sub><br><sub>3:46 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106041581119971749">▶ 播放</a> · <a href="https://x.com/HarbingerDan/status/2106041581119971749">原帖</a></td>
 <td width="50%" valign="top"><strong>彩色街区里的卡通音乐短片</strong><br><sub><a href="https://x.com/AronestyErik">@AronestyErik</a> · 音乐与歌词</sub><br><sub>2:41 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106223615499005966">▶ 播放</a> · <a href="https://x.com/AronestyErik/status/2106223615499005966">原帖</a></td>
-<td width="50%" valign="top"><strong>卡拉 OK 字幕与卡通音乐 MV</strong><br><sub><a href="https://x.com/hotomamon">@hotomamon</a> · 音乐与歌词</sub><br><sub>1:55 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106761257647022351">▶ 播放</a> · <a href="https://x.com/hotomamon/status/2106761257647022351">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106761257647022351"><img src="../assets/covers/2106761257647022351.jpg" width="400" alt="卡拉 OK 字幕与卡通音乐 MV"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107651489212854287"><img src="../assets/covers/2107651489212854287.jpg" width="400" alt="1-800：代码文字音乐影像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107664736318091292"><img src="../assets/covers/2107664736318091292.jpg" width="400" alt="记梦：李清照诗词的歌曲影像"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>卡拉 OK 字幕与卡通音乐 MV</strong><br><sub><a href="https://x.com/hotomamon">@hotomamon</a> · 音乐与歌词</sub><br><sub>1:55 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106761257647022351">▶ 播放</a> · <a href="https://x.com/hotomamon/status/2106761257647022351">原帖</a></td>
 <td width="50%" valign="top"><strong>1-800：代码文字音乐影像</strong><br><sub><a href="https://x.com/bvch1bc">@bvch1bc</a> · 音乐与歌词</sub><br><sub>0:33 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107651489212854287">▶ 播放</a> · <a href="https://x.com/bvch1bc/status/2107651489212854287">原帖</a></td>
-<td width="50%" valign="top"><strong>记梦：李清照诗词的歌曲影像</strong><br><sub><a href="https://x.com/dapenti">@dapenti</a> · 音乐与歌词</sub><br><sub>3:19 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107664736318091292">▶ 播放</a> · <a href="https://x.com/dapenti/status/2107664736318091292">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107664736318091292"><img src="../assets/covers/2107664736318091292.jpg" width="400" alt="记梦：李清照诗词的歌曲影像"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108380175767568882"><img src="../assets/covers/2108380175767568882.jpg" width="400" alt="Leave a Way：代码与资产制作的音乐片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108388293469688151"><img src="../assets/covers/2108388293469688151.jpg" width="400" alt="无角色的 Trance 三维音乐影像"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>记梦：李清照诗词的歌曲影像</strong><br><sub><a href="https://x.com/dapenti">@dapenti</a> · 音乐与歌词</sub><br><sub>3:19 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107664736318091292">▶ 播放</a> · <a href="https://x.com/dapenti/status/2107664736318091292">原帖</a></td>
 <td width="50%" valign="top"><strong>Leave a Way：代码与资产制作的音乐片</strong><br><sub><a href="https://x.com/xX_Mika_Pi_Xx">@xX_Mika_Pi_Xx</a> · 音乐与歌词</sub><br><sub>2:00 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108380175767568882">▶ 播放</a> · <a href="https://x.com/xX_Mika_Pi_Xx/status/2108380175767568882">原帖</a></td>
-<td width="50%" valign="top"><strong>无角色的 Trance 三维音乐影像</strong><br><sub><a href="https://x.com/cherusi3">@cherusi3</a> · 音乐与歌词</sub><br><sub>2:36 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108388293469688151">▶ 播放</a> · <a href="https://x.com/cherusi3/status/2108388293469688151">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108388293469688151"><img src="../assets/covers/2108388293469688151.jpg" width="400" alt="无角色的 Trance 三维音乐影像"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108438870505541752"><img src="../assets/covers/2108438870505541752.jpg" width="127" alt="As Fast As Ideas：AI主题流行音乐片"></a></td>
-<td width="50%"></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>无角色的 Trance 三维音乐影像</strong><br><sub><a href="https://x.com/cherusi3">@cherusi3</a> · 音乐与歌词</sub><br><sub>2:36 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108388293469688151">▶ 播放</a> · <a href="https://x.com/cherusi3/status/2108388293469688151">原帖</a></td>
 <td width="50%" valign="top"><strong>As Fast As Ideas：AI主题流行音乐片</strong><br><sub><a href="https://x.com/jxwalker">@jxwalker</a> · 音乐与歌词</sub><br><sub>2:30 · 收藏 0 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108438870505541752">▶ 播放</a> · <a href="https://x.com/jxwalker/status/2108438870505541752">原帖</a></td>
-<td width="50%"></td>
 </tr>
 </tbody>
 </table>

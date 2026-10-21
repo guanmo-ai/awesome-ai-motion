@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-153 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+163 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -19,6 +19,17 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[SF Symbols picker](https://sfsymbols.terryhu.workers.dev/)
   The product page is linked in a direct reply by the same author; it is not the complete production project for this promo.
   [Link source](https://x.com/21Terrence1/status/2109247274396389561) · Link checked 2026-10-11 15:08 UTC
+
+## [Inside an Escalator's Moving Mechanism](../cases/2109943963536998694.en.md) · @numaausaumon
+
+- **Public web page**：[Interactive escalator cutaway](https://ask.jig.com/j/Rb09kjb4JdFJ)
+  [Link source](https://x.com/numaausaumon/status/2109944268420956221) · Link checked 2026-10-20 15:51 UTC
+
+## [An Interactive Gumball Machine Explainer](../cases/2111925285255868518.en.md) · @Voxyz\_ai
+
+- **Related tool**：[colorfigures drawing tool](https://april-zhu.com/colorfigures) · No license specified
+  The general drawing tool used by the creator; this is not the gumball-machine source.
+  [Link source](https://x.com/Voxyz_ai/status/2111925285255868518) · Link checked 2026-10-20 15:51 UTC
 
 ## [An article intro: template reuse and text checks](../cases/2105033204319277506.en.md) · @FalconG\_J
 
@@ -183,6 +194,12 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Public web page**：[Interactive demo](https://airsup.ai/rocket-engine)
 
+## [Explaining UX Decisions Through Animation](../cases/2104206095313215591.en.md) · @moguzbulbul
+
+- **Related tool**：[The creator’s blueprint-animation skill and example](https://github.com/moguzbulbul/blueprint-animation) · [CC BY-NC 4.0](https://github.com/moguzbulbul/blueprint-animation/blob/29aa30b83db4632daf586420c52a251e7dac2d92/LICENSE)
+  A reusable blueprint-animation tool with an example scene; this does not establish reproduction of the exact post project.
+  [Link source](https://github.com/moguzbulbul/blueprint-animation/blob/29aa30b83db4632daf586420c52a251e7dac2d92/README.md) · Link checked 2026-10-20 15:51 UTC
+
 ## [Timeline of Claude Model Development](../cases/2102463796149440888.en.md) · @superalesha
 
 - **Related tool**：[Creator’s hand-drawn Canvas animation skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
@@ -193,6 +210,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Building demo and page implementation](https://re-presentation.jp/tool/KigumiArchitecture.html)
   The page contains implementation code; no open-source license was found.
   [Link source](https://x.com/yoshifujidesign/status/2105746986339283305) · Link checked 2026-10-16 06:52 UTC
+
+## [Bicycle Braking and Steering in 3D](../cases/2107111191210520608.en.md) · @RyanSael
+
+- **Public web page**：[The creator’s public interactive demo](https://sael.net/bike-brake)
+  [Link source](https://x.com/RyanSael/status/2107111191210520608) · Link checked 2026-10-20 17:09 UTC
 
 ## [Nine styles for explaining KV Cache](../cases/2107408409859359211.en.md) · @LufzzLiz
 
@@ -244,6 +266,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Lemo-Opuscar video creation skill and style toolkit](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
   The creator’s skill and style-sample collection; no separate project for this tutorial film was verified. Code is MIT; guides, style documents and films are CC BY 4.0.
   [Link source](https://x.com/lemomo_ai/status/2103812417457463552) · Link checked 2026-09-29 08:35 UTC
+
+## [Ship 40: A Flight on a Desktop](../cases/2110800680407757141.en.md) · @konstantinsaifo
+
+- **Public web page**：[The creator’s public interactive demo](https://airsup.ai/lab/ship-40)
+  [Link source](https://x.com/konstantinsaifo/status/2110800680407757141) · Link checked 2026-10-20 17:09 UTC
 
 ## [Visualizing Probability Currents in Atomic Orbitals](../cases/2111129290464964764.en.md) · @ottollm
 
@@ -302,6 +329,12 @@ Public work pages also count as implementation references; a web link alone does
 
 - **Direct source**：[Published film project and production materials](https://github.com/Vincentwei1021/mg-styles-15) · [MIT](https://github.com/Vincentwei1021/mg-styles-15/blob/main/LICENSE)
   [Link source](https://x.com/VincentWei93/status/2107028148881899763) · Link checked 2026-10-13 09:02 UTC
+
+## [Twenty Code-Drawn Styles](../cases/2104086740600254919.en.md) · @yasinozmeen
+
+- **Direct source**：[Source catalog of twenty animation styles](https://github.com/yasinozmeen/animasyon-stil-katalogu) · No license specified
+  The creator provides HTML and audio scripts for twenty styles. No overall code license was found; fonts carry separate terms.
+  [Link source](https://github.com/yasinozmeen/animasyon-stil-katalogu/blob/09e451d8b64ec85c1ec035fd39e00725c1ed5593/README.md) · Link checked 2026-10-20 15:51 UTC
 
 ## [One-File Generative Visual Demo](../cases/2102893186330841502.en.md) · @JustinPerea
 
@@ -365,6 +398,11 @@ Public work pages also count as implementation references; a web link alone does
   Linked in the creator’s matching reply; returned 403 during this check. Source and license were not verified.
   [Link source](https://x.com/ottollm/status/2111786474454855968) · Link checked 2026-10-19 08:34 UTC
 
+## [Making a Web Page Bloom](../cases/2106006478998180260.en.md) · @thebuggeddev
+
+- **Public web page**：[The creator’s public interactive demo](https://overgrow.thebuggeddev.workers.dev/)
+  [Link source](https://x.com/thebuggeddev/status/2106006478998180260) · Link checked 2026-10-20 17:09 UTC
+
 ## [One Character across Comics, Pixels and Vaporwave](../cases/2107641558073803075.en.md) · @AlchainHust
 
 - **Related tool**：[huashu-art-motion animation toolkit](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
@@ -388,6 +426,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Brush animation starter kit](https://github.com/JohnHeibel/ClaudeAnimationBase) · MIT
   Creator-linked starter kit whose README credits Opus 5.5 for test animations. MIT applies to code; asset rights are separate.
   [Link source](https://x.com/other__reality/status/2102865334298632574) · Link checked 2026-10-19 09:12 UTC
+
+## [A Nighttime Roadster Flight and Police Chase](../cases/2111609842184130875.en.md) · @viktoroddy
+
+- **Public web page**：[The creator’s public interactive demo](https://roadster-sandy.vercel.app/)
+  [Link source](https://x.com/viktoroddy/status/2111609842184130875) · Link checked 2026-10-20 17:09 UTC
 
 ## [Kākāpō Celebration in Pixel Art](../cases/2104002636513206422.en.md) · @simonw
 
@@ -444,6 +487,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Anatomy tool and examples](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
   The original creator’s general skill and examples; a standalone production project for this case video has not been separately verified. The root MIT license does not automatically cover separately used assets.
   [Link source](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · Link checked 2026-10-11 15:08 UTC
+
+## [Gigacity: An Endless Procedural City](../cases/2108203997480063196.en.md) · @RyanSael
+
+- **Public web page**：[The creator’s public interactive demo](https://sael.net/gigacity)
+  [Link source](https://x.com/RyanSael/status/2108203997480063196) · Link checked 2026-10-20 17:09 UTC
 
 ## [Spiderbench: Swinging Through a Browser City](../cases/2104001664793600012.en.md) · @xikhar
 
@@ -530,6 +578,14 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Heatsink playable work](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda)
   The creator links the work page; a complete project and overall reuse license are unverified.
   [Link source](https://x.com/aniketjart/status/2107973550300856334) · Link checked 2026-10-08 14:36 UTC
+
+## [An Endless Tram Ride Through Lisbon](../cases/2103465304039076319.en.md) · @thebuggeddev
+
+- **Public web page**：[The creator’s public interactive demo](https://endless-train.wasmer.app/)
+  [Link source](https://x.com/thebuggeddev/status/2103465304039076319) · Link checked 2026-10-20 17:09 UTC
+- **Direct source**：[Lisbon tram project source](https://github.com/thebuggeddev/endless-train) · No license specified
+  The repository contains the scene implementation. No overall license was found.
+  [Link source](https://x.com/thebuggeddev/status/2103465304039076319) · Link checked 2026-10-20 17:09 UTC
 
 ## [Rocket-Powered Car Soccer in the Browser](../cases/2104800823620632641.en.md) · @BlendiByl
 

@@ -27,3 +27,17 @@ test('扫描无后缀文本与各系统家目录，保留正常文档提及',()=
   assert.equal(decodeText(Buffer.from([0xff,0xd8,0,0x41])),null);
   assert.equal(decodeText(Buffer.from('plain extensionless text')),'plain extensionless text');
 });
+
+test('内嵌栅格字节的Base64碰巧形似令牌时不误报，周围文本与未知数据仍检查',()=>{
+  const token='AK'+'IA'+'A'.repeat(16);
+  const bytes=Buffer.concat([Buffer.from([0xff,0xd8,0xff]),Buffer.from(token,'base64'),Buffer.from([0xff,0xd9])]);
+  const payload=bytes.toString('base64');
+  assert.ok(payload.includes(token),'复现拼图中的编码碰撞');
+  const image=`<image href="data:image/jpeg;base64,${payload}"/>`;
+  assert.deepEqual(textPrivacyIssues(image),[]);
+  assert.ok(textPrivacyIssues(image+`<desc>${token}</desc>`).includes('疑似访问令牌'));
+  for(const type of ['svg+xml','text','png']) {
+    assert.ok(textPrivacyIssues(image.replace('image/jpeg',`image/${type}`)).includes('疑似访问令牌'));
+  }
+  assert.ok(textPrivacyIssues(`<image href="data:image/jpeg;base64,${token}"/>`).includes('疑似访问令牌'));
+});

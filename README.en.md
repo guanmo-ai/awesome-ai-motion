@@ -8,7 +8,7 @@ Extraordinary motion. New creative possibilities. · [简体中文](README.md)
 
 **[Explore the gallery ↗](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** &nbsp; · &nbsp; [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>1218 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
+<sub>1315 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
 
 <a id="spotlights"></a>
 
@@ -29,13 +29,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 </tr>
 <tr>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108948624004526516"><img src="assets/readme-covers/2108948624004526516.svg" width="260" alt="Anatomy: Working Machine Illustrations"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108203997480063196"><img src="assets/readme-covers/2108203997480063196.svg" width="260" alt="Gigacity: An Endless Procedural City"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926"><img src="assets/readme-covers/2103315922098470926.svg" width="260" alt="A 15-second motion design showreel"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109257723246501895"><img src="assets/readme-covers/2109257723246501895.svg" width="260" alt="A Transparent CD Case with an Animated Lid"></a></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><strong>Anatom&#8203;y: Workin&#8203;g Machin&#8203;e Illust&#8203;ration&#8203;s</strong><br><sub><a href="https://x.com/wheresryan22">@wheres&#8203;ryan22</a></sub><br><sub>Bookmarks 6,423 · 2026-10-10</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108948624004526516">Watch ↗</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">Original</a></td>
+<td width="33%" valign="top"><strong>Gigaci&#8203;ty: An Endles&#8203;s Proced&#8203;ural City</strong><br><sub><a href="https://x.com/RyanSael">@RyanSa&#8203;el</a></sub><br><sub>Bookmarks 6,354 · 2026-10-08</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108203997480063196">Watch ↗</a> · <a href="https://x.com/RyanSael/status/2108203997480063196">Original</a></td>
 <td width="33%" valign="top"><strong>A 15-second motion design showre&#8203;el</strong><br><sub><a href="https://x.com/stephanlivera">@stepha&#8203;nliver&#8203;a</a></sub><br><sub>Bookmarks 11,692 · 2026-09-25</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926">Watch ↗</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original</a></td>
-<td width="33%" valign="top"><strong>A Transp&#8203;arent CD Case with an Animat&#8203;ed Lid</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nn&#8203;ng</a></sub><br><sub>Bookmarks 3,816 · 2026-10-11</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109257723246501895">Watch ↗</a> · <a href="https://x.com/ann_nnng/status/2109257723246501895">Original</a></td>
 </tr>
 </table>
 
@@ -45,13 +45,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 
 | Explore | What you will find | Works |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 233 |
-| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 248 |
-| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 178 |
-| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 86 |
-| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 266 |
-| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 114 |
-| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 93 |
+| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 240 |
+| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 269 |
+| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 191 |
+| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 96 |
+| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 302 |
+| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 123 |
+| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 94 |
 
 [Search, filter and watch all works in the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 

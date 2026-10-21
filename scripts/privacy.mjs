@@ -24,7 +24,15 @@ export function isPrivateFile(file) {
 export function textPrivacyIssues(text) {
   const issues=[];
   if(/(?:\/Users\/[^/\s"'<>]+\/|\/home\/[^/\s"'<>]+\/|\/root\/(?:[^\s"'<>]+)|[A-Za-z]:[\\/](?:Users|Documents and Settings)[\\/][^\\/\s"'<>]+[\\/]|file:\/\/)/i.test(text))issues.push('本机路径');
-  if(/(?:gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|sk-(?:proj-)?[A-Za-z0-9_-]{20,}|AKIA[0-9A-Z]{16}|xox[baprs]-[A-Za-z0-9-]{20,})/.test(text)
+  // Raster bytes can coincidentally encode a token-shaped sequence in Base64.
+  // Keep scanning the surrounding SVG and all text-bearing/unknown data URLs.
+  const tokenText=text.replace(/data:image\/jpeg;base64,([A-Za-z0-9+/]+={0,2})(?=["'\s)>]|$)/gi,(url,payload)=>{
+    const bytes=Buffer.from(payload,'base64');
+    if(bytes.toString('base64')!==payload)return url;
+    const raster=bytes.subarray(0,3).equals(Buffer.from([0xff,0xd8,0xff]))&&bytes.subarray(-2).equals(Buffer.from([0xff,0xd9]));
+    return raster?'[embedded raster bytes]':url;
+  });
+  if(/(?:gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|sk-(?:proj-)?[A-Za-z0-9_-]{20,}|AKIA[0-9A-Z]{16}|xox[baprs]-[A-Za-z0-9-]{20,})/.test(tokenText)
     || /\bAuthorization\s*:\s*(?:Bearer|Basic)\s+[A-Za-z0-9._~+\/-]{12,}/i.test(text))issues.push('疑似访问令牌');
   if(/-----BEGIN (?:[A-Z0-9 ]+ )?PRIVATE KEY-----/.test(text))issues.push('私钥内容');
   if(/\b(?:Set-)?Cookie\s*:[^\r\n]*\b[^\s;=]*(?:session|auth|token|jwt)[^\s;=]*=[^\s;]{8,}/i.test(text))issues.push('认证 Cookie');

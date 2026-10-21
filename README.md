@@ -8,7 +8,7 @@
 
 **[进入作品画廊 ↗](https://guanmo-ai.github.io/awesome-ai-motion/)** &nbsp; · &nbsp; [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>1218 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
+<sub>1315 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
 
 <a id="spotlights"></a>
 
@@ -29,13 +29,13 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516"><img src="assets/readme-covers/2108948624004526516.svg" width="260" alt="Anatomy：会动的机器说明图"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108203997480063196"><img src="assets/readme-covers/2108203997480063196.svg" width="260" alt="Gigacity：无尽程序化城市"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926"><img src="assets/readme-covers/2103315922098470926.svg" width="260" alt="15 秒动态设计自由发挥"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109257723246501895"><img src="assets/readme-covers/2109257723246501895.svg" width="260" alt="透明 CD 盒的材质与开盖交互"></a></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><strong>Anatom&#8203;y：会动的机器说明图</strong><br><sub><a href="https://x.com/wheresryan22">@wheres&#8203;ryan22</a></sub><br><sub>收藏 6,423 · 2026-10-10</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108948624004526516">观看 ↗</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">原帖</a></td>
+<td width="33%" valign="top"><strong>Gigaci&#8203;ty：无尽程序化城市</strong><br><sub><a href="https://x.com/RyanSael">@RyanSa&#8203;el</a></sub><br><sub>收藏 6,354 · 2026-10-08</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108203997480063196">观看 ↗</a> · <a href="https://x.com/RyanSael/status/2108203997480063196">原帖</a></td>
 <td width="33%" valign="top"><strong>15 秒动态设计自由发挥</strong><br><sub><a href="https://x.com/stephanlivera">@stepha&#8203;nliver&#8203;a</a></sub><br><sub>收藏 11,692 · 2026-09-25</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103315922098470926">观看 ↗</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">原帖</a></td>
-<td width="33%" valign="top"><strong>透明 CD 盒的材质与开盖交互</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nn&#8203;ng</a></sub><br><sub>收藏 3,816 · 2026-10-11</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109257723246501895">观看 ↗</a> · <a href="https://x.com/ann_nnng/status/2109257723246501895">原帖</a></td>
 </tr>
 </table>
 
@@ -45,13 +45,13 @@
 
 | 方向 | 可以发现什么 | 作品 |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 233 |
-| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 248 |
-| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 178 |
-| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 86 |
-| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 266 |
-| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 114 |
-| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 93 |
+| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 240 |
+| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 269 |
+| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 191 |
+| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 96 |
+| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 302 |
+| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 123 |
+| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 94 |
 
 [在画廊中搜索、筛选和播放全部作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 

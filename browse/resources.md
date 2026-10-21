@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-153 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+163 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -19,6 +19,17 @@
 - **公开网页**：[SF Symbols 图标工具](https://sfsymbols.terryhu.workers.dev/)
   同一作者在主帖直接回复中提供的产品网页，不是这支宣传片的完整制作工程。
   [链接出处](https://x.com/21Terrence1/status/2109247274396389561) · 链接核对 2026-10-11 15:08 UTC
+
+## [自动扶梯的内部结构与循环](../cases/2109943963536998694.md) · @numaausaumon
+
+- **公开网页**：[扶梯结构在线体验](https://ask.jig.com/j/Rb09kjb4JdFJ)
+  [链接出处](https://x.com/numaausaumon/status/2109944268420956221) · 链接核对 2026-10-20 15:51 UTC
+
+## [扭蛋机的交互式结构讲解](../cases/2111925285255868518.md) · @Voxyz\_ai
+
+- **相关工具**：[colorfigures 绘图工具](https://april-zhu.com/colorfigures) · 未标明许可
+  作者使用的通用绘图工具；此入口不是扭蛋机作品源码。
+  [链接出处](https://x.com/Voxyz_ai/status/2111925285255868518) · 链接核对 2026-10-20 15:51 UTC
 
 ## [文章开场片：模板复用与文字检查](../cases/2105033204319277506.md) · @FalconG\_J
 
@@ -183,6 +194,12 @@
 
 - **公开网页**：[交互体验](https://airsup.ai/rocket-engine)
 
+## [用动画解释 UX 设计决策](../cases/2104206095313215591.md) · @moguzbulbul
+
+- **相关工具**：[作者的蓝图动画 Skill 与示例](https://github.com/moguzbulbul/blueprint-animation) · [CC BY-NC 4.0](https://github.com/moguzbulbul/blueprint-animation/blob/29aa30b83db4632daf586420c52a251e7dac2d92/LICENSE)
+  可复用的蓝图动画工具，附示例场景；不是原帖完整工程的复现声明。
+  [链接出处](https://github.com/moguzbulbul/blueprint-animation/blob/29aa30b83db4632daf586420c52a251e7dac2d92/README.md) · 链接核对 2026-10-20 15:51 UTC
+
 ## [Claude 模型发展时间线](../cases/2102463796149440888.md) · @superalesha
 
 - **相关工具**：[作者的手绘 Canvas 动画 Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
@@ -193,6 +210,11 @@
 - **公开网页**：[作者演示及页面实现代码（许可未注明）](https://re-presentation.jp/tool/KigumiArchitecture.html)
   页面有实现代码，未找到开放源码许可。
   [链接出处](https://x.com/yoshifujidesign/status/2105746986339283305) · 链接核对 2026-10-16 06:52 UTC
+
+## [自行车刹车与转向的三维讲解](../cases/2107111191210520608.md) · @RyanSael
+
+- **公开网页**：[作者公开的在线体验](https://sael.net/bike-brake)
+  [链接出处](https://x.com/RyanSael/status/2107111191210520608) · 链接核对 2026-10-20 17:09 UTC
 
 ## [九种 KV Cache 讲解风格](../cases/2107408409859359211.md) · @LufzzLiz
 
@@ -244,6 +266,11 @@
 - **相关工具**：[Lemo-Opuscar 视频制作 Skill 与风格工具集](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
   作者的制作 Skill 与风格样片集；未核得这支教学片的独立工程。代码 MIT，指南、风格文档与影片为 CC BY 4.0。
   [链接出处](https://x.com/lemomo_ai/status/2103812417457463552) · 链接核对 2026-09-29 08:35 UTC
+
+## [Ship 40：桌面上的完整飞行](../cases/2110800680407757141.md) · @konstantinsaifo
+
+- **公开网页**：[作者公开的在线体验](https://airsup.ai/lab/ship-40)
+  [链接出处](https://x.com/konstantinsaifo/status/2110800680407757141) · 链接核对 2026-10-20 17:09 UTC
 
 ## [电子轨道中的概率流可视化](../cases/2111129290464964764.md) · @ottollm
 
@@ -302,6 +329,12 @@
 
 - **直接源码**：[作者公开的作品工程与制作资料](https://github.com/Vincentwei1021/mg-styles-15) · [MIT](https://github.com/Vincentwei1021/mg-styles-15/blob/main/LICENSE)
   [链接出处](https://x.com/VincentWei93/status/2107028148881899763) · 链接核对 2026-10-13 09:02 UTC
+
+## [二十种代码动画风格](../cases/2104086740600254919.md) · @yasinozmeen
+
+- **直接源码**：[二十种动画风格的代码目录](https://github.com/yasinozmeen/animasyon-stil-katalogu) · 未标明许可
+  作者按二十种风格提供 HTML 与音频脚本；未发现整体代码许可证，字体另有许可。
+  [链接出处](https://github.com/yasinozmeen/animasyon-stil-katalogu/blob/09e451d8b64ec85c1ec035fd39e00725c1ed5593/README.md) · 链接核对 2026-10-20 15:51 UTC
 
 ## [单页文件生成的视觉演示](../cases/2102893186330841502.md) · @JustinPerea
 
@@ -365,6 +398,11 @@
   作者对应回复提供的入口；本轮读取返回 403，未核得源码或许可。
   [链接出处](https://x.com/ottollm/status/2111786474454855968) · 链接核对 2026-10-19 08:34 UTC
 
+## [让网页长满花朵](../cases/2106006478998180260.md) · @thebuggeddev
+
+- **公开网页**：[作者公开的在线体验](https://overgrow.thebuggeddev.workers.dev/)
+  [链接出处](https://x.com/thebuggeddev/status/2106006478998180260) · 链接核对 2026-10-20 17:09 UTC
+
 ## [同一角色穿越漫画、像素与蒸汽波](../cases/2107641558073803075.md) · @AlchainHust
 
 - **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
@@ -388,6 +426,11 @@
 - **相关工具**：[笔触动画起步工程](https://github.com/JohnHeibel/ClaudeAnimationBase) · MIT
   作者提供的通用起步工程，README 明示测试动画使用 Opus 5.5；MIT 仅指代码，素材权利单独核对。
   [链接出处](https://x.com/other__reality/status/2102865334298632574) · 链接核对 2026-10-19 09:12 UTC
+
+## [Roadster 夜间飞行与警车追逐](../cases/2111609842184130875.md) · @viktoroddy
+
+- **公开网页**：[作者公开的在线体验](https://roadster-sandy.vercel.app/)
+  [链接出处](https://x.com/viktoroddy/status/2111609842184130875) · 链接核对 2026-10-20 17:09 UTC
 
 ## [鸮鹦鹉繁殖季：演讲结尾像素动画](../cases/2104002636513206422.md) · @simonw
 
@@ -444,6 +487,11 @@
 - **相关工具**：[Anatomy 工具与示例](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
   原作者的通用 Skill 与示例；本案例视频的独立工程尚未单独核对。根 MIT 许可不自动覆盖另行使用的素材。
   [链接出处](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · 链接核对 2026-10-11 15:08 UTC
+
+## [Gigacity：无尽程序化城市](../cases/2108203997480063196.md) · @RyanSael
+
+- **公开网页**：[作者公开的在线体验](https://sael.net/gigacity)
+  [链接出处](https://x.com/RyanSael/status/2108203997480063196) · 链接核对 2026-10-20 17:09 UTC
 
 ## [Spiderbench：浏览器里的城市荡行](../cases/2104001664793600012.md) · @xikhar
 
@@ -530,6 +578,14 @@
 - **公开网页**：[Heatsink 试玩](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda)
   作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
   [链接出处](https://x.com/aniketjart/status/2107973550300856334) · 链接核对 2026-10-08 14:36 UTC
+
+## [穿过里斯本的无尽电车](../cases/2103465304039076319.md) · @thebuggeddev
+
+- **公开网页**：[作者公开的在线体验](https://endless-train.wasmer.app/)
+  [链接出处](https://x.com/thebuggeddev/status/2103465304039076319) · 链接核对 2026-10-20 17:09 UTC
+- **直接源码**：[里斯本电车的作品源码](https://github.com/thebuggeddev/endless-train) · 未标明许可
+  仓库提供对应场景实现；未发现整体许可证。
+  [链接出处](https://x.com/thebuggeddev/status/2103465304039076319) · 链接核对 2026-10-20 17:09 UTC
 
 ## [浏览器中的火箭车足球](../cases/2104800823620632641.md) · @BlendiByl
 

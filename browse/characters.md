@@ -2,7 +2,7 @@
 
 # 角色动画
 
-86 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+96 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -128,21 +128,31 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105804692811137242"><img src="../assets/covers/2105804692811137242.jpg" width="400" alt="漂浮体素世界中的模型自画像"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106790433376662015"><img src="../assets/covers/2106790433376662015.jpg" width="391" alt="WALL-E 风格机器人的数学运动"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://x.com/sorenxet/status/2111458380854296639"><img src="../assets/covers/2111458380854296639.jpg" width="127" alt="独立农场的播种与四季循环"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>漂浮体素世界中的模型自画像</strong><br><sub><a href="https://x.com/blueemi99">@blueemi99</a> · 角色动画</sub><br><sub>0:26 · 收藏 213 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105804692811137242">▶ 播放</a> · <a href="https://x.com/blueemi99/status/2105804692811137242">原帖</a></td>
-<td width="50%" valign="top"><strong>WALL-E 风格机器人的数学运动</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 角色动画</sub><br><sub>1:25 · 收藏 188 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106790433376662015">▶ 播放</a> · <a href="https://x.com/DilumSanjaya/status/2106790433376662015">原帖</a></td>
+<td width="50%" valign="top"><strong>独立农场的播种与四季循环</strong><br><sub><a href="https://x.com/sorenxet">@sorenxet</a> · 角色动画</sub><br><sub>0:15 · 收藏 189 · 资料待完善</sub><br><a href="https://x.com/sorenxet/status/2111458380854296639">▶ 在 X 观看</a> · <a href="https://x.com/sorenxet/status/2111458380854296639">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106790433376662015"><img src="../assets/covers/2106790433376662015.jpg" width="391" alt="WALL-E 风格机器人的数学运动"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102626755655921828"><img src="../assets/covers/2102626755655921828.jpg" width="400" alt="Solarpunk City：像素生态城市"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110665151389003777"><img src="../assets/covers/2110665151389003777.jpg" width="400" alt="毕加索风格的立体俄罗斯方块"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>WALL-E 风格机器人的数学运动</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 角色动画</sub><br><sub>1:25 · 收藏 188 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106790433376662015">▶ 播放</a> · <a href="https://x.com/DilumSanjaya/status/2106790433376662015">原帖</a></td>
 <td width="50%" valign="top"><strong>Solarpunk City：像素生态城市</strong><br><sub><a href="https://x.com/ChaseBrowe32432">@ChaseBrowe32432</a> · 角色动画</sub><br><sub>0:32 · 收藏 153 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102626755655921828">▶ 播放</a> · <a href="https://x.com/ChaseBrowe32432/status/2102626755655921828">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110665151389003777"><img src="../assets/covers/2110665151389003777.jpg" width="400" alt="毕加索风格的立体俄罗斯方块"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103866429741400535"><img src="../assets/covers/2103866429741400535.jpg" width="397" alt="从距离场到斑纹：程序化猎豹"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>毕加索风格的立体俄罗斯方块</strong><br><sub><a href="https://x.com/SimonasLTU1">@SimonasLTU1</a> · 角色动画</sub><br><sub>1:30 · 收藏 152 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110665151389003777">▶ 播放</a> · <a href="https://x.com/SimonasLTU1/status/2110665151389003777">原帖</a></td>
+<td width="50%" valign="top"><strong>从距离场到斑纹：程序化猎豹</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · 角色动画</sub><br><sub>0:50 · 收藏 136 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103866429741400535">▶ 播放</a> · <a href="https://x.com/majidmanzarpour/status/2103866429741400535">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -158,51 +168,71 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111855072825217095"><img src="../assets/covers/2111855072825217095.jpg" width="225" alt="Clawd 的方块升降机械"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103989270558167364"><img src="../assets/covers/2103989270558167364.jpg" width="400" alt="非人形角色的绑骨与动画实验"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111609842184130875"><img src="../assets/covers/2111609842184130875.jpg" width="344" alt="Roadster 夜间飞行与警车追逐"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Clawd 的方块升降机械</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 角色动画</sub><br><sub>0:10 · 收藏 75 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111855072825217095">▶ 播放</a> · <a href="https://x.com/kevin_t_ngo/status/2111855072825217095">原帖</a></td>
-<td width="50%" valign="top"><strong>非人形角色的绑骨与动画实验</strong><br><sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · 角色动画</sub><br><sub>0:10 · 收藏 65 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103989270558167364">▶ 播放</a> · <a href="https://x.com/BlendiByl/status/2103989270558167364">原帖</a></td>
+<td width="50%" valign="top"><strong>Roadster 夜间飞行与警车追逐</strong><br><sub><a href="https://x.com/viktoroddy">@viktoroddy</a> · 角色动画</sub><br><sub>0:19 · 收藏 68 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111609842184130875">▶ 播放</a> · <a href="https://x.com/viktoroddy/status/2111609842184130875">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103989270558167364"><img src="../assets/covers/2103989270558167364.jpg" width="400" alt="非人形角色的绑骨与动画实验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106114830780223567"><img src="../assets/covers/2106114830780223567.jpg" width="400" alt="Hunt A Squishy：Roblox 寻找游戏"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107703620070428946"><img src="../assets/covers/2107703620070428946.jpg" width="180" alt="四个模型的果冻弹性动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>非人形角色的绑骨与动画实验</strong><br><sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · 角色动画</sub><br><sub>0:10 · 收藏 65 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103989270558167364">▶ 播放</a> · <a href="https://x.com/BlendiByl/status/2103989270558167364">原帖</a></td>
 <td width="50%" valign="top"><strong>Hunt A Squishy：Roblox 寻找游戏</strong><br><sub><a href="https://x.com/minchoi">@minchoi</a> · 角色动画</sub><br><sub>1:25 · 收藏 62 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106114830780223567">▶ 播放</a> · <a href="https://x.com/minchoi/status/2106114830780223567">原帖</a></td>
-<td width="50%" valign="top"><strong>四个模型的果冻弹性动画</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · 角色动画</sub><br><sub>0:16 · 收藏 59 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107703620070428946">▶ 播放</a> · <a href="https://x.com/ann_nnng/status/2107703620070428946">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107703620070428946"><img src="../assets/covers/2107703620070428946.jpg" width="180" alt="四个模型的果冻弹性动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107611576543093088"><img src="../assets/covers/2107611576543093088.jpg" width="400" alt="SVG 奔跑奶牛的双模型试验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107754210746134748"><img src="../assets/covers/2107754210746134748.jpg" width="180" alt="四条炸鸡腿的奔跑实验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>四个模型的果冻弹性动画</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · 角色动画</sub><br><sub>0:16 · 收藏 59 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107703620070428946">▶ 播放</a> · <a href="https://x.com/ann_nnng/status/2107703620070428946">原帖</a></td>
 <td width="50%" valign="top"><strong>SVG 奔跑奶牛的双模型试验</strong><br><sub><a href="https://x.com/GKev1n">@GKev1n</a> · 角色动画</sub><br><sub>0:18 · 收藏 58 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107611576543093088">▶ 播放</a> · <a href="https://x.com/GKev1n/status/2107611576543093088">原帖</a></td>
-<td width="50%" valign="top"><strong>四条炸鸡腿的奔跑实验</strong><br><sub><a href="https://x.com/whydeso">@whydeso</a> · 角色动画</sub><br><sub>0:17 · 收藏 52 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107754210746134748">▶ 播放</a> · <a href="https://x.com/whydeso/status/2107754210746134748">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107754210746134748"><img src="../assets/covers/2107754210746134748.jpg" width="180" alt="四条炸鸡腿的奔跑实验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102515158233034828"><img src="../assets/covers/2102515158233034828.jpg" width="400" alt="方块角色的台球幻想"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105401665360986275"><img src="../assets/covers/2105401665360986275.jpg" width="400" alt="机甲全弹发射演出"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>四条炸鸡腿的奔跑实验</strong><br><sub><a href="https://x.com/whydeso">@whydeso</a> · 角色动画</sub><br><sub>0:17 · 收藏 52 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107754210746134748">▶ 播放</a> · <a href="https://x.com/whydeso/status/2107754210746134748">原帖</a></td>
 <td width="50%" valign="top"><strong>方块角色的台球幻想</strong><br><sub><a href="https://x.com/MrPowerGamerBR">@MrPowerGamerBR</a> · 角色动画</sub><br><sub>0:47 · 收藏 52 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102515158233034828">▶ 播放</a> · <a href="https://x.com/MrPowerGamerBR/status/2102515158233034828">原帖</a></td>
-<td width="50%" valign="top"><strong>机甲全弹发射演出</strong><br><sub><a href="https://x.com/PDyv9gdatT4132">@PDyv9gdatT4132</a> · 角色动画</sub><br><sub>0:32 · 收藏 51 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105401665360986275">▶ 播放</a> · <a href="https://x.com/PDyv9gdatT4132/status/2105401665360986275">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102127683735810495"><img src="../assets/covers/2102127683735810495.jpg" width="400" alt="Minecraft 方块角色动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319151127175422"><img src="../assets/covers/2108319151127175422.jpg" width="360" alt="同一狼模型的行走与嚎叫对照"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105401665360986275"><img src="../assets/covers/2105401665360986275.jpg" width="400" alt="机甲全弹发射演出"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108572856044986846"><img src="../assets/covers/2108572856044986846.jpg" width="355" alt="用夸张短腿奔跑的毛绒牛"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>机甲全弹发射演出</strong><br><sub><a href="https://x.com/PDyv9gdatT4132">@PDyv9gdatT4132</a> · 角色动画</sub><br><sub>0:32 · 收藏 51 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105401665360986275">▶ 播放</a> · <a href="https://x.com/PDyv9gdatT4132/status/2105401665360986275">原帖</a></td>
+<td width="50%" valign="top"><strong>用夸张短腿奔跑的毛绒牛</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 角色动画</sub><br><sub>0:18 · 收藏 24 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108572856044986846">▶ 播放</a> · <a href="https://x.com/vib3coded/status/2108572856044986846">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2112258933410955383"><img src="../assets/covers/2112258933410955383.jpg" width="400" alt="Foldline：道路折上墙面的音乐赛车"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102127683735810495"><img src="../assets/covers/2102127683735810495.jpg" width="400" alt="Minecraft 方块角色动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Foldline：道路折上墙面的音乐赛车</strong><br><sub><a href="https://x.com/chetanankola">@chetanankola</a> · 角色动画</sub><br><sub>0:52 · 收藏 23 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2112258933410955383">▶ 播放</a> · <a href="https://x.com/chetanankola/status/2112258933410955383">原帖</a></td>
 <td width="50%" valign="top"><strong>Minecraft 方块角色动画</strong><br><sub><a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a> · 角色动画</sub><br><sub>3:00 · 收藏 21 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102127683735810495">▶ 播放</a> · <a href="https://x.com/AndrewOnXYZ/status/2102127683735810495">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319151127175422"><img src="../assets/covers/2108319151127175422.jpg" width="360" alt="同一狼模型的行走与嚎叫对照"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104856071869542827"><img src="../assets/covers/2104856071869542827.jpg" width="400" alt="Antverse：厨房里的蚁群视角"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>同一狼模型的行走与嚎叫对照</strong><br><sub><a href="https://x.com/maxt3chno">@maxt3chno</a> · 角色动画</sub><br><sub>0:27 · 收藏 20 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108319151127175422">▶ 播放</a> · <a href="https://x.com/maxt3chno/status/2108319151127175422">原帖</a></td>
+<td width="50%" valign="top"><strong>Antverse：厨房里的蚁群视角</strong><br><sub><a href="https://x.com/ChrisGPT">@ChrisGPT</a> · 角色动画</sub><br><sub>2:00 · 收藏 19 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104856071869542827">▶ 播放</a> · <a href="https://x.com/ChrisGPT/status/2104856071869542827">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -217,41 +247,51 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111749047598117102"><img src="../assets/covers/2111749047598117102.jpg" width="400" alt="挥鞭骑车的 SVG 鹈鹕"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104002636513206422"><img src="../assets/covers/2104002636513206422.jpg" width="400" alt="鸮鹦鹉繁殖季：演讲结尾像素动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105839618872738138"><img src="../assets/covers/2105839618872738138.jpg" width="400" alt="Minecraft 体素角色：同题模型对照"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>挥鞭骑车的 SVG 鹈鹕</strong><br><sub><a href="https://x.com/Ananth7e">@Ananth7e</a> · 角色动画</sub><br><sub>0:19 · 收藏 12 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111749047598117102">▶ 播放</a> · <a href="https://x.com/Ananth7e/status/2111749047598117102">原帖</a></td>
 <td width="50%" valign="top"><strong>鸮鹦鹉繁殖季：演讲结尾像素动画</strong><br><sub><a href="https://x.com/simonw">@simonw</a> · 角色动画</sub><br><sub>0:15 · 收藏 12 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104002636513206422">▶ 播放</a> · <a href="https://x.com/simonw/status/2104002636513206422">原帖</a></td>
-<td width="50%" valign="top"><strong>Minecraft 体素角色：同题模型对照</strong><br><sub><a href="https://x.com/TOPSTR1X">@TOPSTR1X</a> · 角色动画</sub><br><sub>0:15 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105839618872738138">▶ 播放</a> · <a href="https://x.com/TOPSTR1X/status/2105839618872738138">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105839618872738138"><img src="../assets/covers/2105839618872738138.jpg" width="400" alt="Minecraft 体素角色：同题模型对照"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111524747037278651"><img src="../assets/covers/2111524747037278651.jpg" width="400" alt="体素传送门实验室"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107505751111479297"><img src="../assets/covers/2107505751111479297.jpg" width="231" alt="Minecraft 木星超级光束"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Minecraft 体素角色：同题模型对照</strong><br><sub><a href="https://x.com/TOPSTR1X">@TOPSTR1X</a> · 角色动画</sub><br><sub>0:15 · 收藏 11 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105839618872738138">▶ 播放</a> · <a href="https://x.com/TOPSTR1X/status/2105839618872738138">原帖</a></td>
 <td width="50%" valign="top"><strong>体素传送门实验室</strong><br><sub><a href="https://x.com/SadAlbert10">@SadAlbert10</a> · 角色动画</sub><br><sub>0:56 · 收藏 10 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111524747037278651">▶ 播放</a> · <a href="https://x.com/SadAlbert10/status/2111524747037278651">原帖</a></td>
-<td width="50%" valign="top"><strong>Minecraft 木星超级光束</strong><br><sub><a href="https://x.com/ottollm">@ottollm</a> · 角色动画</sub><br><sub>0:28 · 收藏 8 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107505751111479297">▶ 播放</a> · <a href="https://x.com/ottollm/status/2107505751111479297">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107505751111479297"><img src="../assets/covers/2107505751111479297.jpg" width="231" alt="Minecraft 木星超级光束"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105556318132310361"><img src="../assets/covers/2105556318132310361.jpg" width="400" alt="单张插画到可对话的 Live2D 风角色"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105759213473399098"><img src="../assets/covers/2105759213473399098.jpg" width="297" alt="凌晨两点的像素东京"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Minecraft 木星超级光束</strong><br><sub><a href="https://x.com/ottollm">@ottollm</a> · 角色动画</sub><br><sub>0:28 · 收藏 8 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107505751111479297">▶ 播放</a> · <a href="https://x.com/ottollm/status/2107505751111479297">原帖</a></td>
 <td width="50%" valign="top"><strong>单张插画到可对话的 Live2D 风角色</strong><br><sub><a href="https://x.com/shinshin86">@shinshin86</a> · 角色动画</sub><br><sub>0:10 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105556318132310361">▶ 播放</a> · <a href="https://x.com/shinshin86/status/2105556318132310361">原帖</a></td>
-<td width="50%" valign="top"><strong>凌晨两点的像素东京</strong><br><sub><a href="https://x.com/Aurelien_Gz">@Aurelien_Gz</a> · 角色动画</sub><br><sub>0:15 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105759213473399098">▶ 播放</a> · <a href="https://x.com/Aurelien_Gz/status/2105759213473399098">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105759213473399098"><img src="../assets/covers/2105759213473399098.jpg" width="297" alt="凌晨两点的像素东京"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107738086079909920"><img src="../assets/covers/2107738086079909920.jpg" width="232" alt="吉祥物的矢量骨骼动画面板"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>凌晨两点的像素东京</strong><br><sub><a href="https://x.com/Aurelien_Gz">@Aurelien_Gz</a> · 角色动画</sub><br><sub>0:15 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105759213473399098">▶ 播放</a> · <a href="https://x.com/Aurelien_Gz/status/2105759213473399098">原帖</a></td>
+<td width="50%" valign="top"><strong>吉祥物的矢量骨骼动画面板</strong><br><sub><a href="https://x.com/okooo5km">@okooo5km</a> · 角色动画</sub><br><sub>0:21 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107738086079909920">▶ 播放</a> · <a href="https://x.com/okooo5km/status/2107738086079909920">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111510096908013784"><img src="../assets/covers/2111510096908013784.jpg" width="400" alt="When Lights Fade：会歌唱的异星世界"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102860657158992120"><img src="../assets/covers/2102860657158992120.jpg" width="400" alt="Clawd 与夜空流星"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>吉祥物的矢量骨骼动画面板</strong><br><sub><a href="https://x.com/okooo5km">@okooo5km</a> · 角色动画</sub><br><sub>0:21 · 收藏 7 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107738086079909920">▶ 播放</a> · <a href="https://x.com/okooo5km/status/2107738086079909920">原帖</a></td>
+<td width="50%" valign="top"><strong>When Lights Fade：会歌唱的异星世界</strong><br><sub><a href="https://x.com/georgevibing">@georgevibing</a> · 角色动画</sub><br><sub>0:40 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111510096908013784">▶ 播放</a> · <a href="https://x.com/georgevibing/status/2111510096908013784">原帖</a></td>
 <td width="50%" valign="top"><strong>Clawd 与夜空流星</strong><br><sub><a href="https://x.com/other__reality">@other__reality</a> · 角色动画</sub><br><sub>0:11 · 收藏 6 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102860657158992120">▶ 播放</a> · <a href="https://x.com/other__reality/status/2102860657158992120">原帖</a></td>
 </tr>
 </tbody>
@@ -267,12 +307,22 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111477720806834269"><img src="../assets/covers/2111477720806834269.jpg" width="400" alt="伊斯坦布尔的飞行出租车游戏"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108157505993859109"><img src="../assets/covers/2108157505993859109.jpg" width="400" alt="Minecraft 北斗七星的光束演出"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108099981034832007"><img src="../assets/covers/2108099981034832007.jpg" width="400" alt="小乔游戏资产的 AI 辅助重新渲染"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>伊斯坦布尔的飞行出租车游戏</strong><br><sub><a href="https://x.com/AIMevzulari">@AIMevzulari</a> · 角色动画</sub><br><sub>0:40 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111477720806834269">▶ 播放</a> · <a href="https://x.com/AIMevzulari/status/2111477720806834269">原帖</a></td>
 <td width="50%" valign="top"><strong>Minecraft 北斗七星的光束演出</strong><br><sub><a href="https://x.com/ottollm">@ottollm</a> · 角色动画</sub><br><sub>0:31 · 收藏 4 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108157505993859109">▶ 播放</a> · <a href="https://x.com/ottollm/status/2108157505993859109">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108099981034832007"><img src="../assets/covers/2108099981034832007.jpg" width="400" alt="小乔游戏资产的 AI 辅助重新渲染"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105109747775238392"><img src="../assets/covers/2105109747775238392.jpg" width="380" alt="纯代码白尾鹿的草原步态"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>小乔游戏资产的 AI 辅助重新渲染</strong><br><sub><a href="https://x.com/baoweiheihei">@baoweiheihei</a> · 角色动画</sub><br><sub>0:10 · 收藏 3 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108099981034832007">▶ 播放</a> · <a href="https://x.com/baoweiheihei/status/2108099981034832007">原帖</a></td>
+<td width="50%" valign="top"><strong>纯代码白尾鹿的草原步态</strong><br><sub><a href="https://x.com/majidmanzarpour">@majidmanzarpour</a> · 角色动画</sub><br><sub>0:25 · 收藏 2 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105109747775238392">▶ 播放</a> · <a href="https://x.com/majidmanzarpour/status/2105109747775238392">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
