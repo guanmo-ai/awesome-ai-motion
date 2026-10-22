@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-163 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+168 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -51,6 +51,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Peach Blossom Spring guided experience](https://s.baoyu.io/files/taohuayuan/index.html)
   [Link source](https://x.com/dotey/status/2102940980379017293) · Link checked 2026-09-29 05:50 UTC
 
+## [A Cel-Shaded Journey through Autumn Rails](../cases/2102543638689460488.en.md) · @ishuagra02
+
+- **Public web page**：[The creator's interactive scene](https://autumn-line.vercel.app/)
+  [Link source](https://x.com/ishuagra02/status/2102543638689460488) · Link checked 2026-10-22 08:41 UTC
+
 ## [A felt character: Sol and Opus with the same reference](../cases/2105245039521628213.en.md) · @JakubAntowski
 
 - **Direct source**：[GPT vs Opus character comparison source and prompt](https://github.com/okonio/felt-dot-gpt-vs-opus/tree/7fbaf862bc8b92e481137fc11723a67cd7f881dc) · No license specified
@@ -77,6 +82,12 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[One Prompt video and making-of](https://pdoomvideo.com/opus-5-5-video/?ref=x-post-oneprompt)
   The making-of article linked in the creator’s reply, with the matching video and instruction; it does not publish the complete MV project.
   [Link source](https://x.com/ppop123/status/2105230820327964758) · Link checked 2026-09-30 10:06 UTC
+
+## [Earshot: Every Sound Is Code](../cases/2111927727318245426.en.md) · @LexnLin
+
+- **Related tool**：[Earshot code-generated sound tool](https://github.com/Leonxlnx/earshot/) · [MIT](https://github.com/Leonxlnx/earshot/blob/main/LICENSE)
+  The creator identifies this tool as the sound source. This is a general sound tool; the complete film project was not verified.
+  [Link source](https://x.com/LexnLin/status/2111927730933575857) · Link checked 2026-10-22 08:51 UTC
 
 ## [A Fully Coded Launch Film for a Fictional Calendar App](../cases/2104148233106723099.en.md) · @LexnLin
 
@@ -210,6 +221,14 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Building demo and page implementation](https://re-presentation.jp/tool/KigumiArchitecture.html)
   The page contains implementation code; no open-source license was found.
   [Link source](https://x.com/yoshifujidesign/status/2105746986339283305) · Link checked 2026-10-16 06:52 UTC
+
+## [Six Orbital Elements Explained in Interactive 3D](../cases/2105200070446751750.en.md) · @getBack\_1969\_
+
+- **Public web page**：[The creator's interactive scene](https://ki-math.github.io/orbital-elements-viewer/)
+  [Link source](https://x.com/getBack_1969_/status/2105200070446751750) · Link checked 2026-10-22 10:25 UTC
+- **Direct source**：[Orbital elements project source](https://github.com/Ki-math/orbital-elements-viewer) · No license specified
+  The README links the same demo and lists its scene and orbital-calculation files. No overall license was found.
+  [Link source](https://ki-math.github.io/orbital-elements-viewer/) · Link checked 2026-10-22 10:31 UTC
 
 ## [Bicycle Braking and Steering in 3D](../cases/2107111191210520608.en.md) · @RyanSael
 
@@ -426,6 +445,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Brush animation starter kit](https://github.com/JohnHeibel/ClaudeAnimationBase) · MIT
   Creator-linked starter kit whose README credits Opus 5.5 for test animations. MIT applies to code; asset rights are separate.
   [Link source](https://x.com/other__reality/status/2102865334298632574) · Link checked 2026-10-19 09:12 UTC
+
+## [Clawd and Codey in a Game Battle](../cases/2107502672907506162.en.md) · @LexnLin
+
+- **Public web page**：[The creator's interactive scene](https://merge-conflict-delta.vercel.app/)
+  [Link source](https://x.com/LexnLin/status/2107502672907506162) · Link checked 2026-10-22 08:41 UTC
 
 ## [A Nighttime Roadster Flight and Police Chase](../cases/2111609842184130875.en.md) · @viktoroddy
 
@@ -703,6 +727,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[ENDGAME playable work](https://www.spawn.co/@majid/endgame/play)
   The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
   [Link source](https://x.com/majidmanzarpour/status/2107633027920920824) · Link checked 2026-10-09 04:02 UTC
+
+## [A Beach of Glowing Particles and Ribbons](../cases/2102920408743678129.en.md) · @ishuagra02
+
+- **Public web page**：[The creator's interactive scene](https://particle-beach.vercel.app/)
+  [Link source](https://x.com/ishuagra02/status/2102920408743678129) · Link checked 2026-10-22 08:41 UTC
 
 ## [Ladprao Flood Ski: drains and water chases](../cases/2103966021451465008.en.md) · @vibechine
 

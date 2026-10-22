@@ -50,8 +50,17 @@ test('持续补充的案例 JSON 有独立上限，超限仍被拒绝',t=>{
   fs.mkdirSync(path.join(root,'data'));
   const catalog=path.join(root,'data/cases.json');
   const json=JSON.stringify({schemaVersion:2,name:'Awesome AI Motion',repository:'https://github.com/guanmo-ai/awesome-ai-motion',cases:[]});
-  fs.writeFileSync(catalog,json+' '.repeat(4_000_000-Buffer.byteLength(json)));
+  fs.writeFileSync(catalog,json+' '.repeat(4_012_460-Buffer.byteLength(json)));
+  assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[],'正常增长到旧上限之外的案例库可以发布');
+  fs.writeFileSync(catalog,json+' '.repeat(5_000_000-Buffer.byteLength(json)));
   assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[]);
+  const secret='ghp_'+'A'.repeat(36);
+  const sensitiveJson=json.replace('Awesome AI Motion',`Awesome AI Motion ${secret}`);
+  fs.writeFileSync(catalog,sensitiveJson+' '.repeat(5_000_000-Buffer.byteLength(sensitiveJson)));
+  const privacyErrors=checkRelease(root,{checkIdentity:false}).errors;
+  assert.ok(privacyErrors.some(error=>error.includes('疑似访问令牌')),'提高容量不跳过原有隐私扫描');
+  assert.ok(!privacyErrors.join('\n').includes(secret));
+  fs.writeFileSync(catalog,json+' '.repeat(5_000_000-Buffer.byteLength(json)));
   fs.appendFileSync(catalog,' ');
   assert.ok(checkRelease(root,{checkIdentity:false}).errors.some(error=>error.includes('文件过大')&&error.includes('cases.json')));
   execFileSync('git',['add','data/cases.json'],{cwd:root});

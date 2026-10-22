@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-163 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+168 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -51,6 +51,11 @@
 - **公开网页**：[桃花源记：循文入境](https://s.baoyu.io/files/taohuayuan/index.html)
   [链接出处](https://x.com/dotey/status/2102940980379017293) · 链接核对 2026-09-29 05:50 UTC
 
+## [秋林铁轨的卡通三维漫游](../cases/2102543638689460488.md) · @ishuagra02
+
+- **公开网页**：[作者公开的交互场景](https://autumn-line.vercel.app/)
+  [链接出处](https://x.com/ishuagra02/status/2102543638689460488) · 链接核对 2026-10-22 08:41 UTC
+
 ## [毛绒角色：Sol 与 Opus 同参考对比](../cases/2105245039521628213.md) · @JakubAntowski
 
 - **直接源码**：[GPT 与 Opus 角色对照工程和提示词](https://github.com/okonio/felt-dot-gpt-vs-opus/tree/7fbaf862bc8b92e481137fc11723a67cd7f881dc) · 未标明许可
@@ -77,6 +82,12 @@
 - **公开网页**：[One Prompt 作品与制作说明](https://pdoomvideo.com/opus-5-5-video/?ref=x-post-oneprompt)
   作者在回复中链接的制作文章，含对应作品视频和原始指令；完整 MV 工程未在此公开。
   [链接出处](https://x.com/ppop123/status/2105230820327964758) · 链接核对 2026-09-30 10:06 UTC
+
+## [Earshot：每个声音都是代码](../cases/2111927727318245426.md) · @LexnLin
+
+- **相关工具**：[Earshot 代码音效工具](https://github.com/Leonxlnx/earshot/) · [MIT](https://github.com/Leonxlnx/earshot/blob/main/LICENSE)
+  作者说明该片使用此工具制作声音；此仓库是通用音效工具，未核得本片完整工程。
+  [链接出处](https://x.com/LexnLin/status/2111927730933575857) · 链接核对 2026-10-22 08:51 UTC
 
 ## [虚构日历 App 的全代码发布片](../cases/2104148233106723099.md) · @LexnLin
 
@@ -210,6 +221,14 @@
 - **公开网页**：[作者演示及页面实现代码（许可未注明）](https://re-presentation.jp/tool/KigumiArchitecture.html)
   页面有实现代码，未找到开放源码许可。
   [链接出处](https://x.com/yoshifujidesign/status/2105746986339283305) · 链接核对 2026-10-16 06:52 UTC
+
+## [轨道六要素的交互式三维讲解](../cases/2105200070446751750.md) · @getBack\_1969\_
+
+- **公开网页**：[作者公开的交互场景](https://ki-math.github.io/orbital-elements-viewer/)
+  [链接出处](https://x.com/getBack_1969_/status/2105200070446751750) · 链接核对 2026-10-22 10:25 UTC
+- **直接源码**：[轨道六要素的作品源码](https://github.com/Ki-math/orbital-elements-viewer) · 未标明许可
+  仓库README链接同一演示并列出对应场景与轨道计算文件；未发现整体许可证。
+  [链接出处](https://ki-math.github.io/orbital-elements-viewer/) · 链接核对 2026-10-22 10:31 UTC
 
 ## [自行车刹车与转向的三维讲解](../cases/2107111191210520608.md) · @RyanSael
 
@@ -426,6 +445,11 @@
 - **相关工具**：[笔触动画起步工程](https://github.com/JohnHeibel/ClaudeAnimationBase) · MIT
   作者提供的通用起步工程，README 明示测试动画使用 Opus 5.5；MIT 仅指代码，素材权利单独核对。
   [链接出处](https://x.com/other__reality/status/2102865334298632574) · 链接核对 2026-10-19 09:12 UTC
+
+## [Clawd 与 Codey 的游戏战斗](../cases/2107502672907506162.md) · @LexnLin
+
+- **公开网页**：[作者公开的交互场景](https://merge-conflict-delta.vercel.app/)
+  [链接出处](https://x.com/LexnLin/status/2107502672907506162) · 链接核对 2026-10-22 08:41 UTC
 
 ## [Roadster 夜间飞行与警车追逐](../cases/2111609842184130875.md) · @viktoroddy
 
@@ -703,6 +727,11 @@
 - **公开网页**：[ENDGAME 试玩](https://www.spawn.co/@majid/endgame/play)
   同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
   [链接出处](https://x.com/majidmanzarpour/status/2107633027920920824) · 链接核对 2026-10-09 04:02 UTC
+
+## [粒子与光带组成的海滨夜景](../cases/2102920408743678129.md) · @ishuagra02
+
+- **公开网页**：[作者公开的交互场景](https://particle-beach.vercel.app/)
+  [链接出处](https://x.com/ishuagra02/status/2102920408743678129) · 链接核对 2026-10-22 08:41 UTC
 
 ## [Ladprao Flood Ski：排水与水上追逐](../cases/2103966021451465008.md) · @vibechine
 
