@@ -76,7 +76,7 @@ test('中英文发现列表有独立预算，超限和其他 Markdown 仍被拒�
   t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
   execFileSync('git',['init','-q'],{cwd:root});
   fs.mkdirSync(path.join(root,'browse'));
-  for(const file of ['discoveries.md','discoveries.en.md'])fs.writeFileSync(path.join(root,'browse',file),' '.repeat(1_000_000));
+  for(const file of ['discoveries.md','discoveries.en.md'])fs.writeFileSync(path.join(root,'browse',file),' '.repeat(1_200_000));
   assert.deepEqual(checkRelease(root,{checkIdentity:false}).errors,[]);
   for(const file of ['discoveries.md','discoveries.en.md'])fs.appendFileSync(path.join(root,'browse',file),' ');
   fs.writeFileSync(path.join(root,'browse/motion.md'),' '.repeat(500_001));
