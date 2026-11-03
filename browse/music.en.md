@@ -2,176 +2,186 @@
 
 # Music & lyrics
 
-113 works. Click a cover to play; works without gallery video open on X.
+132 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="../assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107799962037911786"><img src="../assets/covers/2107799962037911786.jpg" width="400" alt="A Jazz Record Card with Tonearm, Beats and Spectrum"></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong>Claude Pop: a mixed-workflow music video</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · Music &amp; lyrics</sub><br><sub>2:22 · Bookmarks 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">▶ Play</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
-<td width="50%" valign="top"><strong>A Jazz Record Card with Tonearm, Beats and Spectrum</strong><br><sub><a href="https://x.com/tkz_aiart">@tkz_aiart</a> · Music &amp; lyrics</sub><br><sub>0:15 · Bookmarks 58 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107799962037911786">▶ Play</a> · <a href="https://x.com/tkz_aiart/status/2107799962037911786">Original post</a></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104257855142474136"><img src="../assets/covers/2104257855142474136.jpg" width="388" alt="A Canvas Piano and Black Cat at Night"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109087249572749553"><img src="../assets/covers/2109087249572749553.jpg" width="400" alt="Turn It Up Now: A Kinetic Lyric Video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Jazz Record Card with Tonearm, Beats and Spectrum</strong><br><sub><a href="https://x.com/tkz_aiart">@tkz_aiart</a> · Music &amp; lyrics</sub><br><sub>0:15 · Bookmarks 58 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107799962037911786">▶ Play</a> · <a href="https://x.com/tkz_aiart/status/2107799962037911786">Original post</a></td>
 <td width="50%" valign="top"><strong>A Canvas Piano and Black Cat at Night</strong><br><sub><a href="https://x.com/0xCodez">@0xCodez</a> · Music &amp; lyrics</sub><br><sub>1:25 · Bookmarks 35 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104257855142474136">▶ Play</a> · <a href="https://x.com/0xCodez/status/2104257855142474136">Original post</a></td>
-<td width="50%" valign="top"><strong>Turn It Up Now: A Kinetic Lyric Video</strong><br><sub><a href="https://x.com/kloss_xyz">@kloss_xyz</a> · Music &amp; lyrics</sub><br><sub>1:50 · Bookmarks 34 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109087249572749553">▶ Play</a> · <a href="https://x.com/kloss_xyz/status/2109087249572749553">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109087249572749553"><img src="../assets/covers/2109087249572749553.jpg" width="400" alt="Turn It Up Now: A Kinetic Lyric Video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102852546620744010"><img src="../assets/covers/2102852546620744010.jpg" width="400" alt="A Graphic Song about the Jev Model"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103173729656459455"><img src="../assets/covers/2103173729656459455.jpg" width="180" alt="Twenty-Second Music Video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Turn It Up Now: A Kinetic Lyric Video</strong><br><sub><a href="https://x.com/kloss_xyz">@kloss_xyz</a> · Music &amp; lyrics</sub><br><sub>1:50 · Bookmarks 34 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109087249572749553">▶ Play</a> · <a href="https://x.com/kloss_xyz/status/2109087249572749553">Original post</a></td>
 <td width="50%" valign="top"><strong>A Graphic Song about the Jev Model</strong><br><sub><a href="https://x.com/goodside">@goodside</a> · Music &amp; lyrics</sub><br><sub>2:20 · Bookmarks 29 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102852546620744010">▶ Play</a> · <a href="https://x.com/goodside/status/2102852546620744010">Original post</a></td>
-<td width="50%" valign="top"><strong>Twenty-Second Music Video</strong><br><sub><a href="https://x.com/anjmaxx">@anjmaxx</a> · Music &amp; lyrics</sub><br><sub>0:20 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103173729656459455">▶ Play</a> · <a href="https://x.com/anjmaxx/status/2103173729656459455">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103173729656459455"><img src="../assets/covers/2103173729656459455.jpg" width="180" alt="Twenty-Second Music Video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107093105992417482"><img src="../assets/covers/2107093105992417482.jpg" width="400" alt="Dynamic visuals for a Suno song"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103740786177134910"><img src="../assets/covers/2103740786177134910.jpg" width="400" alt="A Neon Fractal VJ Experiment"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Twenty-Second Music Video</strong><br><sub><a href="https://x.com/anjmaxx">@anjmaxx</a> · Music &amp; lyrics</sub><br><sub>0:20 · Bookmarks 7 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103173729656459455">▶ Play</a> · <a href="https://x.com/anjmaxx/status/2103173729656459455">Original post</a></td>
 <td width="50%" valign="top"><strong>Dynamic visuals for a Suno song</strong><br><sub><a href="https://x.com/hungryturbo">@hungryturbo</a> · Music &amp; lyrics</sub><br><sub>2:37 · Bookmarks 6 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107093105992417482">▶ Play</a> · <a href="https://x.com/hungryturbo/status/2107093105992417482">Original post</a></td>
-<td width="50%" valign="top"><strong>A Neon Fractal VJ Experiment</strong><br><sub><a href="https://x.com/yama_kiyo">@yama_kiyo</a> · Music &amp; lyrics</sub><br><sub>0:30 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103740786177134910">▶ Play</a> · <a href="https://x.com/yama_kiyo/status/2103740786177134910">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103740786177134910"><img src="../assets/covers/2103740786177134910.jpg" width="400" alt="A Neon Fractal VJ Experiment"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103741636635496583"><img src="../assets/covers/2103741636635496583.jpg" width="127" alt="An animated lyric video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107455787823952091"><img src="../assets/covers/2107455787823952091.jpg" width="400" alt="AI Takes Over: a song-visual experiment"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Neon Fractal VJ Experiment</strong><br><sub><a href="https://x.com/yama_kiyo">@yama_kiyo</a> · Music &amp; lyrics</sub><br><sub>0:30 · Bookmarks 3 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103740786177134910">▶ Play</a> · <a href="https://x.com/yama_kiyo/status/2103740786177134910">Original post</a></td>
 <td width="50%" valign="top"><strong>An animated lyric video</strong><br><sub><a href="https://x.com/kurahu_capten">@kurahu_capten</a> · Music &amp; lyrics</sub><br><sub>0:48 · Bookmarks 2</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103741636635496583">▶ Play</a> · <a href="https://x.com/kurahu_capten/status/2103741636635496583">Original post</a></td>
-<td width="50%" valign="top"><strong>AI Takes Over: a song-visual experiment</strong><br><sub><a href="https://x.com/Dheepanratnam">@Dheepanratnam</a> · Music &amp; lyrics</sub><br><sub>1:00 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107455787823952091">▶ Play</a> · <a href="https://x.com/Dheepanratnam/status/2107455787823952091">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107455787823952091"><img src="../assets/covers/2107455787823952091.jpg" width="400" alt="AI Takes Over: a song-visual experiment"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102899866762440893"><img src="../assets/covers/2102899866762440893.jpg" width="400" alt="Collision-Driven Musical Machine"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106720729265795579"><img src="../assets/covers/2106720729265795579.jpg" width="400" alt="A Hand-Drawn Lyric Film for Founders"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>AI Takes Over: a song-visual experiment</strong><br><sub><a href="https://x.com/Dheepanratnam">@Dheepanratnam</a> · Music &amp; lyrics</sub><br><sub>1:00 · Bookmarks 2 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107455787823952091">▶ Play</a> · <a href="https://x.com/Dheepanratnam/status/2107455787823952091">Original post</a></td>
 <td width="50%" valign="top"><strong>Collision-Driven Musical Machine</strong><br><sub><a href="https://x.com/KamStudioLabs">@KamStudioLabs</a> · Music &amp; lyrics</sub><br><sub>0:47 · Bookmarks 1 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102899866762440893">▶ Play</a> · <a href="https://x.com/KamStudioLabs/status/2102899866762440893">Original post</a></td>
-<td width="50%" valign="top"><strong>A Hand-Drawn Lyric Film for Founders</strong><br><sub><a href="https://x.com/YanivM79">@YanivM79</a> · Music &amp; lyrics</sub><br><sub>3:50 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106720729265795579">▶ Play</a> · <a href="https://x.com/YanivM79/status/2106720729265795579">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106720729265795579"><img src="../assets/covers/2106720729265795579.jpg" width="400" alt="A Hand-Drawn Lyric Film for Founders"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104254444603076730"><img src="../assets/covers/2104254444603076730.jpg" width="400" alt="Code drawn music video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105230653457650116"><img src="../assets/covers/2105230653457650116.jpg" width="400" alt="One Prompt: A p5.js Music Video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Hand-Drawn Lyric Film for Founders</strong><br><sub><a href="https://x.com/YanivM79">@YanivM79</a> · Music &amp; lyrics</sub><br><sub>3:50 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106720729265795579">▶ Play</a> · <a href="https://x.com/YanivM79/status/2106720729265795579">Original post</a></td>
 <td width="50%" valign="top"><strong>Code drawn music video</strong><br><sub><a href="https://x.com/linus5x">@linus5x</a> · Music &amp; lyrics</sub><br><sub>1:45 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104254444603076730">▶ Play</a> · <a href="https://x.com/linus5x/status/2104254444603076730">Original post</a></td>
-<td width="50%" valign="top"><strong>One Prompt: A p5.js Music Video</strong><br><sub><a href="https://x.com/ppop123">@ppop123</a> · Music &amp; lyrics</sub><br><sub>2:10 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105230653457650116">▶ Play</a> · <a href="https://x.com/ppop123/status/2105230653457650116">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105230653457650116"><img src="../assets/covers/2105230653457650116.jpg" width="400" alt="One Prompt: A p5.js Music Video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106772719614234885"><img src="../assets/covers/2106772719614234885.jpg" width="400" alt="Paper Characters in a Music Animation about Mean Comments"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107449614412493219"><img src="../assets/covers/2107449614412493219.jpg" width="297" alt="Growl Engine: JavaScript bass music"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>One Prompt: A p5.js Music Video</strong><br><sub><a href="https://x.com/ppop123">@ppop123</a> · Music &amp; lyrics</sub><br><sub>2:10 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105230653457650116">▶ Play</a> · <a href="https://x.com/ppop123/status/2105230653457650116">Original post</a></td>
 <td width="50%" valign="top"><strong>Paper Characters in a Music Animation about Mean Comments</strong><br><sub><a href="https://x.com/thewevr">@thewevr</a> · Music &amp; lyrics</sub><br><sub>3:20 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106772719614234885">▶ Play</a> · <a href="https://x.com/thewevr/status/2106772719614234885">Original post</a></td>
-<td width="50%" valign="top"><strong>Growl Engine: JavaScript bass music</strong><br><sub><a href="https://x.com/HOTHEAD01TH">@HOTHEAD01TH</a> · Music &amp; lyrics</sub><br><sub>2:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107449614412493219">▶ Play</a> · <a href="https://x.com/HOTHEAD01TH/status/2107449614412493219">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107449614412493219"><img src="../assets/covers/2107449614412493219.jpg" width="297" alt="Growl Engine: JavaScript bass music"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110880079177777356"><img src="../assets/covers/2110880079177777356.jpg" width="400" alt="Lagos Life"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102610626321490404"><img src="../assets/covers/2102610626321490404.jpg" width="400" alt="Music Film About Functional Emotions"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Growl Engine: JavaScript bass music</strong><br><sub><a href="https://x.com/HOTHEAD01TH">@HOTHEAD01TH</a> · Music &amp; lyrics</sub><br><sub>2:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107449614412493219">▶ Play</a> · <a href="https://x.com/HOTHEAD01TH/status/2107449614412493219">Original post</a></td>
 <td width="50%" valign="top"><strong>Lagos Life</strong><br><sub><a href="https://x.com/kaykluz">@kaykluz</a> · Music &amp; lyrics</sub><br><sub>4:00 · Bookmarks 0 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110880079177777356">▶ Play</a> · <a href="https://x.com/kaykluz/status/2110880079177777356">Original post</a></td>
-<td width="50%" valign="top"><strong>Music Film About Functional Emotions</strong><br><sub><a href="https://x.com/eudaemonea">@eudaemonea</a> · Music &amp; lyrics</sub><br><sub>6:13 · Bookmarks 2,119 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102610626321490404">▶ Play</a> · <a href="https://x.com/eudaemonea/status/2102610626321490404">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103416250743574988"><img src="../assets/covers/2103416250743574988.jpg" width="126" alt="Japanese Kinetic Type in a Vertical MV"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103722556918464968"><img src="../assets/covers/2103722556918464968.jpg" width="400" alt="Japanese-Style Glitch Character MV"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Japanese Kinetic Type in a Vertical MV</strong><br><sub><a href="https://x.com/itnavi2022">@itnavi2022</a> · Music &amp; lyrics</sub><br><sub>0:15 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103416250743574988">▶ Play</a> · <a href="https://x.com/itnavi2022/status/2103416250743574988">Original post</a></td>
+<td width="50%" valign="top"><strong>Japanese-Style Glitch Character MV</strong><br><sub><a href="https://x.com/pound75423">@pound75423</a> · Music &amp; lyrics</sub><br><sub>1:04 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103722556918464968">▶ Play</a> · <a href="https://x.com/pound75423/status/2103722556918464968">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104048491295318358"><img src="../assets/covers/2104048491295318358.jpg" width="400" alt="8-Bit RPG Music and Graphic Beats"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104809910152425483"><img src="../assets/covers/2104809910152425483.jpg" width="400" alt="Perler-Bead Character Lyric Video"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>8-Bit RPG Music and Graphic Beats</strong><br><sub><a href="https://x.com/gigabit_million">@gigabit_million</a> · Music &amp; lyrics</sub><br><sub>1:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104048491295318358">▶ Play</a> · <a href="https://x.com/gigabit_million/status/2104048491295318358">Original post</a></td>
+<td width="50%" valign="top"><strong>Perler-Bead Character Lyric Video</strong><br><sub><a href="https://x.com/hahazwei">@hahazwei</a> · Music &amp; lyrics</sub><br><sub>1:05 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104809910152425483">▶ Play</a> · <a href="https://x.com/hahazwei/status/2104809910152425483">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102610626321490404"><img src="../assets/covers/2102610626321490404.jpg" width="400" alt="Music Film About Functional Emotions"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105714071681343654"><img src="../assets/covers/2105714071681343654.jpg" width="400" alt="EVIL PLAN: Gold Typography and Lyric Transformations"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482164193165711"><img src="../assets/covers/2103482164193165711.jpg" width="225" alt="Piano composition and JavaScript animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Music Film About Functional Emotions</strong><br><sub><a href="https://x.com/eudaemonea">@eudaemonea</a> · Music &amp; lyrics</sub><br><sub>6:13 · Bookmarks 2,119 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102610626321490404">▶ Play</a> · <a href="https://x.com/eudaemonea/status/2102610626321490404">Original post</a></td>
 <td width="50%" valign="top"><strong>EVIL PLAN: Gold Typography and Lyric Transformations</strong><br><sub><a href="https://x.com/_brightmirror">@_brightmirror</a> · Music &amp; lyrics</sub><br><sub>6:18 · Bookmarks 1,583 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105714071681343654">▶ Play</a> · <a href="https://x.com/_brightmirror/status/2105714071681343654">Original post</a></td>
-<td width="50%" valign="top"><strong>Piano composition and JavaScript animation</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · Music &amp; lyrics</sub><br><sub>0:45 · Bookmarks 1,209 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482164193165711">▶ Play</a> · <a href="https://x.com/kevin_t_ngo/status/2103482164193165711">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482164193165711"><img src="../assets/covers/2103482164193165711.jpg" width="225" alt="Piano composition and JavaScript animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104111432149164474"><img src="../assets/covers/2104111432149164474.jpg" width="400" alt="Neon Overdrive: Evangelion-Inspired Audiovisuals"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131419853160477"><img src="../assets/covers/2104131419853160477.jpg" width="400" alt="The Next Word: A Turkish Music Video with a Yellow Character"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Piano composition and JavaScript animation</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · Music &amp; lyrics</sub><br><sub>0:45 · Bookmarks 1,209 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103482164193165711">▶ Play</a> · <a href="https://x.com/kevin_t_ngo/status/2103482164193165711">Original post</a></td>
 <td width="50%" valign="top"><strong>Neon Overdrive: Evangelion-Inspired Audiovisuals</strong><br><sub><a href="https://x.com/LuisBizarro">@LuisBizarro</a> · Music &amp; lyrics</sub><br><sub>3:04 · Bookmarks 1,168 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104111432149164474">▶ Play</a> · <a href="https://x.com/LuisBizarro/status/2104111432149164474">Original post</a></td>
-<td width="50%" valign="top"><strong>The Next Word: A Turkish Music Video with a Yellow Character</strong><br><sub><a href="https://x.com/Avenoxai">@Avenoxai</a> · Music &amp; lyrics</sub><br><sub>3:13 · Bookmarks 1,158 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131419853160477">▶ Play</a> · <a href="https://x.com/Avenoxai/status/2104131419853160477">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131419853160477"><img src="../assets/covers/2104131419853160477.jpg" width="400" alt="The Next Word: A Turkish Music Video with a Yellow Character"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102803889183736141"><img src="../assets/covers/2102803889183736141.jpg" width="400" alt="Code-Synthesized Rap Music Video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111324712500621694"><img src="../assets/covers/2111324712500621694.jpg" width="400" alt="A Cartoon Character and Kinetic-Lyrics Music Video"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>The Next Word: A Turkish Music Video with a Yellow Character</strong><br><sub><a href="https://x.com/Avenoxai">@Avenoxai</a> · Music &amp; lyrics</sub><br><sub>3:13 · Bookmarks 1,158 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104131419853160477">▶ Play</a> · <a href="https://x.com/Avenoxai/status/2104131419853160477">Original post</a></td>
 <td width="50%" valign="top"><strong>Code-Synthesized Rap Music Video</strong><br><sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · Music &amp; lyrics</sub><br><sub>3:11 · Bookmarks 852 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102803889183736141">▶ Play</a> · <a href="https://x.com/aj_dev_smith/status/2102803889183736141">Original post</a></td>
-<td width="50%" valign="top"><strong>A Cartoon Character and Kinetic-Lyrics Music Video</strong><br><sub><a href="https://x.com/azukichan_ai_">@azukichan_ai_</a> · Music &amp; lyrics</sub><br><sub>2:28 · Bookmarks 687 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111324712500621694">▶ Play</a> · <a href="https://x.com/azukichan_ai_/status/2111324712500621694">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111324712500621694"><img src="../assets/covers/2111324712500621694.jpg" width="400" alt="A Cartoon Character and Kinetic-Lyrics Music Video"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102575577563570450"><img src="../assets/covers/2102575577563570450.jpg" width="400" alt="Character Pop-Punk Music Film"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107696042053431360"><img src="../assets/covers/2107696042053431360.jpg" width="400" alt="A Spectrogram Becomes a Magma Canyon and an Eye"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Cartoon Character and Kinetic-Lyrics Music Video</strong><br><sub><a href="https://x.com/azukichan_ai_">@azukichan_ai_</a> · Music &amp; lyrics</sub><br><sub>2:28 · Bookmarks 687 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111324712500621694">▶ Play</a> · <a href="https://x.com/azukichan_ai_/status/2111324712500621694">Original post</a></td>
 <td width="50%" valign="top"><strong>Character Pop-Punk Music Film</strong><br><sub><a href="https://x.com/aj_dev_smith">@aj_dev_smith</a> · Music &amp; lyrics</sub><br><sub>2:30 · Bookmarks 665 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102575577563570450">▶ Play</a> · <a href="https://x.com/aj_dev_smith/status/2102575577563570450">Original post</a></td>
-<td width="50%" valign="top"><strong>A Spectrogram Becomes a Magma Canyon and an Eye</strong><br><sub><a href="https://x.com/kloss_xyz">@kloss_xyz</a> · Music &amp; lyrics</sub><br><sub>0:21 · Bookmarks 658 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107696042053431360">▶ Play</a> · <a href="https://x.com/kloss_xyz/status/2107696042053431360">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107696042053431360"><img src="../assets/covers/2107696042053431360.jpg" width="400" alt="A Spectrogram Becomes a Magma Canyon and an Eye"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108967194833310"><img src="../assets/covers/2103108967194833310.jpg" width="127" alt="Music Video on Monetary History"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102482039522107417"><img src="../assets/covers/2102482039522107417.jpg" width="400" alt="A Code-Built Cartoon Music Animation"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Spectrogram Becomes a Magma Canyon and an Eye</strong><br><sub><a href="https://x.com/kloss_xyz">@kloss_xyz</a> · Music &amp; lyrics</sub><br><sub>0:21 · Bookmarks 658 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107696042053431360">▶ Play</a> · <a href="https://x.com/kloss_xyz/status/2107696042053431360">Original post</a></td>
 <td width="50%" valign="top"><strong>Music Video on Monetary History</strong><br><sub><a href="https://x.com/bradmillscan">@bradmillscan</a> · Music &amp; lyrics</sub><br><sub>3:23 · Bookmarks 358 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103108967194833310">▶ Play</a> · <a href="https://x.com/bradmillscan/status/2103108967194833310">Original post</a></td>
-<td width="50%" valign="top"><strong>A Code-Built Cartoon Music Animation</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Music &amp; lyrics</sub><br><sub>0:47 · Bookmarks 341 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102482039522107417">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102482039522107417">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102482039522107417"><img src="../assets/covers/2102482039522107417.jpg" width="400" alt="A Code-Built Cartoon Music Animation"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105711689887011311"><img src="../assets/covers/2105711689887011311.jpg" width="400" alt="Abstract Particles of an AI Takeover Scenario"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183939745751083"><img src="../assets/covers/2103183939745751083.jpg" width="400" alt="CodeRabbit: A Coder's Comic Story"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Code-Built Cartoon Music Animation</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Music &amp; lyrics</sub><br><sub>0:47 · Bookmarks 341 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102482039522107417">▶ Play</a> · <a href="https://x.com/chetaslua/status/2102482039522107417">Original post</a></td>
 <td width="50%" valign="top"><strong>Abstract Particles of an AI Takeover Scenario</strong><br><sub><a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a> · Music &amp; lyrics</sub><br><sub>4:26 · Bookmarks 309 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105711689887011311">▶ Play</a> · <a href="https://x.com/AndrewOnXYZ/status/2105711689887011311">Original post</a></td>
-<td width="50%" valign="top"><strong>CodeRabbit: A Coder's Comic Story</strong><br><sub><a href="https://x.com/IndraVahan">@IndraVahan</a> · Music &amp; lyrics</sub><br><sub>2:09 · Bookmarks 305 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183939745751083">▶ Play</a> · <a href="https://x.com/IndraVahan/status/2103183939745751083">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183939745751083"><img src="../assets/covers/2103183939745751083.jpg" width="400" alt="CodeRabbit: A Coder's Comic Story"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105011559756181620"><img src="../assets/covers/2105011559756181620.jpg" width="400" alt="Hold Swarm"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104617215354151285"><img src="../assets/covers/2104617215354151285.jpg" width="400" alt="Singularity Has Begun: An Abstract Spatial Music Film"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>CodeRabbit: A Coder's Comic Story</strong><br><sub><a href="https://x.com/IndraVahan">@IndraVahan</a> · Music &amp; lyrics</sub><br><sub>2:09 · Bookmarks 305 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103183939745751083">▶ Play</a> · <a href="https://x.com/IndraVahan/status/2103183939745751083">Original post</a></td>
 <td width="50%" valign="top"><strong>Hold Swarm</strong><br><sub><a href="https://x.com/chaotictransfem">@chaotictransfem</a> · Music &amp; lyrics</sub><br><sub>3:58 · Bookmarks 247 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2105011559756181620">▶ Play</a> · <a href="https://x.com/chaotictransfem/status/2105011559756181620">Original post</a></td>
-<td width="50%" valign="top"><strong>Singularity Has Begun: An Abstract Spatial Music Film</strong><br><sub><a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a> · Music &amp; lyrics</sub><br><sub>10:00 · Bookmarks 236 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104617215354151285">▶ Play</a> · <a href="https://x.com/AndrewOnXYZ/status/2104617215354151285">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109779693792883178"><img src="../assets/covers/2109779693792883178.jpg" width="400" alt="One More Prompt"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104617215354151285"><img src="../assets/covers/2104617215354151285.jpg" width="400" alt="Singularity Has Begun: An Abstract Spatial Music Film"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106446696821747953"><img src="../assets/covers/2106446696821747953.jpg" width="225" alt="A Hand-Drawn Coded Music Video for Canon"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>One More Prompt</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · Music &amp; lyrics</sub><br><sub>3:05 · Bookmarks 210 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109779693792883178">▶ Play</a> · <a href="https://x.com/LexnLin/status/2109779693792883178">Original post</a></td>
+<td width="50%" valign="top"><strong>Singularity Has Begun: An Abstract Spatial Music Film</strong><br><sub><a href="https://x.com/AndrewOnXYZ">@AndrewOnXYZ</a> · Music &amp; lyrics</sub><br><sub>10:00 · Bookmarks 236 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104617215354151285">▶ Play</a> · <a href="https://x.com/AndrewOnXYZ/status/2104617215354151285">Original post</a></td>
 <td width="50%" valign="top"><strong>A Hand-Drawn Coded Music Video for Canon</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · Music &amp; lyrics</sub><br><sub>3:46 · Bookmarks 195 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106446696821747953">▶ Play</a> · <a href="https://x.com/kevin_t_ngo/status/2106446696821747953">Original post</a></td>
 </tr>
 </tbody>
@@ -568,11 +578,91 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103706285204255186"><img src="../assets/covers/2103706285204255186.jpg" width="126" alt="Beat-Driven Shaders for KAMI Circuit"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102973119115690211"><img src="../assets/covers/2102973119115690211.jpg" width="400" alt="A Gray Clawd Leaves the Factory"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Beat-Driven Shaders for KAMI Circuit</strong><br><sub><a href="https://x.com/aratamadao">@aratamadao</a> · Music &amp; lyrics</sub><br><sub>0:28 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103706285204255186">▶ Play</a> · <a href="https://x.com/aratamadao/status/2103706285204255186">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>A Gray Clawd Leaves the Factory</strong><br><sub><a href="https://x.com/Skoorbkaz">@Skoorbkaz</a> · Music &amp; lyrics</sub><br><sub>5:13 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102973119115690211">▶ Play</a> · <a href="https://x.com/Skoorbkaz/status/2102973119115690211">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103159823407722893"><img src="../assets/covers/2103159823407722893.jpg" width="400" alt="Bohemian Tokenry in Five Cartoon Styles"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103336149351838165"><img src="../assets/covers/2103336149351838165.jpg" width="400" alt="Su Shi's Life in Paper-Like Musical Imagery"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Bohemian Tokenry in Five Cartoon Styles</strong><br><sub><a href="https://x.com/eudaemonea">@eudaemonea</a> · Music &amp; lyrics</sub><br><sub>6:02 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103159823407722893">▶ Play</a> · <a href="https://x.com/eudaemonea/status/2103159823407722893">Original post</a></td>
+<td width="50%" valign="top"><strong>Su Shi's Life in Paper-Like Musical Imagery</strong><br><sub><a href="https://x.com/threeaus">@threeaus</a> · Music &amp; lyrics</sub><br><sub>4:23 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103336149351838165">▶ Play</a> · <a href="https://x.com/threeaus/status/2103336149351838165">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103363872212258860"><img src="../assets/covers/2103363872212258860.jpg" width="400" alt="Japanese Lyric Motion for Refrain"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103479649728921896"><img src="../assets/covers/2103479649728921896.jpg" width="400" alt="A Lyric Reel from Quiet to the Drop"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Japanese Lyric Motion for Refrain</strong><br><sub><a href="https://x.com/owata_aiart">@owata_aiart</a> · Music &amp; lyrics</sub><br><sub>3:53 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103363872212258860">▶ Play</a> · <a href="https://x.com/owata_aiart/status/2103363872212258860">Original post</a></td>
+<td width="50%" valign="top"><strong>A Lyric Reel from Quiet to the Drop</strong><br><sub><a href="https://x.com/Kisalay_">@Kisalay_</a> · Music &amp; lyrics</sub><br><sub>0:15 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103479649728921896">▶ Play</a> · <a href="https://x.com/Kisalay_/status/2103479649728921896">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103510974796124569"><img src="../assets/covers/2103510974796124569.jpg" width="400" alt="A Beat-Synced MV of Lyrics, Paper and Light Rings"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103535326325055843"><img src="../assets/covers/2103535326325055843.jpg" width="251" alt="Violin and Seasonal Tree Animation"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Beat-Synced MV of Lyrics, Paper and Light Rings</strong><br><sub><a href="https://x.com/samaote">@samaote</a> · Music &amp; lyrics</sub><br><sub>0:30 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103510974796124569">▶ Play</a> · <a href="https://x.com/samaote/status/2103510974796124569">Original post</a></td>
+<td width="50%" valign="top"><strong>Violin and Seasonal Tree Animation</strong><br><sub><a href="https://x.com/Hesamation">@Hesamation</a> · Music &amp; lyrics</sub><br><sub>1:02 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103535326325055843">▶ Play</a> · <a href="https://x.com/Hesamation/status/2103535326325055843">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103574159255318549"><img src="../assets/covers/2103574159255318549.jpg" width="400" alt="A Cartoon Song about Turning an Idea into Video"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103821742682587327"><img src="../assets/covers/2103821742682587327.jpg" width="400" alt="Big Enough to See: A Code-Drawn Music Film"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Cartoon Song about Turning an Idea into Video</strong><br><sub><a href="https://x.com/SanjanaBandara">@SanjanaBandara</a> · Music &amp; lyrics</sub><br><sub>1:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103574159255318549">▶ Play</a> · <a href="https://x.com/SanjanaBandara/status/2103574159255318549">Original post</a></td>
+<td width="50%" valign="top"><strong>Big Enough to See: A Code-Drawn Music Film</strong><br><sub><a href="https://x.com/icyklop1">@icyklop1</a> · Music &amp; lyrics</sub><br><sub>5:04 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103821742682587327">▶ Play</a> · <a href="https://x.com/icyklop1/status/2103821742682587327">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103876788694994966"><img src="../assets/covers/2103876788694994966.jpg" width="400" alt="Move or Drown in Kinetic Lyric Layouts"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104200879637397978"><img src="../assets/covers/2104200879637397978.jpg" width="181" alt="Time in Silhouettes and Solar Graphics"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Move or Drown in Kinetic Lyric Layouts</strong><br><sub><a href="https://x.com/pinkshihtzu">@pinkshihtzu</a> · Music &amp; lyrics</sub><br><sub>0:42 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103876788694994966">▶ Play</a> · <a href="https://x.com/pinkshihtzu/status/2103876788694994966">Original post</a></td>
+<td width="50%" valign="top"><strong>Time in Silhouettes and Solar Graphics</strong><br><sub><a href="https://x.com/Hesamation">@Hesamation</a> · Music &amp; lyrics</sub><br><sub>1:13 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104200879637397978">▶ Play</a> · <a href="https://x.com/Hesamation/status/2104200879637397978">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104231930120249410"><img src="../assets/covers/2104231930120249410.jpg" width="400" alt="Voyager 1 in Coded Musical Imagery"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104272184067686546"><img src="../assets/covers/2104272184067686546.jpg" width="400" alt="Kinetic Lyric Motion for Faint"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Voyager 1 in Coded Musical Imagery</strong><br><sub><a href="https://x.com/thoughtcrime___">@thoughtcrime___</a> · Music &amp; lyrics</sub><br><sub>3:36 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104231930120249410">▶ Play</a> · <a href="https://x.com/thoughtcrime___/status/2104231930120249410">Original post</a></td>
+<td width="50%" valign="top"><strong>Kinetic Lyric Motion for Faint</strong><br><sub><a href="https://x.com/iyedoost">@iyedoost</a> · Music &amp; lyrics</sub><br><sub>2:43 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104272184067686546">▶ Play</a> · <a href="https://x.com/iyedoost/status/2104272184067686546">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107826563786084783"><img src="../assets/covers/2107826563786084783.jpg" width="126" alt="A Vertical Lyric MV in Engraved 3D Lines"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109282512824565884"><img src="../assets/covers/2109282512824565884.jpg" width="126" alt="Jelly in Motion: A Cat-Jelly Music Video"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Vertical Lyric MV in Engraved 3D Lines</strong><br><sub><a href="https://x.com/okazaky">@okazaky</a> · Music &amp; lyrics</sub><br><sub>0:51 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107826563786084783">▶ Play</a> · <a href="https://x.com/okazaky/status/2107826563786084783">Original post</a></td>
+<td width="50%" valign="top"><strong>Jelly in Motion: A Cat-Jelly Music Video</strong><br><sub><a href="https://x.com/karou2rikon">@karou2rikon</a> · Music &amp; lyrics</sub><br><sub>1:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109282512824565884">▶ Play</a> · <a href="https://x.com/karou2rikon/status/2109282512824565884">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109943654873784569"><img src="../assets/covers/2109943654873784569.jpg" width="400" alt="Music-Reactive 3D Light Room"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439864271577420"><img src="../assets/covers/2115439864271577420.jpg" width="400" alt="A Cotton-Candy Festival in Illustrated Motion"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Music-Reactive 3D Light Room</strong><br><sub><a href="https://x.com/shmopixbzn">@shmopixbzn</a> · Music &amp; lyrics</sub><br><sub>0:32 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109943654873784569">▶ Play</a> · <a href="https://x.com/shmopixbzn/status/2109943654873784569">Original post</a></td>
+<td width="50%" valign="top"><strong>A Cotton-Candy Festival in Illustrated Motion</strong><br><sub><a href="https://x.com/nemumusitocha">@nemumusitocha</a> · Music &amp; lyrics</sub><br><sub>2:38 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439864271577420">▶ Play</a> · <a href="https://x.com/nemumusitocha/status/2115439864271577420">Original post</a></td>
 </tr>
 </tbody>
 </table>

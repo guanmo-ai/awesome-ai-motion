@@ -8,7 +8,7 @@
 
 **[进入作品画廊 ↗](https://guanmo-ai.github.io/awesome-ai-motion/)** &nbsp; · &nbsp; [推荐作品](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>1728 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
+<sub>2068 个作品 &nbsp; · &nbsp; 点击拼图进入画廊</sub>
 
 <a id="spotlights"></a>
 
@@ -45,13 +45,13 @@
 
 | 方向 | 可以发现什么 | 作品 |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 329 |
-| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 374 |
-| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 233 |
-| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 143 |
-| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 391 |
-| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 145 |
-| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 113 |
+| <a id="category-product"></a>[产品宣传](browse/product.md) | 把产品、功能与品牌讲清楚 | 402 |
+| <a id="category-education"></a>[知识讲解](browse/education.md) | 把抽象概念变成看得懂的画面 | 430 |
+| <a id="category-motion"></a>[短动效](browse/motion.md) | 观察节奏、字排、形变与转场 | 295 |
+| <a id="category-characters"></a>[角色动画](browse/characters.md) | 探索角色表演、像素与风格 | 164 |
+| <a id="category-interactive"></a>[交互演示](browse/interactive.md) | 走进可响应的空间与物理世界 | 455 |
+| <a id="category-stories"></a>[叙事短片](browse/stories.md) | 从分镜、镜头到完整叙事 | 190 |
+| <a id="category-music"></a>[音乐与歌词](browse/music.md) | 让音乐、画面与情绪同步 | 132 |
 
 [在画廊中搜索、筛选和播放全部作品 →](https://guanmo-ai.github.io/awesome-ai-motion/)
 
@@ -88,11 +88,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="用镜头实验室解释对焦"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop 混合制作 MV"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2112940162103615783"><img src="assets/covers/2112940162103615783.jpg" width="267" alt="电路板的逐件装配"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>用镜头实验室解释对焦</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 知识讲解</sub><br><sub>0:32 · 收藏 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102591147927654847">▶ 播放</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">原帖</a></td>
-<td width="50%" valign="top"><strong>Claude Pop 混合制作 MV</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · 音乐与歌词</sub><br><sub>2:22 · 收藏 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102801274173587569">▶ 播放</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">原帖</a></td>
+<td width="50%" valign="top"><strong>电路板的逐件装配</strong><br><sub><a href="https://x.com/0xMovez">@0xMovez</a> · 知识讲解</sub><br><sub>0:46 · 收藏 7,914 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2112940162103615783">▶ 播放</a> · <a href="https://x.com/0xMovez/status/2112940162103615783">原帖</a></td>
 </tr>
 </tbody>
 </table>

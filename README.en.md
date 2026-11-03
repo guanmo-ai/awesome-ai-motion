@@ -8,7 +8,7 @@ Extraordinary motion. New creative possibilities. · [简体中文](README.md)
 
 **[Explore the gallery ↗](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** &nbsp; · &nbsp; [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>1728 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
+<sub>2068 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
 
 <a id="spotlights"></a>
 
@@ -45,13 +45,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 
 | Explore | What you will find | Works |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 329 |
-| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 374 |
-| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 233 |
-| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 143 |
-| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 391 |
-| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 145 |
-| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 113 |
+| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 402 |
+| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 430 |
+| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 295 |
+| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 164 |
+| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 455 |
+| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 190 |
+| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 132 |
 
 [Search, filter and watch all works in the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
@@ -88,11 +88,11 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112940162103615783"><img src="assets/covers/2112940162103615783.jpg" width="267" alt="Assembling Circuit Boards Part by Part"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>An interactive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Play</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
-<td width="50%" valign="top"><strong>Claude Pop: a mixed-workflow music video</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · Music &amp; lyrics</sub><br><sub>2:22 · Bookmarks 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">▶ Play</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
+<td width="50%" valign="top"><strong>Assembling Circuit Boards Part by Part</strong><br><sub><a href="https://x.com/0xMovez">@0xMovez</a> · Education &amp; explainers</sub><br><sub>0:46 · Bookmarks 7,914 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112940162103615783">▶ Play</a> · <a href="https://x.com/0xMovez/status/2112940162103615783">Original post</a></td>
 </tr>
 </tbody>
 </table>

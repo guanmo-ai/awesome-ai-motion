@@ -2,7 +2,7 @@
 
 # 产品宣传
 
-329 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+402 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -358,431 +358,481 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103647124126683602"><img src="../assets/covers/2103647124126683602.jpg" width="400" alt="批发业务的品牌连接图"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111927727318245426"><img src="../assets/covers/2111927727318245426.jpg" width="400" alt="Earshot：每个声音都是代码"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103431573752500632"><img src="../assets/covers/2103431573752500632.jpg" width="400" alt="Stanza 的协作界面宣传片"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>批发业务的品牌连接图</strong><br><sub><a href="https://x.com/ceowinkz">@ceowinkz</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103647124126683602">▶ 播放</a> · <a href="https://x.com/ceowinkz/status/2103647124126683602">原帖</a></td>
-<td width="50%" valign="top"><strong>Earshot：每个声音都是代码</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:30 · 收藏 7,155 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111927727318245426">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2111927727318245426">原帖</a></td>
+<td width="50%" valign="top"><strong>Stanza 的协作界面宣传片</strong><br><sub><a href="https://x.com/FumiyaMizuguchi">@FumiyaMizuguchi</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103431573752500632">▶ 播放</a> · <a href="https://x.com/FumiyaMizuguchi/status/2103431573752500632">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103473030160687413"><img src="../assets/covers/2103473030160687413.jpg" width="400" alt="消息、曲线与界面的代码宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103541149709615243"><img src="../assets/covers/2103541149709615243.jpg" width="400" alt="DistilBook 的标识与阅读卡片动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>消息、曲线与界面的代码宣传片</strong><br><sub><a href="https://x.com/xelandre__">@xelandre__</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103473030160687413">▶ 播放</a> · <a href="https://x.com/xelandre__/status/2103473030160687413">原帖</a></td>
+<td width="50%" valign="top"><strong>DistilBook 的标识与阅读卡片动画</strong><br><sub><a href="https://x.com/ajith_io">@ajith_io</a> · 产品宣传</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103541149709615243">▶ 播放</a> · <a href="https://x.com/ajith_io/status/2103541149709615243">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103571096549433425"><img src="../assets/covers/2103571096549433425.jpg" width="225" alt="Sprites 的连续形变界面广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103604431627452427"><img src="../assets/covers/2103604431627452427.jpg" width="400" alt="Supademo 的语音与产品界面动效"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Sprites 的连续形变界面广告</strong><br><sub><a href="https://x.com/AnnaCher___">@AnnaCher___</a> · 产品宣传</sub><br><sub>0:42 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103571096549433425">▶ 播放</a> · <a href="https://x.com/AnnaCher___/status/2103571096549433425">原帖</a></td>
+<td width="50%" valign="top"><strong>Supademo 的语音与产品界面动效</strong><br><sub><a href="https://x.com/jhylee95">@jhylee95</a> · 产品宣传</sub><br><sub>0:24 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103604431627452427">▶ 播放</a> · <a href="https://x.com/jhylee95/status/2103604431627452427">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103614667038052364"><img src="../assets/covers/2103614667038052364.jpg" width="400" alt="Flowdrive 的上传与传输动效"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103614797501673648"><img src="../assets/covers/2103614797501673648.jpg" width="400" alt="工作协作产品的界面发布片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Flowdrive 的上传与传输动效</strong><br><sub><a href="https://x.com/manuelogomigo">@manuelogomigo</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103614667038052364">▶ 播放</a> · <a href="https://x.com/manuelogomigo/status/2103614667038052364">原帖</a></td>
+<td width="50%" valign="top"><strong>工作协作产品的界面发布片</strong><br><sub><a href="https://x.com/sachaarbonel">@sachaarbonel</a> · 产品宣传</sub><br><sub>0:59 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103614797501673648">▶ 播放</a> · <a href="https://x.com/sachaarbonel/status/2103614797501673648">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103783134206566862"><img src="../assets/covers/2103783134206566862.jpg" width="400" alt="Jev 的标题、对照表与曲线动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103845264649761062"><img src="../assets/covers/2103845264649761062.jpg" width="400" alt="mdfor.dev 的 Markdown 字形宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Jev 的标题、对照表与曲线动画</strong><br><sub><a href="https://x.com/Mr_Buzzoni">@Mr_Buzzoni</a> · 产品宣传</sub><br><sub>0:24 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103783134206566862">▶ 播放</a> · <a href="https://x.com/Mr_Buzzoni/status/2103783134206566862">原帖</a></td>
+<td width="50%" valign="top"><strong>mdfor.dev 的 Markdown 字形宣传片</strong><br><sub><a href="https://x.com/HO_BA">@HO_BA</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103845264649761062">▶ 播放</a> · <a href="https://x.com/HO_BA/status/2103845264649761062">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103869518137483744"><img src="../assets/covers/2103869518137483744.jpg" width="400" alt="手机界面与字形的应用宣传终稿"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104139720829636937"><img src="../assets/covers/2104139720829636937.jpg" width="400" alt="Taxtello 的账目卡片与数据动效"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>手机界面与字形的应用宣传终稿</strong><br><sub><a href="https://x.com/weixiong0">@weixiong0</a> · 产品宣传</sub><br><sub>2:14 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103869518137483744">▶ 播放</a> · <a href="https://x.com/weixiong0/status/2103869518137483744">原帖</a></td>
+<td width="50%" valign="top"><strong>Taxtello 的账目卡片与数据动效</strong><br><sub><a href="https://x.com/daniel_haida">@daniel_haida</a> · 产品宣传</sub><br><sub>0:14 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104139720829636937">▶ 播放</a> · <a href="https://x.com/daniel_haida/status/2104139720829636937">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111927727318245426"><img src="../assets/covers/2111927727318245426.jpg" width="400" alt="Earshot：每个声音都是代码"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105270766996701686"><img src="../assets/covers/2105270766996701686.jpg" width="225" alt="UDC 大会动态海报"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105255710531674358"><img src="../assets/covers/2105255710531674358.jpg" width="400" alt="贴纸与像素游戏的活动宣传片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Earshot：每个声音都是代码</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:30 · 收藏 7,155 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111927727318245426">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2111927727318245426">原帖</a></td>
 <td width="50%" valign="top"><strong>UDC 大会动态海报</strong><br><sub><a href="https://x.com/johncodunayo">@johncodunayo</a> · 产品宣传</sub><br><sub>0:24 · 收藏 3,756 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105270766996701686">▶ 播放</a> · <a href="https://x.com/johncodunayo/status/2105270766996701686">原帖</a></td>
-<td width="50%" valign="top"><strong>贴纸与像素游戏的活动宣传片</strong><br><sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · 产品宣传</sub><br><sub>0:50 · 收藏 2,277 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105255710531674358">▶ 播放</a> · <a href="https://x.com/tkm_hmng8/status/2105255710531674358">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105255710531674358"><img src="../assets/covers/2105255710531674358.jpg" width="400" alt="贴纸与像素游戏的活动宣传片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102441708395041170"><img src="../assets/covers/2102441708395041170.jpg" width="400" alt="Shotbase 产品发布动效"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104148233106723099"><img src="../assets/covers/2104148233106723099.jpg" width="400" alt="虚构日历 App 的全代码发布片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>贴纸与像素游戏的活动宣传片</strong><br><sub><a href="https://x.com/tkm_hmng8">@tkm_hmng8</a> · 产品宣传</sub><br><sub>0:50 · 收藏 2,277 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105255710531674358">▶ 播放</a> · <a href="https://x.com/tkm_hmng8/status/2105255710531674358">原帖</a></td>
 <td width="50%" valign="top"><strong>Shotbase 产品发布动效</strong><br><sub><a href="https://x.com/Miguel07Code">@Miguel07Code</a> · 产品宣传</sub><br><sub>0:58 · 收藏 1,683 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102441708395041170">▶ 播放</a> · <a href="https://x.com/Miguel07Code/status/2102441708395041170">原帖</a></td>
-<td width="50%" valign="top"><strong>虚构日历 App 的全代码发布片</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:33 · 收藏 1,240 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104148233106723099">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2104148233106723099">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104148233106723099"><img src="../assets/covers/2104148233106723099.jpg" width="400" alt="虚构日历 App 的全代码发布片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102477340920152162"><img src="../assets/covers/2102477340920152162.jpg" width="398" alt="个人网站改版预告片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106101651010449796"><img src="../assets/covers/2106101651010449796.jpg" width="127" alt="Claude 为自己做的字体广告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>虚构日历 App 的全代码发布片</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:33 · 收藏 1,240 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104148233106723099">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2104148233106723099">原帖</a></td>
 <td width="50%" valign="top"><strong>个人网站改版预告片</strong><br><sub><a href="https://x.com/trq212">@trq212</a> · 产品宣传</sub><br><sub>1:35 · 收藏 1,122 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102477340920152162">▶ 播放</a> · <a href="https://x.com/trq212/status/2102477340920152162">原帖</a></td>
-<td width="50%" valign="top"><strong>Claude 为自己做的字体广告</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:14 · 收藏 1,119 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106101651010449796">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2106101651010449796">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106101651010449796"><img src="../assets/covers/2106101651010449796.jpg" width="127" alt="Claude 为自己做的字体广告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103152093733253544"><img src="../assets/covers/2103152093733253544.jpg" width="128" alt="代码绘制的产品广告教程"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103723183899852885"><img src="../assets/covers/2103723183899852885.jpg" width="400" alt="NovaChat 的界面宣传动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Claude 为自己做的字体广告</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:14 · 收藏 1,119 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106101651010449796">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2106101651010449796">原帖</a></td>
 <td width="50%" valign="top"><strong>代码绘制的产品广告教程</strong><br><sub><a href="https://x.com/Lucas_IA_">@Lucas_IA_</a> · 产品宣传</sub><br><sub>1:12 · 收藏 1,119 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103152093733253544">▶ 播放</a> · <a href="https://x.com/Lucas_IA_/status/2103152093733253544">原帖</a></td>
-<td width="50%" valign="top"><strong>NovaChat 的界面宣传动效</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · 产品宣传</sub><br><sub>0:15 · 收藏 1,110 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103723183899852885">▶ 播放</a> · <a href="https://x.com/ann_nnng/status/2103723183899852885">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103723183899852885"><img src="../assets/covers/2103723183899852885.jpg" width="400" alt="NovaChat 的界面宣传动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103542300844474452"><img src="../assets/covers/2103542300844474452.jpg" width="400" alt="像素上传与复古社交界面动效"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096209514248958161"><img src="../assets/covers/2096209514248958161.jpg" width="400" alt="模型自制发布短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>NovaChat 的界面宣传动效</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · 产品宣传</sub><br><sub>0:15 · 收藏 1,110 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103723183899852885">▶ 播放</a> · <a href="https://x.com/ann_nnng/status/2103723183899852885">原帖</a></td>
 <td width="50%" valign="top"><strong>像素上传与复古社交界面动效</strong><br><sub><a href="https://x.com/trymirage">@trymirage</a> · 产品宣传</sub><br><sub>0:15 · 收藏 1,011 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103542300844474452">▶ 播放</a> · <a href="https://x.com/trymirage/status/2103542300844474452">原帖</a></td>
-<td width="50%" valign="top"><strong>模型自制发布短片</strong><br><sub><a href="https://x.com/athrix_codes">@athrix_codes</a> · 产品宣传</sub><br><sub>0:53 · 收藏 951 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096209514248958161">▶ 播放</a> · <a href="https://x.com/athrix_codes/status/2096209514248958161">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096209514248958161"><img src="../assets/covers/2096209514248958161.jpg" width="400" alt="模型自制发布短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108250410221781009"><img src="../assets/covers/2108250410221781009.jpg" width="400" alt="参考视频变成自己的动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109718604883370450"><img src="../assets/covers/2109718604883370450.jpg" width="400" alt="生活提醒的文字与卡片短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>模型自制发布短片</strong><br><sub><a href="https://x.com/athrix_codes">@athrix_codes</a> · 产品宣传</sub><br><sub>0:53 · 收藏 951 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2096209514248958161">▶ 播放</a> · <a href="https://x.com/athrix_codes/status/2096209514248958161">原帖</a></td>
 <td width="50%" valign="top"><strong>参考视频变成自己的动画</strong><br><sub><a href="https://x.com/ishuagra02">@ishuagra02</a> · 产品宣传</sub><br><sub>1:02 · 收藏 754 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108250410221781009">▶ 播放</a> · <a href="https://x.com/ishuagra02/status/2108250410221781009">原帖</a></td>
-<td width="50%" valign="top"><strong>生活提醒的文字与卡片短片</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:40 · 收藏 639 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109718604883370450">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2109718604883370450">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109718604883370450"><img src="../assets/covers/2109718604883370450.jpg" width="400" alt="生活提醒的文字与卡片短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102636308707287201"><img src="../assets/covers/2102636308707287201.jpg" width="127" alt="可编辑的 AE 产品发布片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103592504386101512"><img src="../assets/covers/2103592504386101512.jpg" width="400" alt="方块球员的一对一篮球预告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>生活提醒的文字与卡片短片</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:40 · 收藏 639 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109718604883370450">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2109718604883370450">原帖</a></td>
 <td width="50%" valign="top"><strong>可编辑的 AE 产品发布片</strong><br><sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · 产品宣传</sub><br><sub>0:30 · 收藏 597 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102636308707287201">▶ 播放</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2102636308707287201">原帖</a></td>
-<td width="50%" valign="top"><strong>方块球员的一对一篮球预告</strong><br><sub><a href="https://x.com/databallr">@databallr</a> · 产品宣传</sub><br><sub>0:15 · 收藏 596 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103592504386101512">▶ 播放</a> · <a href="https://x.com/databallr/status/2103592504386101512">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103592504386101512"><img src="../assets/covers/2103592504386101512.jpg" width="400" alt="方块球员的一对一篮球预告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104967024812118196"><img src="../assets/covers/2104967024812118196.jpg" width="400" alt="Roblox 游戏的彩色发布片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103227982592831846"><img src="../assets/covers/2103227982592831846.jpg" width="400" alt="旁白驱动的 AE 广告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>方块球员的一对一篮球预告</strong><br><sub><a href="https://x.com/databallr">@databallr</a> · 产品宣传</sub><br><sub>0:15 · 收藏 596 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103592504386101512">▶ 播放</a> · <a href="https://x.com/databallr/status/2103592504386101512">原帖</a></td>
 <td width="50%" valign="top"><strong>Roblox 游戏的彩色发布片</strong><br><sub><a href="https://x.com/dataX_e">@dataX_e</a> · 产品宣传</sub><br><sub>0:15 · 收藏 596 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104967024812118196">▶ 播放</a> · <a href="https://x.com/dataX_e/status/2104967024812118196">原帖</a></td>
-<td width="50%" valign="top"><strong>旁白驱动的 AE 广告</strong><br><sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · 产品宣传</sub><br><sub>0:29 · 收藏 588 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103227982592831846">▶ 播放</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2103227982592831846">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103227982592831846"><img src="../assets/covers/2103227982592831846.jpg" width="400" alt="旁白驱动的 AE 广告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105283486487896448"><img src="../assets/covers/2105283486487896448.jpg" width="127" alt="贴纸库发布短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109019765134213540"><img src="../assets/covers/2109019765134213540.jpg" width="400" alt="Tabi：从键盘到文字的发布片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>旁白驱动的 AE 广告</strong><br><sub><a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · 产品宣传</sub><br><sub>0:29 · 收藏 588 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103227982592831846">▶ 播放</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2103227982592831846">原帖</a></td>
 <td width="50%" valign="top"><strong>贴纸库发布短片</strong><br><sub><a href="https://x.com/javiiarchive">@javiiarchive</a> · 产品宣传</sub><br><sub>0:23 · 收藏 566 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105283486487896448">▶ 播放</a> · <a href="https://x.com/javiiarchive/status/2105283486487896448">原帖</a></td>
-<td width="50%" valign="top"><strong>Tabi：从键盘到文字的发布片</strong><br><sub><a href="https://x.com/nikhilbhima">@nikhilbhima</a> · 产品宣传</sub><br><sub>0:44 · 收藏 449 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109019765134213540">▶ 播放</a> · <a href="https://x.com/nikhilbhima/status/2109019765134213540">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109019765134213540"><img src="../assets/covers/2109019765134213540.jpg" width="400" alt="Tabi：从键盘到文字的发布片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110039903312425385"><img src="../assets/covers/2110039903312425385.jpg" width="281" alt="穿过产品版面的连续镜头"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103704250329301409"><img src="../assets/covers/2103704250329301409.jpg" width="400" alt="TypingMind 的多边形脑标志"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Tabi：从键盘到文字的发布片</strong><br><sub><a href="https://x.com/nikhilbhima">@nikhilbhima</a> · 产品宣传</sub><br><sub>0:44 · 收藏 449 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109019765134213540">▶ 播放</a> · <a href="https://x.com/nikhilbhima/status/2109019765134213540">原帖</a></td>
 <td width="50%" valign="top"><strong>穿过产品版面的连续镜头</strong><br><sub><a href="https://x.com/cleeeeeeeeement">@cleeeeeeeeement</a> · 产品宣传</sub><br><sub>0:15 · 收藏 428 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110039903312425385">▶ 播放</a> · <a href="https://x.com/cleeeeeeeeement/status/2110039903312425385">原帖</a></td>
-<td width="50%" valign="top"><strong>TypingMind 的多边形脑标志</strong><br><sub><a href="https://x.com/tdinh_me">@tdinh_me</a> · 产品宣传</sub><br><sub>0:21 · 收藏 420 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103704250329301409">▶ 播放</a> · <a href="https://x.com/tdinh_me/status/2103704250329301409">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103704250329301409"><img src="../assets/covers/2103704250329301409.jpg" width="400" alt="TypingMind 的多边形脑标志"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103977724796649763"><img src="../assets/covers/2103977724796649763.jpg" width="400" alt="红色数据渠道动态图表"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103148835270971419"><img src="../assets/covers/2103148835270971419.jpg" width="127" alt="蘑菇咖啡动画广告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>TypingMind 的多边形脑标志</strong><br><sub><a href="https://x.com/tdinh_me">@tdinh_me</a> · 产品宣传</sub><br><sub>0:21 · 收藏 420 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103704250329301409">▶ 播放</a> · <a href="https://x.com/tdinh_me/status/2103704250329301409">原帖</a></td>
 <td width="50%" valign="top"><strong>红色数据渠道动态图表</strong><br><sub><a href="https://x.com/Gregoirechp">@Gregoirechp</a> · 产品宣传</sub><br><sub>0:20 · 收藏 396 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103977724796649763">▶ 播放</a> · <a href="https://x.com/Gregoirechp/status/2103977724796649763">原帖</a></td>
-<td width="50%" valign="top"><strong>蘑菇咖啡动画广告</strong><br><sub><a href="https://x.com/ladprofit">@ladprofit</a> · 产品宣传</sub><br><sub>0:55 · 收藏 334 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103148835270971419">▶ 播放</a> · <a href="https://x.com/ladprofit/status/2103148835270971419">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103148835270971419"><img src="../assets/covers/2103148835270971419.jpg" width="127" alt="蘑菇咖啡动画广告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103037586663235713"><img src="../assets/covers/2103037586663235713.jpg" width="400" alt="统一聊天产品完整广告"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113535202098372655"><img src="../assets/covers/2113535202098372655.jpg" width="127" alt="Chowdeck 的外卖图形广告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>蘑菇咖啡动画广告</strong><br><sub><a href="https://x.com/ladprofit">@ladprofit</a> · 产品宣传</sub><br><sub>0:55 · 收藏 334 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103148835270971419">▶ 播放</a> · <a href="https://x.com/ladprofit/status/2103148835270971419">原帖</a></td>
 <td width="50%" valign="top"><strong>统一聊天产品完整广告</strong><br><sub><a href="https://x.com/dhruvalgolakiya">@dhruvalgolakiya</a> · 产品宣传</sub><br><sub>0:40 · 收藏 329 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103037586663235713">▶ 播放</a> · <a href="https://x.com/dhruvalgolakiya/status/2103037586663235713">原帖</a></td>
-<td width="50%" valign="top"><strong>Chowdeck 的外卖图形广告</strong><br><sub><a href="https://x.com/DesignSorceress">@DesignSorceress</a> · 产品宣传</sub><br><sub>0:24 · 收藏 325 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113535202098372655">▶ 播放</a> · <a href="https://x.com/DesignSorceress/status/2113535202098372655">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113535202098372655"><img src="../assets/covers/2113535202098372655.jpg" width="127" alt="Chowdeck 的外卖图形广告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103625902211088880"><img src="../assets/covers/2103625902211088880.jpg" width="400" alt="Dub 发布片：地球粒子与数据排版"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104093497561436573"><img src="../assets/covers/2104093497561436573.jpg" width="400" alt="PCB 外壳与可打印零件宣传动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Chowdeck 的外卖图形广告</strong><br><sub><a href="https://x.com/DesignSorceress">@DesignSorceress</a> · 产品宣传</sub><br><sub>0:24 · 收藏 325 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113535202098372655">▶ 播放</a> · <a href="https://x.com/DesignSorceress/status/2113535202098372655">原帖</a></td>
 <td width="50%" valign="top"><strong>Dub 发布片：地球粒子与数据排版</strong><br><sub><a href="https://x.com/steventey">@steventey</a> · 产品宣传</sub><br><sub>0:15 · 收藏 300 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103625902211088880">▶ 播放</a> · <a href="https://x.com/steventey/status/2103625902211088880">原帖</a></td>
-<td width="50%" valign="top"><strong>PCB 外壳与可打印零件宣传动画</strong><br><sub><a href="https://x.com/VectorCrossProd">@VectorCrossProd</a> · 产品宣传</sub><br><sub>0:10 · 收藏 271 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104093497561436573">▶ 播放</a> · <a href="https://x.com/VectorCrossProd/status/2104093497561436573">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104093497561436573"><img src="../assets/covers/2104093497561436573.jpg" width="400" alt="PCB 外壳与可打印零件宣传动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113609472639894013"><img src="../assets/covers/2113609472639894013.jpg" width="400" alt="Fomo 的深色概念广告"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104095944686051492"><img src="../assets/covers/2104095944686051492.jpg" width="400" alt="AI 培训品牌的文字与图形宣传片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>PCB 外壳与可打印零件宣传动画</strong><br><sub><a href="https://x.com/VectorCrossProd">@VectorCrossProd</a> · 产品宣传</sub><br><sub>0:10 · 收藏 271 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104093497561436573">▶ 播放</a> · <a href="https://x.com/VectorCrossProd/status/2104093497561436573">原帖</a></td>
 <td width="50%" valign="top"><strong>Fomo 的深色概念广告</strong><br><sub><a href="https://x.com/Sevas_ae">@Sevas_ae</a> · 产品宣传</sub><br><sub>0:20 · 收藏 265 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113609472639894013">▶ 播放</a> · <a href="https://x.com/Sevas_ae/status/2113609472639894013">原帖</a></td>
-<td width="50%" valign="top"><strong>AI 培训品牌的文字与图形宣传片</strong><br><sub><a href="https://x.com/showheyohtaki">@showheyohtaki</a> · 产品宣传</sub><br><sub>0:30 · 收藏 256 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104095944686051492">▶ 播放</a> · <a href="https://x.com/showheyohtaki/status/2104095944686051492">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104095944686051492"><img src="../assets/covers/2104095944686051492.jpg" width="400" alt="AI 培训品牌的文字与图形宣传片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111353123646427556"><img src="../assets/covers/2111353123646427556.jpg" width="127" alt="把想法画成动画的系列宣传"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103825139964227999"><img src="../assets/covers/2103825139964227999.jpg" width="400" alt="三维设备与火花串联的产品动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>AI 培训品牌的文字与图形宣传片</strong><br><sub><a href="https://x.com/showheyohtaki">@showheyohtaki</a> · 产品宣传</sub><br><sub>0:30 · 收藏 256 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104095944686051492">▶ 播放</a> · <a href="https://x.com/showheyohtaki/status/2104095944686051492">原帖</a></td>
 <td width="50%" valign="top"><strong>把想法画成动画的系列宣传</strong><br><sub><a href="https://x.com/HaileyAILabs">@HaileyAILabs</a> · 产品宣传</sub><br><sub>1:11 · 收藏 236 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111353123646427556">▶ 播放</a> · <a href="https://x.com/HaileyAILabs/status/2111353123646427556">原帖</a></td>
-<td width="50%" valign="top"><strong>三维设备与火花串联的产品动效</strong><br><sub><a href="https://x.com/MengTo">@MengTo</a> · 产品宣传</sub><br><sub>0:41 · 收藏 217 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103825139964227999">▶ 播放</a> · <a href="https://x.com/MengTo/status/2103825139964227999">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103825139964227999"><img src="../assets/covers/2103825139964227999.jpg" width="400" alt="三维设备与火花串联的产品动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111138912349626801"><img src="../assets/covers/2111138912349626801.jpg" width="391" alt="模块化收割机器人的形态变换"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113316452954517801"><img src="../assets/covers/2113316452954517801.jpg" width="180" alt="用机械装置介绍代码动效制作"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>三维设备与火花串联的产品动效</strong><br><sub><a href="https://x.com/MengTo">@MengTo</a> · 产品宣传</sub><br><sub>0:41 · 收藏 217 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103825139964227999">▶ 播放</a> · <a href="https://x.com/MengTo/status/2103825139964227999">原帖</a></td>
 <td width="50%" valign="top"><strong>模块化收割机器人的形态变换</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 产品宣传</sub><br><sub>1:10 · 收藏 214 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111138912349626801">▶ 播放</a> · <a href="https://x.com/DilumSanjaya/status/2111138912349626801">原帖</a></td>
-<td width="50%" valign="top"><strong>用机械装置介绍代码动效制作</strong><br><sub><a href="https://x.com/0xbobaaa">@0xbobaaa</a> · 产品宣传</sub><br><sub>0:30 · 收藏 198 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113316452954517801">▶ 播放</a> · <a href="https://x.com/0xbobaaa/status/2113316452954517801">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113316452954517801"><img src="../assets/covers/2113316452954517801.jpg" width="180" alt="用机械装置介绍代码动效制作"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103596524018221133"><img src="../assets/covers/2103596524018221133.jpg" width="400" alt="ObsidianMotion 的数据卡片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106078367833591915"><img src="../assets/covers/2106078367833591915.jpg" width="400" alt="GrokBot 的霓虹轨道"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>用机械装置介绍代码动效制作</strong><br><sub><a href="https://x.com/0xbobaaa">@0xbobaaa</a> · 产品宣传</sub><br><sub>0:30 · 收藏 198 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113316452954517801">▶ 播放</a> · <a href="https://x.com/0xbobaaa/status/2113316452954517801">原帖</a></td>
 <td width="50%" valign="top"><strong>ObsidianMotion 的数据卡片</strong><br><sub><a href="https://x.com/eryidebiji">@eryidebiji</a> · 产品宣传</sub><br><sub>1:12 · 收藏 193 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103596524018221133">▶ 播放</a> · <a href="https://x.com/eryidebiji/status/2103596524018221133">原帖</a></td>
-<td width="50%" valign="top"><strong>GrokBot 的霓虹轨道</strong><br><sub><a href="https://x.com/0xMovez">@0xMovez</a> · 产品宣传</sub><br><sub>2:12 · 收藏 186 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106078367833591915">▶ 播放</a> · <a href="https://x.com/0xMovez/status/2106078367833591915">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106078367833591915"><img src="../assets/covers/2106078367833591915.jpg" width="400" alt="GrokBot 的霓虹轨道"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105268326381625845"><img src="../assets/covers/2105268326381625845.jpg" width="400" alt="LaunchBuddy 发布准备片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110013871532490973"><img src="../assets/covers/2110013871532490973.jpg" width="400" alt="Happily：一封 AI 来信"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>GrokBot 的霓虹轨道</strong><br><sub><a href="https://x.com/0xMovez">@0xMovez</a> · 产品宣传</sub><br><sub>2:12 · 收藏 186 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106078367833591915">▶ 播放</a> · <a href="https://x.com/0xMovez/status/2106078367833591915">原帖</a></td>
 <td width="50%" valign="top"><strong>LaunchBuddy 发布准备片</strong><br><sub><a href="https://x.com/FloWritesCode">@FloWritesCode</a> · 产品宣传</sub><br><sub>0:30 · 收藏 174 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105268326381625845">▶ 播放</a> · <a href="https://x.com/FloWritesCode/status/2105268326381625845">原帖</a></td>
-<td width="50%" valign="top"><strong>Happily：一封 AI 来信</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:40 · 收藏 169 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110013871532490973">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2110013871532490973">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110013871532490973"><img src="../assets/covers/2110013871532490973.jpg" width="400" alt="Happily：一封 AI 来信"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102457403119985005"><img src="../assets/covers/2102457403119985005.jpg" width="400" alt="Claude 发布片：地平线与材质切换"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108644023330390194"><img src="../assets/covers/2108644023330390194.jpg" width="400" alt="Fish a Friend 钓鱼游戏预告"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Happily：一封 AI 来信</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 产品宣传</sub><br><sub>0:40 · 收藏 169 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110013871532490973">▶ 播放</a> · <a href="https://x.com/LexnLin/status/2110013871532490973">原帖</a></td>
 <td width="50%" valign="top"><strong>Claude 发布片：地平线与材质切换</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 产品宣传</sub><br><sub>0:20 · 收藏 168 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102457403119985005">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2102457403119985005">原帖</a></td>
-<td width="50%" valign="top"><strong>Fish a Friend 钓鱼游戏预告</strong><br><sub><a href="https://x.com/Blushneyy">@Blushneyy</a> · 产品宣传</sub><br><sub>0:43 · 收藏 154 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108644023330390194">▶ 播放</a> · <a href="https://x.com/Blushneyy/status/2108644023330390194">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108644023330390194"><img src="../assets/covers/2108644023330390194.jpg" width="400" alt="Fish a Friend 钓鱼游戏预告"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102370144546889735"><img src="../assets/covers/2102370144546889735.jpg" width="400" alt="Claude 帮助小镇居民的发布动画"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113241980268593422"><img src="../assets/covers/2113241980268593422.jpg" width="342" alt="Lumno 官网里的 SVG 动画"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Fish a Friend 钓鱼游戏预告</strong><br><sub><a href="https://x.com/Blushneyy">@Blushneyy</a> · 产品宣传</sub><br><sub>0:43 · 收藏 154 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108644023330390194">▶ 播放</a> · <a href="https://x.com/Blushneyy/status/2108644023330390194">原帖</a></td>
 <td width="50%" valign="top"><strong>Claude 帮助小镇居民的发布动画</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 产品宣传</sub><br><sub>0:56 · 收藏 139 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102370144546889735">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2102370144546889735">原帖</a></td>
-<td width="50%" valign="top"><strong>Lumno 官网里的 SVG 动画</strong><br><sub><a href="https://x.com/Kubai087">@Kubai087</a> · 产品宣传</sub><br><sub>1:07 · 收藏 136 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113241980268593422">▶ 播放</a> · <a href="https://x.com/Kubai087/status/2113241980268593422">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113241980268593422"><img src="../assets/covers/2113241980268593422.jpg" width="342" alt="Lumno 官网里的 SVG 动画"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111285052617445438"><img src="../assets/covers/2111285052617445438.jpg" width="127" alt="单提示词 Blender 桌面短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102462889160286423"><img src="../assets/covers/2102462889160286423.jpg" width="400" alt="连帽衫商品发布动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Lumno 官网里的 SVG 动画</strong><br><sub><a href="https://x.com/Kubai087">@Kubai087</a> · 产品宣传</sub><br><sub>1:07 · 收藏 136 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113241980268593422">▶ 播放</a> · <a href="https://x.com/Kubai087/status/2113241980268593422">原帖</a></td>
 <td width="50%" valign="top"><strong>单提示词 Blender 桌面短片</strong><br><sub><a href="https://x.com/rileybrown">@rileybrown</a> · 产品宣传</sub><br><sub>2:33 · 收藏 135 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111285052617445438">▶ 播放</a> · <a href="https://x.com/rileybrown/status/2111285052617445438">原帖</a></td>
-<td width="50%" valign="top"><strong>连帽衫商品发布动效</strong><br><sub><a href="https://x.com/bridgemindai">@bridgemindai</a> · 产品宣传</sub><br><sub>0:30 · 收藏 127 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102462889160286423">▶ 播放</a> · <a href="https://x.com/bridgemindai/status/2102462889160286423">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102462889160286423"><img src="../assets/covers/2102462889160286423.jpg" width="400" alt="连帽衫商品发布动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105771088374288692"><img src="../assets/covers/2105771088374288692.jpg" width="400" alt="虚构模型发布片：双模型试验"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104677989728620933"><img src="../assets/covers/2104677989728620933.jpg" width="400" alt="Elysia：代码碎片化作纸飞机"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>连帽衫商品发布动效</strong><br><sub><a href="https://x.com/bridgemindai">@bridgemindai</a> · 产品宣传</sub><br><sub>0:30 · 收藏 127 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102462889160286423">▶ 播放</a> · <a href="https://x.com/bridgemindai/status/2102462889160286423">原帖</a></td>
 <td width="50%" valign="top"><strong>虚构模型发布片：双模型试验</strong><br><sub><a href="https://x.com/mesmerlord">@mesmerlord</a> · 产品宣传</sub><br><sub>1:20 · 收藏 122 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105771088374288692">▶ 播放</a> · <a href="https://x.com/mesmerlord/status/2105771088374288692">原帖</a></td>
-<td width="50%" valign="top"><strong>Elysia：代码碎片化作纸飞机</strong><br><sub><a href="https://x.com/saltyAom">@saltyAom</a> · 产品宣传</sub><br><sub>1:34 · 收藏 121 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104677989728620933">▶ 播放</a> · <a href="https://x.com/saltyAom/status/2104677989728620933">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104677989728620933"><img src="../assets/covers/2104677989728620933.jpg" width="400" alt="Elysia：代码碎片化作纸飞机"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103747696620093644"><img src="../assets/covers/2103747696620093644.jpg" width="127" alt="收藏玩具的卡片发布片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105310327886029275"><img src="../assets/covers/2105310327886029275.jpg" width="400" alt="Loctax 品牌发布动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Elysia：代码碎片化作纸飞机</strong><br><sub><a href="https://x.com/saltyAom">@saltyAom</a> · 产品宣传</sub><br><sub>1:34 · 收藏 121 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104677989728620933">▶ 播放</a> · <a href="https://x.com/saltyAom/status/2104677989728620933">原帖</a></td>
 <td width="50%" valign="top"><strong>收藏玩具的卡片发布片</strong><br><sub><a href="https://x.com/yz_chow">@yz_chow</a> · 产品宣传</sub><br><sub>0:42 · 收藏 109 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103747696620093644">▶ 播放</a> · <a href="https://x.com/yz_chow/status/2103747696620093644">原帖</a></td>
-<td width="50%" valign="top"><strong>Loctax 品牌发布动效</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · 产品宣传</sub><br><sub>0:38 · 收藏 107 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105310327886029275">▶ 播放</a> · <a href="https://x.com/achxvi/status/2105310327886029275">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105310327886029275"><img src="../assets/covers/2105310327886029275.jpg" width="400" alt="Loctax 品牌发布动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102741813719138661"><img src="../assets/covers/2102741813719138661.jpg" width="400" alt="Roblox 游戏预告片制作"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110218646689599861"><img src="../assets/covers/2110218646689599861.jpg" width="400" alt="金毛犬的宠物界面短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Loctax 品牌发布动效</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · 产品宣传</sub><br><sub>0:38 · 收藏 107 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105310327886029275">▶ 播放</a> · <a href="https://x.com/achxvi/status/2105310327886029275">原帖</a></td>
 <td width="50%" valign="top"><strong>Roblox 游戏预告片制作</strong><br><sub><a href="https://x.com/NiloTechInc">@NiloTechInc</a> · 产品宣传</sub><br><sub>0:07 · 收藏 105 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102741813719138661">▶ 播放</a> · <a href="https://x.com/NiloTechInc/status/2102741813719138661">原帖</a></td>
-<td width="50%" valign="top"><strong>金毛犬的宠物界面短片</strong><br><sub><a href="https://x.com/fakharkamario">@fakharkamario</a> · 产品宣传</sub><br><sub>0:10 · 收藏 101 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110218646689599861">▶ 播放</a> · <a href="https://x.com/fakharkamario/status/2110218646689599861">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110218646689599861"><img src="../assets/covers/2110218646689599861.jpg" width="400" alt="金毛犬的宠物界面短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107740493262225688"><img src="../assets/covers/2107740493262225688.jpg" width="127" alt="从想法到广告的软质图形"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105773778676429021"><img src="../assets/covers/2105773778676429021.jpg" width="127" alt="暗场电脑的三维概念片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>金毛犬的宠物界面短片</strong><br><sub><a href="https://x.com/fakharkamario">@fakharkamario</a> · 产品宣传</sub><br><sub>0:10 · 收藏 101 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110218646689599861">▶ 播放</a> · <a href="https://x.com/fakharkamario/status/2110218646689599861">原帖</a></td>
 <td width="50%" valign="top"><strong>从想法到广告的软质图形</strong><br><sub><a href="https://x.com/ai4everyday">@ai4everyday</a> · 产品宣传</sub><br><sub>0:46 · 收藏 99 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107740493262225688">▶ 播放</a> · <a href="https://x.com/ai4everyday/status/2107740493262225688">原帖</a></td>
-<td width="50%" valign="top"><strong>暗场电脑的三维概念片</strong><br><sub><a href="https://x.com/granttheeking">@granttheeking</a> · 产品宣传</sub><br><sub>0:51 · 收藏 97 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105773778676429021">▶ 播放</a> · <a href="https://x.com/granttheeking/status/2105773778676429021">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105773778676429021"><img src="../assets/covers/2105773778676429021.jpg" width="127" alt="暗场电脑的三维概念片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104131805175844923"><img src="../assets/covers/2104131805175844923.jpg" width="180" alt="Stream 发布片：手工版与代码复刻对照"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102684116525437206"><img src="../assets/covers/2102684116525437206.jpg" width="400" alt="攻城游戏六十秒宣传片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>暗场电脑的三维概念片</strong><br><sub><a href="https://x.com/granttheeking">@granttheeking</a> · 产品宣传</sub><br><sub>0:51 · 收藏 97 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105773778676429021">▶ 播放</a> · <a href="https://x.com/granttheeking/status/2105773778676429021">原帖</a></td>
 <td width="50%" valign="top"><strong>Stream 发布片：手工版与代码复刻对照</strong><br><sub><a href="https://x.com/JurgenPloeger">@JurgenPloeger</a> · 产品宣传</sub><br><sub>0:48 · 收藏 97 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104131805175844923">▶ 播放</a> · <a href="https://x.com/JurgenPloeger/status/2104131805175844923">原帖</a></td>
-<td width="50%" valign="top"><strong>攻城游戏六十秒宣传片</strong><br><sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · 产品宣传</sub><br><sub>1:00 · 收藏 95 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102684116525437206">▶ 播放</a> · <a href="https://x.com/KanaWorks_AI/status/2102684116525437206">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102684116525437206"><img src="../assets/covers/2102684116525437206.jpg" width="400" alt="攻城游戏六十秒宣传片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108276280328331748"><img src="../assets/covers/2108276280328331748.jpg" width="400" alt="柔光卡片中的模型与日程信息"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103920117025554453"><img src="../assets/covers/2103920117025554453.jpg" width="400" alt="Firstsales：邮件产品宣传动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>攻城游戏六十秒宣传片</strong><br><sub><a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · 产品宣传</sub><br><sub>1:00 · 收藏 95 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102684116525437206">▶ 播放</a> · <a href="https://x.com/KanaWorks_AI/status/2102684116525437206">原帖</a></td>
 <td width="50%" valign="top"><strong>柔光卡片中的模型与日程信息</strong><br><sub><a href="https://x.com/code_kartik">@code_kartik</a> · 产品宣传</sub><br><sub>1:26 · 收藏 94 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108276280328331748">▶ 播放</a> · <a href="https://x.com/code_kartik/status/2108276280328331748">原帖</a></td>
-<td width="50%" valign="top"><strong>Firstsales：邮件产品宣传动效</strong><br><sub><a href="https://x.com/iuditg">@iuditg</a> · 产品宣传</sub><br><sub>0:15 · 收藏 94 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103920117025554453">▶ 播放</a> · <a href="https://x.com/iuditg/status/2103920117025554453">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103920117025554453"><img src="../assets/covers/2103920117025554453.jpg" width="400" alt="Firstsales：邮件产品宣传动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113061393541050715"><img src="../assets/covers/2113061393541050715.jpg" width="400" alt="Duet 的极简发布片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104610435571884086"><img src="../assets/covers/2104610435571884086.jpg" width="400" alt="Notion 列权限：从四种方向到成片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Firstsales：邮件产品宣传动效</strong><br><sub><a href="https://x.com/iuditg">@iuditg</a> · 产品宣传</sub><br><sub>0:15 · 收藏 94 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103920117025554453">▶ 播放</a> · <a href="https://x.com/iuditg/status/2103920117025554453">原帖</a></td>
 <td width="50%" valign="top"><strong>Duet 的极简发布片</strong><br><sub><a href="https://x.com/AlchainHust">@AlchainHust</a> · 产品宣传</sub><br><sub>0:29 · 收藏 80 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113061393541050715">▶ 播放</a> · <a href="https://x.com/AlchainHust/status/2113061393541050715">原帖</a></td>
-<td width="50%" valign="top"><strong>Notion 列权限：从四种方向到成片</strong><br><sub><a href="https://x.com/wustep">@wustep</a> · 产品宣传</sub><br><sub>0:32 · 收藏 78</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104610435571884086">▶ 播放</a> · <a href="https://x.com/wustep/status/2104610435571884086">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104610435571884086"><img src="../assets/covers/2104610435571884086.jpg" width="400" alt="Notion 列权限：从四种方向到成片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110245136953139577"><img src="../assets/covers/2110245136953139577.jpg" width="127" alt="把创意变成可编辑动效"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105279421435572498"><img src="../assets/covers/2105279421435572498.jpg" width="400" alt="泰语 AI 团队介绍片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Notion 列权限：从四种方向到成片</strong><br><sub><a href="https://x.com/wustep">@wustep</a> · 产品宣传</sub><br><sub>0:32 · 收藏 78</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104610435571884086">▶ 播放</a> · <a href="https://x.com/wustep/status/2104610435571884086">原帖</a></td>
 <td width="50%" valign="top"><strong>把创意变成可编辑动效</strong><br><sub><a href="https://x.com/ai4everyday">@ai4everyday</a> · 产品宣传</sub><br><sub>1:39 · 收藏 64 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110245136953139577">▶ 播放</a> · <a href="https://x.com/ai4everyday/status/2110245136953139577">原帖</a></td>
-<td width="50%" valign="top"><strong>泰语 AI 团队介绍片</strong><br><sub><a href="https://x.com/vibecodingth">@vibecodingth</a> · 产品宣传</sub><br><sub>2:21 · 收藏 61 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105279421435572498">▶ 播放</a> · <a href="https://x.com/vibecodingth/status/2105279421435572498">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105279421435572498"><img src="../assets/covers/2105279421435572498.jpg" width="400" alt="泰语 AI 团队介绍片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111887585639624828"><img src="../assets/covers/2111887585639624828.jpg" width="225" alt="Roadster 的复古未来试驾短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106192761632231813"><img src="../assets/covers/2106192761632231813.jpg" width="127" alt="通院 Memory iOS 发布介绍"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>泰语 AI 团队介绍片</strong><br><sub><a href="https://x.com/vibecodingth">@vibecodingth</a> · 产品宣传</sub><br><sub>2:21 · 收藏 61 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105279421435572498">▶ 播放</a> · <a href="https://x.com/vibecodingth/status/2105279421435572498">原帖</a></td>
 <td width="50%" valign="top"><strong>Roadster 的复古未来试驾短片</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 产品宣传</sub><br><sub>1:05 · 收藏 58 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111887585639624828">▶ 播放</a> · <a href="https://x.com/kevin_t_ngo/status/2111887585639624828">原帖</a></td>
-<td width="50%" valign="top"><strong>通院 Memory iOS 发布介绍</strong><br><sub><a href="https://x.com/seri_nonnon">@seri_nonnon</a> · 产品宣传</sub><br><sub>0:43 · 收藏 56</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106192761632231813">▶ 播放</a> · <a href="https://x.com/seri_nonnon/status/2106192761632231813">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106192761632231813"><img src="../assets/covers/2106192761632231813.jpg" width="127" alt="通院 Memory iOS 发布介绍"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102575622912631261"><img src="../assets/covers/2102575622912631261.jpg" width="400" alt="Opus 的卡通介绍短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103599163804098708"><img src="../assets/covers/2103599163804098708.jpg" width="225" alt="Clawd 与额度重置的概念短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>通院 Memory iOS 发布介绍</strong><br><sub><a href="https://x.com/seri_nonnon">@seri_nonnon</a> · 产品宣传</sub><br><sub>0:43 · 收藏 56</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106192761632231813">▶ 播放</a> · <a href="https://x.com/seri_nonnon/status/2106192761632231813">原帖</a></td>
 <td width="50%" valign="top"><strong>Opus 的卡通介绍短片</strong><br><sub><a href="https://x.com/nicekate8888">@nicekate8888</a> · 产品宣传</sub><br><sub>1:30 · 收藏 55 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102575622912631261">▶ 播放</a> · <a href="https://x.com/nicekate8888/status/2102575622912631261">原帖</a></td>
-<td width="50%" valign="top"><strong>Clawd 与额度重置的概念短片</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 产品宣传</sub><br><sub>0:12 · 收藏 53 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103599163804098708">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2103599163804098708">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103599163804098708"><img src="../assets/covers/2103599163804098708.jpg" width="225" alt="Clawd 与额度重置的概念短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102473582333050959"><img src="../assets/covers/2102473582333050959.jpg" width="400" alt="日语信息卡片的自述短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102913101926731879"><img src="../assets/covers/2102913101926731879.jpg" width="254" alt="润唇膏广告模型对比"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Clawd 与额度重置的概念短片</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 产品宣传</sub><br><sub>0:12 · 收藏 53 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103599163804098708">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2103599163804098708">原帖</a></td>
 <td width="50%" valign="top"><strong>日语信息卡片的自述短片</strong><br><sub><a href="https://x.com/_caty2_">@_caty2_</a> · 产品宣传</sub><br><sub>1:18 · 收藏 53 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102473582333050959">▶ 播放</a> · <a href="https://x.com/_caty2_/status/2102473582333050959">原帖</a></td>
-<td width="50%" valign="top"><strong>润唇膏广告模型对比</strong><br><sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · 产品宣传</sub><br><sub>0:20 · 收藏 48 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102913101926731879">▶ 播放</a> · <a href="https://x.com/higgsfield_ai/status/2102913101926731879">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102913101926731879"><img src="../assets/covers/2102913101926731879.jpg" width="254" alt="润唇膏广告模型对比"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111804745853894843"><img src="../assets/covers/2111804745853894843.jpg" width="400" alt="Roadster 穿过霓虹城市"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105016259645788381"><img src="../assets/covers/2105016259645788381.jpg" width="400" alt="Datafa.st 图表与查询宣传"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>润唇膏广告模型对比</strong><br><sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · 产品宣传</sub><br><sub>0:20 · 收藏 48 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102913101926731879">▶ 播放</a> · <a href="https://x.com/higgsfield_ai/status/2102913101926731879">原帖</a></td>
 <td width="50%" valign="top"><strong>Roadster 穿过霓虹城市</strong><br><sub><a href="https://x.com/0xwhrrari">@0xwhrrari</a> · 产品宣传</sub><br><sub>0:14 · 收藏 46 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111804745853894843">▶ 播放</a> · <a href="https://x.com/0xwhrrari/status/2111804745853894843">原帖</a></td>
-<td width="50%" valign="top"><strong>Datafa.st 图表与查询宣传</strong><br><sub><a href="https://x.com/Gregoirechp">@Gregoirechp</a> · 产品宣传</sub><br><sub>0:15 · 收藏 46 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105016259645788381">▶ 播放</a> · <a href="https://x.com/Gregoirechp/status/2105016259645788381">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105016259645788381"><img src="../assets/covers/2105016259645788381.jpg" width="400" alt="Datafa.st 图表与查询宣传"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2112877982239096988"><img src="../assets/covers/2112877982239096988.jpg" width="225" alt="微型实验室的概念广告"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104027910004949132"><img src="../assets/covers/2104027910004949132.jpg" width="400" alt="Yukon Research：开放研究平台故事"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Datafa.st 图表与查询宣传</strong><br><sub><a href="https://x.com/Gregoirechp">@Gregoirechp</a> · 产品宣传</sub><br><sub>0:15 · 收藏 46 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105016259645788381">▶ 播放</a> · <a href="https://x.com/Gregoirechp/status/2105016259645788381">原帖</a></td>
 <td width="50%" valign="top"><strong>微型实验室的概念广告</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 产品宣传</sub><br><sub>1:04 · 收藏 45 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2112877982239096988">▶ 播放</a> · <a href="https://x.com/kevin_t_ngo/status/2112877982239096988">原帖</a></td>
-<td width="50%" valign="top"><strong>Yukon Research：开放研究平台故事</strong><br><sub><a href="https://x.com/sreeramkannan">@sreeramkannan</a> · 产品宣传</sub><br><sub>0:53 · 收藏 44 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104027910004949132">▶ 播放</a> · <a href="https://x.com/sreeramkannan/status/2104027910004949132">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104027910004949132"><img src="../assets/covers/2104027910004949132.jpg" width="400" alt="Yukon Research：开放研究平台故事"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103975338976182477"><img src="../assets/covers/2103975338976182477.jpg" width="225" alt="Gemini 灵感与 Remotion 编排的软件广告"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106323424473907257"><img src="../assets/covers/2106323424473907257.jpg" width="400" alt="DeepSeek：天气应用的短动效试验"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Yukon Research：开放研究平台故事</strong><br><sub><a href="https://x.com/sreeramkannan">@sreeramkannan</a> · 产品宣传</sub><br><sub>0:53 · 收藏 44 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104027910004949132">▶ 播放</a> · <a href="https://x.com/sreeramkannan/status/2104027910004949132">原帖</a></td>
 <td width="50%" valign="top"><strong>Gemini 灵感与 Remotion 编排的软件广告</strong><br><sub><a href="https://x.com/WiFiMoneyGuy">@WiFiMoneyGuy</a> · 产品宣传</sub><br><sub>0:29 · 收藏 44 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103975338976182477">▶ 播放</a> · <a href="https://x.com/WiFiMoneyGuy/status/2103975338976182477">原帖</a></td>
-<td width="50%" valign="top"><strong>DeepSeek：天气应用的短动效试验</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · 产品宣传</sub><br><sub>0:25 · 收藏 43 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106323424473907257">▶ 播放</a> · <a href="https://x.com/ItsmeAjayKV/status/2106323424473907257">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106323424473907257"><img src="../assets/covers/2106323424473907257.jpg" width="400" alt="DeepSeek：天气应用的短动效试验"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104846546768670892"><img src="../assets/covers/2104846546768670892.jpg" width="400" alt="DistilBook：书页与光环的宣传片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109609404450607352"><img src="../assets/covers/2109609404450607352.jpg" width="400" alt="USDai 的装配流水线"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>DeepSeek：天气应用的短动效试验</strong><br><sub><a href="https://x.com/ItsmeAjayKV">@ItsmeAjayKV</a> · 产品宣传</sub><br><sub>0:25 · 收藏 43 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106323424473907257">▶ 播放</a> · <a href="https://x.com/ItsmeAjayKV/status/2106323424473907257">原帖</a></td>
 <td width="50%" valign="top"><strong>DistilBook：书页与光环的宣传片</strong><br><sub><a href="https://x.com/sudo_kiran">@sudo_kiran</a> · 产品宣传</sub><br><sub>0:30 · 收藏 43 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104846546768670892">▶ 播放</a> · <a href="https://x.com/sudo_kiran/status/2104846546768670892">原帖</a></td>
-<td width="50%" valign="top"><strong>USDai 的装配流水线</strong><br><sub><a href="https://x.com/0xZergs">@0xZergs</a> · 产品宣传</sub><br><sub>1:44 · 收藏 42 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109609404450607352">▶ 播放</a> · <a href="https://x.com/0xZergs/status/2109609404450607352">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109609404450607352"><img src="../assets/covers/2109609404450607352.jpg" width="400" alt="USDai 的装配流水线"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107481547242873319"><img src="../assets/covers/2107481547242873319.jpg" width="400" alt="QuanCard：卡片堆叠的应用宣传片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108384911245869197"><img src="../assets/covers/2108384911245869197.jpg" width="400" alt="Three.js 编码的汽车短片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>USDai 的装配流水线</strong><br><sub><a href="https://x.com/0xZergs">@0xZergs</a> · 产品宣传</sub><br><sub>1:44 · 收藏 42 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109609404450607352">▶ 播放</a> · <a href="https://x.com/0xZergs/status/2109609404450607352">原帖</a></td>
 <td width="50%" valign="top"><strong>QuanCard：卡片堆叠的应用宣传片</strong><br><sub><a href="https://x.com/luoleiorg">@luoleiorg</a> · 产品宣传</sub><br><sub>0:42 · 收藏 39 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107481547242873319">▶ 播放</a> · <a href="https://x.com/luoleiorg/status/2107481547242873319">原帖</a></td>
-<td width="50%" valign="top"><strong>Three.js 编码的汽车短片</strong><br><sub><a href="https://x.com/higgsfield">@higgsfield</a> · 产品宣传</sub><br><sub>0:30 · 收藏 37 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108384911245869197">▶ 播放</a> · <a href="https://x.com/higgsfield/status/2108384911245869197">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108384911245869197"><img src="../assets/covers/2108384911245869197.jpg" width="400" alt="Three.js 编码的汽车短片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110432527332900879"><img src="../assets/covers/2110432527332900879.jpg" width="400" alt="AI 工具卡片快节奏宣传"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110654224061366745"><img src="../assets/covers/2110654224061366745.jpg" width="400" alt="夺幕：商业发布会设计宣传片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Three.js 编码的汽车短片</strong><br><sub><a href="https://x.com/higgsfield">@higgsfield</a> · 产品宣传</sub><br><sub>0:30 · 收藏 37 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108384911245869197">▶ 播放</a> · <a href="https://x.com/higgsfield/status/2108384911245869197">原帖</a></td>
 <td width="50%" valign="top"><strong>AI 工具卡片快节奏宣传</strong><br><sub><a href="https://x.com/achxvi">@achxvi</a> · 产品宣传</sub><br><sub>0:42 · 收藏 36 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110432527332900879">▶ 播放</a> · <a href="https://x.com/achxvi/status/2110432527332900879">原帖</a></td>
-<td width="50%" valign="top"><strong>夺幕：商业发布会设计宣传片</strong><br><sub><a href="https://x.com/dashiAIxz">@dashiAIxz</a> · 产品宣传</sub><br><sub>1:48 · 收藏 36 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110654224061366745">▶ 播放</a> · <a href="https://x.com/dashiAIxz/status/2110654224061366745">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110654224061366745"><img src="../assets/covers/2110654224061366745.jpg" width="400" alt="夺幕：商业发布会设计宣传片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109085665694519714"><img src="../assets/covers/2109085665694519714.jpg" width="400" alt="消息在三维工位之间流动"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105414480910069765"><img src="../assets/covers/2105414480910069765.jpg" width="400" alt="Futurepost 扩展介绍动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>夺幕：商业发布会设计宣传片</strong><br><sub><a href="https://x.com/dashiAIxz">@dashiAIxz</a> · 产品宣传</sub><br><sub>1:48 · 收藏 36 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110654224061366745">▶ 播放</a> · <a href="https://x.com/dashiAIxz/status/2110654224061366745">原帖</a></td>
 <td width="50%" valign="top"><strong>消息在三维工位之间流动</strong><br><sub><a href="https://x.com/ai4everyday">@ai4everyday</a> · 产品宣传</sub><br><sub>1:13 · 收藏 34 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109085665694519714">▶ 播放</a> · <a href="https://x.com/ai4everyday/status/2109085665694519714">原帖</a></td>
-<td width="50%" valign="top"><strong>Futurepost 扩展介绍动效</strong><br><sub><a href="https://x.com/allodev">@allodev</a> · 产品宣传</sub><br><sub>0:25 · 收藏 33</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105414480910069765">▶ 播放</a> · <a href="https://x.com/allodev/status/2105414480910069765">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105414480910069765"><img src="../assets/covers/2105414480910069765.jpg" width="400" alt="Futurepost 扩展介绍动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103987596301119645"><img src="../assets/covers/2103987596301119645.jpg" width="127" alt="Blender 模型驱动的竖屏产品片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108539312556089566"><img src="../assets/covers/2108539312556089566.jpg" width="400" alt="Grok Bot：X 集成发布动效"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Futurepost 扩展介绍动效</strong><br><sub><a href="https://x.com/allodev">@allodev</a> · 产品宣传</sub><br><sub>0:25 · 收藏 33</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105414480910069765">▶ 播放</a> · <a href="https://x.com/allodev/status/2105414480910069765">原帖</a></td>
 <td width="50%" valign="top"><strong>Blender 模型驱动的竖屏产品片</strong><br><sub><a href="https://x.com/yoshifujidesign">@yoshifujidesign</a> · 产品宣传</sub><br><sub>0:30 · 收藏 33 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103987596301119645">▶ 播放</a> · <a href="https://x.com/yoshifujidesign/status/2103987596301119645">原帖</a></td>
-<td width="50%" valign="top"><strong>Grok Bot：X 集成发布动效</strong><br><sub><a href="https://x.com/kocer_eth">@kocer_eth</a> · 产品宣传</sub><br><sub>0:43 · 收藏 29 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108539312556089566">▶ 播放</a> · <a href="https://x.com/kocer_eth/status/2108539312556089566">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108539312556089566"><img src="../assets/covers/2108539312556089566.jpg" width="400" alt="Grok Bot：X 集成发布动效"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105750054908891423"><img src="../assets/covers/2105750054908891423.jpg" width="400" alt="HyperFrames 趋势庆祝短片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104734251295863242"><img src="../assets/covers/2104734251295863242.jpg" width="400" alt="Wells Intelligence：地图与数据宣传片"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Grok Bot：X 集成发布动效</strong><br><sub><a href="https://x.com/kocer_eth">@kocer_eth</a> · 产品宣传</sub><br><sub>0:43 · 收藏 29 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108539312556089566">▶ 播放</a> · <a href="https://x.com/kocer_eth/status/2108539312556089566">原帖</a></td>
 <td width="50%" valign="top"><strong>HyperFrames 趋势庆祝短片</strong><br><sub><a href="https://x.com/liu8in">@liu8in</a> · 产品宣传</sub><br><sub>0:17 · 收藏 28</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2105750054908891423">▶ 播放</a> · <a href="https://x.com/liu8in/status/2105750054908891423">原帖</a></td>
-<td width="50%" valign="top"><strong>Wells Intelligence：地图与数据宣传片</strong><br><sub><a href="https://x.com/kyle_e_walker">@kyle_e_walker</a> · 产品宣传</sub><br><sub>1:14 · 收藏 27 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104734251295863242">▶ 播放</a> · <a href="https://x.com/kyle_e_walker/status/2104734251295863242">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104734251295863242"><img src="../assets/covers/2104734251295863242.jpg" width="400" alt="Wells Intelligence：地图与数据宣传片"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107990570002252237"><img src="../assets/covers/2107990570002252237.jpg" width="400" alt="Haiku 5.5 的自荐宣传片"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103117698863390805"><img src="../assets/covers/2103117698863390805.jpg" width="400" alt="手机应用录屏的节奏剪辑"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Wells Intelligence：地图与数据宣传片</strong><br><sub><a href="https://x.com/kyle_e_walker">@kyle_e_walker</a> · 产品宣传</sub><br><sub>1:14 · 收藏 27 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104734251295863242">▶ 播放</a> · <a href="https://x.com/kyle_e_walker/status/2104734251295863242">原帖</a></td>
 <td width="50%" valign="top"><strong>Haiku 5.5 的自荐宣传片</strong><br><sub><a href="https://x.com/LufzzLiz">@LufzzLiz</a> · 产品宣传</sub><br><sub>0:30 · 收藏 27 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2107990570002252237">▶ 播放</a> · <a href="https://x.com/LufzzLiz/status/2107990570002252237">原帖</a></td>
-<td width="50%" valign="top"><strong>手机应用录屏的节奏剪辑</strong><br><sub><a href="https://x.com/reg_andr">@reg_andr</a> · 产品宣传</sub><br><sub>0:54 · 收藏 26 · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103117698863390805">▶ 播放</a> · <a href="https://x.com/reg_andr/status/2103117698863390805">原帖</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -1648,11 +1698,321 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106435688292053244"><img src="../assets/covers/2106435688292053244.jpg" width="400" alt="Murmur 的语音功能发布片"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102463234586685869"><img src="../assets/covers/2102463234586685869.jpg" width="400" alt="聊天约时间到日历的应用广告"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Murmur 的语音功能发布片</strong><br><sub><a href="https://x.com/tarunyadav9761">@tarunyadav9761</a> · 产品宣传</sub><br><sub>0:53 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2106435688292053244">▶ 播放</a> · <a href="https://x.com/tarunyadav9761/status/2106435688292053244">原帖</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>聊天约时间到日历的应用广告</strong><br><sub><a href="https://x.com/Goldiez2599">@Goldiez2599</a> · 产品宣传</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102463234586685869">▶ 播放</a> · <a href="https://x.com/Goldiez2599/status/2102463234586685869">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472633057206409"><img src="../assets/covers/2102472633057206409.jpg" width="400" alt="GetStopover 的航班卡片与目的地宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102634404774629665"><img src="../assets/covers/2102634404774629665.jpg" width="126" alt="Planning Manager 的事件卡片宣传"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>GetStopover 的航班卡片与目的地宣传片</strong><br><sub><a href="https://x.com/priyansh0327">@priyansh0327</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102472633057206409">▶ 播放</a> · <a href="https://x.com/priyansh0327/status/2102472633057206409">原帖</a></td>
+<td width="50%" valign="top"><strong>Planning Manager 的事件卡片宣传</strong><br><sub><a href="https://x.com/alanschwegler">@alanschwegler</a> · 产品宣传</sub><br><sub>0:36 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102634404774629665">▶ 播放</a> · <a href="https://x.com/alanschwegler/status/2102634404774629665">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102666619029999989"><img src="../assets/covers/2102666619029999989.jpg" width="400" alt="通知卡片与产品界面的宣传动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102691772715728942"><img src="../assets/covers/2102691772715728942.jpg" width="126" alt="英语学习应用的文字与手机广告"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>通知卡片与产品界面的宣传动画</strong><br><sub><a href="https://x.com/chhddavid">@chhddavid</a> · 产品宣传</sub><br><sub>0:50 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102666619029999989">▶ 播放</a> · <a href="https://x.com/chhddavid/status/2102666619029999989">原帖</a></td>
+<td width="50%" valign="top"><strong>英语学习应用的文字与手机广告</strong><br><sub><a href="https://x.com/unvalley_">@unvalley_</a> · 产品宣传</sub><br><sub>0:35 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102691772715728942">▶ 播放</a> · <a href="https://x.com/unvalley_/status/2102691772715728942">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102696204249526348"><img src="../assets/covers/2102696204249526348.jpg" width="225" alt="柠檬汽水的扁平插画广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102725361922625706"><img src="../assets/covers/2102725361922625706.jpg" width="400" alt="Audivo 的卡通播客与指令卡片广告"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>柠檬汽水的扁平插画广告</strong><br><sub><a href="https://x.com/onofumi_AI">@onofumi_AI</a> · 产品宣传</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102696204249526348">▶ 播放</a> · <a href="https://x.com/onofumi_AI/status/2102696204249526348">原帖</a></td>
+<td width="50%" valign="top"><strong>Audivo 的卡通播客与指令卡片广告</strong><br><sub><a href="https://x.com/localjulius">@localjulius</a> · 产品宣传</sub><br><sub>0:53 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102725361922625706">▶ 播放</a> · <a href="https://x.com/localjulius/status/2102725361922625706">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102893439159251247"><img src="../assets/covers/2102893439159251247.jpg" width="126" alt="支付应用的卡通品牌广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102897651008344202"><img src="../assets/covers/2102897651008344202.jpg" width="126" alt="音乐演出的竖屏文字广告"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>支付应用的卡通品牌广告</strong><br><sub><a href="https://x.com/gonahmias">@gonahmias</a> · 产品宣传</sub><br><sub>0:38 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102893439159251247">▶ 播放</a> · <a href="https://x.com/gonahmias/status/2102893439159251247">原帖</a></td>
+<td width="50%" valign="top"><strong>音乐演出的竖屏文字广告</strong><br><sub><a href="https://x.com/GonzaloMacagno">@GonzaloMacagno</a> · 产品宣传</sub><br><sub>0:10 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2102897651008344202">▶ 播放</a> · <a href="https://x.com/GonzaloMacagno/status/2102897651008344202">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103053680945868989"><img src="../assets/covers/2103053680945868989.jpg" width="165" alt="手机应用的彩色开屏动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103106389489127504"><img src="../assets/covers/2103106389489127504.jpg" width="400" alt="应用功能列表与标题的宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>手机应用的彩色开屏动画</strong><br><sub><a href="https://x.com/modaalbuilder">@modaalbuilder</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103053680945868989">▶ 播放</a> · <a href="https://x.com/modaalbuilder/status/2103053680945868989">原帖</a></td>
+<td width="50%" valign="top"><strong>应用功能列表与标题的宣传片</strong><br><sub><a href="https://x.com/yayoi_threee">@yayoi_threee</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103106389489127504">▶ 播放</a> · <a href="https://x.com/yayoi_threee/status/2103106389489127504">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103146389412917572"><img src="../assets/covers/2103146389412917572.jpg" width="400" alt="AppSumo 的手绘代理介绍"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103148288400924827"><img src="../assets/covers/2103148288400924827.jpg" width="400" alt="CodePilot 的界面与文字宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>AppSumo 的手绘代理介绍</strong><br><sub><a href="https://x.com/mattbean">@mattbean</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103146389412917572">▶ 播放</a> · <a href="https://x.com/mattbean/status/2103146389412917572">原帖</a></td>
+<td width="50%" valign="top"><strong>CodePilot 的界面与文字宣传片</strong><br><sub><a href="https://x.com/op7418">@op7418</a> · 产品宣传</sub><br><sub>0:50 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103148288400924827">▶ 播放</a> · <a href="https://x.com/op7418/status/2103148288400924827">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103176101497651644"><img src="../assets/covers/2103176101497651644.jpg" width="400" alt="Squad 的团队卡片与数字宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103260931790917866"><img src="../assets/covers/2103260931790917866.jpg" width="400" alt="Frontier 的地图与文字概念宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Squad 的团队卡片与数字宣传片</strong><br><sub><a href="https://x.com/pbteja1998">@pbteja1998</a> · 产品宣传</sub><br><sub>1:05 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103176101497651644">▶ 播放</a> · <a href="https://x.com/pbteja1998/status/2103176101497651644">原帖</a></td>
+<td width="50%" valign="top"><strong>Frontier 的地图与文字概念宣传片</strong><br><sub><a href="https://x.com/sidkasbekar">@sidkasbekar</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103260931790917866">▶ 播放</a> · <a href="https://x.com/sidkasbekar/status/2103260931790917866">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103276581770903837"><img src="../assets/covers/2103276581770903837.jpg" width="400" alt="One Inbox 的卡片与光束宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103406623595081798"><img src="../assets/covers/2103406623595081798.jpg" width="400" alt="タイピング無双的游戏宣传动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>One Inbox 的卡片与光束宣传片</strong><br><sub><a href="https://x.com/ky__zo">@ky__zo</a> · 产品宣传</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103276581770903837">▶ 播放</a> · <a href="https://x.com/ky__zo/status/2103276581770903837">原帖</a></td>
+<td width="50%" valign="top"><strong>タイピング無双的游戏宣传动画</strong><br><sub><a href="https://x.com/Typingmusou">@Typingmusou</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103406623595081798">▶ 播放</a> · <a href="https://x.com/Typingmusou/status/2103406623595081798">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103407771102421285"><img src="../assets/covers/2103407771102421285.jpg" width="400" alt="TETUMEMO 的个人品牌文字动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103425679618609629"><img src="../assets/covers/2103425679618609629.jpg" width="126" alt="问题卡片与排行榜的竖屏宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>TETUMEMO 的个人品牌文字动画</strong><br><sub><a href="https://x.com/tetumemo">@tetumemo</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103407771102421285">▶ 播放</a> · <a href="https://x.com/tetumemo/status/2103407771102421285">原帖</a></td>
+<td width="50%" valign="top"><strong>问题卡片与排行榜的竖屏宣传片</strong><br><sub><a href="https://x.com/hugon001">@hugon001</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103425679618609629">▶ 播放</a> · <a href="https://x.com/hugon001/status/2103425679618609629">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103437700783038710"><img src="../assets/covers/2103437700783038710.jpg" width="400" alt="蓝白图表组成的机构介绍片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103497319899693327"><img src="../assets/covers/2103497319899693327.jpg" width="400" alt="シンまじん式的日文品牌排版动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>蓝白图表组成的机构介绍片</strong><br><sub><a href="https://x.com/baptistelcx">@baptistelcx</a> · 产品宣传</sub><br><sub>1:18 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103437700783038710">▶ 播放</a> · <a href="https://x.com/baptistelcx/status/2103437700783038710">原帖</a></td>
+<td width="50%" valign="top"><strong>シンまじん式的日文品牌排版动画</strong><br><sub><a href="https://x.com/Majin_AppSheet">@Majin_AppSheet</a> · 产品宣传</sub><br><sub>0:10 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103497319899693327">▶ 播放</a> · <a href="https://x.com/Majin_AppSheet/status/2103497319899693327">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103500011581440008"><img src="../assets/covers/2103500011581440008.jpg" width="400" alt="Alchemy 的立方体与支付网络动效"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103501705698750731"><img src="../assets/covers/2103501705698750731.jpg" width="400" alt="AI Arena 的卡牌与界面宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Alchemy 的立方体与支付网络动效</strong><br><sub><a href="https://x.com/onewaysidewalks">@onewaysidewalks</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103500011581440008">▶ 播放</a> · <a href="https://x.com/onewaysidewalks/status/2103500011581440008">原帖</a></td>
+<td width="50%" valign="top"><strong>AI Arena 的卡牌与界面宣传片</strong><br><sub><a href="https://x.com/ezshine">@ezshine</a> · 产品宣传</sub><br><sub>1:06 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103501705698750731">▶ 播放</a> · <a href="https://x.com/ezshine/status/2103501705698750731">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103502674758951193"><img src="../assets/covers/2103502674758951193.jpg" width="400" alt="Nebius 成本曲线的宣传动效"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103503774203752450"><img src="../assets/covers/2103503774203752450.jpg" width="400" alt="Mem0 的记忆、统计与节点宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Nebius 成本曲线的宣传动效</strong><br><sub><a href="https://x.com/demian_ai">@demian_ai</a> · 产品宣传</sub><br><sub>1:06 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103502674758951193">▶ 播放</a> · <a href="https://x.com/demian_ai/status/2103502674758951193">原帖</a></td>
+<td width="50%" valign="top"><strong>Mem0 的记忆、统计与节点宣传片</strong><br><sub><a href="https://x.com/himanshutwtxs">@himanshutwtxs</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103503774203752450">▶ 播放</a> · <a href="https://x.com/himanshutwtxs/status/2103503774203752450">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103517930424332386"><img src="../assets/covers/2103517930424332386.jpg" width="397" alt="DistilBook 的图文卡片宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103539067317072370"><img src="../assets/covers/2103539067317072370.jpg" width="400" alt="法文文字与界面标签的宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>DistilBook 的图文卡片宣传片</strong><br><sub><a href="https://x.com/itisRazak">@itisRazak</a> · 产品宣传</sub><br><sub>0:40 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103517930424332386">▶ 播放</a> · <a href="https://x.com/itisRazak/status/2103517930424332386">原帖</a></td>
+<td width="50%" valign="top"><strong>法文文字与界面标签的宣传片</strong><br><sub><a href="https://x.com/Thuggy_Juice">@Thuggy_Juice</a> · 产品宣传</sub><br><sub>0:38 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103539067317072370">▶ 播放</a> · <a href="https://x.com/Thuggy_Juice/status/2103539067317072370">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103540805575278645"><img src="../assets/covers/2103540805575278645.jpg" width="400" alt="Netlify AI Gateway 的节点与字形动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103545787875733862"><img src="../assets/covers/2103545787875733862.jpg" width="400" alt="Ren 的文字与图形发布片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Netlify AI Gateway 的节点与字形动画</strong><br><sub><a href="https://x.com/thisiskp_">@thisiskp_</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103540805575278645">▶ 播放</a> · <a href="https://x.com/thisiskp_/status/2103540805575278645">原帖</a></td>
+<td width="50%" valign="top"><strong>Ren 的文字与图形发布片</strong><br><sub><a href="https://x.com/macrohou">@macrohou</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103545787875733862">▶ 播放</a> · <a href="https://x.com/macrohou/status/2103545787875733862">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103552840027304046"><img src="../assets/covers/2103552840027304046.jpg" width="400" alt="Reflex 的文字、波形与颜色切换"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103557833153466403"><img src="../assets/covers/2103557833153466403.jpg" width="400" alt="Drone Emprit 的舆情粒子与图表"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Reflex 的文字、波形与颜色切换</strong><br><sub><a href="https://x.com/reflex_cloud">@reflex_cloud</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103552840027304046">▶ 播放</a> · <a href="https://x.com/reflex_cloud/status/2103552840027304046">原帖</a></td>
+<td width="50%" valign="top"><strong>Drone Emprit 的舆情粒子与图表</strong><br><sub><a href="https://x.com/ismailfahmi">@ismailfahmi</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103557833153466403">▶ 播放</a> · <a href="https://x.com/ismailfahmi/status/2103557833153466403">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103565104243712107"><img src="../assets/covers/2103565104243712107.jpg" width="400" alt="DreamFort 的文字与网络结构宣言"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103578285892649220"><img src="../assets/covers/2103578285892649220.jpg" width="400" alt="Gene Spectra 的数据与字形宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>DreamFort 的文字与网络结构宣言</strong><br><sub><a href="https://x.com/advait_jayant">@advait_jayant</a> · 产品宣传</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103565104243712107">▶ 播放</a> · <a href="https://x.com/advait_jayant/status/2103565104243712107">原帖</a></td>
+<td width="50%" valign="top"><strong>Gene Spectra 的数据与字形宣传片</strong><br><sub><a href="https://x.com/madebyjmayala">@madebyjmayala</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103578285892649220">▶ 播放</a> · <a href="https://x.com/madebyjmayala/status/2103578285892649220">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103578446056321426"><img src="../assets/covers/2103578446056321426.jpg" width="400" alt="个人账号的字形与符号宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103607894285394277"><img src="../assets/covers/2103607894285394277.jpg" width="400" alt="发光文字与转场的客户宣传样片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>个人账号的字形与符号宣传片</strong><br><sub><a href="https://x.com/superalesha">@superalesha</a> · 产品宣传</sub><br><sub>0:25 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103578446056321426">▶ 播放</a> · <a href="https://x.com/superalesha/status/2103578446056321426">原帖</a></td>
+<td width="50%" valign="top"><strong>发光文字与转场的客户宣传样片</strong><br><sub><a href="https://x.com/dcbruck">@dcbruck</a> · 产品宣传</sub><br><sub>1:00 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103607894285394277">▶ 播放</a> · <a href="https://x.com/dcbruck/status/2103607894285394277">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103621603628306747"><img src="../assets/covers/2103621603628306747.jpg" width="400" alt="《野蛮なアジャイル》的动态书籍介绍"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103637250420658403"><img src="../assets/covers/2103637250420658403.jpg" width="126" alt="粉丝站的卡牌与角色宣传动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>《野蛮なアジャイル》的动态书籍介绍</strong><br><sub><a href="https://x.com/ama_ch">@ama_ch</a> · 产品宣传</sub><br><sub>1:06 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103621603628306747">▶ 播放</a> · <a href="https://x.com/ama_ch/status/2103621603628306747">原帖</a></td>
+<td width="50%" valign="top"><strong>粉丝站的卡牌与角色宣传动画</strong><br><sub><a href="https://x.com/nek0n0tem0">@nek0n0tem0</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103637250420658403">▶ 播放</a> · <a href="https://x.com/nek0n0tem0/status/2103637250420658403">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103739425058598941"><img src="../assets/covers/2103739425058598941.jpg" width="400" alt="DolphinBench 论文的方块与网络宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103749915172274583"><img src="../assets/covers/2103749915172274583.jpg" width="400" alt="豆包语音主题的点阵品牌动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>DolphinBench 论文的方块与网络宣传片</strong><br><sub><a href="https://x.com/himanshutwtxs">@himanshutwtxs</a> · 产品宣传</sub><br><sub>0:38 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103739425058598941">▶ 播放</a> · <a href="https://x.com/himanshutwtxs/status/2103739425058598941">原帖</a></td>
+<td width="50%" valign="top"><strong>豆包语音主题的点阵品牌动画</strong><br><sub><a href="https://x.com/ChenshuoAI">@ChenshuoAI</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103749915172274583">▶ 播放</a> · <a href="https://x.com/ChenshuoAI/status/2103749915172274583">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103784599788892204"><img src="../assets/covers/2103784599788892204.jpg" width="400" alt="Glaido 的文字与品牌发布动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103895527628865902"><img src="../assets/covers/2103895527628865902.jpg" width="400" alt="三维网格与曲线的数据宣传动效"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Glaido 的文字与品牌发布动画</strong><br><sub><a href="https://x.com/makwanatejas170">@makwanatejas170</a> · 产品宣传</sub><br><sub>0:43 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103784599788892204">▶ 播放</a> · <a href="https://x.com/makwanatejas170/status/2103784599788892204">原帖</a></td>
+<td width="50%" valign="top"><strong>三维网格与曲线的数据宣传动效</strong><br><sub><a href="https://x.com/buildalpha">@buildalpha</a> · 产品宣传</sub><br><sub>0:22 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2103895527628865902">▶ 播放</a> · <a href="https://x.com/buildalpha/status/2103895527628865902">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104013046683439562"><img src="../assets/covers/2104013046683439562.jpg" width="400" alt="花朵与标题的公司宣传动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104013515623170390"><img src="../assets/covers/2104013515623170390.jpg" width="400" alt="ClimbX 的标识与信息卡片动效"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>花朵与标题的公司宣传动画</strong><br><sub><a href="https://x.com/mikhwams">@mikhwams</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104013046683439562">▶ 播放</a> · <a href="https://x.com/mikhwams/status/2104013046683439562">原帖</a></td>
+<td width="50%" valign="top"><strong>ClimbX 的标识与信息卡片动效</strong><br><sub><a href="https://x.com/DanielSmidstrup">@DanielSmidstrup</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104013515623170390">▶ 播放</a> · <a href="https://x.com/DanielSmidstrup/status/2104013515623170390">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104045641538412658"><img src="../assets/covers/2104045641538412658.jpg" width="400" alt="Myfolio 的阅读器介绍动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104129999662174276"><img src="../assets/covers/2104129999662174276.jpg" width="400" alt="连接账户与品牌字形的发布片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Myfolio 的阅读器介绍动画</strong><br><sub><a href="https://x.com/BogdanDragomir">@BogdanDragomir</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104045641538412658">▶ 播放</a> · <a href="https://x.com/BogdanDragomir/status/2104045641538412658">原帖</a></td>
+<td width="50%" valign="top"><strong>连接账户与品牌字形的发布片</strong><br><sub><a href="https://x.com/fiapp_pro">@fiapp_pro</a> · 产品宣传</sub><br><sub>1:09 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104129999662174276">▶ 播放</a> · <a href="https://x.com/fiapp_pro/status/2104129999662174276">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104178266990858739"><img src="../assets/covers/2104178266990858739.jpg" width="400" alt="Baguette Pro 的面包概念广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104194783178785203"><img src="../assets/covers/2104194783178785203.jpg" width="400" alt="文件、文字与星线的宣传动效"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Baguette Pro 的面包概念广告</strong><br><sub><a href="https://x.com/RaphaelAubryy">@RaphaelAubryy</a> · 产品宣传</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104178266990858739">▶ 播放</a> · <a href="https://x.com/RaphaelAubryy/status/2104178266990858739">原帖</a></td>
+<td width="50%" valign="top"><strong>文件、文字与星线的宣传动效</strong><br><sub><a href="https://x.com/sudo_kiran">@sudo_kiran</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104194783178785203">▶ 播放</a> · <a href="https://x.com/sudo_kiran/status/2104194783178785203">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104222408655954025"><img src="../assets/covers/2104222408655954025.jpg" width="400" alt="Clonk 手机界面与标识宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104261754624893300"><img src="../assets/covers/2104261754624893300.jpg" width="400" alt="Kinetics 的按钮与数字宣传动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Clonk 手机界面与标识宣传片</strong><br><sub><a href="https://x.com/0xPaulius">@0xPaulius</a> · 产品宣传</sub><br><sub>1:00 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104222408655954025">▶ 播放</a> · <a href="https://x.com/0xPaulius/status/2104222408655954025">原帖</a></td>
+<td width="50%" valign="top"><strong>Kinetics 的按钮与数字宣传动画</strong><br><sub><a href="https://x.com/csaba_kissi">@csaba_kissi</a> · 产品宣传</sub><br><sub>1:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104261754624893300">▶ 播放</a> · <a href="https://x.com/csaba_kissi/status/2104261754624893300">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104285967251378494"><img src="../assets/covers/2104285967251378494.jpg" width="400" alt="创业品牌的代码动态图形短片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104295133432922126"><img src="../assets/covers/2104295133432922126.jpg" width="400" alt="Pixel Up Labs 的动态图形作品集"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>创业品牌的代码动态图形短片</strong><br><sub><a href="https://x.com/AIandDesign">@AIandDesign</a> · 产品宣传</sub><br><sub>1:06 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104285967251378494">▶ 播放</a> · <a href="https://x.com/AIandDesign/status/2104285967251378494">原帖</a></td>
+<td width="50%" valign="top"><strong>Pixel Up Labs 的动态图形作品集</strong><br><sub><a href="https://x.com/arjunsh1607">@arjunsh1607</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104295133432922126">▶ 播放</a> · <a href="https://x.com/arjunsh1607/status/2104295133432922126">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104455061636083919"><img src="../assets/covers/2104455061636083919.jpg" width="400" alt="产品链路与模型标识的发布动效"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104462550729679354"><img src="../assets/covers/2104462550729679354.jpg" width="400" alt="AITDK 扩展的界面与文字宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>产品链路与模型标识的发布动效</strong><br><sub><a href="https://x.com/ephraimduncan">@ephraimduncan</a> · 产品宣传</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104455061636083919">▶ 播放</a> · <a href="https://x.com/ephraimduncan/status/2104455061636083919">原帖</a></td>
+<td width="50%" valign="top"><strong>AITDK 扩展的界面与文字宣传片</strong><br><sub><a href="https://x.com/blankwebdev">@blankwebdev</a> · 产品宣传</sub><br><sub>1:00 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104462550729679354">▶ 播放</a> · <a href="https://x.com/blankwebdev/status/2104462550729679354">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104522775927107815"><img src="../assets/covers/2104522775927107815.jpg" width="225" alt="《强みの教科書》书籍宣传动效"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104576193785950510"><img src="../assets/covers/2104576193785950510.jpg" width="400" alt="QiaomuHome 从仓库到插件的宣传片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>《强みの教科書》书籍宣传动效</strong><br><sub><a href="https://x.com/nyattx">@nyattx</a> · 产品宣传</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104522775927107815">▶ 播放</a> · <a href="https://x.com/nyattx/status/2104522775927107815">原帖</a></td>
+<td width="50%" valign="top"><strong>QiaomuHome 从仓库到插件的宣传片</strong><br><sub><a href="https://x.com/vista8">@vista8</a> · 产品宣传</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104576193785950510">▶ 播放</a> · <a href="https://x.com/vista8/status/2104576193785950510">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104590706216206442"><img src="../assets/covers/2104590706216206442.jpg" width="400" alt="ListMySaaS 的界面宣传动画"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108568769815818248"><img src="../assets/covers/2108568769815818248.jpg" width="400" alt="Haiku 5.5 的概念发布动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>ListMySaaS 的界面宣传动画</strong><br><sub><a href="https://x.com/s_chiriac">@s_chiriac</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2104590706216206442">▶ 播放</a> · <a href="https://x.com/s_chiriac/status/2104590706216206442">原帖</a></td>
+<td width="50%" valign="top"><strong>Haiku 5.5 的概念发布动画</strong><br><sub><a href="https://x.com/blueemi99">@blueemi99</a> · 产品宣传</sub><br><sub>1:03 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2108568769815818248">▶ 播放</a> · <a href="https://x.com/blueemi99/status/2108568769815818248">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109820931489042719"><img src="../assets/covers/2109820931489042719.jpg" width="400" alt="Grok Bot 工作流的文字与粒子宣传片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109979474250944605"><img src="../assets/covers/2109979474250944605.jpg" width="126" alt="Nahdi 药房的手机与品牌动效"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Grok Bot 工作流的文字与粒子宣传片</strong><br><sub><a href="https://x.com/limuvibecoding">@limuvibecoding</a> · 产品宣传</sub><br><sub>0:52 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109820931489042719">▶ 播放</a> · <a href="https://x.com/limuvibecoding/status/2109820931489042719">原帖</a></td>
+<td width="50%" valign="top"><strong>Nahdi 药房的手机与品牌动效</strong><br><sub><a href="https://x.com/Des_Hanaa">@Des_Hanaa</a> · 产品宣传</sub><br><sub>0:11 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109979474250944605">▶ 播放</a> · <a href="https://x.com/Des_Hanaa/status/2109979474250944605">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110275366455845137"><img src="../assets/covers/2110275366455845137.jpg" width="126" alt="苹果汁罐的三维广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111080098128359521"><img src="../assets/covers/2111080098128359521.jpg" width="400" alt="五款应用的动态图形开场"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>苹果汁罐的三维广告</strong><br><sub><a href="https://x.com/aniketdotexe">@aniketdotexe</a> · 产品宣传</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2110275366455845137">▶ 播放</a> · <a href="https://x.com/aniketdotexe/status/2110275366455845137">原帖</a></td>
+<td width="50%" valign="top"><strong>五款应用的动态图形开场</strong><br><sub><a href="https://x.com/harjjotsinghh">@harjjotsinghh</a> · 产品宣传</sub><br><sub>0:28 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2111080098128359521">▶ 播放</a> · <a href="https://x.com/harjjotsinghh/status/2111080098128359521">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2115759392192659746"><img src="../assets/covers/2115759392192659746.jpg" width="126" alt="Chipper 品牌的两支界面动效广告"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116663090364465534"><img src="../assets/covers/2116663090364465534.jpg" width="126" alt="记账产品的二十八秒动态图文广告"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Chipper 品牌的两支界面动效广告</strong><br><sub><a href="https://x.com/Aygramm_">@Aygramm_</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2115759392192659746">▶ 播放</a> · <a href="https://x.com/Aygramm_/status/2115759392192659746">原帖</a></td>
+<td width="50%" valign="top"><strong>记账产品的二十八秒动态图文广告</strong><br><sub><a href="https://x.com/Aygramm_">@Aygramm_</a> · 产品宣传</sub><br><sub>0:28 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116663090364465534">▶ 播放</a> · <a href="https://x.com/Aygramm_/status/2116663090364465534">原帖</a></td>
 </tr>
 </tbody>
 </table>

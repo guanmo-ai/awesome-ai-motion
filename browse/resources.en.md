@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-190 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+212 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -47,6 +47,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Article-intro tutorial and published instructions](https://x.com/i/article/2101681282224881664)
   The creator documents article-to-motion work, template reuse and overlap checks. Published instructions include later fixes; timings describe their individual experiments.
   [Link source](https://x.com/FalconG_J/status/2104515621988040855) · Link checked 2026-10-10 05:12 UTC
+
+## [A 3D Explainer of Shazam Sound Fingerprints](../cases/2110127563238785480.en.md) · @numaausaumon
+
+- **Public web page**：[Interactive Shazam algorithm demo](https://ask.jig.com/j/ZTJoPvMuKxWy)
+  [Link source](https://x.com/numaausaumon/status/2110127563238785480) · Link checked 2026-11-02 15:38 UTC
 
 ## [Showtime: a motion-design skill sample](../cases/2107367735466573937.en.md) · @FavioVaz
 
@@ -394,6 +399,49 @@ Public work pages also count as implementation references; a web link alone does
   The page contains readable HTML, CSS and inline JavaScript; no explicit code license was identified.
   [Link source](https://www.kakeru-d.jp/blog/claude-animation-akikan/) · Link checked 2026-10-26 16:17 UTC
 
+## [A Coded Hometown Film in Maps and City Graphics](../cases/2112187129145208871.en.md) · @jing548799
+
+- **Related tool**：[General Lemo-Opuscar code-film toolkit](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/main/LICENSE)
+  Code and docs use MIT. Repository demo films have separate CC BY 4.0 terms and asset/voice exceptions; these do not establish this hometown film’s license.
+  [Link source](https://x.com/jing548799/status/2112187129145208871) · Link checked 2026-11-02 15:38 UTC
+
+## [An Interactive ESP32 Pin-and-Signal Lab](../cases/2113003653644619955.en.md) · @abderrahmen\_g
+
+- **Direct source**：[ESP32 interactive-lab site source](https://github.com/agharsallah/esp-labs-web) · [MIT](https://github.com/agharsallah/esp-labs-web/blob/main/LICENSE)
+  [Link source](https://x.com/abderrahmen_g/status/2113003653644619955) · Link checked 2026-11-02 09:52 UTC
+- **Public web page**：[ESP32 interactive lab](https://esp-labs-web.vercel.app/)
+  [Link source](https://github.com/agharsallah/esp-labs-web) · Link checked 2026-11-02 09:52 UTC
+
+## [An Interactive Telescope Light-Path Explainer](../cases/2115438976203153742.en.md) · @RyanSael
+
+- **Public web page**：[Interactive telescope light-path demo](https://sael.net/light-bucket)
+  [Link source](https://x.com/RyanSael/status/2115438976203153742) · Link checked 2026-11-02 09:52 UTC
+
+## [Oxygen's Interactive Journey from Air to Cells](../cases/2115565230772392277.en.md) · @techartist\_
+
+- **Public web page**：[Interactive oxygen-transport lesson](https://iamtechartist.com/breathing-and-respiration/)
+  [Link source](https://x.com/techartist_/status/2115565230772392277) · Link checked 2026-11-02 08:50 UTC
+
+## [Twelve ECG Leads Driven by a 3D Heart](../cases/2115898852704456739.en.md) · @therealRYC
+
+- **Direct source**：[Creator’s published single-page build](https://github.com/therealryc/heart-in-twelve-leads) · No license specified
+  The repository contains the built page only, with no separate project license identified; bundled libraries and fonts have their own terms. The creator says the teaching content has not been fully fact-checked.
+  [Link source](https://therealryc.github.io/heart-in-twelve-leads/) · Link checked 2026-11-02 08:50 UTC
+- **Public web page**：[Twelve-lead interactive demo](https://therealryc.github.io/heart-in-twelve-leads/)
+  [Link source](https://x.com/therealRYC/status/2115898852704456739) · Link checked 2026-11-02 08:50 UTC
+
+## [A Statechart of One Animal Cell's Life](../cases/2116423724379656329.en.md) · @kevin\_t\_ngo
+
+- **Direct source**：[Animal-cell animation directory](https://github.com/kevintngo/statechart-art/tree/main/one-becomes-two) · [MIT](https://github.com/kevintngo/statechart-art/blob/main/LICENSE)
+  [Link source](https://kevintngo.github.io/statechart-art/one-becomes-two/) · Link checked 2026-11-02 09:52 UTC
+- **Public web page**：[Animal-cell life-cycle demo](https://kevintngo.github.io/statechart-art/one-becomes-two/)
+  [Link source](https://x.com/kevin_t_ngo/status/2116423724379656329) · Link checked 2026-11-02 09:52 UTC
+
+## [Interactive Lessons on Home Circuits and Breakers](../cases/2116555241802105072.en.md) · @misat0x
+
+- **Public web page**：[Interactive home-circuit lesson](https://homegrid-deploy.vercel.app/)
+  [Link source](https://x.com/misat0x/status/2116555241802105072) · Link checked 2026-11-02 08:50 UTC
+
 ## [Opus visual design test](../cases/2102514581684052169.en.md) · @other\_\_reality
 
 - **Direct source**：[P(doom) music-video scenes and renderer](https://github.com/JohnHeibel/PDoomVideo) · No license specified
@@ -424,12 +472,6 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Creator’s CodePen page](https://codepen.io/editor/ChetasLua/pen/01a0cadf-5b81-756f-8647-8cf5a47e7adf)
   Linked by the creator. Page contents could not be read during this check; complete source and reuse permission are unverified.
   [Link source](https://x.com/chetaslua/status/2102501773705670994) · Link checked 2026-10-14 04:58 UTC
-
-## [A Coded Coast of Waves, Palms and Shadows](../cases/2108694114476650840.en.md) · @LexnLin
-
-- **Public web page**：[Creator’s interactive work](https://claude.ai/artifact/VnZjdNrSqAGv8JQ3URwe17)
-  Linked by the creator; returned 403 during this check. Source and license were not verified.
-  [Link source](https://x.com/LexnLin/status/2108694114476650840) · Link checked 2026-10-19 08:47 UTC
 
 ## [Anidoodle: code-drawn motion and music](../cases/2107086004964282814.en.md) · @alexgreensh
 
@@ -506,6 +548,26 @@ Public work pages also count as implementation references; a web link alone does
   Directly linked in the creator’s post. The work page was readable; playing requires the Roblox client and platform eligibility. Full gameplay has not been tested.
   [Link source](https://x.com/JohnKlerAI/status/2108929788517789892) · Link checked 2026-10-10 15:00 UTC
 
+## [Colorful Button and Capsule Motion](../cases/2103485566570369333.en.md) · @\_\_morse
+
+- **Direct source**：[Single-page animation and render scripts](https://gist.github.com/remorses/3d467b50a0519ef7859823046dc9c427) · No license specified
+  Public HTML, audio-analysis and frame-rendering scripts. No overall license or soundtrack reuse permission was found.
+  [Link source](https://x.com/__morse/status/2103485566570369333) · Link checked 2026-11-03 09:18 UTC
+
+## [A Collection of 184 SwiftUI Text Animations](../cases/2104216792877154656.en.md) · @amos\_gyamfi
+
+- **Direct source**：[SwiftUI text-animation collection source](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations) · [MIT](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations/blob/main/LICENSE)
+  The creator wrote two animations and asked Opus 5.5 to create the rest; this entry documents the collection.
+  [Link source](https://x.com/amos_gyamfi/status/2104216792877154656) · Link checked 2026-11-02 09:52 UTC
+
+## [Pixel Effects: Casts, Impacts and Palette Changes](../cases/2116062680121540611.en.md) · @rehan\_shei
+
+- **Direct source**：[Pixel-effects code and creation skill](https://github.com/patch-gg/pixelfx) · [MIT](https://github.com/patch-gg/pixelfx/blob/main/LICENSE)
+  Code and effects use MIT; the Patch Pixel font is excluded. The post mentions 232 effects while the saved repository lists 244, so the recording may use an earlier version.
+  [Link source](https://x.com/rehan_shei/status/2116062680121540611) · Link checked 2026-11-03 09:18 UTC
+- **Public web page**：[Interactive pixel-effects gallery](https://patch-gg.github.io/pixelfx/)
+  [Link source](https://github.com/patch-gg/pixelfx) · Link checked 2026-11-02 08:50 UTC
+
 ## [Goku Running through a Mountain Valley](../cases/2113427367477878971.en.md) · @aniketjart
 
 - **Public web page**：[Dragon Ball fan-runner page](https://app.usecrayon.ai/play/3a9001a5-28fa-4ae0-ba5c-3b068d1912a4)
@@ -570,6 +632,20 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[NEO CRASH playable entrance](https://thevibepreneur.com/neo-crash/)
   The same creator links this work in a direct reply to the original post. The page is reachable; project source and overall reuse rights are unverified.
   [Link source](https://x.com/the_vibepreneur/status/2107496993111355645) · Link checked 2026-10-09 04:02 UTC
+
+## [Doctor Doom Brick Assembly](../cases/2103280356371702076.en.md) · @SammmAing
+
+- **Direct source**：[Single-page brick-animation project](https://github.com/Sam1983Aing/doom-in-bricks) · No license specified
+  A publicly readable unofficial character-brick demo with no overall license found; character and brand rights are not established.
+  [Link source](https://x.com/SammmAing/status/2103280356371702076) · Link checked 2026-11-03 09:18 UTC
+- **Public web page**：[View the brick assembly online](https://sam1983aing.github.io/doom-in-bricks/)
+  [Link source](https://x.com/SammmAing/status/2103280356371702076) · Link checked 2026-11-03 09:18 UTC
+
+## [A Live2D Character Yawns and Sneezes](../cases/2103384608301830297.en.md) · @rotejin
+
+- **Related tool**：[Live2D motion-generation and preview tool](https://github.com/shinshin86/live2d-add-motion-sample-web-ui) · [MIT](https://github.com/shinshin86/live2d-add-motion-sample-web-ui/blob/main/LICENSE)
+  A general motion tool by shinshin86, slightly modified by the creator. Character models are not bundled and retain their own license terms.
+  [Link source](https://x.com/rotejin/status/2103384608301830297) · Link checked 2026-11-02 15:38 UTC
 
 ## [The Little Prince: Across the Stars Trailer](../cases/2109962425512734739.en.md) · @Saccc\_c
 
@@ -1070,6 +1146,35 @@ Public work pages also count as implementation references; a web link alone does
 - **Public web page**：[Creator’s Roadster racing demo](https://www.aymeric.dev/roadster)
   [Link source](https://x.com/aymericrabot/status/2111519266898169925) · Link checked 2026-10-26 15:15 UTC
 
+## [Live Visitors Become Spheres and Islands](../cases/2107683152865173619.en.md) · @RyanSael
+
+- **Public web page**：[Live-visitor 3D demo](https://sael.net/here)
+  [Link source](https://x.com/RyanSael/status/2107683152865173619) · Link checked 2026-11-02 09:52 UTC
+
+## [Robotic Bee: Optics and Mechanical Teardown](../cases/2116192984299344372.en.md) · @elvar\_official
+
+- **Related tool**：[General mechanical-teardown production skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  A general tool linked by the production guide quoted in the post; it is not the complete project for this film.
+  [Link source](https://x.com/elvar_official/status/2116174609355571402) · Link checked 2026-11-02 08:50 UTC
+
+## [Robotic Scorpion: Gait and Full Teardown](../cases/2116277601794724232.en.md) · @Nyxera0x
+
+- **Related tool**：[General mechanical-teardown production skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  A general tool linked by the production guide quoted in the post; it is not the complete project for this film.
+  [Link source](https://x.com/elvar_official/status/2116174609355571402) · Link checked 2026-11-02 08:50 UTC
+
+## [Robotic Octopus: Optics, Arms and Teardown](../cases/2116289885870981296.en.md) · @0x\_fokki
+
+- **Related tool**：[General mechanical-teardown production skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  A general tool linked by the production guide quoted in the post; it is not the complete project for this film.
+  [Link source](https://x.com/elvar_official/status/2116174609355571402) · Link checked 2026-11-02 08:50 UTC
+
+## [A Robotic Dragonfly Takes Flight and Comes Apart](../cases/2116880857893838998.en.md) · @averix\_official
+
+- **Related tool**：[General mechanical-teardown production skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  A general tool linked by the production guide quoted in the post; it is not the complete project for this film.
+  [Link source](https://x.com/elvar_official/status/2116174609355571402) · Link checked 2026-11-02 08:50 UTC
+
 ## [Memory Fading into Watercolor: A Coded Short](../cases/2104186357824487573.en.md) · @techartist\_
 
 - **Direct source**：[Memory Fading into Watercolor source](https://github.com/iamtechartist/memory-fading-into-watercolor) · [MIT](https://github.com/iamtechartist/memory-fading-into-watercolor/blob/0bcc7cedfa9b0323437d746916174c9bba34026e/LICENSE)
@@ -1111,6 +1216,39 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[Published film project and production materials](https://github.com/DDChen666/civilization-film) · [MIT](https://github.com/DDChen666/civilization-film/blob/main/LICENSE)
   [Link source](https://github.com/DDChen666/civilization-film/blob/main/LICENSE-MEDIA.md) · Link checked 2026-10-13 07:50 UTC
 
+## [Raven's Coded History from Hatching to Flight](../cases/2103032879496540640.en.md) · @hylarucoder
+
+- **Related tool**：[General git-story-film production skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven repository code uses Apache-2.0; the drawing engine adapted from Alexey Fateev retains MIT terms. The general tool is not the complete project for this film.
+  [Link source](https://x.com/hylarucoder/status/2104076282107723935) · Link checked 2026-11-02 09:52 UTC
+- **Direct source**：[Raven example film code and Chinese version](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film/examples/raven-story) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  The example depends on the bundled drawing engine; adapted engine code retains MIT notices and fonts have separate OFL terms.
+  [Link source](https://github.com/EverMind-AI/Raven/blob/main/skills/git-story-film/README.zh-CN.md) · Link checked 2026-11-02 09:52 UTC
+
+## [CC Switch and the Growing Switchboard](../cases/2103768558429958335.en.md) · @hylarucoder
+
+- **Related tool**：[General git-story-film production skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven repository code uses Apache-2.0; the drawing engine adapted from Alexey Fateev retains MIT terms. The general tool is not the complete project for this film.
+  [Link source](https://x.com/hylarucoder/status/2104076282107723935) · Link checked 2026-11-02 09:52 UTC
+
+## [LobeHub's Repository Story in Sparks and Stars](../cases/2103868710561911209.en.md) · @hylarucoder
+
+- **Related tool**：[General git-story-film production skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven repository code uses Apache-2.0; the drawing engine adapted from Alexey Fateev retains MIT terms. The general tool is not the complete project for this film.
+  [Link source](https://x.com/hylarucoder/status/2104076282107723935) · Link checked 2026-11-02 09:52 UTC
+
+## [Cherry Studio's Story as a Growing Cherry Tree](../cases/2104037017873162442.en.md) · @hylarucoder
+
+- **Related tool**：[General git-story-film production skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven repository code uses Apache-2.0; the drawing engine adapted from Alexey Fateev retains MIT terms. The general tool is not the complete project for this film.
+  [Link source](https://x.com/hylarucoder/status/2104076282107723935) · Link checked 2026-11-02 09:52 UTC
+
+## [The Little Prince in Paper-Cut Planet Scenes](../cases/2114942260353868116.en.md) · @Saccc\_c
+
+- **Related tool**：[huashu-art-motion art-animation skill](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/main/LICENSE)
+  A general production tool with MIT code and docs. Fonts retain OFL terms and stroke data retains the Arphic Public License. Huashu character artwork and Clawd demo films are excluded from MIT. These terms do not establish the complete source or license of this Little Prince short.
+  [Link source](https://x.com/Saccc_c/status/2114942260353868116) · Link checked 2026-11-03 09:18 UTC
+
 ## [Music Film About Functional Emotions](../cases/2102610626321490404.en.md) · @eudaemonea
 
 - **Direct source**：[Functional Emotions animation source](https://github.com/ledbetterljoshua/functional-emotions-video) · [MIT](https://github.com/ledbetterljoshua/functional-emotions-video/blob/b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49/LICENSE)
@@ -1124,12 +1262,6 @@ Public work pages also count as implementation references; a web link alone does
   [Link source](https://x.com/LuisBizarro/status/2104258849091793217) · Link checked 2026-09-29 06:16 UTC
 - **Public web page**：[Neon Overdrive live audiovisual demo](https://evangelion-neon-overdrive.vercel.app/)
   [Link source](https://x.com/LuisBizarro/status/2104111432149164474) · Link checked 2026-09-29 05:50 UTC
-
-## [One More Prompt](../cases/2109779693792883178.en.md) · @LexnLin
-
-- **Related tool**：[Cinetic workflow tool](https://github.com/Leonxlnx/cinetic) · No license specified
-  A general tool, not the source project of this film.
-  [Link source](https://x.com/LexnLin/status/2109779697131258272) · Link checked 2026-10-16 06:39 UTC
 
 ## [An Interactive MusicKit and WebGPU Lyrics Player](../cases/2105174061697618314.en.md) · @LuisBizarro
 
@@ -1180,3 +1312,9 @@ Public work pages also count as implementation references; a web link alone does
 - **Direct source**：[Poetry animation and synthesized-music source](https://github.com/Kimzify/naqsh-e-khiyal) · [MIT](https://github.com/Kimzify/naqsh-e-khiyal/blob/main/LICENSE)
   Code is MIT; glosses, scene designs, music and preview images are separately CC BY 4.0 under LICENSE-CONTENT.md. Fonts retain their own licenses.
   [Link source](https://x.com/kimziify/status/2103784499125559530) · Link checked 2026-10-26 15:15 UTC
+
+## [A Vertical Lyric MV in Engraved 3D Lines](../cases/2107826563786084783.en.md) · @okazaky
+
+- **Direct source**：[This film’s storyboard, scenes and revision notes](https://github.com/okazaky/claude-skill-lyric-mv-3d/tree/main/examples/yoru-code) · [MIT](https://github.com/okazaky/claude-skill-lyric-mv-3d/blob/main/LICENSE)
+  Adapted from Giacomo Magnanini’s mexicat/pdoom-video. Song and lyric files are excluded; the code license does not cover those assets.
+  [Link source](https://x.com/okazaky/status/2107826563786084783) · Link checked 2026-11-02 08:50 UTC
