@@ -2,7 +2,7 @@
 
 # 角色动画
 
-164 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+166 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -823,6 +823,16 @@
 <tr>
 <td width="50%" valign="top"><strong>Minecraft 骨骼骑士的防御与攻击</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 角色动画</sub><br><sub>0:48 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2113952546293195024">▶ 播放</a> · <a href="https://x.com/MrTacticalX/status/2113952546293195024">原帖</a></td>
 <td width="50%" valign="top"><strong>Minecraft TNT 巨人的攻击动画</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 角色动画</sub><br><sub>0:46 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2114676059811569861">▶ 播放</a> · <a href="https://x.com/MrTacticalX/status/2114676059811569861">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117069916121817591"><img src="../assets/covers/2117069916121817591.jpg" width="295" alt="纸面角色走入三维世界"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120179018964324566"><img src="../assets/covers/2120179018964324566.jpg" width="400" alt="Claude 吉祥物的手绘小镇之旅"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>纸面角色走入三维世界</strong><br><sub><a href="https://x.com/chetanankola">@chetanankola</a> · 角色动画</sub><br><sub>0:16 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117069916121817591">▶ 播放</a> · <a href="https://x.com/chetanankola/status/2117069916121817591">原帖</a></td>
+<td width="50%" valign="top"><strong>Claude 吉祥物的手绘小镇之旅</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 角色动画</sub><br><sub>0:34 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120179018964324566">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2120179018964324566">原帖</a></td>
 </tr>
 </tbody>
 </table>

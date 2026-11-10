@@ -2,7 +2,7 @@
 
 # 短动效
 
-295 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+296 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -1478,11 +1478,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116062680121540611"><img src="../assets/covers/2116062680121540611.jpg" width="400" alt="像素特效库的施法、冲击与变色"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117505122905575589"><img src="../assets/covers/2117505122905575589.jpg" width="400" alt="一次神经元发火里的宇宙"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>像素特效库的施法、冲击与变色</strong><br><sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · 短动效</sub><br><sub>0:40 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116062680121540611">▶ 播放</a> · <a href="https://x.com/rehan_shei/status/2116062680121540611">原帖</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>一次神经元发火里的宇宙</strong><br><sub><a href="https://x.com/Charlotteqozf">@Charlotteqozf</a> · 短动效</sub><br><sub>0:10 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117505122905575589">▶ 播放</a> · <a href="https://x.com/Charlotteqozf/status/2117505122905575589">原帖</a></td>
 </tr>
 </tbody>
 </table>

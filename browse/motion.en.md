@@ -2,7 +2,7 @@
 
 # Motion design
 
-295 works. Click a cover to play; works without gallery video open on X.
+296 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -1478,11 +1478,11 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116062680121540611"><img src="../assets/covers/2116062680121540611.jpg" width="400" alt="Pixel Effects: Casts, Impacts and Palette Changes"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117505122905575589"><img src="../assets/covers/2117505122905575589.jpg" width="400" alt="A Universe Inside One Neural Spark"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Pixel Effects: Casts, Impacts and Palette Changes</strong><br><sub><a href="https://x.com/rehan_shei">@rehan_shei</a> · Motion design</sub><br><sub>0:40 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116062680121540611">▶ Play</a> · <a href="https://x.com/rehan_shei/status/2116062680121540611">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>A Universe Inside One Neural Spark</strong><br><sub><a href="https://x.com/Charlotteqozf">@Charlotteqozf</a> · Motion design</sub><br><sub>0:10 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117505122905575589">▶ Play</a> · <a href="https://x.com/Charlotteqozf/status/2117505122905575589">Original post</a></td>
 </tr>
 </tbody>
 </table>

@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-212 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+213 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -94,6 +94,14 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Session Story skill cited as a style reference](https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story) · [Apache-2.0](https://github.com/heygen-com/hyperframes-community-skills/blob/master/LICENSE)
   The prompt cites this skill for its hand-drawn room and character style. It is a reference tool, not the Remotion project for this film.
   [Link source](https://x.com/kelanoo/status/2108199189134053863) · Link checked 2026-10-13 07:56 UTC
+
+## [The Last Train to the Galaxy](../cases/2117680088364016090.en.md) · @jayypatel18
+
+- **Direct source**：[Shot-by-shot code and synthesized soundtrack project](https://github.com/jayypatel18/last-train) · No license specified
+  The project is directly linked by the creator. No overall license was found; the Three.js MIT license only covers that dependency.
+  [Link source](https://x.com/jayypatel18/status/2117680088364016090) · Link checked 2026-11-06 17:34 UTC
+- **Public web page**：[Watch the train short in a browser](https://jayypatel18.github.io/last-train/)
+  [Link source](https://x.com/jayypatel18/status/2117680088364016090) · Link checked 2026-11-06 17:34 UTC
 
 ## [One Prompt: A p5.js Music Video](../cases/2105230653457650116.en.md) · @ppop123
 

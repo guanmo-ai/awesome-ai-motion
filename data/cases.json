@@ -3,6 +3,833 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2120179018964324566",
+      "stage": "discovery",
+      "title": "Claude 吉祥物的手绘小镇之旅",
+      "titleEn": "Claude Mascot's Journey Through a Hand-Drawn Town",
+      "category": "像素与角色",
+      "summary": "橙色 Claude 吉祥物穿过线描街道与水彩乡间，留白线稿逐渐过渡到彩色建筑、草地和云层。作者称作品由 Fable 5.2 以纯 JavaScript 制作。",
+      "summaryEn": "An orange Claude mascot travels from line-drawn streets into a watercolor countryside of houses, grass and clouds. The creator credits Fable 5.2 and pure JavaScript.",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2120179018964324566",
+        "publishedAt": "2026-11-10T15:37:23.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 : artist inside llm , pure js",
+        "evidenceUrl": "https://x.com/chetaslua/status/2120179018964324566"
+      },
+      "media": {
+        "durationSeconds": 34.389,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120179018964324566.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120178938458812416/vid/avc1/1920x1080/HxeQpH1T4e8ekm2p.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 21.321,
+        "width": 640,
+        "height": 360,
+        "bytes": 43885
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetaslua/status/2120179018964324566",
+        "checkedAt": "2026-11-10T16:11:28.386028+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/chetaslua/status/2120179018964324566",
+        "checkedAt": "2026-11-10T16:11:28.386028+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-10T16:11:28.386028+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120178938458812416/vid/avc1/1920x1080/HxeQpH1T4e8ekm2p.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetaslua/status/2120179018964324566",
+        "checkedAt": "2026-11-10T16:11:28.386028+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://x.com/chetaslua/status/2120179018964324566"
+    },
+    {
+      "id": "2118438787227484294",
+      "stage": "discovery",
+      "title": "机械鹰的变焦眼与拆翼",
+      "titleEn": "A Robot Eagle's Zoom Eye and Detachable Wings",
+      "category": "3D 与交互",
+      "summary": "金色虹膜与伸缩镜头完成锁定，翼片、爪部与机身随后依次展开；作者明确说明让 Opus 5.5 制作这只机械鹰。",
+      "summaryEn": "A gold iris and telescoping lens lock on before feathers, talons and body panels open, in a robotic eagle the creator asked Opus 5.5 to build.",
+      "author": {
+        "name": "Averix",
+        "handle": "averix_official",
+        "url": "https://x.com/averix_official"
+      },
+      "source": {
+        "url": "https://x.com/averix_official/status/2118438787227484294",
+        "publishedAt": "2026-11-05T20:22:20.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "🚨 I asked Claude Opus 5.5 for an eagle with sharp eyes. It built a zoom lens into its skull.",
+        "evidenceUrl": "https://x.com/averix_official/status/2118438787227484294"
+      },
+      "media": {
+        "durationSeconds": 15.061,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2118438787227484294.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2118438592456368128/vid/avc1/1920x1080/K3cfmZLLvjk58DfS.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.01,
+        "width": 480,
+        "height": 270,
+        "bytes": 23573
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/averix_official/status/2118438787227484294",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/averix_official/status/2118438787227484294",
+        "checkedAt": "2026-11-06T17:22:51.834059+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.834059+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2118438592456368128/vid/avc1/1920x1080/K3cfmZLLvjk58DfS.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/averix_official/status/2118438787227484294",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2118119342910972332",
+      "stage": "discovery",
+      "title": "玻璃机械章鱼的核心展开",
+      "titleEn": "A Glass Robot Octopus Opens Its Core",
+      "category": "3D 与交互",
+      "summary": "透明头罩、发光线圈与八条机械臂依次展开，核心抽出后整机拆解再重组；作者明确说明由 Opus 5.5 制作。",
+      "summaryEn": "A transparent mantle, glowing coil and eight mechanical arms open before the core lifts out and the machine reassembles, explicitly credited to Opus 5.5.",
+      "author": {
+        "name": "Averix",
+        "handle": "averix_official",
+        "url": "https://x.com/averix_official"
+      },
+      "source": {
+        "url": "https://x.com/averix_official/status/2118119342910972332",
+        "publishedAt": "2026-11-04T23:12:58.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "opus 5.5 built me a robot octopus with a glass mantle and a coil core glowing orange inside. eight arms of white links, light rings",
+        "evidenceUrl": "https://x.com/averix_official/status/2118119342910972332"
+      },
+      "media": {
+        "durationSeconds": 24.043,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2118119342910972332.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2118119197230141440/vid/avc1/1920x1080/71XFKVt9Tl2xX075.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4.81,
+        "width": 480,
+        "height": 270,
+        "bytes": 27140
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/averix_official/status/2118119342910972332",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/averix_official/status/2118119342910972332",
+        "checkedAt": "2026-11-06T17:22:51.838393+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.838393+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2118119197230141440/vid/avc1/1920x1080/71XFKVt9Tl2xX075.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/averix_official/status/2118119342910972332",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2117933307585499192",
+      "stage": "discovery",
+      "title": "渐变素材库的图形发布片",
+      "titleEn": "A Graphic Launch Film for a Gradient Library",
+      "category": "产品宣传",
+      "summary": "渐变纹理、着色器卡片、色板和倾斜网格随字幕切换，组成设计素材库发布片；作者明确说明用 Opus 5.5 制作。",
+      "summaryEn": "Gradient textures, shader cards, palettes and tilted grids move with typography in a design-library launch film explicitly credited to Opus 5.5.",
+      "author": {
+        "name": "Basit A. Khan",
+        "handle": "basit_designs",
+        "url": "https://x.com/basit_designs"
+      },
+      "source": {
+        "url": "https://x.com/basit_designs/status/2117933307585499192",
+        "publishedAt": "2026-11-04T10:53:44.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Cooked this video with Claude Opus 5.5 for http://grainient.supply No references, just a few Claude skills and some experimentation.",
+        "evidenceUrl": "https://x.com/basit_designs/status/2117933307585499192"
+      },
+      "media": {
+        "durationSeconds": 30.059,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2117933307585499192.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2117931660910133248/vid/avc1/3200x1800/3a1153S4U4gxLrzW.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 21.04,
+        "width": 480,
+        "height": 270,
+        "bytes": 28199
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/basit_designs/status/2117933307585499192",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/basit_designs/status/2117933307585499192",
+        "checkedAt": "2026-11-06T17:22:51.829992+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.829992+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2117931660910133248/vid/avc1/3200x1800/3a1153S4U4gxLrzW.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/basit_designs/status/2117933307585499192",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2117680088364016090",
+      "stage": "discovery",
+      "title": "银河行き：夏日末班列车",
+      "titleEn": "The Last Train to the Galaxy",
+      "category": "叙事短片",
+      "summary": "空荡的海边车站迎来一节旧列车，轨道随后延伸进云海与银河；作者公开 Opus 5.5 的代码工程、原始指令和浏览器演示。",
+      "summaryEn": "An empty seaside station receives an old railcar before its tracks rise into clouds and the Milky Way. The creator shares the Opus 5.5 project, prompt and browser demo.",
+      "author": {
+        "name": "Jay Patel",
+        "handle": "jayypatel18",
+        "url": "https://x.com/jayypatel18"
+      },
+      "source": {
+        "url": "https://x.com/jayypatel18/status/2117680088364016090",
+        "publishedAt": "2026-11-03T18:07:32.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "opus 5.5 just made an anime film in pure code",
+        "evidenceUrl": "https://x.com/jayypatel18/status/2117680088364016090"
+      },
+      "media": {
+        "durationSeconds": 90.133,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2117680088364016090.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2117680028863655936/vid/avc1/1920x1080/eORMcnLfjT9cix_I.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 18.03,
+        "width": 480,
+        "height": 270,
+        "bytes": 19994
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/jayypatel18/status/2117680088364016090",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/jayypatel18/status/2117680088364016090",
+        "checkedAt": "2026-11-06T17:22:51.828946+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.828946+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2117680028863655936/vid/avc1/1920x1080/eORMcnLfjT9cix_I.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/jayypatel18/status/2117680088364016090",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/jayypatel18/last-train",
+          "label": "逐镜头代码与声音合成工程",
+          "labelEn": "Shot-by-shot code and synthesized soundtrack project",
+          "license": "not_specified",
+          "note": "作者线程直接提供的作品工程；未见整体许可证，Three.js 的 MIT 许可只覆盖该依赖。",
+          "noteEn": "The project is directly linked by the creator. No overall license was found; the Three.js MIT license only covers that dependency.",
+          "evidenceUrl": "https://x.com/jayypatel18/status/2117680088364016090",
+          "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+        },
+        {
+          "kind": "demo",
+          "url": "https://jayypatel18.github.io/last-train/",
+          "label": "在浏览器观看列车短片",
+          "labelEn": "Watch the train short in a browser",
+          "evidenceUrl": "https://x.com/jayypatel18/status/2117680088364016090",
+          "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+        }
+      ],
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2117580663759273988",
+      "stage": "discovery",
+      "title": "FIFTH：房间如何弯曲空间",
+      "titleEn": "FIFTH: Rooms That Bend Space",
+      "category": "3D 与交互",
+      "summary": "网格房间与多面体空间随每条边聚合的单元数变化，形成非欧几何穿行；作者说明这是 Opus 5.5 制作的短版。",
+      "summaryEn": "Grid rooms and polyhedral cells change as different numbers meet around an edge, creating a non-Euclidean journey credited to Opus 5.5.",
+      "author": {
+        "name": "Charlotte",
+        "handle": "Charlotteqozf",
+        "url": "https://x.com/Charlotteqozf"
+      },
+      "source": {
+        "url": "https://x.com/Charlotteqozf/status/2117580663759273988",
+        "publishedAt": "2026-11-03T11:32:27.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "これはOpus 5.5が作った非ユークリッド幾何学の不思議な世界。",
+        "evidenceUrl": "https://x.com/Charlotteqozf/status/2117580663759273988"
+      },
+      "media": {
+        "durationSeconds": 68.267,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2117580663759273988.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2117580584545611776/vid/avc1/1280x720/-sJPePyqcGVJMj_m.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 13.65,
+        "width": 480,
+        "height": 270,
+        "bytes": 23531
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Charlotteqozf/status/2117580663759273988",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/Charlotteqozf/status/2117580663759273988",
+        "checkedAt": "2026-11-06T17:22:51.824766+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.824766+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2117580584545611776/vid/avc1/1280x720/-sJPePyqcGVJMj_m.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Charlotteqozf/status/2117580663759273988",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2117505122905575589",
+      "stage": "discovery",
+      "title": "一次神经元发火里的宇宙",
+      "titleEn": "A Universe Inside One Neural Spark",
+      "category": "短动效",
+      "summary": "粒子由稀疏光点扩展为密集网络，把宇宙历史压成一次神经元闪光；作者明确说明画面、声音和代码由 Opus 5.5 从零制作。",
+      "summaryEn": "Sparse lights grow into a dense network, imagining cosmic history as one neural spark. The creator credits the visuals, sound and code to Opus 5.5.",
+      "author": {
+        "name": "Charlotte",
+        "handle": "Charlotteqozf",
+        "url": "https://x.com/Charlotteqozf"
+      },
+      "source": {
+        "url": "https://x.com/Charlotteqozf/status/2117505122905575589",
+        "publishedAt": "2026-11-03T06:32:17.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Visuals, sound and code made from scratch by Claude (Opus 5.5).",
+        "evidenceUrl": "https://x.com/Charlotteqozf/status/2117505122905575589"
+      },
+      "media": {
+        "durationSeconds": 10.005,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2117505122905575589.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2117505098628935680/vid/avc1/1280x720/uJud5jlZVmdov8YT.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7,
+        "width": 480,
+        "height": 270,
+        "bytes": 30091
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Charlotteqozf/status/2117505122905575589",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/Charlotteqozf/status/2117505122905575589",
+        "checkedAt": "2026-11-06T17:22:51.837170+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.837170+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2117505098628935680/vid/avc1/1280x720/uJud5jlZVmdov8YT.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Charlotteqozf/status/2117505122905575589",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2117077271823691935",
+      "stage": "discovery",
+      "title": "一个音符穿过贝斯的旅程",
+      "titleEn": "One Note Travels Through a Bass",
+      "category": "音乐与歌词",
+      "summary": "镜头沿琴弦、磁铁、线圈、导线与扬声器追踪声音，闪电和文字配合节拍；作者说明用 Opus 5.5、Three.js、Suno 与 HyperFrames 完成。",
+      "summaryEn": "The camera follows strings, magnets, coils, wire and speaker as lightning and text mark beats. The creator credits Opus 5.5, Three.js, Suno and HyperFrames.",
+      "author": {
+        "name": "右よし左よし秋よし@AIエンタメ",
+        "handle": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source": {
+        "url": "https://x.com/akiyoshisan/status/2117077271823691935",
+        "publishedAt": "2026-11-02T02:12:09.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Code(Opus 5.5)が司令塔 / 実物写真 → Three.jsで3Dベース → Suno MCPで曲のカバー → 打点を解析 → カメラ・稲妻・文字を打点に同期 → HyperFramesで書き出し",
+        "evidenceUrl": "https://x.com/akiyoshisan/status/2117077271823691935"
+      },
+      "media": {
+        "durationSeconds": 32.767,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2117077271823691935.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2117076761871781888/vid/avc1/1920x1080/fm73zPP7C8jSygwL.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6.55,
+        "width": 480,
+        "height": 270,
+        "bytes": 8750
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/akiyoshisan/status/2117077271823691935",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/akiyoshisan/status/2117077271823691935",
+        "checkedAt": "2026-11-06T17:22:51.839251+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.839251+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2117076761871781888/vid/avc1/1920x1080/fm73zPP7C8jSygwL.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/akiyoshisan/status/2117077271823691935",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2117069916121817591",
+      "stage": "discovery",
+      "title": "纸面角色走入三维世界",
+      "titleEn": "Paper Characters Enter a 3D World",
+      "category": "像素与角色",
+      "summary": "纸张上的角色草图转成桌面三维小角色，镜头在笔迹与模型之间移动；作者说明使用 Three.js、Blender 与 Opus 5.5。",
+      "summaryEn": "Character sketches on paper become small 3D figures on a desk as the camera moves between drawings and models, credited to Three.js, Blender and Opus 5.5.",
+      "author": {
+        "name": "Chetan Ankola",
+        "handle": "chetanankola",
+        "url": "https://x.com/chetanankola"
+      },
+      "source": {
+        "url": "https://x.com/chetanankola/status/2117069916121817591",
+        "publishedAt": "2026-11-02T01:42:55.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Threejs blender opus 5.5 sounds better with the music",
+        "evidenceUrl": "https://x.com/chetanankola/status/2117069916121817591"
+      },
+      "media": {
+        "durationSeconds": 15.999,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2117069916121817591.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2117069770575228928/vid/avc1/1418x1080/TZo3iCCgEoesCCMo.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.2,
+        "width": 480,
+        "height": 366,
+        "bytes": 14275
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetanankola/status/2117069916121817591",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/chetanankola/status/2117069916121817591",
+        "checkedAt": "2026-11-06T17:22:51.829833+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-06T17:22:51.829833+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2117069770575228928/vid/avc1/1418x1080/TZo3iCCgEoesCCMo.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetanankola/status/2117069916121817591",
+        "checkedAt": "2026-11-06T17:34:01.157568+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2116407421065482362",
+      "stage": "discovery",
+      "title": "猫头鹰与小猫的旋转立体书",
+      "titleEn": "The Owl and the Pussy-cat as a carousel book",
+      "category": "3D 与交互",
+      "summary": "书页环绕展开成彩色立体剧场，猫头鹰、小猫和诗歌场景随着翻页、旋转与弹出结构依次显露。",
+      "summaryEn": "Pages open into a colourful carousel theatre, revealing an owl, a cat and scenes from the poem through turns and pop-up structures.",
+      "author": {
+        "name": "Techartist",
+        "handle": "techartist_",
+        "url": "https://x.com/techartist_"
+      },
+      "source": {
+        "url": "https://x.com/techartist_/status/2116407421065482362",
+        "publishedAt": "2026-10-31T05:50:24.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "I made a 3D carousel pop-up book with Opus 5.5 for Edward Lear's The Owl and the Pussy-cat.",
+        "evidenceUrl": "https://x.com/techartist_/status/2116407421065482362"
+      },
+      "media": {
+        "durationSeconds": 23.808,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2116407421065482362.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2116406992650862593/vid/avc1/1920x1162/kltQroWOhfV2Q8ii.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4.76,
+        "width": 480,
+        "height": 290,
+        "bytes": 24362
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/techartist_/status/2116407421065482362",
+        "checkedAt": "2026-11-09T10:53:39.052252+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/techartist_/status/2116407421065482362",
+        "checkedAt": "2026-11-09T10:46:07.321468+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-09T10:46:07.321468+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2116406992650862593/vid/avc1/1920x1162/kltQroWOhfV2Q8ii.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/techartist_/status/2116407421065482362",
+        "checkedAt": "2026-11-09T10:53:39.052252+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2104138101102621133",
+      "stage": "discovery",
+      "title": "Monke：从输入框到整屏网页",
+      "titleEn": "Monke: from prompt box to full-page reveal",
+      "category": "产品宣传",
+      "summary": "输入框中的文字逐字出现，再扩展成猴子主题的整屏网页；图片、标题和按钮沿连续镜头完成版式转换。",
+      "summaryEn": "Text types into a prompt box that expands into a monkey-themed landing page, with images, headings and buttons transforming in a continuous shot.",
+      "author": {
+        "name": "dawood46",
+        "handle": "notdwd",
+        "url": "https://x.com/notdwd"
+      },
+      "source": {
+        "url": "https://x.com/notdwd/status/2104138101102621133",
+        "publishedAt": "2026-09-27T09:16:30.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "this was made COMPLETELY with Opus 5.5. everything from sound to motion.",
+        "evidenceUrl": "https://x.com/notdwd/status/2104138101102621133"
+      },
+      "media": {
+        "durationSeconds": 7.595,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2104138101102621133.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2104137728933699584/vid/avc1/1920x1080/onrd7npSHocAThnf.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.52,
+        "width": 480,
+        "height": 270,
+        "bytes": 18610
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/notdwd/status/2104138101102621133",
+        "checkedAt": "2026-11-09T10:53:39.052252+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/notdwd/status/2104138101102621133",
+        "checkedAt": "2026-11-09T10:43:35.752670+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-09T10:43:35.752670+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2104137728933699584/vid/avc1/1920x1080/onrd7npSHocAThnf.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/notdwd/status/2104138101102621133",
+        "checkedAt": "2026-11-09T10:53:39.052252+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2102574373886697648",
+      "stage": "discovery",
+      "title": "Penny's House：住宅逐层建成",
+      "titleEn": "Penny's House: a house builds in stages",
+      "category": "3D 与交互",
+      "summary": "住宅从线框体量逐步补齐墙体、室内和夜景照明，通过统一镜头展示结构到完成状态的变化。",
+      "summaryEn": "A house develops from wireframe massing into walls, interiors and night lighting, with a consistent view showing its progression to completion.",
+      "author": {
+        "name": "りあ｜AI creator",
+        "handle": "ria_aicreator",
+        "url": "https://x.com/ria_aicreator"
+      },
+      "source": {
+        "url": "https://x.com/ria_aicreator/status/2102574373886697648",
+        "publishedAt": "2026-09-23T01:42:49.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "参照元のおのふみさんと同じく、Opus5.5+Three.jsでつくってもらいました。",
+        "evidenceUrl": "https://x.com/ria_aicreator/status/2102574373886697648"
+      },
+      "media": {
+        "durationSeconds": 37,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2102574373886697648.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2102574140951855104/vid/avc1/1920x1080/TDulZwILPfAj5Tme.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7.4,
+        "width": 480,
+        "height": 270,
+        "bytes": 14929
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ria_aicreator/status/2102574373886697648",
+        "checkedAt": "2026-11-09T10:53:39.052252+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/ria_aicreator/status/2102574373886697648",
+        "checkedAt": "2026-11-09T10:46:07.326783+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-09T10:46:07.326783+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2102574140951855104/vid/avc1/1920x1080/TDulZwILPfAj5Tme.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ria_aicreator/status/2102574373886697648",
+        "checkedAt": "2026-11-09T10:53:39.052252+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
       "id": "2111607702480973963",
       "stage": "discovery",
       "title": "梦核泳池与云海空间漫游",

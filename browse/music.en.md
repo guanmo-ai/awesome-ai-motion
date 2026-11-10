@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-132 works. Click a cover to play; works without gallery video open on X.
+133 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -663,6 +663,16 @@
 <tr>
 <td width="50%" valign="top"><strong>Music-Reactive 3D Light Room</strong><br><sub><a href="https://x.com/shmopixbzn">@shmopixbzn</a> · Music &amp; lyrics</sub><br><sub>0:32 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109943654873784569">▶ Play</a> · <a href="https://x.com/shmopixbzn/status/2109943654873784569">Original post</a></td>
 <td width="50%" valign="top"><strong>A Cotton-Candy Festival in Illustrated Motion</strong><br><sub><a href="https://x.com/nemumusitocha">@nemumusitocha</a> · Music &amp; lyrics</sub><br><sub>2:38 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439864271577420">▶ Play</a> · <a href="https://x.com/nemumusitocha/status/2115439864271577420">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117077271823691935"><img src="../assets/covers/2117077271823691935.jpg" width="400" alt="One Note Travels Through a Bass"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>One Note Travels Through a Bass</strong><br><sub><a href="https://x.com/akiyoshisan">@akiyoshisan</a> · Music &amp; lyrics</sub><br><sub>0:33 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117077271823691935">▶ Play</a> · <a href="https://x.com/akiyoshisan/status/2117077271823691935">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

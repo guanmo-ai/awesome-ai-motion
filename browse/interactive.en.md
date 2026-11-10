@@ -2,7 +2,7 @@
 
 # 3D & interactive
 
-455 works. Click a cover to play; works without gallery video open on X.
+460 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -1987,242 +1987,252 @@
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102574373886697648"><img src="../assets/covers/2102574373886697648.jpg" width="400" alt="Penny's House: a house builds in stages"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102662393083924612"><img src="../assets/covers/2102662393083924612.jpg" width="360" alt="MOVE and ATTRACT in 3D Type Physics"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102831492024172840"><img src="../assets/covers/2102831492024172840.jpg" width="300" alt="Engineering Sketches Assemble into Moving Machines"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Penny's House: a house builds in stages</strong><br><sub><a href="https://x.com/ria_aicreator">@ria_aicreator</a> · 3D &amp; interactive</sub><br><sub>0:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102574373886697648">▶ Play</a> · <a href="https://x.com/ria_aicreator/status/2102574373886697648">Original post</a></td>
 <td width="50%" valign="top"><strong>MOVE and ATTRACT in 3D Type Physics</strong><br><sub><a href="https://x.com/shota7180">@shota7180</a> · 3D &amp; interactive</sub><br><sub>0:22 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102662393083924612">▶ Play</a> · <a href="https://x.com/shota7180/status/2102662393083924612">Original post</a></td>
-<td width="50%" valign="top"><strong>Engineering Sketches Assemble into Moving Machines</strong><br><sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · 3D &amp; interactive</sub><br><sub>0:29 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102831492024172840">▶ Play</a> · <a href="https://x.com/higgsfield_ai/status/2102831492024172840">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102831492024172840"><img src="../assets/covers/2102831492024172840.jpg" width="300" alt="Engineering Sketches Assemble into Moving Machines"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103021748551872907"><img src="../assets/covers/2103021748551872907.jpg" width="400" alt="From Architectural Drawings to a Blender Scene"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082459503923578"><img src="../assets/covers/2103082459503923578.jpg" width="400" alt="3D Virtual Studio Intro"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Engineering Sketches Assemble into Moving Machines</strong><br><sub><a href="https://x.com/higgsfield_ai">@higgsfield_ai</a> · 3D &amp; interactive</sub><br><sub>0:29 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102831492024172840">▶ Play</a> · <a href="https://x.com/higgsfield_ai/status/2102831492024172840">Original post</a></td>
 <td width="50%" valign="top"><strong>From Architectural Drawings to a Blender Scene</strong><br><sub><a href="https://x.com/Ayu_AI_0912">@Ayu_AI_0912</a> · 3D &amp; interactive</sub><br><sub>0:15 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103021748551872907">▶ Play</a> · <a href="https://x.com/Ayu_AI_0912/status/2103021748551872907">Original post</a></td>
-<td width="50%" valign="top"><strong>3D Virtual Studio Intro</strong><br><sub><a href="https://x.com/myonisto">@myonisto</a> · 3D &amp; interactive</sub><br><sub>0:08 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082459503923578">▶ Play</a> · <a href="https://x.com/myonisto/status/2103082459503923578">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082459503923578"><img src="../assets/covers/2103082459503923578.jpg" width="400" alt="3D Virtual Studio Intro"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103129303752102075"><img src="../assets/covers/2103129303752102075.jpg" width="225" alt="A Mechanical Butterfly and Golden Flowers"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103153535252582792"><img src="../assets/covers/2103153535252582792.jpg" width="400" alt="Museum of Broken Physics"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>3D Virtual Studio Intro</strong><br><sub><a href="https://x.com/myonisto">@myonisto</a> · 3D &amp; interactive</sub><br><sub>0:08 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103082459503923578">▶ Play</a> · <a href="https://x.com/myonisto/status/2103082459503923578">Original post</a></td>
 <td width="50%" valign="top"><strong>A Mechanical Butterfly and Golden Flowers</strong><br><sub><a href="https://x.com/hayashimon1">@hayashimon1</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103129303752102075">▶ Play</a> · <a href="https://x.com/hayashimon1/status/2103129303752102075">Original post</a></td>
-<td width="50%" valign="top"><strong>Museum of Broken Physics</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 3D &amp; interactive</sub><br><sub>0:58 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103153535252582792">▶ Play</a> · <a href="https://x.com/LexnLin/status/2103153535252582792">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103153535252582792"><img src="../assets/covers/2103153535252582792.jpg" width="400" alt="Museum of Broken Physics"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103169095034400772"><img src="../assets/covers/2103169095034400772.jpg" width="365" alt="Coded Atlantis Canal Trailer"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103222799812988945"><img src="../assets/covers/2103222799812988945.jpg" width="372" alt="WebGPU Physics Motion Studies"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Museum of Broken Physics</strong><br><sub><a href="https://x.com/LexnLin">@LexnLin</a> · 3D &amp; interactive</sub><br><sub>0:58 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103153535252582792">▶ Play</a> · <a href="https://x.com/LexnLin/status/2103153535252582792">Original post</a></td>
 <td width="50%" valign="top"><strong>Coded Atlantis Canal Trailer</strong><br><sub><a href="https://x.com/DannyLimanseta">@DannyLimanseta</a> · 3D &amp; interactive</sub><br><sub>1:59 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103169095034400772">▶ Play</a> · <a href="https://x.com/DannyLimanseta/status/2103169095034400772">Original post</a></td>
-<td width="50%" valign="top"><strong>WebGPU Physics Motion Studies</strong><br><sub><a href="https://x.com/barisakin">@barisakin</a> · 3D &amp; interactive</sub><br><sub>1:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103222799812988945">▶ Play</a> · <a href="https://x.com/barisakin/status/2103222799812988945">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103222799812988945"><img src="../assets/covers/2103222799812988945.jpg" width="372" alt="WebGPU Physics Motion Studies"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103771566605734331"><img src="../assets/covers/2103771566605734331.jpg" width="400" alt="From Blueprint to an Illuminated Tower"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103837519615774895"><img src="../assets/covers/2103837519615774895.jpg" width="126" alt="Words Become Live Particles and Sound"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>WebGPU Physics Motion Studies</strong><br><sub><a href="https://x.com/barisakin">@barisakin</a> · 3D &amp; interactive</sub><br><sub>1:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103222799812988945">▶ Play</a> · <a href="https://x.com/barisakin/status/2103222799812988945">Original post</a></td>
 <td width="50%" valign="top"><strong>From Blueprint to an Illuminated Tower</strong><br><sub><a href="https://x.com/aiehon_aya">@aiehon_aya</a> · 3D &amp; interactive</sub><br><sub>0:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103771566605734331">▶ Play</a> · <a href="https://x.com/aiehon_aya/status/2103771566605734331">Original post</a></td>
-<td width="50%" valign="top"><strong>Words Become Live Particles and Sound</strong><br><sub><a href="https://x.com/MiaAI_lab">@MiaAI_lab</a> · 3D &amp; interactive</sub><br><sub>1:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103837519615774895">▶ Play</a> · <a href="https://x.com/MiaAI_lab/status/2103837519615774895">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103837519615774895"><img src="../assets/covers/2103837519615774895.jpg" width="126" alt="Words Become Live Particles and Sound"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103860153929937050"><img src="../assets/covers/2103860153929937050.jpg" width="126" alt="A Loop through the Framehouse Office"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103972633075425762"><img src="../assets/covers/2103972633075425762.jpg" width="400" alt="A Pop-Up Book Opens into the Taj Mahal"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Words Become Live Particles and Sound</strong><br><sub><a href="https://x.com/MiaAI_lab">@MiaAI_lab</a> · 3D &amp; interactive</sub><br><sub>1:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103837519615774895">▶ Play</a> · <a href="https://x.com/MiaAI_lab/status/2103837519615774895">Original post</a></td>
 <td width="50%" valign="top"><strong>A Loop through the Framehouse Office</strong><br><sub><a href="https://x.com/Vladic_ETH">@Vladic_ETH</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103860153929937050">▶ Play</a> · <a href="https://x.com/Vladic_ETH/status/2103860153929937050">Original post</a></td>
-<td width="50%" valign="top"><strong>A Pop-Up Book Opens into the Taj Mahal</strong><br><sub><a href="https://x.com/Ayu_AI_0912">@Ayu_AI_0912</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103972633075425762">▶ Play</a> · <a href="https://x.com/Ayu_AI_0912/status/2103972633075425762">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103972633075425762"><img src="../assets/covers/2103972633075425762.jpg" width="400" alt="A Pop-Up Book Opens into the Taj Mahal"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104405050550521952"><img src="../assets/covers/2104405050550521952.jpg" width="400" alt="A House Assembles from Blueprint to Finish"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104549952987041925"><img src="../assets/covers/2104549952987041925.jpg" width="400" alt="A Biplane Assembles for a Cat's Takeoff"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Pop-Up Book Opens into the Taj Mahal</strong><br><sub><a href="https://x.com/Ayu_AI_0912">@Ayu_AI_0912</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103972633075425762">▶ Play</a> · <a href="https://x.com/Ayu_AI_0912/status/2103972633075425762">Original post</a></td>
 <td width="50%" valign="top"><strong>A House Assembles from Blueprint to Finish</strong><br><sub><a href="https://x.com/Ayu_AI_0912">@Ayu_AI_0912</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104405050550521952">▶ Play</a> · <a href="https://x.com/Ayu_AI_0912/status/2104405050550521952">Original post</a></td>
-<td width="50%" valign="top"><strong>A Biplane Assembles for a Cat's Takeoff</strong><br><sub><a href="https://x.com/Shoji_ai">@Shoji_ai</a> · 3D &amp; interactive</sub><br><sub>0:26 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104549952987041925">▶ Play</a> · <a href="https://x.com/Shoji_ai/status/2104549952987041925">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104549952987041925"><img src="../assets/covers/2104549952987041925.jpg" width="400" alt="A Biplane Assembles for a Cat's Takeoff"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104584141765550248"><img src="../assets/covers/2104584141765550248.jpg" width="400" alt="A 3D Tram Ride along the Miyajima Coast"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107112922354790508"><img src="../assets/covers/2107112922354790508.jpg" width="400" alt="Pure-Code Seaplane Showcase"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Biplane Assembles for a Cat's Takeoff</strong><br><sub><a href="https://x.com/Shoji_ai">@Shoji_ai</a> · 3D &amp; interactive</sub><br><sub>0:26 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104549952987041925">▶ Play</a> · <a href="https://x.com/Shoji_ai/status/2104549952987041925">Original post</a></td>
 <td width="50%" valign="top"><strong>A 3D Tram Ride along the Miyajima Coast</strong><br><sub><a href="https://x.com/okazuki">@okazuki</a> · 3D &amp; interactive</sub><br><sub>1:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2104584141765550248">▶ Play</a> · <a href="https://x.com/okazuki/status/2104584141765550248">Original post</a></td>
-<td width="50%" valign="top"><strong>Pure-Code Seaplane Showcase</strong><br><sub><a href="https://x.com/maxt3chno">@maxt3chno</a> · 3D &amp; interactive</sub><br><sub>1:46 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107112922354790508">▶ Play</a> · <a href="https://x.com/maxt3chno/status/2107112922354790508">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107112922354790508"><img src="../assets/covers/2107112922354790508.jpg" width="400" alt="Pure-Code Seaplane Showcase"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107683152865173619"><img src="../assets/covers/2107683152865173619.jpg" width="400" alt="Live Visitors Become Spheres and Islands"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109976621822497160"><img src="../assets/covers/2109976621822497160.jpg" width="400" alt="A MiniDisc Case Opens and Plays"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Pure-Code Seaplane Showcase</strong><br><sub><a href="https://x.com/maxt3chno">@maxt3chno</a> · 3D &amp; interactive</sub><br><sub>1:46 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107112922354790508">▶ Play</a> · <a href="https://x.com/maxt3chno/status/2107112922354790508">Original post</a></td>
 <td width="50%" valign="top"><strong>Live Visitors Become Spheres and Islands</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · 3D &amp; interactive</sub><br><sub>0:30 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2107683152865173619">▶ Play</a> · <a href="https://x.com/RyanSael/status/2107683152865173619">Original post</a></td>
-<td width="50%" valign="top"><strong>A MiniDisc Case Opens and Plays</strong><br><sub><a href="https://x.com/white_house_eth">@white_house_eth</a> · 3D &amp; interactive</sub><br><sub>0:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109976621822497160">▶ Play</a> · <a href="https://x.com/white_house_eth/status/2109976621822497160">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109976621822497160"><img src="../assets/covers/2109976621822497160.jpg" width="400" alt="A MiniDisc Case Opens and Plays"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110158162838143136"><img src="../assets/covers/2110158162838143136.jpg" width="180" alt="Pumpkin House Opening and Assembly"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110267367435730980"><img src="../assets/covers/2110267367435730980.jpg" width="400" alt="Island Light and Texture in JavaScript"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A MiniDisc Case Opens and Plays</strong><br><sub><a href="https://x.com/white_house_eth">@white_house_eth</a> · 3D &amp; interactive</sub><br><sub>0:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109976621822497160">▶ Play</a> · <a href="https://x.com/white_house_eth/status/2109976621822497160">Original post</a></td>
 <td width="50%" valign="top"><strong>Pumpkin House Opening and Assembly</strong><br><sub><a href="https://x.com/wowbuffet">@wowbuffet</a> · 3D &amp; interactive</sub><br><sub>0:41 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110158162838143136">▶ Play</a> · <a href="https://x.com/wowbuffet/status/2110158162838143136">Original post</a></td>
-<td width="50%" valign="top"><strong>Island Light and Texture in JavaScript</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · 3D &amp; interactive</sub><br><sub>0:21 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110267367435730980">▶ Play</a> · <a href="https://x.com/pradeepXkapoor/status/2110267367435730980">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110267367435730980"><img src="../assets/covers/2110267367435730980.jpg" width="400" alt="Island Light and Texture in JavaScript"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110901063482237099"><img src="../assets/covers/2110901063482237099.jpg" width="327" alt="A Logistics Island in Motion"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111397563052237282"><img src="../assets/covers/2111397563052237282.jpg" width="260" alt="Petal Quay Island Lighting"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Island Light and Texture in JavaScript</strong><br><sub><a href="https://x.com/pradeepXkapoor">@pradeepXkapoor</a> · 3D &amp; interactive</sub><br><sub>0:21 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110267367435730980">▶ Play</a> · <a href="https://x.com/pradeepXkapoor/status/2110267367435730980">Original post</a></td>
 <td width="50%" valign="top"><strong>A Logistics Island in Motion</strong><br><sub><a href="https://x.com/ianneo_ai">@ianneo_ai</a> · 3D &amp; interactive</sub><br><sub>0:33 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2110901063482237099">▶ Play</a> · <a href="https://x.com/ianneo_ai/status/2110901063482237099">Original post</a></td>
-<td width="50%" valign="top"><strong>Petal Quay Island Lighting</strong><br><sub><a href="https://x.com/HelloVyom">@HelloVyom</a> · 3D &amp; interactive</sub><br><sub>0:38 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111397563052237282">▶ Play</a> · <a href="https://x.com/HelloVyom/status/2111397563052237282">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111397563052237282"><img src="../assets/covers/2111397563052237282.jpg" width="260" alt="Petal Quay Island Lighting"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111607702480973963"><img src="../assets/covers/2111607702480973963.jpg" width="400" alt="Dreamcore Pool and Cloud Rooms"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111920496208204235"><img src="../assets/covers/2111920496208204235.jpg" width="370" alt="A Procedural Ocean in a Small File"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Petal Quay Island Lighting</strong><br><sub><a href="https://x.com/HelloVyom">@HelloVyom</a> · 3D &amp; interactive</sub><br><sub>0:38 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111397563052237282">▶ Play</a> · <a href="https://x.com/HelloVyom/status/2111397563052237282">Original post</a></td>
 <td width="50%" valign="top"><strong>Dreamcore Pool and Cloud Rooms</strong><br><sub><a href="https://x.com/SharkDemonYa">@SharkDemonYa</a> · 3D &amp; interactive</sub><br><sub>2:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111607702480973963">▶ Play</a> · <a href="https://x.com/SharkDemonYa/status/2111607702480973963">Original post</a></td>
-<td width="50%" valign="top"><strong>A Procedural Ocean in a Small File</strong><br><sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · 3D &amp; interactive</sub><br><sub>0:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111920496208204235">▶ Play</a> · <a href="https://x.com/AmirMushich/status/2111920496208204235">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111920496208204235"><img src="../assets/covers/2111920496208204235.jpg" width="370" alt="A Procedural Ocean in a Small File"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111977880939061728"><img src="../assets/covers/2111977880939061728.jpg" width="293" alt="Four Pelicans on a Hovering Sports Car"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112931493043687763"><img src="../assets/covers/2112931493043687763.jpg" width="400" alt="A First-Person Weapon Animation in Blender"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Procedural Ocean in a Small File</strong><br><sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · 3D &amp; interactive</sub><br><sub>0:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111920496208204235">▶ Play</a> · <a href="https://x.com/AmirMushich/status/2111920496208204235">Original post</a></td>
 <td width="50%" valign="top"><strong>Four Pelicans on a Hovering Sports Car</strong><br><sub><a href="https://x.com/chrisjdimarco">@chrisjdimarco</a> · 3D &amp; interactive</sub><br><sub>0:10 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111977880939061728">▶ Play</a> · <a href="https://x.com/chrisjdimarco/status/2111977880939061728">Original post</a></td>
-<td width="50%" valign="top"><strong>A First-Person Weapon Animation in Blender</strong><br><sub><a href="https://x.com/Octoberry">@Octoberry</a> · 3D &amp; interactive</sub><br><sub>0:44 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112931493043687763">▶ Play</a> · <a href="https://x.com/Octoberry/status/2112931493043687763">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112931493043687763"><img src="../assets/covers/2112931493043687763.jpg" width="400" alt="A First-Person Weapon Animation in Blender"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112966232320471394"><img src="../assets/covers/2112966232320471394.jpg" width="358" alt="A Luminous Jellyfish and Its Moving Tendrils"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113111098656522482"><img src="../assets/covers/2113111098656522482.jpg" width="400" alt="A 3D City Showdown between Kaiju and Pelican"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A First-Person Weapon Animation in Blender</strong><br><sub><a href="https://x.com/Octoberry">@Octoberry</a> · 3D &amp; interactive</sub><br><sub>0:44 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112931493043687763">▶ Play</a> · <a href="https://x.com/Octoberry/status/2112931493043687763">Original post</a></td>
 <td width="50%" valign="top"><strong>A Luminous Jellyfish and Its Moving Tendrils</strong><br><sub><a href="https://x.com/scottstts">@scottstts</a> · 3D &amp; interactive</sub><br><sub>0:53 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112966232320471394">▶ Play</a> · <a href="https://x.com/scottstts/status/2112966232320471394">Original post</a></td>
-<td width="50%" valign="top"><strong>A 3D City Showdown between Kaiju and Pelican</strong><br><sub><a href="https://x.com/alohaproxy">@alohaproxy</a> · 3D &amp; interactive</sub><br><sub>0:58 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113111098656522482">▶ Play</a> · <a href="https://x.com/alohaproxy/status/2113111098656522482">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113111098656522482"><img src="../assets/covers/2113111098656522482.jpg" width="400" alt="A 3D City Showdown between Kaiju and Pelican"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113955828021563857"><img src="../assets/covers/2113955828021563857.jpg" width="358" alt="A Food Forest Grows from Paper"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114546079618257104"><img src="../assets/covers/2114546079618257104.jpg" width="400" alt="Seven Transitions from Architectural Drawing to 3D"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A 3D City Showdown between Kaiju and Pelican</strong><br><sub><a href="https://x.com/alohaproxy">@alohaproxy</a> · 3D &amp; interactive</sub><br><sub>0:58 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113111098656522482">▶ Play</a> · <a href="https://x.com/alohaproxy/status/2113111098656522482">Original post</a></td>
 <td width="50%" valign="top"><strong>A Food Forest Grows from Paper</strong><br><sub><a href="https://x.com/scottstts">@scottstts</a> · 3D &amp; interactive</sub><br><sub>0:12 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113955828021563857">▶ Play</a> · <a href="https://x.com/scottstts/status/2113955828021563857">Original post</a></td>
-<td width="50%" valign="top"><strong>Seven Transitions from Architectural Drawing to 3D</strong><br><sub><a href="https://x.com/SammmAing">@SammmAing</a> · 3D &amp; interactive</sub><br><sub>2:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114546079618257104">▶ Play</a> · <a href="https://x.com/SammmAing/status/2114546079618257104">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114546079618257104"><img src="../assets/covers/2114546079618257104.jpg" width="400" alt="Seven Transitions from Architectural Drawing to 3D"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114674922802782355"><img src="../assets/covers/2114674922802782355.jpg" width="360" alt="A Jelly Whale Squishes and Flops"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114691597942268163"><img src="../assets/covers/2114691597942268163.jpg" width="400" alt="An Abstract Octopus-Shaped 3D Self-Portrait"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Seven Transitions from Architectural Drawing to 3D</strong><br><sub><a href="https://x.com/SammmAing">@SammmAing</a> · 3D &amp; interactive</sub><br><sub>2:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114546079618257104">▶ Play</a> · <a href="https://x.com/SammmAing/status/2114546079618257104">Original post</a></td>
 <td width="50%" valign="top"><strong>A Jelly Whale Squishes and Flops</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 3D &amp; interactive</sub><br><sub>0:18 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114674922802782355">▶ Play</a> · <a href="https://x.com/vib3coded/status/2114674922802782355">Original post</a></td>
-<td width="50%" valign="top"><strong>An Abstract Octopus-Shaped 3D Self-Portrait</strong><br><sub><a href="https://x.com/digi_dot_exe">@digi_dot_exe</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114691597942268163">▶ Play</a> · <a href="https://x.com/digi_dot_exe/status/2114691597942268163">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114691597942268163"><img src="../assets/covers/2114691597942268163.jpg" width="400" alt="An Abstract Octopus-Shaped 3D Self-Portrait"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114708382594543838"><img src="../assets/covers/2114708382594543838.jpg" width="360" alt="A Jelly Dam, Floods and Turbines"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114752456915665236"><img src="../assets/covers/2114752456915665236.jpg" width="400" alt="A Mechanical Sandworm with Underground X-Ray"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An Abstract Octopus-Shaped 3D Self-Portrait</strong><br><sub><a href="https://x.com/digi_dot_exe">@digi_dot_exe</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114691597942268163">▶ Play</a> · <a href="https://x.com/digi_dot_exe/status/2114691597942268163">Original post</a></td>
 <td width="50%" valign="top"><strong>A Jelly Dam, Floods and Turbines</strong><br><sub><a href="https://x.com/Bengiyai">@Bengiyai</a> · 3D &amp; interactive</sub><br><sub>0:18 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114708382594543838">▶ Play</a> · <a href="https://x.com/Bengiyai/status/2114708382594543838">Original post</a></td>
-<td width="50%" valign="top"><strong>A Mechanical Sandworm with Underground X-Ray</strong><br><sub><a href="https://x.com/0x_fokki">@0x_fokki</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114752456915665236">▶ Play</a> · <a href="https://x.com/0x_fokki/status/2114752456915665236">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114752456915665236"><img src="../assets/covers/2114752456915665236.jpg" width="400" alt="A Mechanical Sandworm with Underground X-Ray"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115069592955482489"><img src="../assets/covers/2115069592955482489.jpg" width="360" alt="A UFO Beam over a Jelly Desert"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439498729603545"><img src="../assets/covers/2115439498729603545.jpg" width="358" alt="A Cliffside Village inside a Sink"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Mechanical Sandworm with Underground X-Ray</strong><br><sub><a href="https://x.com/0x_fokki">@0x_fokki</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114752456915665236">▶ Play</a> · <a href="https://x.com/0x_fokki/status/2114752456915665236">Original post</a></td>
 <td width="50%" valign="top"><strong>A UFO Beam over a Jelly Desert</strong><br><sub><a href="https://x.com/Bengiyai">@Bengiyai</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115069592955482489">▶ Play</a> · <a href="https://x.com/Bengiyai/status/2115069592955482489">Original post</a></td>
-<td width="50%" valign="top"><strong>A Cliffside Village inside a Sink</strong><br><sub><a href="https://x.com/scottstts">@scottstts</a> · 3D &amp; interactive</sub><br><sub>1:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439498729603545">▶ Play</a> · <a href="https://x.com/scottstts/status/2115439498729603545">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439498729603545"><img src="../assets/covers/2115439498729603545.jpg" width="358" alt="A Cliffside Village inside a Sink"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115667786705829981"><img src="../assets/covers/2115667786705829981.jpg" width="180" alt="A Fjord in Mist, Sunset and Aurora"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115767577892811219"><img src="../assets/covers/2115767577892811219.jpg" width="360" alt="An MQ-9 Structure and Motion Study"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Cliffside Village inside a Sink</strong><br><sub><a href="https://x.com/scottstts">@scottstts</a> · 3D &amp; interactive</sub><br><sub>1:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115439498729603545">▶ Play</a> · <a href="https://x.com/scottstts/status/2115439498729603545">Original post</a></td>
 <td width="50%" valign="top"><strong>A Fjord in Mist, Sunset and Aurora</strong><br><sub><a href="https://x.com/aishortcut_">@aishortcut_</a> · 3D &amp; interactive</sub><br><sub>0:22 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115667786705829981">▶ Play</a> · <a href="https://x.com/aishortcut_/status/2115667786705829981">Original post</a></td>
-<td width="50%" valign="top"><strong>An MQ-9 Structure and Motion Study</strong><br><sub><a href="https://x.com/exploraX_">@exploraX_</a> · 3D &amp; interactive</sub><br><sub>1:02 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115767577892811219">▶ Play</a> · <a href="https://x.com/exploraX_/status/2115767577892811219">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115767577892811219"><img src="../assets/covers/2115767577892811219.jpg" width="360" alt="An MQ-9 Structure and Motion Study"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115768888507941008"><img src="../assets/covers/2115768888507941008.jpg" width="180" alt="An Oak Tree Shakes Off Thousands of Leaves"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115780819142979978"><img src="../assets/covers/2115780819142979978.jpg" width="323" alt="Tear a Mesh to Reveal Floral Art"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>An MQ-9 Structure and Motion Study</strong><br><sub><a href="https://x.com/exploraX_">@exploraX_</a> · 3D &amp; interactive</sub><br><sub>1:02 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115767577892811219">▶ Play</a> · <a href="https://x.com/exploraX_/status/2115767577892811219">Original post</a></td>
 <td width="50%" valign="top"><strong>An Oak Tree Shakes Off Thousands of Leaves</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 3D &amp; interactive</sub><br><sub>0:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115768888507941008">▶ Play</a> · <a href="https://x.com/MrTacticalX/status/2115768888507941008">Original post</a></td>
-<td width="50%" valign="top"><strong>Tear a Mesh to Reveal Floral Art</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · 3D &amp; interactive</sub><br><sub>0:42 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115780819142979978">▶ Play</a> · <a href="https://x.com/ann_nnng/status/2115780819142979978">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115780819142979978"><img src="../assets/covers/2115780819142979978.jpg" width="323" alt="Tear a Mesh to Reveal Floral Art"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115783661375340590"><img src="../assets/covers/2115783661375340590.jpg" width="400" alt="A 3D Trailer of Ludo Boards and Racing"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115799693493969236"><img src="../assets/covers/2115799693493969236.jpg" width="180" alt="A Black Helicopter Blender Trailer"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Tear a Mesh to Reveal Floral Art</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nnng</a> · 3D &amp; interactive</sub><br><sub>0:42 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115780819142979978">▶ Play</a> · <a href="https://x.com/ann_nnng/status/2115780819142979978">Original post</a></td>
 <td width="50%" valign="top"><strong>A 3D Trailer of Ludo Boards and Racing</strong><br><sub><a href="https://x.com/Runexbt">@Runexbt</a> · 3D &amp; interactive</sub><br><sub>1:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115783661375340590">▶ Play</a> · <a href="https://x.com/Runexbt/status/2115783661375340590">Original post</a></td>
-<td width="50%" valign="top"><strong>A Black Helicopter Blender Trailer</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 3D &amp; interactive</sub><br><sub>0:32 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115799693493969236">▶ Play</a> · <a href="https://x.com/MrTacticalX/status/2115799693493969236">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115799693493969236"><img src="../assets/covers/2115799693493969236.jpg" width="180" alt="A Black Helicopter Blender Trailer"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115882221319958984"><img src="../assets/covers/2115882221319958984.jpg" width="400" alt="V8 Cutaway with Synchronized Charts"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115947219971105063"><img src="../assets/covers/2115947219971105063.jpg" width="400" alt="Glass Shatters and Restores"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>A Black Helicopter Blender Trailer</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 3D &amp; interactive</sub><br><sub>0:32 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115799693493969236">▶ Play</a> · <a href="https://x.com/MrTacticalX/status/2115799693493969236">Original post</a></td>
 <td width="50%" valign="top"><strong>V8 Cutaway with Synchronized Charts</strong><br><sub><a href="https://x.com/elvar_official">@elvar_official</a> · 3D &amp; interactive</sub><br><sub>0:26 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115882221319958984">▶ Play</a> · <a href="https://x.com/elvar_official/status/2115882221319958984">Original post</a></td>
-<td width="50%" valign="top"><strong>Glass Shatters and Restores</strong><br><sub><a href="https://x.com/Charlotteqozf">@Charlotteqozf</a> · 3D &amp; interactive</sub><br><sub>0:14 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115947219971105063">▶ Play</a> · <a href="https://x.com/Charlotteqozf/status/2115947219971105063">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115947219971105063"><img src="../assets/covers/2115947219971105063.jpg" width="400" alt="Glass Shatters and Restores"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116192984299344372"><img src="../assets/covers/2116192984299344372.jpg" width="400" alt="Robotic Bee: Optics and Mechanical Teardown"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116277601794724232"><img src="../assets/covers/2116277601794724232.jpg" width="400" alt="Robotic Scorpion: Gait and Full Teardown"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Glass Shatters and Restores</strong><br><sub><a href="https://x.com/Charlotteqozf">@Charlotteqozf</a> · 3D &amp; interactive</sub><br><sub>0:14 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2115947219971105063">▶ Play</a> · <a href="https://x.com/Charlotteqozf/status/2115947219971105063">Original post</a></td>
 <td width="50%" valign="top"><strong>Robotic Bee: Optics and Mechanical Teardown</strong><br><sub><a href="https://x.com/elvar_official">@elvar_official</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116192984299344372">▶ Play</a> · <a href="https://x.com/elvar_official/status/2116192984299344372">Original post</a></td>
-<td width="50%" valign="top"><strong>Robotic Scorpion: Gait and Full Teardown</strong><br><sub><a href="https://x.com/Nyxera0x">@Nyxera0x</a> · 3D &amp; interactive</sub><br><sub>0:26 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116277601794724232">▶ Play</a> · <a href="https://x.com/Nyxera0x/status/2116277601794724232">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116277601794724232"><img src="../assets/covers/2116277601794724232.jpg" width="400" alt="Robotic Scorpion: Gait and Full Teardown"></a></td>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116289885870981296"><img src="../assets/covers/2116289885870981296.jpg" width="400" alt="Robotic Octopus: Optics, Arms and Teardown"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116404959277433240"><img src="../assets/covers/2116404959277433240.jpg" width="400" alt="A Three.js Trailer for a Tabletop Fantasy Adventure"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><strong>Robotic Scorpion: Gait and Full Teardown</strong><br><sub><a href="https://x.com/Nyxera0x">@Nyxera0x</a> · 3D &amp; interactive</sub><br><sub>0:26 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116277601794724232">▶ Play</a> · <a href="https://x.com/Nyxera0x/status/2116277601794724232">Original post</a></td>
 <td width="50%" valign="top"><strong>Robotic Octopus: Optics, Arms and Teardown</strong><br><sub><a href="https://x.com/0x_fokki">@0x_fokki</a> · 3D &amp; interactive</sub><br><sub>0:25 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116289885870981296">▶ Play</a> · <a href="https://x.com/0x_fokki/status/2116289885870981296">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116404959277433240"><img src="../assets/covers/2116404959277433240.jpg" width="400" alt="A Three.js Trailer for a Tabletop Fantasy Adventure"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116407421065482362"><img src="../assets/covers/2116407421065482362.jpg" width="372" alt="The Owl and the Pussy-cat as a carousel book"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>A Three.js Trailer for a Tabletop Fantasy Adventure</strong><br><sub><a href="https://x.com/MengTo">@MengTo</a> · 3D &amp; interactive</sub><br><sub>1:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116404959277433240">▶ Play</a> · <a href="https://x.com/MengTo/status/2116404959277433240">Original post</a></td>
+<td width="50%" valign="top"><strong>The Owl and the Pussy-cat as a carousel book</strong><br><sub><a href="https://x.com/techartist_">@techartist_</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116407421065482362">▶ Play</a> · <a href="https://x.com/techartist_/status/2116407421065482362">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
@@ -2278,11 +2288,21 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116891761133933015"><img src="../assets/covers/2116891761133933015.jpg" width="180" alt="A Mechanical Owl Opens Its Optics and Wings"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117580663759273988"><img src="../assets/covers/2117580663759273988.jpg" width="400" alt="FIFTH: Rooms That Bend Space"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A Mechanical Owl Opens Its Optics and Wings</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 3D &amp; interactive</sub><br><sub>0:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116891761133933015">▶ Play</a> · <a href="https://x.com/MrTacticalX/status/2116891761133933015">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>FIFTH: Rooms That Bend Space</strong><br><sub><a href="https://x.com/Charlotteqozf">@Charlotteqozf</a> · 3D &amp; interactive</sub><br><sub>1:08 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117580663759273988">▶ Play</a> · <a href="https://x.com/Charlotteqozf/status/2117580663759273988">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2118119342910972332"><img src="../assets/covers/2118119342910972332.jpg" width="400" alt="A Glass Robot Octopus Opens Its Core"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2118438787227484294"><img src="../assets/covers/2118438787227484294.jpg" width="400" alt="A Robot Eagle's Zoom Eye and Detachable Wings"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Glass Robot Octopus Opens Its Core</strong><br><sub><a href="https://x.com/averix_official">@averix_official</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2118119342910972332">▶ Play</a> · <a href="https://x.com/averix_official/status/2118119342910972332">Original post</a></td>
+<td width="50%" valign="top"><strong>A Robot Eagle's Zoom Eye and Detachable Wings</strong><br><sub><a href="https://x.com/averix_official">@averix_official</a> · 3D &amp; interactive</sub><br><sub>0:15 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2118438787227484294">▶ Play</a> · <a href="https://x.com/averix_official/status/2118438787227484294">Original post</a></td>
 </tr>
 </tbody>
 </table>

@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-212 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+213 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -94,6 +94,14 @@
 - **相关工具**：[作者引用的 Session Story 风格参考 Skill](https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story) · [Apache-2.0](https://github.com/heygen-com/hyperframes-community-skills/blob/master/LICENSE)
   作者在制作指令中要求参考此 Skill 的手绘房间与角色风格；这是参考工具，不是本片 Remotion 工程。
   [链接出处](https://x.com/kelanoo/status/2108199189134053863) · 链接核对 2026-10-13 07:56 UTC
+
+## [银河行き：夏日末班列车](../cases/2117680088364016090.md) · @jayypatel18
+
+- **直接源码**：[逐镜头代码与声音合成工程](https://github.com/jayypatel18/last-train) · 未标明许可
+  作者线程直接提供的作品工程；未见整体许可证，Three.js 的 MIT 许可只覆盖该依赖。
+  [链接出处](https://x.com/jayypatel18/status/2117680088364016090) · 链接核对 2026-11-06 17:34 UTC
+- **公开网页**：[在浏览器观看列车短片](https://jayypatel18.github.io/last-train/)
+  [链接出处](https://x.com/jayypatel18/status/2117680088364016090) · 链接核对 2026-11-06 17:34 UTC
 
 ## [One Prompt：p5.js 音乐视频](../cases/2105230653457650116.md) · @ppop123
 

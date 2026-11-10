@@ -2,7 +2,7 @@
 
 # 音乐与歌词
 
-132 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+133 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -663,6 +663,16 @@
 <tr>
 <td width="50%" valign="top"><strong>随音乐变化的三维灯光房间</strong><br><sub><a href="https://x.com/shmopixbzn">@shmopixbzn</a> · 音乐与歌词</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109943654873784569">▶ 播放</a> · <a href="https://x.com/shmopixbzn/status/2109943654873784569">原帖</a></td>
 <td width="50%" valign="top"><strong>棉花糖与祭典的插画音乐动画</strong><br><sub><a href="https://x.com/nemumusitocha">@nemumusitocha</a> · 音乐与歌词</sub><br><sub>2:38 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2115439864271577420">▶ 播放</a> · <a href="https://x.com/nemumusitocha/status/2115439864271577420">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117077271823691935"><img src="../assets/covers/2117077271823691935.jpg" width="400" alt="一个音符穿过贝斯的旅程"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>一个音符穿过贝斯的旅程</strong><br><sub><a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 音乐与歌词</sub><br><sub>0:33 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117077271823691935">▶ 播放</a> · <a href="https://x.com/akiyoshisan/status/2117077271823691935">原帖</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

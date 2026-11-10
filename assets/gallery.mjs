@@ -204,7 +204,7 @@ function card(c,eager=false) {
   if(!playable)thumb.append(el('span','watch-mode',t('原帖入口 ↗','Original post ↗')));
   const duration=el('span','duration',formatDuration(c.media?.durationSeconds));duration.title=t(`原始时长：${c.media?.durationSeconds ?? '—'} 秒`,`Source duration: ${c.media?.durationSeconds ?? '—'} seconds`);thumb.append(duration);
   const heading=el('h2','card-title',title(c));heading.title=title(c);button.append(thumb,heading);button.addEventListener('click',()=>{returnFocus=button;navigate({caseId:c.id},{detail:true});});
-  const footer=el('div','card-footer'),meta=el('div','card-meta',`@${c.author.handle}`);meta.title=`@${c.author.handle} · ${CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]}`;footer.append(meta);article.append(button,footer);
+  const footer=el('div','card-footer'),meta=el('div','card-meta',`@${c.author.handle}`);meta.title=`@${c.author.handle} · ${CATEGORIES.find(cat=>cat.id===categoryOf(c))[state.lang]}`;footer.append(meta);if(c.model?.name)footer.append(el('div','card-meta',c.model.name));article.append(button,footer);
   const materials=el('div','card-materials');
   if(c.prompt?.status==='original'){
     if(c.prompt.display==='source_link'){

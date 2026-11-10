@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-164 works. Click a cover to play; works without gallery video open on X.
+166 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -823,6 +823,16 @@
 <tr>
 <td width="50%" valign="top"><strong>A Minecraft Bone Knight Defends and Attacks</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · Pixel art &amp; characters</sub><br><sub>0:48 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113952546293195024">▶ Play</a> · <a href="https://x.com/MrTacticalX/status/2113952546293195024">Original post</a></td>
 <td width="50%" valign="top"><strong>A Minecraft TNT Titan Attack Showcase</strong><br><sub><a href="https://x.com/MrTacticalX">@MrTacticalX</a> · Pixel art &amp; characters</sub><br><sub>0:46 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2114676059811569861">▶ Play</a> · <a href="https://x.com/MrTacticalX/status/2114676059811569861">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117069916121817591"><img src="../assets/covers/2117069916121817591.jpg" width="295" alt="Paper Characters Enter a 3D World"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120179018964324566"><img src="../assets/covers/2120179018964324566.jpg" width="400" alt="Claude Mascot's Journey Through a Hand-Drawn Town"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Paper Characters Enter a 3D World</strong><br><sub><a href="https://x.com/chetanankola">@chetanankola</a> · Pixel art &amp; characters</sub><br><sub>0:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117069916121817591">▶ Play</a> · <a href="https://x.com/chetanankola/status/2117069916121817591">Original post</a></td>
+<td width="50%" valign="top"><strong>Claude Mascot's Journey Through a Hand-Drawn Town</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Pixel art &amp; characters</sub><br><sub>0:34 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120179018964324566">▶ Play</a> · <a href="https://x.com/chetaslua/status/2120179018964324566">Original post</a></td>
 </tr>
 </tbody>
 </table>
