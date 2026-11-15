@@ -2,7 +2,7 @@
 
 # Pixel art & characters
 
-166 works. Click a cover to play; works without gallery video open on X.
+174 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -828,11 +828,51 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117069916121817591"><img src="../assets/covers/2117069916121817591.jpg" width="295" alt="Paper Characters Enter a 3D World"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120179018964324566"><img src="../assets/covers/2120179018964324566.jpg" width="400" alt="Claude Mascot's Journey Through a Hand-Drawn Town"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119876164051243409"><img src="../assets/covers/2119876164051243409.jpg" width="400" alt="An Isometric Watermill Village Above the Clouds"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Paper Characters Enter a 3D World</strong><br><sub><a href="https://x.com/chetanankola">@chetanankola</a> · Pixel art &amp; characters</sub><br><sub>0:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117069916121817591">▶ Play</a> · <a href="https://x.com/chetanankola/status/2117069916121817591">Original post</a></td>
+<td width="50%" valign="top"><strong>An Isometric Watermill Village Above the Clouds</strong><br><sub><a href="https://x.com/josendev">@josendev</a> · Pixel art &amp; characters</sub><br><sub>0:08 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119876164051243409">▶ Play</a> · <a href="https://x.com/josendev/status/2119876164051243409">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119881949540229421"><img src="../assets/covers/2119881949540229421.jpg" width="127" alt="A River Houseboat in Impressionist Pixels"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119896335843529121"><img src="../assets/covers/2119896335843529121.jpg" width="400" alt="A Cartoon Rocket Lifts from Its Build Site to the Moon"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A River Houseboat in Impressionist Pixels</strong><br><sub><a href="https://x.com/aimi_teno">@aimi_teno</a> · Pixel art &amp; characters</sub><br><sub>1:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119881949540229421">▶ Play</a> · <a href="https://x.com/aimi_teno/status/2119881949540229421">Original post</a></td>
+<td width="50%" valign="top"><strong>A Cartoon Rocket Lifts from Its Build Site to the Moon</strong><br><sub><a href="https://x.com/ZirkoMirko">@ZirkoMirko</a> · Pixel art &amp; characters</sub><br><sub>0:14 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119896335843529121">▶ Play</a> · <a href="https://x.com/ZirkoMirko/status/2119896335843529121">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119899260606910886"><img src="../assets/covers/2119899260606910886.jpg" width="300" alt="An SVG Pelican: Pedals, Wheels and a Coastal Loop"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119903489270694319"><img src="../assets/covers/2119903489270694319.jpg" width="236" alt="Wind and Falling Leaves Across Nine Pixel Trees"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>An SVG Pelican: Pedals, Wheels and a Coastal Loop</strong><br><sub><a href="https://x.com/eyadnour">@eyadnour</a> · Pixel art &amp; characters</sub><br><sub>0:10 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119899260606910886">▶ Play</a> · <a href="https://x.com/eyadnour/status/2119899260606910886">Original post</a></td>
+<td width="50%" valign="top"><strong>Wind and Falling Leaves Across Nine Pixel Trees</strong><br><sub><a href="https://x.com/JBabaTalks">@JBabaTalks</a> · Pixel art &amp; characters</sub><br><sub>0:41 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119903489270694319">▶ Play</a> · <a href="https://x.com/JBabaTalks/status/2119903489270694319">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120017100844814354"><img src="../assets/covers/2120017100844814354.jpg" width="400" alt="A Red-Scarf Pelican Rides Along the Coast"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120028715258425413"><img src="../assets/covers/2120028715258425413.jpg" width="400" alt="Claude Mascot Evolution: Two Models Side by Side"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Red-Scarf Pelican Rides Along the Coast</strong><br><sub><a href="https://x.com/deedee_kon45120">@deedee_kon45120</a> · Pixel art &amp; characters</sub><br><sub>0:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120017100844814354">▶ Play</a> · <a href="https://x.com/deedee_kon45120/status/2120017100844814354">Original post</a></td>
+<td width="50%" valign="top"><strong>Claude Mascot Evolution: Two Models Side by Side</strong><br><sub><a href="https://x.com/Dubibubiii">@Dubibubiii</a> · Pixel art &amp; characters</sub><br><sub>1:29 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120028715258425413">▶ Play</a> · <a href="https://x.com/Dubibubiii/status/2120028715258425413">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120179018964324566"><img src="../assets/covers/2120179018964324566.jpg" width="400" alt="Claude Mascot's Journey Through a Hand-Drawn Town"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120518958512321022"><img src="../assets/covers/2120518958512321022.jpg" width="332" alt="Luminati: Depth and Daylight in a Pixel City"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Claude Mascot's Journey Through a Hand-Drawn Town</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · Pixel art &amp; characters</sub><br><sub>0:34 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120179018964324566">▶ Play</a> · <a href="https://x.com/chetaslua/status/2120179018964324566">Original post</a></td>
+<td width="50%" valign="top"><strong>Luminati: Depth and Daylight in a Pixel City</strong><br><sub><a href="https://x.com/tirthaexe">@tirthaexe</a> · Pixel art &amp; characters</sub><br><sub>2:07 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120518958512321022">▶ Play</a> · <a href="https://x.com/tirthaexe/status/2120518958512321022">Original post</a></td>
 </tr>
 </tbody>
 </table>

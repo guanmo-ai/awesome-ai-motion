@@ -2,7 +2,7 @@
 
 # Music & lyrics
 
-133 works. Click a cover to play; works without gallery video open on X.
+136 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -668,11 +668,21 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117077271823691935"><img src="../assets/covers/2117077271823691935.jpg" width="400" alt="One Note Travels Through a Bass"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119903338078564844"><img src="../assets/covers/2119903338078564844.jpg" width="400" alt="A Pocket Synthesizer: Keys and Knobs in Close-Up"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>One Note Travels Through a Bass</strong><br><sub><a href="https://x.com/akiyoshisan">@akiyoshisan</a> · Music &amp; lyrics</sub><br><sub>0:33 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117077271823691935">▶ Play</a> · <a href="https://x.com/akiyoshisan/status/2117077271823691935">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>A Pocket Synthesizer: Keys and Knobs in Close-Up</strong><br><sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · Music &amp; lyrics</sub><br><sub>0:10 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119903338078564844">▶ Play</a> · <a href="https://x.com/AmirMushich/status/2119903338078564844">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120014216753262816"><img src="../assets/covers/2120014216753262816.jpg" width="400" alt="Voice Is Enough: Japanese Lyric Motion"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120948511038648596"><img src="../assets/covers/2120948511038648596.jpg" width="225" alt="An Eighties Music Video in a Cassette Shop"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Voice Is Enough: Japanese Lyric Motion</strong><br><sub><a href="https://x.com/takamasa045">@takamasa045</a> · Music &amp; lyrics</sub><br><sub>0:53 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120014216753262816">▶ Play</a> · <a href="https://x.com/takamasa045/status/2120014216753262816">Original post</a></td>
+<td width="50%" valign="top"><strong>An Eighties Music Video in a Cassette Shop</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · Music &amp; lyrics</sub><br><sub>2:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120948511038648596">▶ Play</a> · <a href="https://x.com/kevin_t_ngo/status/2120948511038648596">Original post</a></td>
 </tr>
 </tbody>
 </table>

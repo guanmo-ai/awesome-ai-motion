@@ -2,7 +2,7 @@
 
 # 知识讲解
 
-430 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+431 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -2153,6 +2153,16 @@
 <tr>
 <td width="50%" valign="top"><strong>轨道 AI 计算任务的动态图解</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · 知识讲解</sub><br><sub>0:50 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116481641820418283">▶ 播放</a> · <a href="https://x.com/devteamdrew/status/2116481641820418283">原帖</a></td>
 <td width="50%" valign="top"><strong>家庭电路与断路器的交互课程</strong><br><sub><a href="https://x.com/misat0x">@misat0x</a> · 知识讲解</sub><br><sub>1:34 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116555241802105072">▶ 播放</a> · <a href="https://x.com/misat0x/status/2116555241802105072">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120029845572993504"><img src="../assets/covers/2120029845572993504.jpg" width="400" alt="对称性之旅：三角形与四面镜子"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>对称性之旅：三角形与四面镜子</strong><br><sub><a href="https://x.com/hyuki">@hyuki</a> · 知识讲解</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120029845572993504">▶ 播放</a> · <a href="https://x.com/hyuki/status/2120029845572993504">原帖</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

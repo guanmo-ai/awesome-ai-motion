@@ -2,7 +2,7 @@
 
 # 叙事短片
 
-191 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+198 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -958,11 +958,41 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116630297005457517"><img src="../assets/covers/2116630297005457517.jpg" width="126" alt="单个 HTML 构建的万圣节悬疑短片"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119848812202369120"><img src="../assets/covers/2119848812202369120.jpg" width="400" alt="Python 镜头穿越：赛车、峡谷与庙宇"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>单个 HTML 构建的万圣节悬疑短片</strong><br><sub><a href="https://x.com/AIronAgent">@AIronAgent</a> · 叙事短片</sub><br><sub>0:29 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116630297005457517">▶ 播放</a> · <a href="https://x.com/AIronAgent/status/2116630297005457517">原帖</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>Python 镜头穿越：赛车、峡谷与庙宇</strong><br><sub><a href="https://x.com/iZeykoai">@iZeykoai</a> · 叙事短片</sub><br><sub>0:37 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119848812202369120">▶ 播放</a> · <a href="https://x.com/iZeykoai/status/2119848812202369120">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119885430627913784"><img src="../assets/covers/2119885430627913784.jpg" width="400" alt="小巫师 Clawd 发布新模型"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119892540950241283"><img src="../assets/covers/2119892540950241283.jpg" width="400" alt="Claude 小方块眼中的神经元与宇宙"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>小巫师 Clawd 发布新模型</strong><br><sub><a href="https://x.com/other__reality">@other__reality</a> · 叙事短片</sub><br><sub>0:26 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119885430627913784">▶ 播放</a> · <a href="https://x.com/other__reality/status/2119885430627913784">原帖</a></td>
+<td width="50%" valign="top"><strong>Claude 小方块眼中的神经元与宇宙</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · 叙事短片</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119892540950241283">▶ 播放</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119902302001635455"><img src="../assets/covers/2119902302001635455.jpg" width="225" alt="剪纸太阳穿过海边山城"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120008924204310895"><img src="../assets/covers/2120008924204310895.jpg" width="400" alt="Assembly：桌面上的微缩森林"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>剪纸太阳穿过海边山城</strong><br><sub><a href="https://x.com/eluchocha">@eluchocha</a> · 叙事短片</sub><br><sub>0:38 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119902302001635455">▶ 播放</a> · <a href="https://x.com/eluchocha/status/2119902302001635455">原帖</a></td>
+<td width="50%" valign="top"><strong>Assembly：桌面上的微缩森林</strong><br><sub><a href="https://x.com/j_h_h_3">@j_h_h_3</a> · 叙事短片</sub><br><sub>1:00 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120008924204310895">▶ 播放</a> · <a href="https://x.com/j_h_h_3/status/2120008924204310895">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120026164479545578"><img src="../assets/covers/2120026164479545578.jpg" width="400" alt="夏天的末班车"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2121279507390996526"><img src="../assets/covers/2121279507390996526.jpg" width="127" alt="Claude 小方块造火箭登月"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>夏天的末班车</strong><br><sub><a href="https://x.com/TejasThange3">@TejasThange3</a> · 叙事短片</sub><br><sub>1:17 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120026164479545578">▶ 播放</a> · <a href="https://x.com/TejasThange3/status/2120026164479545578">原帖</a></td>
+<td width="50%" valign="top"><strong>Claude 小方块造火箭登月</strong><br><sub><a href="https://x.com/TheVRNerd">@TheVRNerd</a> · 叙事短片</sub><br><sub>1:31 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2121279507390996526">▶ 播放</a> · <a href="https://x.com/TheVRNerd/status/2121279507390996526">原帖</a></td>
 </tr>
 </tbody>
 </table>

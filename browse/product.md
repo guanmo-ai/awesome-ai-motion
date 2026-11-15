@@ -2,7 +2,7 @@
 
 # 产品宣传
 
-404 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+405 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -2023,6 +2023,16 @@
 <tr>
 <td width="50%" valign="top"><strong>记账产品的二十八秒动态图文广告</strong><br><sub><a href="https://x.com/Aygramm_">@Aygramm_</a> · 产品宣传</sub><br><sub>0:28 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2116663090364465534">▶ 播放</a> · <a href="https://x.com/Aygramm_/status/2116663090364465534">原帖</a></td>
 <td width="50%" valign="top"><strong>渐变素材库的图形发布片</strong><br><sub><a href="https://x.com/basit_designs">@basit_designs</a> · 产品宣传</sub><br><sub>0:30 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117933307585499192">▶ 播放</a> · <a href="https://x.com/basit_designs/status/2117933307585499192">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120027646071283723"><img src="../assets/covers/2120027646071283723.jpg" width="225" alt="Hero in Motion：按下播放才动起来"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Hero in Motion：按下播放才动起来</strong><br><sub><a href="https://x.com/AugustoBuilds">@AugustoBuilds</a> · 产品宣传</sub><br><sub>0:16 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120027646071283723">▶ 播放</a> · <a href="https://x.com/AugustoBuilds/status/2120027646071283723">原帖</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

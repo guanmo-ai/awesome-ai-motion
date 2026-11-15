@@ -2,7 +2,7 @@
 
 # 角色动画
 
-166 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+174 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -828,11 +828,51 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117069916121817591"><img src="../assets/covers/2117069916121817591.jpg" width="295" alt="纸面角色走入三维世界"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120179018964324566"><img src="../assets/covers/2120179018964324566.jpg" width="400" alt="Claude 吉祥物的手绘小镇之旅"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119876164051243409"><img src="../assets/covers/2119876164051243409.jpg" width="400" alt="云海中的等距水车村庄"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>纸面角色走入三维世界</strong><br><sub><a href="https://x.com/chetanankola">@chetanankola</a> · 角色动画</sub><br><sub>0:16 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117069916121817591">▶ 播放</a> · <a href="https://x.com/chetanankola/status/2117069916121817591">原帖</a></td>
+<td width="50%" valign="top"><strong>云海中的等距水车村庄</strong><br><sub><a href="https://x.com/josendev">@josendev</a> · 角色动画</sub><br><sub>0:08 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119876164051243409">▶ 播放</a> · <a href="https://x.com/josendev/status/2119876164051243409">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119881949540229421"><img src="../assets/covers/2119881949540229421.jpg" width="127" alt="河上船屋：印象派像素的昼夜"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119896335843529121"><img src="../assets/covers/2119896335843529121.jpg" width="400" alt="卡通火箭从搭建现场飞向月球"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>河上船屋：印象派像素的昼夜</strong><br><sub><a href="https://x.com/aimi_teno">@aimi_teno</a> · 角色动画</sub><br><sub>1:00 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119881949540229421">▶ 播放</a> · <a href="https://x.com/aimi_teno/status/2119881949540229421">原帖</a></td>
+<td width="50%" valign="top"><strong>卡通火箭从搭建现场飞向月球</strong><br><sub><a href="https://x.com/ZirkoMirko">@ZirkoMirko</a> · 角色动画</sub><br><sub>0:14 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119896335843529121">▶ 播放</a> · <a href="https://x.com/ZirkoMirko/status/2119896335843529121">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119899260606910886"><img src="../assets/covers/2119899260606910886.jpg" width="300" alt="SVG 鹈鹕：脚踏、车轮与海岸循环"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119903489270694319"><img src="../assets/covers/2119903489270694319.jpg" width="236" alt="九棵像素树的风与落叶"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>SVG 鹈鹕：脚踏、车轮与海岸循环</strong><br><sub><a href="https://x.com/eyadnour">@eyadnour</a> · 角色动画</sub><br><sub>0:10 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119899260606910886">▶ 播放</a> · <a href="https://x.com/eyadnour/status/2119899260606910886">原帖</a></td>
+<td width="50%" valign="top"><strong>九棵像素树的风与落叶</strong><br><sub><a href="https://x.com/JBabaTalks">@JBabaTalks</a> · 角色动画</sub><br><sub>0:41 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119903489270694319">▶ 播放</a> · <a href="https://x.com/JBabaTalks/status/2119903489270694319">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120017100844814354"><img src="../assets/covers/2120017100844814354.jpg" width="400" alt="红围巾鹈鹕的海边骑行"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120028715258425413"><img src="../assets/covers/2120028715258425413.jpg" width="400" alt="Claude 吉祥物进化史：两款模型的并排动画"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>红围巾鹈鹕的海边骑行</strong><br><sub><a href="https://x.com/deedee_kon45120">@deedee_kon45120</a> · 角色动画</sub><br><sub>0:16 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120017100844814354">▶ 播放</a> · <a href="https://x.com/deedee_kon45120/status/2120017100844814354">原帖</a></td>
+<td width="50%" valign="top"><strong>Claude 吉祥物进化史：两款模型的并排动画</strong><br><sub><a href="https://x.com/Dubibubiii">@Dubibubiii</a> · 角色动画</sub><br><sub>1:29 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120028715258425413">▶ 播放</a> · <a href="https://x.com/Dubibubiii/status/2120028715258425413">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120179018964324566"><img src="../assets/covers/2120179018964324566.jpg" width="400" alt="Claude 吉祥物的手绘小镇之旅"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120518958512321022"><img src="../assets/covers/2120518958512321022.jpg" width="332" alt="Luminati：像素城市里的景深与昼夜"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><strong>Claude 吉祥物的手绘小镇之旅</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 角色动画</sub><br><sub>0:34 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120179018964324566">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2120179018964324566">原帖</a></td>
+<td width="50%" valign="top"><strong>Luminati：像素城市里的景深与昼夜</strong><br><sub><a href="https://x.com/tirthaexe">@tirthaexe</a> · 角色动画</sub><br><sub>2:07 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120518958512321022">▶ 播放</a> · <a href="https://x.com/tirthaexe/status/2120518958512321022">原帖</a></td>
 </tr>
 </tbody>
 </table>

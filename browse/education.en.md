@@ -2,7 +2,7 @@
 
 # Education & explainers
 
-430 works. Click a cover to play; works without gallery video open on X.
+431 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -2153,6 +2153,16 @@
 <tr>
 <td width="50%" valign="top"><strong>An Animated Explainer of AI Compute in Orbit</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · Education &amp; explainers</sub><br><sub>0:50 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116481641820418283">▶ Play</a> · <a href="https://x.com/devteamdrew/status/2116481641820418283">Original post</a></td>
 <td width="50%" valign="top"><strong>Interactive Lessons on Home Circuits and Breakers</strong><br><sub><a href="https://x.com/misat0x">@misat0x</a> · Education &amp; explainers</sub><br><sub>1:34 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116555241802105072">▶ Play</a> · <a href="https://x.com/misat0x/status/2116555241802105072">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120029845572993504"><img src="../assets/covers/2120029845572993504.jpg" width="400" alt="A Journey Through Symmetry: One Triangle, Four Mirrors"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Journey Through Symmetry: One Triangle, Four Mirrors</strong><br><sub><a href="https://x.com/hyuki">@hyuki</a> · Education &amp; explainers</sub><br><sub>0:30 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120029845572993504">▶ Play</a> · <a href="https://x.com/hyuki/status/2120029845572993504">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

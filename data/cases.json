@@ -3,6 +3,3344 @@
   "name": "Awesome AI Motion",
   "cases": [
     {
+      "id": "2121327589990035501",
+      "stage": "discovery",
+      "title": "Argo V：从吊装到夜间发射",
+      "titleEn": "Argo V: From Crane Assembly to Night Launch",
+      "category": "3D 与交互",
+      "summary": "吊车分段组装火箭，白昼施工转入夜间倒计时，再以尾焰和烟雾完成升空。作者称发射场的全部组件由 Opus 5.5 编写代码构建。",
+      "summaryEn": "A crane assembles a rocket before daylight gives way to a nighttime countdown, flame and smoke. The creator credits Opus 5.5 with coding every launch-site component.",
+      "author": {
+        "name": "0xAnni",
+        "handle": "0x_Anni",
+        "url": "https://x.com/0x_Anni"
+      },
+      "source": {
+        "url": "https://x.com/0x_Anni/status/2121327589990035501",
+        "publishedAt": "2026-11-13T19:41:24.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 came back with a launch complex.",
+        "evidenceUrl": "https://x.com/0x_Anni/status/2121327589990035501"
+      },
+      "media": {
+        "durationSeconds": 29.141333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2121327589990035501.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2121326757206769665/vid/avc1/1080x1350/SK8W0KtgEzFln6oe.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 20.982,
+        "width": 640,
+        "height": 800,
+        "bytes": 66136
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/0x_Anni/status/2121327589990035501",
+        "checkedAt": "2026-11-15T05:51:26.224922+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/0x_Anni/status/2121327589990035501",
+        "checkedAt": "2026-11-15T05:51:26.224922+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.224922+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2121326757206769665/vid/avc1/1080x1350/SK8W0KtgEzFln6oe.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/0x_Anni/status/2121327589990035501",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2121290268779618790",
+      "stage": "discovery",
+      "title": "Crocodile Jelly：果冻鳄鱼的拖拽与回弹",
+      "titleEn": "Crocodile Jelly: Dragging and Rebounding a Soft Reptile",
+      "category": "3D 与交互",
+      "summary": "果冻鳄鱼被拉长、扭转并回弹，透明材质和配色切换凸显形体响应。作者自述作品由 Opus 5.5 制作。",
+      "summaryEn": "A jelly crocodile stretches, twists and rebounds while transparency and changing colors emphasize its response. The creator credits Opus 5.5.",
+      "author": {
+        "name": "Vib3Coded",
+        "handle": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source": {
+        "url": "https://x.com/vib3coded/status/2121290268779618790",
+        "publishedAt": "2026-11-13T17:13:06.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 built it in 15 minutes for $3.08",
+        "evidenceUrl": "https://x.com/vib3coded/status/2121290268779618790"
+      },
+      "media": {
+        "durationSeconds": 17.045333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2121290268779618790.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2121290025744678912/vid/avc1/2560x1616/rigG54wLGQbJn7Z2.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.75,
+        "width": 640,
+        "height": 404,
+        "bytes": 16368
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/vib3coded/status/2121290268779618790",
+        "checkedAt": "2026-11-15T05:51:26.224483+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/vib3coded/status/2121290268779618790",
+        "checkedAt": "2026-11-15T05:51:26.224483+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.224483+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2121290025744678912/vid/avc1/2560x1616/rigG54wLGQbJn7Z2.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/vib3coded/status/2121290268779618790",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2121279507390996526",
+      "stage": "discovery",
+      "title": "Claude 小方块造火箭登月",
+      "titleEn": "Claude Blocks Build a Rocket to the Moon",
+      "category": "叙事短片",
+      "summary": "橙色小方块在草地上搬运零件、搭建火箭并准备登月，进度标签与角色动作一起推动故事。作者自述使用 Fable 5.2。",
+      "summaryEn": "Orange block characters carry parts, build a rocket and prepare for a moon trip, with progress labels advancing the story. The creator credits Fable 5.2.",
+      "author": {
+        "name": "Scott the VRNerd ☀️🌎🌑",
+        "handle": "TheVRNerd",
+        "url": "https://x.com/TheVRNerd"
+      },
+      "source": {
+        "url": "https://x.com/TheVRNerd/status/2121279507390996526",
+        "publishedAt": "2026-11-13T16:30:20.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 built this funny animation for me.",
+        "evidenceUrl": "https://x.com/TheVRNerd/status/2121279507390996526"
+      },
+      "media": {
+        "durationSeconds": 91.068662,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2121279507390996526.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2121279461987414016/vid/avc1/1080x1920/upvuA6t6qcGyirTK.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 20.035,
+        "width": 450,
+        "height": 800,
+        "bytes": 37822
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/TheVRNerd/status/2121279507390996526",
+        "checkedAt": "2026-11-15T05:51:26.160343+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/TheVRNerd/status/2121279507390996526",
+        "checkedAt": "2026-11-15T05:51:26.160343+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.160343+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2121279461987414016/vid/avc1/1080x1920/upvuA6t6qcGyirTK.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/TheVRNerd/status/2121279507390996526",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120948511038648596",
+      "stage": "discovery",
+      "title": "磁带店里的八十年代音乐短片",
+      "titleEn": "An Eighties Music Video in a Cassette Shop",
+      "category": "音乐与歌词",
+      "summary": "唱片货架、合成器舞台与卡通歌手组成微缩音乐世界，镜头穿过货架再切入演出。作者称 Fable 5.2 编写 Python 动画并由 Blender 渲染。",
+      "summaryEn": "Cameras travel through cassette shelves into a miniature synth stage with cartoon performers. The creator credits Fable 5.2 with Python animation rendered in Blender.",
+      "author": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source": {
+        "url": "https://x.com/kevin_t_ngo/status/2120948511038648596",
+        "publishedAt": "2026-11-12T18:35:05.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Claude Fable 5.2 made this '80s music video",
+        "evidenceUrl": "https://x.com/kevin_t_ngo/status/2120948511038648596"
+      },
+      "media": {
+        "durationSeconds": 138.56,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120948511038648596.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120947367142981632/vid/avc1/2160x2160/JErOSxM1cooLCIA5.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 30.483,
+        "width": 640,
+        "height": 640,
+        "bytes": 58126
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2120948511038648596",
+        "checkedAt": "2026-11-15T05:51:26.167817+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/kevin_t_ngo/status/2120948511038648596",
+        "checkedAt": "2026-11-15T05:51:26.167817+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.167817+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120947367142981632/vid/avc1/2160x2160/JErOSxM1cooLCIA5.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kevin_t_ngo/status/2120948511038648596",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120919476174827528",
+      "stage": "discovery",
+      "title": "智能体卡片动效二：路由、上下文与指标",
+      "titleEn": "Agent Card Motion II: Routing, Context and Metrics",
+      "category": "短动效",
+      "summary": "棱镜式路由连线、折叠的上下文方块和变化的指标组织成第二组组件，以连续微动效表达状态。作者说明再次使用 Opus 5.5。",
+      "summaryEn": "Prism-like routing paths, folding context blocks and changing metrics form a second component set using continuous microanimations. The creator again credits Opus 5.5.",
+      "author": {
+        "name": "Csaba Kissi",
+        "handle": "csaba_kissi",
+        "url": "https://x.com/csaba_kissi"
+      },
+      "source": {
+        "url": "https://x.com/csaba_kissi/status/2120919476174827528",
+        "publishedAt": "2026-11-12T16:39:42.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "And one more set of 8 components. Opus 5.5 again",
+        "evidenceUrl": "https://x.com/csaba_kissi/status/2120919476174827528"
+      },
+      "media": {
+        "durationSeconds": 24.666611,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120919476174827528.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120919369261707264/vid/avc1/1900x2082/Su_8H0bzkC-SBXmm.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 5.427,
+        "width": 640,
+        "height": 702,
+        "bytes": 49207
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/csaba_kissi/status/2120919476174827528",
+        "checkedAt": "2026-11-15T05:51:26.219387+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/csaba_kissi/status/2120919476174827528",
+        "checkedAt": "2026-11-15T05:51:26.219387+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.219387+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120919369261707264/vid/avc1/1900x2082/Su_8H0bzkC-SBXmm.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/csaba_kissi/status/2120919476174827528",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2120855435230187993",
+      "stage": "discovery",
+      "title": "智能体卡片动效：点阵、连线与仪表",
+      "titleEn": "Agent Card Motion: Dot Grids, Connections and Gauges",
+      "category": "短动效",
+      "summary": "点阵球、任务连线、打字文本与仪表数字各自循环，卡片用小范围运动解释抽象的智能体流程。作者明确当前作品使用 Opus 5.5。",
+      "summaryEn": "Dot spheres, task connections, typed text and changing gauges animate abstract agent workflows inside cards. The creator identifies this work as Opus 5.5.",
+      "author": {
+        "name": "Csaba Kissi",
+        "handle": "csaba_kissi",
+        "url": "https://x.com/csaba_kissi"
+      },
+      "source": {
+        "url": "https://x.com/csaba_kissi/status/2120855435230187993",
+        "publishedAt": "2026-11-12T12:25:14.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Fable 5.2 is amazing for motion effects, but do you believe this one was created with Opus 5.5?",
+        "evidenceUrl": "https://x.com/csaba_kissi/status/2120855435230187993"
+      },
+      "media": {
+        "durationSeconds": 24.666644,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120855435230187993.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120855136662618112/vid/avc1/1900x2082/EMXzI9Q652Sw1pqq.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 5.427,
+        "width": 640,
+        "height": 702,
+        "bytes": 38637
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/csaba_kissi/status/2120855435230187993",
+        "checkedAt": "2026-11-15T05:51:26.218309+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/csaba_kissi/status/2120855435230187993",
+        "checkedAt": "2026-11-15T05:51:26.218309+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.218309+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120855136662618112/vid/avc1/1900x2082/EMXzI9Q652Sw1pqq.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/csaba_kissi/status/2120855435230187993",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2120518958512321022",
+      "stage": "discovery",
+      "title": "Luminati：像素城市里的景深与昼夜",
+      "titleEn": "Luminati: Depth and Daylight in a Pixel City",
+      "category": "像素与角色",
+      "summary": "像素人物置于有立体光照的城市街巷，镜头游览时用景深、灯光与建筑层次组织画面。作者称城市视图由 Opus 5.5 构建。",
+      "summaryEn": "Pixel characters inhabit city streets with dimensional lighting, depth of field and layered architecture. The creator credits Opus 5.5 with the city view.",
+      "author": {
+        "name": "Tirtha Sarker",
+        "handle": "tirthaexe",
+        "url": "https://x.com/tirthaexe"
+      },
+      "source": {
+        "url": "https://x.com/tirthaexe/status/2120518958512321022",
+        "publishedAt": "2026-11-11T14:08:11.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Luminati 2.5D pixel art engine city view built with Claude Opus 5.5 ✨",
+        "evidenceUrl": "https://x.com/tirthaexe/status/2120518958512321022"
+      },
+      "media": {
+        "durationSeconds": 127.210667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120518958512321022.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120516932587888640/vid/avc1/1060x720/iNkPivYx8HmLMI61.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 27.986,
+        "width": 640,
+        "height": 434,
+        "bytes": 51852
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/tirthaexe/status/2120518958512321022",
+        "checkedAt": "2026-11-15T05:51:26.220161+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/tirthaexe/status/2120518958512321022",
+        "checkedAt": "2026-11-15T05:51:26.220161+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.220161+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120516932587888640/vid/avc1/1060x720/iNkPivYx8HmLMI61.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/tirthaexe/status/2120518958512321022",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+      "resources": [
+        {
+          "kind": "tool",
+          "url": "https://gitlab.com/stubborn-hug/lumina",
+          "label": "作者提供的 Luminati 引擎仓库",
+          "labelEn": "Creator-linked Luminati engine repository",
+          "evidenceUrl": "https://x.com/tirthaexe/status/2120518958512321022",
+          "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+          "license": "MIT",
+          "licenseUrl": "https://gitlab.com/stubborn-hug/lumina/-/blob/main/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "2120029845572993504",
+      "stage": "discovery",
+      "title": "对称性之旅：三角形与四面镜子",
+      "titleEn": "A Journey Through Symmetry: One Triangle, Four Mirrors",
+      "category": "知识讲解",
+      "summary": "三角形镜像铺满平面，继而变成环状曲线与双曲几何图案。作者说明图像和音乐均由 Fable 5.2 以代码生成。",
+      "summaryEn": "Mirrored triangles tile a plane before transforming into circular curves and hyperbolic patterns. The creator says Fable 5.2 generated both visuals and music in code.",
+      "author": {
+        "name": "結城浩 / Hiroshi Yuki",
+        "handle": "hyuki",
+        "url": "https://x.com/hyuki"
+      },
+      "source": {
+        "url": "https://x.com/hyuki/status/2120029845572993504",
+        "publishedAt": "2026-11-10T05:44:38.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "クロコさん（Claude Code, Fable 5.2）に「群論に関係したカッコいい動画を作って。30秒くらいの長さで」とお願いして作ってもらいました。映像も音楽もコードだけで生成。",
+        "evidenceUrl": "https://x.com/hyuki/status/2120029845572993504"
+      },
+      "media": {
+        "durationSeconds": 30.058667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120029845572993504.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120029075490451456/vid/avc1/1920x1080/tOZbWLM4aXktjFK_.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6.613,
+        "width": 640,
+        "height": 360,
+        "bytes": 59112
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/hyuki/status/2120029845572993504",
+        "checkedAt": "2026-11-15T05:51:26.170788+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/hyuki/status/2120029845572993504",
+        "checkedAt": "2026-11-15T05:51:26.170788+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.170788+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120029075490451456/vid/avc1/1920x1080/tOZbWLM4aXktjFK_.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/hyuki/status/2120029845572993504",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120028715258425413",
+      "stage": "discovery",
+      "title": "Claude 吉祥物进化史：两款模型的并排动画",
+      "titleEn": "Claude Mascot Evolution: Two Models Side by Side",
+      "category": "像素与角色",
+      "summary": "同一段吉祥物进化故事并排呈现两种动画：从海洋生物到陆地角色与城市生活。原帖对照 Fable 5.2 和 Opus 5.5，旁白另由 FishAudio 生成。",
+      "summaryEn": "Two cartoons trace the mascot from sea creatures to land animals and city life. The post compares Fable 5.2 and Opus 5.5, with narration from FishAudio.",
+      "author": {
+        "name": "Dubibubi",
+        "handle": "Dubibubiii",
+        "url": "https://x.com/Dubibubiii"
+      },
+      "source": {
+        "url": "https://x.com/Dubibubiii/status/2120028715258425413",
+        "publishedAt": "2026-11-10T05:40:08.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2 / Claude Opus 5.5",
+        "evidenceQuote": "I made Claude Fable 5.2 and Opus 5.5 create a 60 sec cartoon on the evolution of the Claude mascot",
+        "evidenceUrl": "https://x.com/Dubibubiii/status/2120028715258425413"
+      },
+      "media": {
+        "durationSeconds": 88.667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120028715258425413.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120028288584474624/vid/avc1/1920x808/I0pkQm8IczLccb91.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 19.507,
+        "width": 640,
+        "height": 270,
+        "bytes": 36625
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Dubibubiii/status/2120028715258425413",
+        "checkedAt": "2026-11-15T05:51:26.170970+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/Dubibubiii/status/2120028715258425413",
+        "checkedAt": "2026-11-15T05:51:26.170970+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.170970+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120028288584474624/vid/avc1/1920x808/I0pkQm8IczLccb91.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Dubibubiii/status/2120028715258425413",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120027646071283723",
+      "stage": "discovery",
+      "title": "Hero in Motion：按下播放才动起来",
+      "titleEn": "Hero in Motion: Motion on Request",
+      "category": "产品宣传",
+      "summary": "动态文字、示意卡片与极光小屋组合成十六秒短片，依次演示播放、暂停和缺少视频时的画面。作者提供 Fable 5.2 编写的对应源码。",
+      "summaryEn": "Kinetic type, illustrated cards and an aurora cabin explain playback, pausing and missing-video states in sixteen seconds. The creator shares the matching Fable 5.2 project.",
+      "author": {
+        "name": "Augusto Builds",
+        "handle": "AugustoBuilds",
+        "url": "https://x.com/AugustoBuilds"
+      },
+      "source": {
+        "url": "https://x.com/AugustoBuilds/status/2120027646071283723",
+        "publishedAt": "2026-11-10T05:35:53.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 wrote the code. The code made this 16s film.",
+        "evidenceUrl": "https://x.com/AugustoBuilds/status/2120027646071283723"
+      },
+      "media": {
+        "durationSeconds": 16.085333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120027646071283723.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120027622662909952/vid/avc1/1080x1080/v4IhtvoFjZ9bijBR.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.539,
+        "width": 640,
+        "height": 640,
+        "bytes": 42911
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/AugustoBuilds/status/2120027646071283723",
+        "checkedAt": "2026-11-15T05:51:26.171822+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/AugustoBuilds/status/2120027646071283723",
+        "checkedAt": "2026-11-15T05:51:26.171822+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.171822+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120027622662909952/vid/avc1/1080x1080/v4IhtvoFjZ9bijBR.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AugustoBuilds/status/2120027646071283723",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos",
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/augustobuilds/hero-in-motion",
+          "label": "含对应短片的 Hero in Motion 工程",
+          "labelEn": "Hero in Motion project with the matching film",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/augustobuilds/hero-in-motion/blob/main/LICENSE",
+          "evidenceUrl": "https://x.com/AugustoBuilds/status/2120027646071283723",
+          "checkedAt": "2026-11-15T05:59:34.994097+00:00"
+        },
+        {
+          "kind": "demo",
+          "url": "https://augustobuilds.github.io/hero-in-motion/",
+          "label": "体验按需播放首屏",
+          "labelEn": "Try the opt-in video hero",
+          "evidenceUrl": "https://x.com/AugustoBuilds/status/2120027646071283723",
+          "checkedAt": "2026-11-15T05:59:34.994097+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2120026164479545578",
+      "stage": "discovery",
+      "title": "夏天的末班车",
+      "titleEn": "The Last Bus of Summer",
+      "category": "叙事短片",
+      "summary": "乡间车站的远景切换到车窗旁的角色特写，天空与田野从白昼走向黄昏。作者称作品由 Fable 5.2 一次生成。",
+      "summaryEn": "A rural station gives way to a character beside a bus window as fields and sky move toward sunset. The creator credits a single Fable 5.2 attempt.",
+      "author": {
+        "name": "Tejas",
+        "handle": "TejasThange3",
+        "url": "https://x.com/TejasThange3"
+      },
+      "source": {
+        "url": "https://x.com/TejasThange3/status/2120026164479545578",
+        "publishedAt": "2026-11-10T05:30:00.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "One shotted this using Fable 5.2",
+        "evidenceUrl": "https://x.com/TejasThange3/status/2120026164479545578"
+      },
+      "media": {
+        "durationSeconds": 76.5,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120026164479545578.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120025380069515266/vid/avc1/1920x1080/uL5Rnh8OZ9RQBthc.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 16.83,
+        "width": 640,
+        "height": 360,
+        "bytes": 49829
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/TejasThange3/status/2120026164479545578",
+        "checkedAt": "2026-11-15T05:51:26.172155+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/TejasThange3/status/2120026164479545578",
+        "checkedAt": "2026-11-15T05:51:26.172155+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.172155+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120025380069515266/vid/avc1/1920x1080/uL5Rnh8OZ9RQBthc.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/TejasThange3/status/2120026164479545578",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120024077930996126",
+      "stage": "discovery",
+      "title": "Genesis：液体、粒子与发光城市",
+      "titleEn": "Genesis: Liquid, Particles and Luminous Cities",
+      "category": "短动效",
+      "summary": "发光液体的近景转入粒子与建筑构成的几何空间，镜头沿光线轴线推进。作者说明由 Fable 5.2 制作。",
+      "summaryEn": "A luminous liquid close-up transitions into geometric spaces of particles and buildings, with the camera following a central light axis. The creator credits Fable 5.2.",
+      "author": {
+        "name": "つやっと🍎ゲーム開発中",
+        "handle": "tsuyatsuyatt",
+        "url": "https://x.com/tsuyatsuyatt"
+      },
+      "source": {
+        "url": "https://x.com/tsuyatsuyatt/status/2120024077930996126",
+        "publishedAt": "2026-11-10T05:21:42.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "真似してFable 5.2で「最強の3D動画を作って」ってお願いしてみた。",
+        "evidenceUrl": "https://x.com/tsuyatsuyatt/status/2120024077930996126"
+      },
+      "media": {
+        "durationSeconds": 45.888,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120024077930996126.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120023306632114176/vid/avc1/1920x1080/C4PiTB-Hy1VrdGpG.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.095,
+        "width": 640,
+        "height": 360,
+        "bytes": 17530
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/tsuyatsuyatt/status/2120024077930996126",
+        "checkedAt": "2026-11-15T05:51:26.172452+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/tsuyatsuyatt/status/2120024077930996126",
+        "checkedAt": "2026-11-15T05:51:26.172452+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.172452+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120023306632114176/vid/avc1/1920x1080/C4PiTB-Hy1VrdGpG.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/tsuyatsuyatt/status/2120024077930996126",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120020026552152264",
+      "stage": "discovery",
+      "title": "Build It All：文字与光环的发布动效",
+      "titleEn": "Build It All: Type and Rings in Motion",
+      "category": "短动效",
+      "summary": "编辑卡片、发光环和放大的文字逐段切换，橙色轨迹把暗色画面串成一支发布风格短片。作者自述使用 Fable 5.2。",
+      "summaryEn": "Editor cards, luminous rings and oversized type alternate through an orange trail connecting dark scenes. The creator credits Fable 5.2.",
+      "author": {
+        "name": "Sagar Giri",
+        "handle": "SagarGiri1707",
+        "url": "https://x.com/SagarGiri1707"
+      },
+      "source": {
+        "url": "https://x.com/SagarGiri1707/status/2120020026552152264",
+        "publishedAt": "2026-11-10T05:05:37.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "FABLE 5.2 just came out, and it made a motion design in a few minutes. It's completely WTF",
+        "evidenceUrl": "https://x.com/SagarGiri1707/status/2120020026552152264"
+      },
+      "media": {
+        "durationSeconds": 35.050667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120020026552152264.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120019922856366080/vid/avc1/1280x720/ccYbenNFv3HEBU0h.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 25.236,
+        "width": 640,
+        "height": 360,
+        "bytes": 11345
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/SagarGiri1707/status/2120020026552152264",
+        "checkedAt": "2026-11-15T05:51:26.173954+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/SagarGiri1707/status/2120020026552152264",
+        "checkedAt": "2026-11-15T05:51:26.173954+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.173954+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120019922856366080/vid/avc1/1280x720/ccYbenNFv3HEBU0h.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/SagarGiri1707/status/2120020026552152264",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120017167848763821",
+      "stage": "discovery",
+      "title": "一个点的十五秒：线、形与文字",
+      "titleEn": "Fifteen Seconds of a Point: Line, Form and Type",
+      "category": "短动效",
+      "summary": "黑色轨迹围绕红点交织，随后切到高对比的中文排版，计时与章节标签贯穿画面。原帖明确当前附件使用 Fable 5.2。",
+      "summaryEn": "Black paths weave around a red point before cutting to bold Chinese typography, with a running clock and chapter labels. The post identifies this attachment as Fable 5.2.",
+      "author": {
+        "name": "Freedom | AI",
+        "handle": "FreedomAIG",
+        "url": "https://x.com/FreedomAIG"
+      },
+      "source": {
+        "url": "https://x.com/FreedomAIG/status/2120017167848763821",
+        "publishedAt": "2026-11-10T04:54:15.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "同样是 Claude做的动态效果，下面是用Fable 5.2做的，引用对比的是我之前Opus 5.5做的，这个差别实际很直观了。",
+        "evidenceUrl": "https://x.com/FreedomAIG/status/2120017167848763821"
+      },
+      "media": {
+        "durationSeconds": 15.061333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120017167848763821.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120017098525257728/vid/avc1/1920x1080/ZXXg49Lcel1X56hu.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.313,
+        "width": 640,
+        "height": 360,
+        "bytes": 16925
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/FreedomAIG/status/2120017167848763821",
+        "checkedAt": "2026-11-15T05:51:26.174350+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/FreedomAIG/status/2120017167848763821",
+        "checkedAt": "2026-11-15T05:51:26.174350+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.174350+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120017098525257728/vid/avc1/1920x1080/ZXXg49Lcel1X56hu.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/FreedomAIG/status/2120017167848763821",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120017106804900304",
+      "stage": "discovery",
+      "title": "MOVE：字体、缓动与放射图形作品集",
+      "titleEn": "MOVE: A Reel of Type, Easing and Radial Shapes",
+      "category": "短动效",
+      "summary": "大字被拉伸、遮罩和切开，蓝黄放射图形接续旋转，形成十五秒的动态设计作品集。当前视频为作者的 Fable 5.2 版本。",
+      "summaryEn": "Large type stretches and splits through masks before blue-and-yellow radial shapes take over. This fifteen-second reel is the creator's Fable 5.2 version.",
+      "author": {
+        "name": "hims",
+        "handle": "himanshutwtxs",
+        "url": "https://x.com/himanshutwtxs"
+      },
+      "source": {
+        "url": "https://x.com/himanshutwtxs/status/2120017106804900304",
+        "publishedAt": "2026-11-10T04:54:00.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 motion designing in one prompt (sound ON). I like Opus one",
+        "evidenceUrl": "https://x.com/himanshutwtxs/status/2120017106804900304"
+      },
+      "media": {
+        "durationSeconds": 15.061333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120017106804900304.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120016926374260736/vid/avc1/1920x1080/V0u8KfhV2HsH-xvu.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.313,
+        "width": 640,
+        "height": 360,
+        "bytes": 19662
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/himanshutwtxs/status/2120017106804900304",
+        "checkedAt": "2026-11-15T05:51:26.174461+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/himanshutwtxs/status/2120017106804900304",
+        "checkedAt": "2026-11-15T05:51:26.174461+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.174461+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120016926374260736/vid/avc1/1920x1080/V0u8KfhV2HsH-xvu.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/himanshutwtxs/status/2120017106804900304",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120017100844814354",
+      "stage": "discovery",
+      "title": "红围巾鹈鹕的海边骑行",
+      "titleEn": "A Red-Scarf Pelican Rides Along the Coast",
+      "category": "像素与角色",
+      "summary": "鹈鹕蹬着红色自行车前行，围巾、车轮、海浪与路面形成分层循环。作者称这是 Fable 5.2 制作的无缝卡通动画。",
+      "summaryEn": "A pelican pedals a red bicycle while its scarf, wheels, waves and road form layered loops. The creator credits Fable 5.2 with the seamless cartoon.",
+      "author": {
+        "name": "Deedee Kong(怼怼）",
+        "handle": "deedee_kon45120",
+        "url": "https://x.com/deedee_kon45120"
+      },
+      "source": {
+        "url": "https://x.com/deedee_kon45120/status/2120017100844814354",
+        "publishedAt": "2026-11-10T04:53:59.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 交作业了",
+        "evidenceUrl": "https://x.com/deedee_kon45120/status/2120017100844814354"
+      },
+      "media": {
+        "durationSeconds": 16.066667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120017100844814354.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120017047048617984/vid/avc1/1280x720/8QW3XXF4255BNZkm.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.535,
+        "width": 640,
+        "height": 360,
+        "bytes": 36145
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/deedee_kon45120/status/2120017100844814354",
+        "checkedAt": "2026-11-15T05:51:26.174700+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/deedee_kon45120/status/2120017100844814354",
+        "checkedAt": "2026-11-15T05:51:26.174700+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.174700+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120017047048617984/vid/avc1/1280x720/8QW3XXF4255BNZkm.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/deedee_kon45120/status/2120017100844814354",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120014216753262816",
+      "stage": "discovery",
+      "title": "Voice だけでいい：日文歌词动态排版",
+      "titleEn": "Voice Is Enough: Japanese Lyric Motion",
+      "category": "音乐与歌词",
+      "summary": "米白大字、橙色强调与细线图形在黑底上轮换，文字尺寸和构图跟随歌词段落改变。作者明确这是 Fable 5.2 重做的版本。",
+      "summaryEn": "Cream type, orange accents and fine lines alternate on black, changing scale and composition with the lyric sections. The creator identifies this as the Fable 5.2 remake.",
+      "author": {
+        "name": "伊藤貴將（いとぱん）｜AI創作ラボ 仲間募集中🤝",
+        "handle": "takamasa045",
+        "url": "https://x.com/takamasa045"
+      },
+      "source": {
+        "url": "https://x.com/takamasa045/status/2120014216753262816",
+        "publishedAt": "2026-11-10T04:42:31.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "9月にOpus 5.5で作った『Voiceだけでいい』のリリックモーションを、Fable 5.2でも作ってみた🎬",
+        "evidenceUrl": "https://x.com/takamasa045/status/2120014216753262816"
+      },
+      "media": {
+        "durationSeconds": 52.650667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120014216753262816.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120012444575911936/vid/avc1/1920x1080/pOGKiL089_CJrm_D.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 11.583,
+        "width": 640,
+        "height": 360,
+        "bytes": 11623
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/takamasa045/status/2120014216753262816",
+        "checkedAt": "2026-11-15T05:51:26.175782+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/takamasa045/status/2120014216753262816",
+        "checkedAt": "2026-11-15T05:51:26.175782+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.175782+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120012444575911936/vid/avc1/1920x1080/pOGKiL089_CJrm_D.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/takamasa045/status/2120014216753262816",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120012834461646927",
+      "stage": "discovery",
+      "title": "从一个点长成代码世界",
+      "titleEn": "From a Point to a World of Code",
+      "category": "短动效",
+      "summary": "一个点依次扩展为线、平面、立体和行星，粒子与着色器图形承担形态转场。作者称 Fable 5.2 编写了图像与音乐代码。",
+      "summaryEn": "A point expands into lines, planes, solids and a planet through particle and shader transitions. The creator credits Fable 5.2 with both visual and musical code.",
+      "author": {
+        "name": "kazu@生成AI×教育",
+        "handle": "tankazunori0914",
+        "url": "https://x.com/tankazunori0914"
+      },
+      "source": {
+        "url": "https://x.com/tankazunori0914/status/2120012834461646927",
+        "publishedAt": "2026-11-10T04:37:02.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "続き。今度は「コードだけで作る動画」を、Fable 5.2に作ってもらいました。（音量注意）",
+        "evidenceUrl": "https://x.com/tankazunori0914/status/2120012834461646927"
+      },
+      "media": {
+        "durationSeconds": 64.042667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120012834461646927.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120011337862656000/vid/avc1/1920x1080/W5RxVF77TTfDYfRG.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 14.089,
+        "width": 640,
+        "height": 360,
+        "bytes": 20084
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/tankazunori0914/status/2120012834461646927",
+        "checkedAt": "2026-11-15T05:51:26.178931+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/tankazunori0914/status/2120012834461646927",
+        "checkedAt": "2026-11-15T05:51:26.178931+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.178931+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120011337862656000/vid/avc1/1920x1080/W5RxVF77TTfDYfRG.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/tankazunori0914/status/2120012834461646927",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120008924204310895",
+      "stage": "discovery",
+      "title": "Assembly：桌面上的微缩森林",
+      "titleEn": "Assembly: A Miniature Forest on a Desk",
+      "category": "叙事短片",
+      "summary": "镜头从夜间工作桌进入微缩地形，再穿过树梢望向星空，以尺度变化串联场景。作者说明使用 Fable 5.2、Voyager 和 Vork。",
+      "summaryEn": "The camera moves from a desk into miniature terrain and treetops beneath a starry sky. The creator credits Fable 5.2, Voyager and Vork.",
+      "author": {
+        "name": "John Holliman",
+        "handle": "j_h_h_3",
+        "url": "https://x.com/j_h_h_3"
+      },
+      "source": {
+        "url": "https://x.com/j_h_h_3/status/2120008924204310895",
+        "publishedAt": "2026-11-10T04:21:30.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "built with Fable 5.2 + Voyager harness + Vork cli.",
+        "evidenceUrl": "https://x.com/j_h_h_3/status/2120008924204310895"
+      },
+      "media": {
+        "durationSeconds": 60.053333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120008924204310895.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120008313488482306/vid/avc1/1920x1080/hMdV4sw8sw8VuarZ.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 13.212,
+        "width": 640,
+        "height": 360,
+        "bytes": 25649
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/j_h_h_3/status/2120008924204310895",
+        "checkedAt": "2026-11-15T05:51:26.180924+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/j_h_h_3/status/2120008924204310895",
+        "checkedAt": "2026-11-15T05:51:26.180924+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.180924+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120008313488482306/vid/avc1/1920x1080/hMdV4sw8sw8VuarZ.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/j_h_h_3/status/2120008924204310895",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120008595458928930",
+      "stage": "discovery",
+      "title": "2027：旋转粒子与研究加速",
+      "titleEn": "2027: Rotating Particles and Accelerating Research",
+      "category": "短动效",
+      "summary": "金色放射线收束成粒子球面，竖屏字幕与形态变化交替推进，表现不断加速的研究主题。原帖署名 Fable 5.2。",
+      "summaryEn": "Golden radial lines gather into particle spheres as vertical captions alternate with changing forms around an accelerating-research theme. The post credits Fable 5.2.",
+      "author": {
+        "name": "sonder berry",
+        "handle": "Midnightballoon",
+        "url": "https://x.com/Midnightballoon"
+      },
+      "source": {
+        "url": "https://x.com/Midnightballoon/status/2120008595458928930",
+        "publishedAt": "2026-11-10T04:20:11.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "by fable 5.2",
+        "evidenceUrl": "https://x.com/Midnightballoon/status/2120008595458928930"
+      },
+      "media": {
+        "durationSeconds": 55.913651,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120008595458928930.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120008519382716416/vid/avc1/1080x1620/SUjR8cYbaoVdly82.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 12.301,
+        "width": 533,
+        "height": 800,
+        "bytes": 48061
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Midnightballoon/status/2120008595458928930",
+        "checkedAt": "2026-11-15T05:51:26.182302+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/Midnightballoon/status/2120008595458928930",
+        "checkedAt": "2026-11-15T05:51:26.182302+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.182302+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2120008519382716416/vid/avc1/1080x1620/SUjR8cYbaoVdly82.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Midnightballoon/status/2120008595458928930",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2120007289071640613",
+      "stage": "discovery",
+      "title": "金继：和纹裂开，再以金线连接",
+      "titleEn": "Kintsugi: Patterns Fracture and Rejoin in Gold",
+      "category": "短动效",
+      "summary": "金色圆相与层叠和纹在黑底上生成、裂变和重组，红金细节组织画面节奏。作者称画面与声音均由 Fable 5.2 以代码完成。",
+      "summaryEn": "A gold ring and layered Japanese patterns grow, fracture and regroup on black. The creator says Fable 5.2 made the visuals and sound entirely in code.",
+      "author": {
+        "name": "にらまよ",
+        "handle": "niramayo2096",
+        "url": "https://x.com/niramayo2096"
+      },
+      "source": {
+        "url": "https://x.com/niramayo2096/status/2120007289071640613",
+        "publishedAt": "2026-11-10T04:15:00.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Claude Fable 5.2に私好みのモーショングラフィックス作って、と頼んでみた！",
+        "evidenceUrl": "https://x.com/niramayo2096/status/2120007289071640613"
+      },
+      "media": {
+        "durationSeconds": 20.062041,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2120007289071640613.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119992211135950848/vid/avc1/1920x1080/_Kzr3bLyt7ZwqdMp.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4.414,
+        "width": 640,
+        "height": 360,
+        "bytes": 21594
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/niramayo2096/status/2120007289071640613",
+        "checkedAt": "2026-11-15T05:51:26.186846+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/niramayo2096/status/2120007289071640613",
+        "checkedAt": "2026-11-15T05:51:26.186846+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.186846+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119992211135950848/vid/avc1/1920x1080/_Kzr3bLyt7ZwqdMp.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/niramayo2096/status/2120007289071640613",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119909780269785332",
+      "stage": "discovery",
+      "title": "Piranha P-7：机械食人鱼的拆解与换色",
+      "titleEn": "Piranha P-7: A Mechanical Fish Comes Apart",
+      "category": "3D 与交互",
+      "summary": "鱼鳞、颌骨与肋骨分层展开，再重新合拢并切换配色。作者说明先用 Opus 5.5 雕刻代码结构，再由 Fable 5.2 完成材质与动作。",
+      "summaryEn": "Scales, jaws and ribs separate, reassemble and change color. The creator credits Opus 5.5 with the coded structure and Fable 5.2 with finishing materials and motion.",
+      "author": {
+        "name": "Catcher of your mind",
+        "handle": "Scratcherrrr",
+        "url": "https://x.com/Scratcherrrr"
+      },
+      "source": {
+        "url": "https://x.com/Scratcherrrr/status/2119909780269785332",
+        "publishedAt": "2026-11-09T21:47:32.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2 / Claude Opus 5.5",
+        "evidenceQuote": "this is Piranha P-7. sculpted with Claude Opus 5.5, finished by Fable 5.2 the day it came out",
+        "evidenceUrl": "https://x.com/Scratcherrrr/status/2119909780269785332"
+      },
+      "media": {
+        "durationSeconds": 20.458667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119909780269785332.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4.501,
+        "width": 640,
+        "height": 360,
+        "bytes": 37014
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Scratcherrrr/status/2119909780269785332",
+        "checkedAt": "2026-11-15T05:51:26.187447+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/Scratcherrrr/status/2119909780269785332",
+        "checkedAt": "2026-11-15T05:51:26.187447+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.187447+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Scratcherrrr/status/2119909780269785332",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119907096636657696",
+      "stage": "discovery",
+      "title": "樱花体素浮岛上的昼夜宝塔",
+      "titleEn": "A Voxel Pagoda Island Through Day and Night",
+      "category": "3D 与交互",
+      "summary": "镜头从整座宝塔浮岛推进到樱花、池水与灯笼之间，体素细节与昼夜光照共同组织空间。作者称使用 Fable 5.2。",
+      "summaryEn": "The camera moves from a complete pagoda island into cherry trees, water and lanterns, with voxel detail and changing light shaping the space. The creator credits Fable 5.2.",
+      "author": {
+        "name": "Lumina",
+        "handle": "LuminaBench",
+        "url": "https://x.com/LuminaBench"
+      },
+      "source": {
+        "url": "https://x.com/LuminaBench/status/2119907096636657696",
+        "publishedAt": "2026-11-09T21:36:52.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 Voxel Pagoda",
+        "evidenceUrl": "https://x.com/LuminaBench/status/2119907096636657696"
+      },
+      "media": {
+        "durationSeconds": 47.29,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119907096636657696.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119906290478559232/vid/avc1/1880x1280/d1J65qUiPlX62ABY.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.404,
+        "width": 640,
+        "height": 436,
+        "bytes": 61053
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/LuminaBench/status/2119907096636657696",
+        "checkedAt": "2026-11-15T05:51:26.190289+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/LuminaBench/status/2119907096636657696",
+        "checkedAt": "2026-11-15T05:51:26.190289+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.190289+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119906290478559232/vid/avc1/1880x1280/d1J65qUiPlX62ABY.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/LuminaBench/status/2119907096636657696",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119906280118845704",
+      "stage": "discovery",
+      "title": "ASCII 字符里的火把地牢",
+      "titleEn": "A Torchlit Dungeon Drawn in ASCII",
+      "category": "短动效",
+      "summary": "字符明暗构成石墙、拱门和吊灯，镜头穿行时让字阵变成连续的三维空间。作者明确这是 Fable 5.2 重做的动画。",
+      "summaryEn": "Character shading forms stone walls, arches and hanging lamps as camera movement turns the text grid into a continuous space. The creator credits this remake to Fable 5.2.",
+      "author": {
+        "name": "josen",
+        "handle": "josendev",
+        "url": "https://x.com/josendev"
+      },
+      "source": {
+        "url": "https://x.com/josendev/status/2119906280118845704",
+        "publishedAt": "2026-11-09T21:33:37.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Remade the ASCII animation with Fable 5.2",
+        "evidenceUrl": "https://x.com/josendev/status/2119906280118845704"
+      },
+      "media": {
+        "durationSeconds": 8,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119906280118845704.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119906148698484736/vid/avc1/1920x1080/Sgdo6c9D1mBdZbhn.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.76,
+        "width": 640,
+        "height": 360,
+        "bytes": 111516
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/josendev/status/2119906280118845704",
+        "checkedAt": "2026-11-15T05:51:26.190595+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/josendev/status/2119906280118845704",
+        "checkedAt": "2026-11-15T05:51:26.190595+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.190595+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119906148698484736/vid/avc1/1920x1080/Sgdo6c9D1mBdZbhn.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/josendev/status/2119906280118845704",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119906202330988961",
+      "stage": "discovery",
+      "title": "东京夜雨：拉面摊等到雪落",
+      "titleEn": "Tokyo Night Rain: Snow at a Ramen Stall",
+      "category": "3D 与交互",
+      "summary": "小型拉面摊被雨滴、蒸汽与暖色灯笼包围，旋转镜头下的降水逐渐转成雪。作者自述使用 Fable 5.2 与 Claude Code。",
+      "summaryEn": "Rain, steam and warm lanterns surround a miniature ramen stall as precipitation turns to snow. The creator credits Fable 5.2 in Claude Code.",
+      "author": {
+        "name": "Sprint",
+        "handle": "sprinntt",
+        "url": "https://x.com/sprinntt"
+      },
+      "source": {
+        "url": "https://x.com/sprinntt/status/2119906202330988961",
+        "publishedAt": "2026-11-09T21:33:19.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Claude Fable 5.2 came out today, so it gets the new prompt first.",
+        "evidenceUrl": "https://x.com/sprinntt/status/2119906202330988961"
+      },
+      "media": {
+        "durationSeconds": 18.56,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119906202330988961.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 4.083,
+        "width": 640,
+        "height": 360,
+        "bytes": 37579
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/sprinntt/status/2119906202330988961",
+        "checkedAt": "2026-11-15T05:51:26.190992+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/sprinntt/status/2119906202330988961",
+        "checkedAt": "2026-11-15T05:51:26.190992+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.190992+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/sprinntt/status/2119906202330988961",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119903824848761287",
+      "stage": "discovery",
+      "title": "从模型菜单切入动态文字作品集",
+      "titleEn": "From a Model Menu to a Kinetic Type Reel",
+      "category": "短动效",
+      "summary": "终端式选择菜单切入放大的模型名字，色块、文字与构图变化串成自我介绍。作者称 Fable 5.2 以代码制作，未用视频模型。",
+      "summaryEn": "A terminal-style selector cuts to oversized model names, blocks of color and shifting compositions. The creator says Fable 5.2 made the reel in code without a video model.",
+      "author": {
+        "name": "Kaif",
+        "handle": "kaif9998",
+        "url": "https://x.com/kaif9998"
+      },
+      "source": {
+        "url": "https://x.com/kaif9998/status/2119903824848761287",
+        "publishedAt": "2026-11-09T21:23:52.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 animated its own showreel. No video model, just code.",
+        "evidenceUrl": "https://x.com/kaif9998/status/2119903824848761287"
+      },
+      "media": {
+        "durationSeconds": 15.061333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119903824848761287.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119903274031828992/vid/avc1/1920x1080/NG1jRcBKfR-B1SsJ.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 10.844,
+        "width": 640,
+        "height": 360,
+        "bytes": 16025
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/kaif9998/status/2119903824848761287",
+        "checkedAt": "2026-11-15T05:51:26.192673+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/kaif9998/status/2119903824848761287",
+        "checkedAt": "2026-11-15T05:51:26.192673+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.192673+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119903274031828992/vid/avc1/1920x1080/NG1jRcBKfR-B1SsJ.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/kaif9998/status/2119903824848761287",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119903760529113116",
+      "stage": "discovery",
+      "title": "MAKE IT MOVE：字体到空间的十五秒",
+      "titleEn": "MAKE IT MOVE: Fifteen Seconds from Type to Depth",
+      "category": "短动效",
+      "summary": "橙底大字切入层层推进的方框与旋转线球，字体、形状和空间章节彼此衔接。作者公开了交给 Fable 5.2 的作品集提示词。",
+      "summaryEn": "Orange title cards give way to nested frames and a rotating line sphere, connecting type, shape and depth. The creator shares the Fable 5.2 showreel prompt.",
+      "author": {
+        "name": "Pearl AI",
+        "handle": "heypearlai",
+        "url": "https://x.com/heypearlai"
+      },
+      "source": {
+        "url": "https://x.com/heypearlai/status/2119903760529113116",
+        "publishedAt": "2026-11-09T21:23:37.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "I ran this exact prompt through Fable 5.2 to see the difference.",
+        "evidenceUrl": "https://x.com/heypearlai/status/2119903760529113116"
+      },
+      "media": {
+        "durationSeconds": 15.046531,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119903760529113116.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119902252723023872/vid/avc1/1920x1080/p0Q91YuD0ECQfDLv.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.31,
+        "width": 640,
+        "height": 360,
+        "bytes": 21460
+      },
+      "prompt": {
+        "status": "original",
+        "text": "",
+        "sourceUrl": "https://x.com/heypearlai/status/2119903760529113116",
+        "checkedAt": "2026-11-15T05:51:26.197091+00:00",
+        "display": "source_link"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/heypearlai/status/2119903760529113116",
+        "checkedAt": "2026-11-15T05:51:26.197091+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.197091+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": true
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119902252723023872/vid/avc1/1920x1080/p0Q91YuD0ECQfDLv.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/heypearlai/status/2119903760529113116",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119903489270694319",
+      "stage": "discovery",
+      "title": "九棵像素树的风与落叶",
+      "titleEn": "Wind and Falling Leaves Across Nine Pixel Trees",
+      "category": "像素与角色",
+      "summary": "柳树、红枫与针叶树组成九宫格，风向、树冠摆动和落叶让同一组像素树呈现不同状态。作者称由 Fable 5.2 制作，并链接了参考作品。",
+      "summaryEn": "A grid of willows, red maples and conifers changes through wind, swaying canopies and falling leaves. The creator credits Fable 5.2 and links the reference work.",
+      "author": {
+        "name": "JBaba",
+        "handle": "JBabaTalks",
+        "url": "https://x.com/JBabaTalks"
+      },
+      "source": {
+        "url": "https://x.com/JBabaTalks/status/2119903489270694319",
+        "publishedAt": "2026-11-09T21:22:32.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "One shotted pixel art animation using Fable 5.2.",
+        "evidenceUrl": "https://x.com/JBabaTalks/status/2119903489270694319"
+      },
+      "media": {
+        "durationSeconds": 40.874667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119903489270694319.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119903258588086272/vid/avc1/1808x1722/-oRMSGBL9FaVhUCA.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8.992,
+        "width": 640,
+        "height": 610,
+        "bytes": 51355
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/JBabaTalks/status/2119903489270694319",
+        "checkedAt": "2026-11-15T05:51:26.198839+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/JBabaTalks/status/2119903489270694319",
+        "checkedAt": "2026-11-15T05:51:26.198839+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.198839+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119903258588086272/vid/avc1/1808x1722/-oRMSGBL9FaVhUCA.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/JBabaTalks/status/2119903489270694319",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119903338078564844",
+      "stage": "discovery",
+      "title": "口袋合成器：琴键与旋钮的近景节奏",
+      "titleEn": "A Pocket Synthesizer: Keys and Knobs in Close-Up",
+      "category": "音乐与歌词",
+      "summary": "浅景深镜头掠过合成器琴键与旋钮，部件动作和声音共同构成十秒演示。作者使用 Fable 5.2、Blender 与 Reaper，并说明部分声音来自自行录制。",
+      "summaryEn": "Shallow-focus shots move across synthesizer keys and knobs in a ten-second sequence. The creator credits Fable 5.2, Blender and Reaper, with some self-recorded sounds.",
+      "author": {
+        "name": "AmirMušić",
+        "handle": "AmirMushich",
+        "url": "https://x.com/AmirMushich"
+      },
+      "source": {
+        "url": "https://x.com/AmirMushich/status/2119903338078564844",
+        "publishedAt": "2026-11-09T21:21:56.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Claude Fable 5.2 - time to test it with Blender + Reaper?",
+        "evidenceUrl": "https://x.com/AmirMushich/status/2119903338078564844"
+      },
+      "media": {
+        "durationSeconds": 10.048,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119903338078564844.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119902373770334209/vid/avc1/1920x1080/vCU11lupXlFgCNwm.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.211,
+        "width": 640,
+        "height": 360,
+        "bytes": 15776
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/AmirMushich/status/2119903338078564844",
+        "checkedAt": "2026-11-15T05:51:26.199246+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/AmirMushich/status/2119903338078564844",
+        "checkedAt": "2026-11-15T05:51:26.199246+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.199246+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119902373770334209/vid/avc1/1920x1080/vCU11lupXlFgCNwm.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/AmirMushich/status/2119903338078564844",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119902325460590834",
+      "stage": "discovery",
+      "title": "ChatGPT 四周年的非官方庆生动效",
+      "titleEn": "An Unofficial Motion Tribute to ChatGPT's Fourth Anniversary",
+      "category": "短动效",
+      "summary": "黑底大字、年份刻度与发光地平线串起一支非官方庆生短片，文字以缩放和切换形成节奏。作者明确使用 Fable 5.2。",
+      "summaryEn": "Large type, year markers and a glowing horizon form an unofficial anniversary tribute through scaling and cuts. The creator credits Fable 5.2.",
+      "author": {
+        "name": "数字生命卡兹克",
+        "handle": "Khazix0918",
+        "url": "https://x.com/Khazix0918"
+      },
+      "source": {
+        "url": "https://x.com/Khazix0918/status/2119902325460590834",
+        "publishedAt": "2026-11-09T21:17:54.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Claude Fable 5.2的视频能力又大幅进化了，节奏和动效太强了...强的有点过于离谱了。",
+        "evidenceUrl": "https://x.com/Khazix0918/status/2119902325460590834"
+      },
+      "media": {
+        "durationSeconds": 58.048,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119902325460590834.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119899444233863168/vid/avc1/1920x1080/hqqYkpi27k2cdXpg.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 12.771,
+        "width": 640,
+        "height": 360,
+        "bytes": 8420
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/Khazix0918/status/2119902325460590834",
+        "checkedAt": "2026-11-15T05:51:26.200034+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/Khazix0918/status/2119902325460590834",
+        "checkedAt": "2026-11-15T05:51:26.200034+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.200034+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119899444233863168/vid/avc1/1920x1080/hqqYkpi27k2cdXpg.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/Khazix0918/status/2119902325460590834",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119902302001635455",
+      "stage": "discovery",
+      "title": "剪纸太阳穿过海边山城",
+      "titleEn": "A Paper-Cut Sun Crosses a Seaside Town",
+      "category": "叙事短片",
+      "summary": "花叶与屋顶构成层叠的纸艺空间，太阳从近景台阶飘向黄昏山城。作者称 Fable 5.2 编写了全部动作代码。",
+      "summaryEn": "Layered flowers and rooftops form a paper-craft space as a sun drifts from nearby steps toward a town at dusk. The creator credits Fable 5.2 with all motion code.",
+      "author": {
+        "name": "elucho",
+        "handle": "eluchocha",
+        "url": "https://x.com/eluchocha"
+      },
+      "source": {
+        "url": "https://x.com/eluchocha/status/2119902302001635455",
+        "publishedAt": "2026-11-09T21:17:49.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Claude Fable 5.2 made this Animation",
+        "evidenceUrl": "https://x.com/eluchocha/status/2119902302001635455"
+      },
+      "media": {
+        "durationSeconds": 37.589333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119902302001635455.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8.27,
+        "width": 640,
+        "height": 640,
+        "bytes": 153118
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/eluchocha/status/2119902302001635455",
+        "checkedAt": "2026-11-15T05:51:26.200417+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/eluchocha/status/2119902302001635455",
+        "checkedAt": "2026-11-15T05:51:26.200417+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.200417+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/eluchocha/status/2119902302001635455",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119899260606910886",
+      "stage": "discovery",
+      "title": "SVG 鹈鹕：脚踏、车轮与海岸循环",
+      "titleEn": "An SVG Pelican: Pedals, Wheels and a Coastal Loop",
+      "category": "像素与角色",
+      "summary": "鹈鹕腿部跟随脚踏运动，车轮、道路和背景保持联动，围巾与云层补足循环细节。作者称 Fable 5.2 以单个 SVG 完成动画。",
+      "summaryEn": "A pelican's legs follow the pedals while wheels, road and scenery move together, with a scarf and clouds completing the loop. The creator credits a single Fable 5.2 SVG.",
+      "author": {
+        "name": "Eyad Nour",
+        "handle": "eyadnour",
+        "url": "https://x.com/eyadnour"
+      },
+      "source": {
+        "url": "https://x.com/eyadnour/status/2119899260606910886",
+        "publishedAt": "2026-11-09T21:05:44.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Asked Claude Fable 5.2 to build the classic pelican on a bicycle benchmark. One 120kb SVG, zero JavaScript, 188 animations, legs that track pedals, wheels",
+        "evidenceUrl": "https://x.com/eyadnour/status/2119899260606910886"
+      },
+      "media": {
+        "durationSeconds": 10,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119899260606910886.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119898688180850688/vid/avc1/1600x1200/iBBPAJliWGeytp-Y.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.2,
+        "width": 640,
+        "height": 480,
+        "bytes": 53963
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/eyadnour/status/2119899260606910886",
+        "checkedAt": "2026-11-15T05:51:26.201303+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/eyadnour/status/2119899260606910886",
+        "checkedAt": "2026-11-15T05:51:26.201303+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.201303+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119898688180850688/vid/avc1/1600x1200/iBBPAJliWGeytp-Y.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/eyadnour/status/2119899260606910886",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119898879340765513",
+      "stage": "discovery",
+      "title": "玻璃开关中的十幕像素小世界",
+      "titleEn": "Ten Pixel Worlds Inside Glass Switches",
+      "category": "3D 与交互",
+      "summary": "玻璃拨片扫过微缩场景，让季节、昼夜与生长状态在开关内变化，同一轮廓承载多组交互构思。作者称使用 Fable 5.2。",
+      "summaryEn": "Glass handles travel across miniature scenes to change seasons, daylight and growth, using one switch shape for multiple ideas. The creator credits Fable 5.2.",
+      "author": {
+        "name": "repo.ing",
+        "handle": "repodoting",
+        "url": "https://x.com/repodoting"
+      },
+      "source": {
+        "url": "https://x.com/repodoting/status/2119898879340765513",
+        "publishedAt": "2026-11-09T21:04:13.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "some cool sliders made in a few minutes with @AnthropicAI new Fable 5.2",
+        "evidenceUrl": "https://x.com/repodoting/status/2119898879340765513"
+      },
+      "media": {
+        "durationSeconds": 34.645333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119898879340765513.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119898682531430400/vid/avc1/1920x1080/SCNQd6ltHRSLHpQ4.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7.622,
+        "width": 640,
+        "height": 360,
+        "bytes": 22084
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/repodoting/status/2119898879340765513",
+        "checkedAt": "2026-11-15T05:51:26.201672+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/repodoting/status/2119898879340765513",
+        "checkedAt": "2026-11-15T05:51:26.201672+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.201672+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119898682531430400/vid/avc1/1920x1080/SCNQd6ltHRSLHpQ4.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/repodoting/status/2119898879340765513",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119896335843529121",
+      "stage": "discovery",
+      "title": "卡通火箭从搭建现场飞向月球",
+      "titleEn": "A Cartoon Rocket Lifts from Its Build Site to the Moon",
+      "category": "像素与角色",
+      "summary": "红白火箭从地面搭建场景切入星空航程，尾焰、星点和行星变化串起升空过程。作者自述使用 Fable 5.2。",
+      "summaryEn": "A red-and-white rocket moves from its build site into a starry voyage through flame, stars and changing planetary views. The creator credits Fable 5.2.",
+      "author": {
+        "name": "Zirko Mirko",
+        "handle": "ZirkoMirko",
+        "url": "https://x.com/ZirkoMirko"
+      },
+      "source": {
+        "url": "https://x.com/ZirkoMirko/status/2119896335843529121",
+        "publishedAt": "2026-11-09T20:54:06.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2, in 1:53 minutes.",
+        "evidenceUrl": "https://x.com/ZirkoMirko/status/2119896335843529121"
+      },
+      "media": {
+        "durationSeconds": 13.833333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119896335843529121.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119895988517343232/vid/avc1/1920x1080/40ePOR3KPdp1Eqd3.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.043,
+        "width": 640,
+        "height": 360,
+        "bytes": 26053
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/ZirkoMirko/status/2119896335843529121",
+        "checkedAt": "2026-11-15T05:51:26.205083+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/ZirkoMirko/status/2119896335843529121",
+        "checkedAt": "2026-11-15T05:51:26.205083+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.205083+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119895988517343232/vid/avc1/1920x1080/40ePOR3KPdp1Eqd3.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/ZirkoMirko/status/2119896335843529121",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119892540950241283",
+      "stage": "discovery",
+      "title": "Claude 小方块眼中的神经元与宇宙",
+      "titleEn": "Neurons and the Cosmos Through a Claude Block's Eyes",
+      "category": "叙事短片",
+      "summary": "砖红色小方块穿过手绘纹理的知识场景，细胞结构与宇宙光束通过漫画式分镜连接。作者原帖明确署名 Fable 5.2。",
+      "summaryEn": "A brick-red block character explores illustrated knowledge scenes, linking cellular structures and cosmic light through comic panels. The creator credits Fable 5.2.",
+      "author": {
+        "name": "DreW",
+        "handle": "devteamdrew",
+        "url": "https://x.com/devteamdrew"
+      },
+      "source": {
+        "url": "https://x.com/devteamdrew/status/2119892540950241283",
+        "publishedAt": "2026-11-09T20:39:02.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Made with @claudeai Fable 5.2",
+        "evidenceUrl": "https://x.com/devteamdrew/status/2119892540950241283"
+      },
+      "media": {
+        "durationSeconds": 31.978667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119892540950241283.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7.035,
+        "width": 640,
+        "height": 360,
+        "bytes": 76325
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/devteamdrew/status/2119892540950241283",
+        "checkedAt": "2026-11-15T05:51:26.205661+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/devteamdrew/status/2119892540950241283",
+        "checkedAt": "2026-11-15T05:51:26.205661+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.205661+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/devteamdrew/status/2119892540950241283",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119888070283845716",
+      "stage": "discovery",
+      "title": "一粒火花写出 Fable 的自我介绍",
+      "titleEn": "A Spark Writes Fable's Introduction",
+      "category": "短动效",
+      "summary": "粒子从火花扩展成旋涡与星系，最后聚合成模型名字，以形态变化完成自我介绍。作者称视频由 Fable 5.2 以纯 JavaScript 制作。",
+      "summaryEn": "Particles expand from a spark into vortices and galaxies before resolving into the model's name. The creator credits Fable 5.2 and pure JavaScript.",
+      "author": {
+        "name": "Sotiris Kaniras",
+        "handle": "itssotsot",
+        "url": "https://x.com/itssotsot"
+      },
+      "source": {
+        "url": "https://x.com/itssotsot/status/2119888070283845716",
+        "publishedAt": "2026-11-09T20:21:16.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "I asked Fable 5.2 to introduce itself with a video created purely with JavaScript. Here's what it did.",
+        "evidenceUrl": "https://x.com/itssotsot/status/2119888070283845716"
+      },
+      "media": {
+        "durationSeconds": 29.466122,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119888070283845716.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119887904818294784/vid/avc1/1920x1080/iEHSU_81HjuqY3Dk.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6.483,
+        "width": 640,
+        "height": 360,
+        "bytes": 9813
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/itssotsot/status/2119888070283845716",
+        "checkedAt": "2026-11-15T05:51:26.207105+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/itssotsot/status/2119888070283845716",
+        "checkedAt": "2026-11-15T05:51:26.207105+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.207105+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119887904818294784/vid/avc1/1920x1080/iEHSU_81HjuqY3Dk.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/itssotsot/status/2119888070283845716",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119885430627913784",
+      "stage": "discovery",
+      "title": "小巫师 Clawd 发布新模型",
+      "titleEn": "Clawd the Little Wizard Releases a New Model",
+      "category": "叙事短片",
+      "summary": "戴巫师帽的橙色吉祥物在夜间书房施法，螺旋图案与星光串起模型发布故事。作者称使用 Fable 5.2，在既有动画基础上制作。",
+      "summaryEn": "An orange wizard mascot casts spells in a nighttime study, linking spirals and starlight into a model-launch story. The creator credits Fable 5.2 using an existing animation base.",
+      "author": {
+        "name": "NotinReality",
+        "handle": "other__reality",
+        "url": "https://x.com/other__reality"
+      },
+      "source": {
+        "url": "https://x.com/other__reality/status/2119885430627913784",
+        "publishedAt": "2026-11-09T20:10:46.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 on high reasoning made this",
+        "evidenceUrl": "https://x.com/other__reality/status/2119885430627913784"
+      },
+      "media": {
+        "durationSeconds": 26,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119885430627913784.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14",
+        "kind": "video_frame",
+        "timeSeconds": 18.72,
+        "width": 640,
+        "height": 360,
+        "bytes": 26919
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/other__reality/status/2119885430627913784",
+        "checkedAt": "2026-11-15T05:51:26.209175+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/other__reality/status/2119885430627913784",
+        "checkedAt": "2026-11-15T05:51:26.209175+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.209175+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14",
+        "sourcePostUrl": "https://x.com/other__reality/status/2119885430627913784",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119883560937001387",
+      "stage": "discovery",
+      "title": "深潜开关：从珊瑚海滑向深渊",
+      "titleEn": "Deep Dive Switch: From Coral to the Abyss",
+      "category": "3D 与交互",
+      "summary": "透明拨片沿胶囊滑槽前行，把鱼群、海龟与水母分成由浅到深的海洋层次。作者称这是 Fable 5.2 制作的音量滑块。",
+      "summaryEn": "A transparent handle travels along a capsule, revealing fish, turtles and jellyfish across ocean depths. The creator credits Fable 5.2 with the volume slider.",
+      "author": {
+        "name": "NinjaCodex",
+        "handle": "N1njaCodex",
+        "url": "https://x.com/N1njaCodex"
+      },
+      "source": {
+        "url": "https://x.com/N1njaCodex/status/2119883560937001387",
+        "publishedAt": "2026-11-09T20:03:21.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2, I asked for a volume slider",
+        "evidenceUrl": "https://x.com/N1njaCodex/status/2119883560937001387"
+      },
+      "media": {
+        "durationSeconds": 10.858667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119883560937001387.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119883519157506049/vid/avc1/1920x1080/IP2GewMfLfh2jVOs.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.389,
+        "width": 640,
+        "height": 360,
+        "bytes": 28459
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/N1njaCodex/status/2119883560937001387",
+        "checkedAt": "2026-11-15T05:51:26.210304+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/N1njaCodex/status/2119883560937001387",
+        "checkedAt": "2026-11-15T05:51:26.210304+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.210304+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119883519157506049/vid/avc1/1920x1080/IP2GewMfLfh2jVOs.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/N1njaCodex/status/2119883560937001387",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119881949540229421",
+      "stage": "discovery",
+      "title": "河上船屋：印象派像素的昼夜",
+      "titleEn": "A River Houseboat in Impressionist Pixels",
+      "category": "像素与角色",
+      "summary": "细碎色块构成河水、树影与船屋，河岸景色从明亮白昼流向暖色黄昏。作者明确以 Fable 5.2 制作像素动画。",
+      "summaryEn": "Small color marks form water, trees and a houseboat as the river scene changes from daylight to warm dusk. The creator credits Fable 5.2.",
+      "author": {
+        "name": "逢見テノ",
+        "handle": "aimi_teno",
+        "url": "https://x.com/aimi_teno"
+      },
+      "source": {
+        "url": "https://x.com/aimi_teno/status/2119881949540229421",
+        "publishedAt": "2026-11-09T19:56:56.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Fable 5.2 印象派ピクセルアート #pixelart",
+        "evidenceUrl": "https://x.com/aimi_teno/status/2119881949540229421"
+      },
+      "media": {
+        "durationSeconds": 60.053333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119881949540229421.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119881783424827392/vid/avc1/720x1278/izAE8abvXqtU_pQN.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 13.212,
+        "width": 451,
+        "height": 800,
+        "bytes": 98454
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/aimi_teno/status/2119881949540229421",
+        "checkedAt": "2026-11-15T05:51:26.213882+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/aimi_teno/status/2119881949540229421",
+        "checkedAt": "2026-11-15T05:51:26.213882+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.213882+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119881783424827392/vid/avc1/720x1278/izAE8abvXqtU_pQN.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/aimi_teno/status/2119881949540229421",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119878952588329192",
+      "stage": "discovery",
+      "title": "Express Yourself：一条线长出字母之树",
+      "titleEn": "Express Yourself: A Line Grows into a Letter Tree",
+      "category": "短动效",
+      "summary": "发光笔触在横线纸上生长成枝条与文字，再收束成落款，十秒内用单条线索组织变化。作者称由 Fable 5.2 一次生成。",
+      "summaryEn": "A glowing stroke grows across ruled paper into branches and words before resolving into a signature. The creator credits a single Fable 5.2 attempt.",
+      "author": {
+        "name": "Darius",
+        "handle": "dariuusnv",
+        "url": "https://x.com/dariuusnv"
+      },
+      "source": {
+        "url": "https://x.com/dariuusnv/status/2119878952588329192",
+        "publishedAt": "2026-11-09T19:45:02.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "@claudeai's Fable 5.2 one-shot attempt at generating a 10second animation about itself.",
+        "evidenceUrl": "https://x.com/dariuusnv/status/2119878952588329192"
+      },
+      "media": {
+        "durationSeconds": 10.090667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119878952588329192.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119878913857888257/vid/avc1/1920x1080/ydaWAIBjAaoGY3Ei.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.22,
+        "width": 640,
+        "height": 360,
+        "bytes": 23194
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/dariuusnv/status/2119878952588329192",
+        "checkedAt": "2026-11-15T05:51:26.214153+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/dariuusnv/status/2119878952588329192",
+        "checkedAt": "2026-11-15T05:51:26.214153+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.214153+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119878913857888257/vid/avc1/1920x1080/ydaWAIBjAaoGY3Ei.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/dariuusnv/status/2119878952588329192",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119876781700505627",
+      "stage": "discovery",
+      "title": "像素小屋的玻璃珠昼夜滑块",
+      "titleEn": "A Glass Slider Turns a Pixel Room from Night to Day",
+      "category": "3D 与交互",
+      "summary": "玻璃拨片滑过像素房间，窗外天色、室内灯光与角色姿态随位置改变，滑槽本身变成小屋剖面。作者自述使用 Fable 5.2。",
+      "summaryEn": "A glass handle crosses a pixel room, changing the sky, interior light and character pose as the track becomes a room cutaway. The creator credits Fable 5.2.",
+      "author": {
+        "name": "Vib3Coded",
+        "handle": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source": {
+        "url": "https://x.com/vib3coded/status/2119876781700505627",
+        "publishedAt": "2026-11-09T19:36:24.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "I’m blown away. Fable 5.2 is incredible",
+        "evidenceUrl": "https://x.com/vib3coded/status/2119876781700505627"
+      },
+      "media": {
+        "durationSeconds": 12.842667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119876781700505627.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119876729435033600/vid/avc1/1920x1080/QB_mINigwFKRIql6.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.825,
+        "width": 640,
+        "height": 360,
+        "bytes": 30951
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/vib3coded/status/2119876781700505627",
+        "checkedAt": "2026-11-15T05:51:26.216182+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/vib3coded/status/2119876781700505627",
+        "checkedAt": "2026-11-15T05:51:26.216182+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.216182+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119876729435033600/vid/avc1/1920x1080/QB_mINigwFKRIql6.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/vib3coded/status/2119876781700505627",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119876164051243409",
+      "stage": "discovery",
+      "title": "云海中的等距水车村庄",
+      "titleEn": "An Isometric Watermill Village Above the Clouds",
+      "category": "像素与角色",
+      "summary": "水流穿过村庄并落向云海，水车、鸟群与瀑布在固定构图里形成层次分明的循环。作者说明使用 Fable 5.2。",
+      "summaryEn": "Water runs through a village and falls into clouds while a waterwheel, birds and waterfalls create layered loops within a fixed composition. The creator credits Fable 5.2.",
+      "author": {
+        "name": "josen",
+        "handle": "josendev",
+        "url": "https://x.com/josendev"
+      },
+      "source": {
+        "url": "https://x.com/josendev/status/2119876164051243409",
+        "publishedAt": "2026-11-09T19:33:57.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "Isometric floating village by Claude Fable 5.2 medium effort",
+        "evidenceUrl": "https://x.com/josendev/status/2119876164051243409"
+      },
+      "media": {
+        "durationSeconds": 8,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119876164051243409.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 1.76,
+        "width": 640,
+        "height": 360,
+        "bytes": 19805
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/josendev/status/2119876164051243409",
+        "checkedAt": "2026-11-15T05:51:26.216527+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/josendev/status/2119876164051243409",
+        "checkedAt": "2026-11-15T05:51:26.216527+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.216527+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/josendev/status/2119876164051243409",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119873980786237842",
+      "stage": "discovery",
+      "title": "amani/studio：从蓝图到镀铬标志",
+      "titleEn": "amani/studio: From Blueprint to Chrome Mark",
+      "category": "短动效",
+      "summary": "细线蓝图铺出标志的轮廓，再切入镀铬曲面的近景与光线变化，用几何和材质衔接揭幕。作者自述使用 Fable 5.2。",
+      "summaryEn": "Blueprint lines establish a mark before close-ups of chrome surfaces and moving highlights reveal its form. The creator credits Fable 5.2.",
+      "author": {
+        "name": "Sharzil Alve",
+        "handle": "hello_amani",
+        "url": "https://x.com/hello_amani"
+      },
+      "source": {
+        "url": "https://x.com/hello_amani/status/2119873980786237842",
+        "publishedAt": "2026-11-09T19:25:17.000Z"
+      },
+      "model": {
+        "name": "Fable 5.2",
+        "evidenceQuote": "omg, claude fable 5.2 is seriously good at animation and 3D",
+        "evidenceUrl": "https://x.com/hello_amani/status/2119873980786237842"
+      },
+      "media": {
+        "durationSeconds": 36.096,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119873980786237842.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 25.989,
+        "width": 640,
+        "height": 640,
+        "bytes": 42165
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/hello_amani/status/2119873980786237842",
+        "checkedAt": "2026-11-15T05:51:26.216700+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/hello_amani/status/2119873980786237842",
+        "checkedAt": "2026-11-15T05:51:26.216700+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.216700+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/hello_amani/status/2119873980786237842",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/liang8989/awesome-fable5-2-videos"
+    },
+    {
+      "id": "2119867622108066283",
+      "stage": "discovery",
+      "title": "磁流体开关：液滴跟着磁场滑动",
+      "titleEn": "A Ferrofluid Toggle with Magnetic Droplets",
+      "category": "3D 与交互",
+      "summary": "黑色液体在凹槽内聚合、拉伸和分裂，小液滴跟随开关移动，形变与材质反光共同表达磁吸手感。作者说明 Opus 5.5 以单个 HTML 实现，并公开源码。",
+      "summaryEn": "Black fluid gathers, stretches and splits inside a groove as droplets follow the switch. The creator credits a single Opus 5.5 HTML file and shares its source.",
+      "author": {
+        "name": "🥔🥔🥔",
+        "handle": "argofowl",
+        "url": "https://x.com/argofowl"
+      },
+      "source": {
+        "url": "https://x.com/argofowl/status/2119867622108066283",
+        "publishedAt": "2026-11-09T19:00:01.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "ferrofluid toggle made with opus 5.5",
+        "evidenceUrl": "https://x.com/argofowl/status/2119867622108066283"
+      },
+      "media": {
+        "durationSeconds": 32.384,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119867622108066283.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119848331253800962/vid/avc1/2960x1582/4cw11h2MMRr8dOb2.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 7.124,
+        "width": 640,
+        "height": 342,
+        "bytes": 9127
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/argofowl/status/2119867622108066283",
+        "checkedAt": "2026-11-15T05:51:26.223439+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/argofowl/status/2119867622108066283",
+        "checkedAt": "2026-11-15T05:51:26.223439+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.223439+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119848331253800962/vid/avc1/2960x1582/4cw11h2MMRr8dOb2.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/argofowl/status/2119867622108066283",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+      "resources": [
+        {
+          "kind": "code",
+          "url": "https://github.com/argofowl/ferro-toggle",
+          "label": "对应磁流体开关源码",
+          "labelEn": "Matching ferrofluid toggle source",
+          "license": "MIT",
+          "licenseUrl": "https://github.com/argofowl/ferro-toggle/blob/main/LICENSE",
+          "evidenceUrl": "https://x.com/argofowl/status/2119867622108066283",
+          "checkedAt": "2026-11-15T05:59:34.994097+00:00"
+        },
+        {
+          "kind": "demo",
+          "url": "https://argofowl.github.io/ferro-toggle/",
+          "label": "体验磁流体开关",
+          "labelEn": "Try the ferrofluid toggle",
+          "evidenceUrl": "https://x.com/argofowl/status/2119867622108066283",
+          "checkedAt": "2026-11-15T05:59:34.994097+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2119848812202369120",
+      "stage": "discovery",
+      "title": "Python 镜头穿越：赛车、峡谷与庙宇",
+      "titleEn": "A Python-Coded Journey Through Cars, Canyons and Temples",
+      "category": "叙事短片",
+      "summary": "机械结构拆解切入峡谷公路与庙宇入口，多组景别用推进和穿越镜头连接。作者称每一帧均由 Opus 5.5 编写 Python 生成，未使用三维资产。",
+      "summaryEn": "Mechanical parts give way to a canyon road and temple entrance through forward-moving camera shots. The creator credits Opus 5.5 with Python-generated frames and no 3D assets.",
+      "author": {
+        "name": "Zeyko",
+        "handle": "iZeykoai",
+        "url": "https://x.com/iZeykoai"
+      },
+      "source": {
+        "url": "https://x.com/iZeykoai/status/2119848812202369120",
+        "publishedAt": "2026-11-09T17:45:16.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "this might be the best thing i've built with opus 5.5",
+        "evidenceUrl": "https://x.com/iZeykoai/status/2119848812202369120"
+      },
+      "media": {
+        "durationSeconds": 36.586667,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119848812202369120.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119845241671086081/vid/avc1/1920x1080/55vAsU8yyD5JE1h5.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 8.049,
+        "width": 640,
+        "height": 360,
+        "bytes": 21809
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/iZeykoai/status/2119848812202369120",
+        "checkedAt": "2026-11-15T05:51:26.218181+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/iZeykoai/status/2119848812202369120",
+        "checkedAt": "2026-11-15T05:51:26.218181+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.218181+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119845241671086081/vid/avc1/1920x1080/55vAsU8yyD5JE1h5.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/iZeykoai/status/2119848812202369120",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2119845363058426066",
+      "stage": "discovery",
+      "title": "线描水乡的白昼与夜晚",
+      "titleEn": "A Line-Drawn Canal Town from Day to Night",
+      "category": "短动效",
+      "summary": "街屋、行人和小船由细线勾出，日月更替时窗灯与水面反光逐步点亮，固定机位让生活细节持续流动。作者称使用 Opus 5.5。",
+      "summaryEn": "Fine lines describe canal houses, figures and boats as changing daylight gives way to lit windows and reflections. The creator credits Opus 5.5.",
+      "author": {
+        "name": "Dhruv",
+        "handle": "dhruvtwt_",
+        "url": "https://x.com/dhruvtwt_"
+      },
+      "source": {
+        "url": "https://x.com/dhruvtwt_/status/2119845363058426066",
+        "publishedAt": "2026-11-09T17:31:34.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "line art animation made using opus 5.5",
+        "evidenceUrl": "https://x.com/dhruvtwt_/status/2119845363058426066"
+      },
+      "media": {
+        "durationSeconds": 30,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119845363058426066.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119844365527060480/vid/avc1/1920x1080/1VF7i0v8NMgxgWWl.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 6.6,
+        "width": 640,
+        "height": 360,
+        "bytes": 43187
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/dhruvtwt_/status/2119845363058426066",
+        "checkedAt": "2026-11-15T05:51:26.217994+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/dhruvtwt_/status/2119845363058426066",
+        "checkedAt": "2026-11-15T05:51:26.217994+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.217994+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119844365527060480/vid/avc1/1920x1080/1VF7i0v8NMgxgWWl.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/dhruvtwt_/status/2119845363058426066",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2119748934809567640",
+      "stage": "discovery",
+      "title": "机械鹦鹉螺：触腕、螺旋壳与爆炸图",
+      "titleEn": "A Mechanical Nautilus: Tentacles, Spiral Shell and Exploded View",
+      "category": "3D 与交互",
+      "summary": "触腕与外壳沿螺旋结构分层展开，再以爆炸图展示内部组件，运动围绕壳体几何组织。作者称全部几何由 Opus 5.5 以代码生成。",
+      "summaryEn": "Tentacles and shell sections separate along a spiral structure before an exploded view reveals the internals. The creator credits Opus 5.5 with all geometry in code.",
+      "author": {
+        "name": "Vib3Coded",
+        "handle": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source": {
+        "url": "https://x.com/vib3coded/status/2119748934809567640",
+        "publishedAt": "2026-11-09T11:08:23.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Claude Opus 5.5 pulled it off in 35 minutes for $17.55",
+        "evidenceUrl": "https://x.com/vib3coded/status/2119748934809567640"
+      },
+      "media": {
+        "durationSeconds": 15.061333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119748934809567640.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119748654319685632/vid/avc1/1920x1080/N6d5pE1RADPt1uHX.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.313,
+        "width": 640,
+        "height": 360,
+        "bytes": 62108
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/vib3coded/status/2119748934809567640",
+        "checkedAt": "2026-11-15T05:51:26.223348+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/vib3coded/status/2119748934809567640",
+        "checkedAt": "2026-11-15T05:51:26.223348+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.223348+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119748654319685632/vid/avc1/1920x1080/N6d5pE1RADPt1uHX.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/vib3coded/status/2119748934809567640",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2119542001775628299",
+      "stage": "discovery",
+      "title": "Blue Whale Jelly：透明蓝鲸的软体形变",
+      "titleEn": "Blue Whale Jelly: A Transparent Whale Deforms",
+      "category": "3D 与交互",
+      "summary": "透明蓝鲸被拉起、弯折并释放，体内细节与高光跟着软体轮廓变化，界面把材质实验放在单一焦点上。作者明确使用 Opus 5.5。",
+      "summaryEn": "A transparent blue whale stretches, bends and releases as internal details and highlights follow its soft shape. The creator credits Opus 5.5.",
+      "author": {
+        "name": "Vib3Coded",
+        "handle": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source": {
+        "url": "https://x.com/vib3coded/status/2119542001775628299",
+        "publishedAt": "2026-11-08T21:26:07.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5. 20 minutes. $7.61. No coding experience",
+        "evidenceUrl": "https://x.com/vib3coded/status/2119542001775628299"
+      },
+      "media": {
+        "durationSeconds": 17.045333,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119542001775628299.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119541342778855424/vid/avc1/2560x1440/LKSJY3CN1TOUgvuE.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 3.75,
+        "width": 640,
+        "height": 360,
+        "bytes": 16594
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/vib3coded/status/2119542001775628299",
+        "checkedAt": "2026-11-15T05:51:26.222637+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/vib3coded/status/2119542001775628299",
+        "checkedAt": "2026-11-15T05:51:26.222637+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.222637+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119541342778855424/vid/avc1/2560x1440/LKSJY3CN1TOUgvuE.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/vib3coded/status/2119542001775628299",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
+      "id": "2119522734598471987",
+      "stage": "discovery",
+      "title": "Xbox 手柄的近景与拆解短片",
+      "titleEn": "An Xbox Controller in Close-Up and Exploded View",
+      "category": "3D 与交互",
+      "summary": "摇杆纹理的微距切换到手柄部件分离，灯光与景深强调按钮、外壳和金属轴的关系。作者说明使用 Opus 5.5 与 Three.js。",
+      "summaryEn": "Macro shots of joystick texture cut to separated controller parts, with light and depth of field emphasizing buttons, casing and metal shafts. The creator credits Opus 5.5 and Three.js.",
+      "author": {
+        "name": "Chetaslua",
+        "handle": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source": {
+        "url": "https://x.com/chetaslua/status/2119522734598471987",
+        "publishedAt": "2026-11-08T20:09:33.000Z"
+      },
+      "model": {
+        "name": "Claude Opus 5.5",
+        "evidenceQuote": "Opus 5.5 can achieve greatness with @threejs",
+        "evidenceUrl": "https://x.com/chetaslua/status/2119522734598471987"
+      },
+      "media": {
+        "durationSeconds": 13.056,
+        "videoCount": 1
+      },
+      "cover": {
+        "path": "assets/covers/2119522734598471987.jpg",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2119522433640398848/vid/avc1/1440x1080/QlZ7ZN7LNeykTX3-.mp4?tag=29",
+        "kind": "video_frame",
+        "timeSeconds": 2.872,
+        "width": 640,
+        "height": 480,
+        "bytes": 15516
+      },
+      "prompt": {
+        "status": "unknown",
+        "text": "",
+        "sourceUrl": "https://x.com/chetaslua/status/2119522734598471987",
+        "checkedAt": "2026-11-15T05:51:26.223136+00:00"
+      },
+      "metrics": {
+        "bookmarks": null,
+        "likes": null,
+        "views": null,
+        "sourceUrl": "https://x.com/chetaslua/status/2119522734598471987",
+        "checkedAt": "2026-11-15T05:51:26.223136+00:00"
+      },
+      "verification": {
+        "sourceReadAt": "2026-11-15T05:51:26.223136+00:00",
+        "authorClaimConfirmed": true,
+        "videoAttachmentConfirmed": true,
+        "fullReview": false,
+        "independentlyReproduced": false,
+        "promptMatchedSource": false
+      },
+      "webPlayback": {
+        "kind": "external_source_video",
+        "url": "https://video.twimg.com/amplify_video/2119522433640398848/vid/avc1/1440x1080/QlZ7ZN7LNeykTX3-.mp4?tag=29",
+        "sourcePostUrl": "https://x.com/chetaslua/status/2119522734598471987",
+        "checkedAt": "2026-11-15T05:59:34.994097+00:00",
+        "contentType": "video/mp4",
+        "verificationLevel": "source_media_matched",
+        "reuploadPermission": "not_verified"
+      },
+      "discoveredVia": "https://github.com/coolbat/awesome-opus-5.5-usecase"
+    },
+    {
       "id": "2120179018964324566",
       "stage": "discovery",
       "title": "Claude 吉祥物的手绘小镇之旅",

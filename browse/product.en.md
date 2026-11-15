@@ -2,7 +2,7 @@
 
 # Product & marketing
 
-404 works. Click a cover to play; works without gallery video open on X.
+405 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -2023,6 +2023,16 @@
 <tr>
 <td width="50%" valign="top"><strong>A 28-Second Motion Ad for Bookkeeping</strong><br><sub><a href="https://x.com/Aygramm_">@Aygramm_</a> · Product &amp; marketing</sub><br><sub>0:28 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116663090364465534">▶ Play</a> · <a href="https://x.com/Aygramm_/status/2116663090364465534">Original post</a></td>
 <td width="50%" valign="top"><strong>A Graphic Launch Film for a Gradient Library</strong><br><sub><a href="https://x.com/basit_designs">@basit_designs</a> · Product &amp; marketing</sub><br><sub>0:30 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2117933307585499192">▶ Play</a> · <a href="https://x.com/basit_designs/status/2117933307585499192">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120027646071283723"><img src="../assets/covers/2120027646071283723.jpg" width="225" alt="Hero in Motion: Motion on Request"></a></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Hero in Motion: Motion on Request</strong><br><sub><a href="https://x.com/AugustoBuilds">@AugustoBuilds</a> · Product &amp; marketing</sub><br><sub>0:16 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120027646071283723">▶ Play</a> · <a href="https://x.com/AugustoBuilds/status/2120027646071283723">Original post</a></td>
+<td width="50%"></td>
 </tr>
 </tbody>
 </table>

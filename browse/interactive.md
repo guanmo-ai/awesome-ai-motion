@@ -2,7 +2,7 @@
 
 # 交互演示
 
-460 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+472 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -2303,6 +2303,66 @@
 <tr>
 <td width="50%" valign="top"><strong>玻璃机械章鱼的核心展开</strong><br><sub><a href="https://x.com/averix_official">@averix_official</a> · 交互演示</sub><br><sub>0:24 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2118119342910972332">▶ 播放</a> · <a href="https://x.com/averix_official/status/2118119342910972332">原帖</a></td>
 <td width="50%" valign="top"><strong>机械鹰的变焦眼与拆翼</strong><br><sub><a href="https://x.com/averix_official">@averix_official</a> · 交互演示</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2118438787227484294">▶ 播放</a> · <a href="https://x.com/averix_official/status/2118438787227484294">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119522734598471987"><img src="../assets/covers/2119522734598471987.jpg" width="300" alt="Xbox 手柄的近景与拆解短片"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119542001775628299"><img src="../assets/covers/2119542001775628299.jpg" width="400" alt="Blue Whale Jelly：透明蓝鲸的软体形变"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Xbox 手柄的近景与拆解短片</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 交互演示</sub><br><sub>0:13 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119522734598471987">▶ 播放</a> · <a href="https://x.com/chetaslua/status/2119522734598471987">原帖</a></td>
+<td width="50%" valign="top"><strong>Blue Whale Jelly：透明蓝鲸的软体形变</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 交互演示</sub><br><sub>0:17 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119542001775628299">▶ 播放</a> · <a href="https://x.com/vib3coded/status/2119542001775628299">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119748934809567640"><img src="../assets/covers/2119748934809567640.jpg" width="400" alt="机械鹦鹉螺：触腕、螺旋壳与爆炸图"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119867622108066283"><img src="../assets/covers/2119867622108066283.jpg" width="400" alt="磁流体开关：液滴跟着磁场滑动"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>机械鹦鹉螺：触腕、螺旋壳与爆炸图</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 交互演示</sub><br><sub>0:15 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119748934809567640">▶ 播放</a> · <a href="https://x.com/vib3coded/status/2119748934809567640">原帖</a></td>
+<td width="50%" valign="top"><strong>磁流体开关：液滴跟着磁场滑动</strong><br><sub><a href="https://x.com/argofowl">@argofowl</a> · 交互演示</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119867622108066283">▶ 播放</a> · <a href="https://x.com/argofowl/status/2119867622108066283">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119876781700505627"><img src="../assets/covers/2119876781700505627.jpg" width="400" alt="像素小屋的玻璃珠昼夜滑块"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119883560937001387"><img src="../assets/covers/2119883560937001387.jpg" width="400" alt="深潜开关：从珊瑚海滑向深渊"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>像素小屋的玻璃珠昼夜滑块</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 交互演示</sub><br><sub>0:13 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119876781700505627">▶ 播放</a> · <a href="https://x.com/vib3coded/status/2119876781700505627">原帖</a></td>
+<td width="50%" valign="top"><strong>深潜开关：从珊瑚海滑向深渊</strong><br><sub><a href="https://x.com/N1njaCodex">@N1njaCodex</a> · 交互演示</sub><br><sub>0:11 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119883560937001387">▶ 播放</a> · <a href="https://x.com/N1njaCodex/status/2119883560937001387">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119898879340765513"><img src="../assets/covers/2119898879340765513.jpg" width="400" alt="玻璃开关中的十幕像素小世界"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119906202330988961"><img src="../assets/covers/2119906202330988961.jpg" width="400" alt="东京夜雨：拉面摊等到雪落"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>玻璃开关中的十幕像素小世界</strong><br><sub><a href="https://x.com/repodoting">@repodoting</a> · 交互演示</sub><br><sub>0:35 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119898879340765513">▶ 播放</a> · <a href="https://x.com/repodoting/status/2119898879340765513">原帖</a></td>
+<td width="50%" valign="top"><strong>东京夜雨：拉面摊等到雪落</strong><br><sub><a href="https://x.com/sprinntt">@sprinntt</a> · 交互演示</sub><br><sub>0:19 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119906202330988961">▶ 播放</a> · <a href="https://x.com/sprinntt/status/2119906202330988961">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119907096636657696"><img src="../assets/covers/2119907096636657696.jpg" width="330" alt="樱花体素浮岛上的昼夜宝塔"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119909780269785332"><img src="../assets/covers/2119909780269785332.jpg" width="400" alt="Piranha P-7：机械食人鱼的拆解与换色"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>樱花体素浮岛上的昼夜宝塔</strong><br><sub><a href="https://x.com/LuminaBench">@LuminaBench</a> · 交互演示</sub><br><sub>0:47 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119907096636657696">▶ 播放</a> · <a href="https://x.com/LuminaBench/status/2119907096636657696">原帖</a></td>
+<td width="50%" valign="top"><strong>Piranha P-7：机械食人鱼的拆解与换色</strong><br><sub><a href="https://x.com/Scratcherrrr">@Scratcherrrr</a> · 交互演示</sub><br><sub>0:20 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119909780269785332">▶ 播放</a> · <a href="https://x.com/Scratcherrrr/status/2119909780269785332">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2121290268779618790"><img src="../assets/covers/2121290268779618790.jpg" width="356" alt="Crocodile Jelly：果冻鳄鱼的拖拽与回弹"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2121327589990035501"><img src="../assets/covers/2121327589990035501.jpg" width="180" alt="Argo V：从吊装到夜间发射"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Crocodile Jelly：果冻鳄鱼的拖拽与回弹</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 交互演示</sub><br><sub>0:17 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2121290268779618790">▶ 播放</a> · <a href="https://x.com/vib3coded/status/2121290268779618790">原帖</a></td>
+<td width="50%" valign="top"><strong>Argo V：从吊装到夜间发射</strong><br><sub><a href="https://x.com/0x_Anni">@0x_Anni</a> · 交互演示</sub><br><sub>0:29 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2121327589990035501">▶ 播放</a> · <a href="https://x.com/0x_Anni/status/2121327589990035501">原帖</a></td>
 </tr>
 </tbody>
 </table>

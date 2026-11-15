@@ -4,7 +4,7 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-213 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+216 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
 
@@ -236,6 +236,13 @@
 - **相关工具**：[OfficeLint 产品网页](https://officelint.com/) · 未标明许可
   作者原帖链接的产品网页；不作为本条视频的工程或许可依据。
   [链接出处](https://x.com/feiflow/status/2108102749493834189) · 链接核对 2026-10-08 14:36 UTC
+
+## [Hero in Motion：按下播放才动起来](../cases/2120027646071283723.md) · @AugustoBuilds
+
+- **直接源码**：[含对应短片的 Hero in Motion 工程](https://github.com/augustobuilds/hero-in-motion) · [MIT](https://github.com/augustobuilds/hero-in-motion/blob/main/LICENSE)
+  [链接出处](https://x.com/AugustoBuilds/status/2120027646071283723) · 链接核对 2026-11-15 05:59 UTC
+- **公开网页**：[体验按需播放首屏](https://augustobuilds.github.io/hero-in-motion/)
+  [链接出处](https://x.com/AugustoBuilds/status/2120027646071283723) · 链接核对 2026-11-15 05:59 UTC
 
 ## [用镜头实验室解释对焦](../cases/2102591147927654847.md) · @RyanSael
 
@@ -654,6 +661,11 @@
 - **相关工具**：[Live2D 动作生成与预览工具](https://github.com/shinshin86/live2d-add-motion-sample-web-ui) · [MIT](https://github.com/shinshin86/live2d-add-motion-sample-web-ui/blob/main/LICENSE)
   shinshin86公开的通用动作工具，作者说明略有改动；角色模型不包含在仓库中，须遵守其单独许可。
   [链接出处](https://x.com/rotejin/status/2103384608301830297) · 链接核对 2026-11-02 15:38 UTC
+
+## [Luminati：像素城市里的景深与昼夜](../cases/2120518958512321022.md) · @tirthaexe
+
+- **相关工具**：[作者提供的 Luminati 引擎仓库](https://gitlab.com/stubborn-hug/lumina) · [MIT](https://gitlab.com/stubborn-hug/lumina/-/blob/main/LICENSE)
+  [链接出处](https://x.com/tirthaexe/status/2120518958512321022) · 链接核对 2026-11-15 05:59 UTC
 
 ## [小王子：跨越星辰的场景预告](../cases/2109962425512734739.md) · @Saccc\_c
 
@@ -1182,6 +1194,13 @@
 - **相关工具**：[机械拆解通用制作 Skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
   原帖引用的制作方法所链接的通用工具；不等同于这支影片的完整工程。
   [链接出处](https://x.com/elvar_official/status/2116174609355571402) · 链接核对 2026-11-02 08:50 UTC
+
+## [磁流体开关：液滴跟着磁场滑动](../cases/2119867622108066283.md) · @argofowl
+
+- **直接源码**：[对应磁流体开关源码](https://github.com/argofowl/ferro-toggle) · [MIT](https://github.com/argofowl/ferro-toggle/blob/main/LICENSE)
+  [链接出处](https://x.com/argofowl/status/2119867622108066283) · 链接核对 2026-11-15 05:59 UTC
+- **公开网页**：[体验磁流体开关](https://argofowl.github.io/ferro-toggle/)
+  [链接出处](https://x.com/argofowl/status/2119867622108066283) · 链接核对 2026-11-15 05:59 UTC
 
 ## [记忆褪成水彩：代码绘制的短片](../cases/2104186357824487573.md) · @techartist\_
 

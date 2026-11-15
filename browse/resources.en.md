@@ -4,7 +4,7 @@
 
 This index links to creators’ source, HTML, demos and tools without hosting third-party code. Public access does not grant reuse rights; consult the original license.
 
-213 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
+216 works with resource links · [Filter source or web pages](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any&lang=en) · [Related tools](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool&lang=en)
 
 Public work pages also count as implementation references; a web link alone does not establish access to the complete project or an open-source license.
 
@@ -236,6 +236,13 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[OfficeLint product website](https://officelint.com/) · No license specified
   A creator-linked product page, not evidence of this video project or its reuse license.
   [Link source](https://x.com/feiflow/status/2108102749493834189) · Link checked 2026-10-08 14:36 UTC
+
+## [Hero in Motion: Motion on Request](../cases/2120027646071283723.en.md) · @AugustoBuilds
+
+- **Direct source**：[Hero in Motion project with the matching film](https://github.com/augustobuilds/hero-in-motion) · [MIT](https://github.com/augustobuilds/hero-in-motion/blob/main/LICENSE)
+  [Link source](https://x.com/AugustoBuilds/status/2120027646071283723) · Link checked 2026-11-15 05:59 UTC
+- **Public web page**：[Try the opt-in video hero](https://augustobuilds.github.io/hero-in-motion/)
+  [Link source](https://x.com/AugustoBuilds/status/2120027646071283723) · Link checked 2026-11-15 05:59 UTC
 
 ## [An interactive camera lens lab](../cases/2102591147927654847.en.md) · @RyanSael
 
@@ -654,6 +661,11 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[Live2D motion-generation and preview tool](https://github.com/shinshin86/live2d-add-motion-sample-web-ui) · [MIT](https://github.com/shinshin86/live2d-add-motion-sample-web-ui/blob/main/LICENSE)
   A general motion tool by shinshin86, slightly modified by the creator. Character models are not bundled and retain their own license terms.
   [Link source](https://x.com/rotejin/status/2103384608301830297) · Link checked 2026-11-02 15:38 UTC
+
+## [Luminati: Depth and Daylight in a Pixel City](../cases/2120518958512321022.en.md) · @tirthaexe
+
+- **Related tool**：[Creator-linked Luminati engine repository](https://gitlab.com/stubborn-hug/lumina) · [MIT](https://gitlab.com/stubborn-hug/lumina/-/blob/main/LICENSE)
+  [Link source](https://x.com/tirthaexe/status/2120518958512321022) · Link checked 2026-11-15 05:59 UTC
 
 ## [The Little Prince: Across the Stars Trailer](../cases/2109962425512734739.en.md) · @Saccc\_c
 
@@ -1182,6 +1194,13 @@ Public work pages also count as implementation references; a web link alone does
 - **Related tool**：[General mechanical-teardown production skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
   A general tool linked by the production guide quoted in the post; it is not the complete project for this film.
   [Link source](https://x.com/elvar_official/status/2116174609355571402) · Link checked 2026-11-02 08:50 UTC
+
+## [A Ferrofluid Toggle with Magnetic Droplets](../cases/2119867622108066283.en.md) · @argofowl
+
+- **Direct source**：[Matching ferrofluid toggle source](https://github.com/argofowl/ferro-toggle) · [MIT](https://github.com/argofowl/ferro-toggle/blob/main/LICENSE)
+  [Link source](https://x.com/argofowl/status/2119867622108066283) · Link checked 2026-11-15 05:59 UTC
+- **Public web page**：[Try the ferrofluid toggle](https://argofowl.github.io/ferro-toggle/)
+  [Link source](https://x.com/argofowl/status/2119867622108066283) · Link checked 2026-11-15 05:59 UTC
 
 ## [Memory Fading into Watercolor: A Coded Short](../cases/2104186357824487573.en.md) · @techartist\_
 

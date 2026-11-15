@@ -2,7 +2,7 @@
 
 # 3D & interactive
 
-460 works. Click a cover to play; works without gallery video open on X.
+472 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -2303,6 +2303,66 @@
 <tr>
 <td width="50%" valign="top"><strong>A Glass Robot Octopus Opens Its Core</strong><br><sub><a href="https://x.com/averix_official">@averix_official</a> · 3D &amp; interactive</sub><br><sub>0:24 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2118119342910972332">▶ Play</a> · <a href="https://x.com/averix_official/status/2118119342910972332">Original post</a></td>
 <td width="50%" valign="top"><strong>A Robot Eagle's Zoom Eye and Detachable Wings</strong><br><sub><a href="https://x.com/averix_official">@averix_official</a> · 3D &amp; interactive</sub><br><sub>0:15 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2118438787227484294">▶ Play</a> · <a href="https://x.com/averix_official/status/2118438787227484294">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119522734598471987"><img src="../assets/covers/2119522734598471987.jpg" width="300" alt="An Xbox Controller in Close-Up and Exploded View"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119542001775628299"><img src="../assets/covers/2119542001775628299.jpg" width="400" alt="Blue Whale Jelly: A Transparent Whale Deforms"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>An Xbox Controller in Close-Up and Exploded View</strong><br><sub><a href="https://x.com/chetaslua">@chetaslua</a> · 3D &amp; interactive</sub><br><sub>0:13 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119522734598471987">▶ Play</a> · <a href="https://x.com/chetaslua/status/2119522734598471987">Original post</a></td>
+<td width="50%" valign="top"><strong>Blue Whale Jelly: A Transparent Whale Deforms</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 3D &amp; interactive</sub><br><sub>0:17 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119542001775628299">▶ Play</a> · <a href="https://x.com/vib3coded/status/2119542001775628299">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119748934809567640"><img src="../assets/covers/2119748934809567640.jpg" width="400" alt="A Mechanical Nautilus: Tentacles, Spiral Shell and Exploded View"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119867622108066283"><img src="../assets/covers/2119867622108066283.jpg" width="400" alt="A Ferrofluid Toggle with Magnetic Droplets"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Mechanical Nautilus: Tentacles, Spiral Shell and Exploded View</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 3D &amp; interactive</sub><br><sub>0:15 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119748934809567640">▶ Play</a> · <a href="https://x.com/vib3coded/status/2119748934809567640">Original post</a></td>
+<td width="50%" valign="top"><strong>A Ferrofluid Toggle with Magnetic Droplets</strong><br><sub><a href="https://x.com/argofowl">@argofowl</a> · 3D &amp; interactive</sub><br><sub>0:32 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119867622108066283">▶ Play</a> · <a href="https://x.com/argofowl/status/2119867622108066283">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119876781700505627"><img src="../assets/covers/2119876781700505627.jpg" width="400" alt="A Glass Slider Turns a Pixel Room from Night to Day"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119883560937001387"><img src="../assets/covers/2119883560937001387.jpg" width="400" alt="Deep Dive Switch: From Coral to the Abyss"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Glass Slider Turns a Pixel Room from Night to Day</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 3D &amp; interactive</sub><br><sub>0:13 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119876781700505627">▶ Play</a> · <a href="https://x.com/vib3coded/status/2119876781700505627">Original post</a></td>
+<td width="50%" valign="top"><strong>Deep Dive Switch: From Coral to the Abyss</strong><br><sub><a href="https://x.com/N1njaCodex">@N1njaCodex</a> · 3D &amp; interactive</sub><br><sub>0:11 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119883560937001387">▶ Play</a> · <a href="https://x.com/N1njaCodex/status/2119883560937001387">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119898879340765513"><img src="../assets/covers/2119898879340765513.jpg" width="400" alt="Ten Pixel Worlds Inside Glass Switches"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119906202330988961"><img src="../assets/covers/2119906202330988961.jpg" width="400" alt="Tokyo Night Rain: Snow at a Ramen Stall"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Ten Pixel Worlds Inside Glass Switches</strong><br><sub><a href="https://x.com/repodoting">@repodoting</a> · 3D &amp; interactive</sub><br><sub>0:35 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119898879340765513">▶ Play</a> · <a href="https://x.com/repodoting/status/2119898879340765513">Original post</a></td>
+<td width="50%" valign="top"><strong>Tokyo Night Rain: Snow at a Ramen Stall</strong><br><sub><a href="https://x.com/sprinntt">@sprinntt</a> · 3D &amp; interactive</sub><br><sub>0:19 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119906202330988961">▶ Play</a> · <a href="https://x.com/sprinntt/status/2119906202330988961">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119907096636657696"><img src="../assets/covers/2119907096636657696.jpg" width="330" alt="A Voxel Pagoda Island Through Day and Night"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119909780269785332"><img src="../assets/covers/2119909780269785332.jpg" width="400" alt="Piranha P-7: A Mechanical Fish Comes Apart"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Voxel Pagoda Island Through Day and Night</strong><br><sub><a href="https://x.com/LuminaBench">@LuminaBench</a> · 3D &amp; interactive</sub><br><sub>0:47 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119907096636657696">▶ Play</a> · <a href="https://x.com/LuminaBench/status/2119907096636657696">Original post</a></td>
+<td width="50%" valign="top"><strong>Piranha P-7: A Mechanical Fish Comes Apart</strong><br><sub><a href="https://x.com/Scratcherrrr">@Scratcherrrr</a> · 3D &amp; interactive</sub><br><sub>0:20 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119909780269785332">▶ Play</a> · <a href="https://x.com/Scratcherrrr/status/2119909780269785332">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2121290268779618790"><img src="../assets/covers/2121290268779618790.jpg" width="356" alt="Crocodile Jelly: Dragging and Rebounding a Soft Reptile"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2121327589990035501"><img src="../assets/covers/2121327589990035501.jpg" width="180" alt="Argo V: From Crane Assembly to Night Launch"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Crocodile Jelly: Dragging and Rebounding a Soft Reptile</strong><br><sub><a href="https://x.com/vib3coded">@vib3coded</a> · 3D &amp; interactive</sub><br><sub>0:17 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2121290268779618790">▶ Play</a> · <a href="https://x.com/vib3coded/status/2121290268779618790">Original post</a></td>
+<td width="50%" valign="top"><strong>Argo V: From Crane Assembly to Night Launch</strong><br><sub><a href="https://x.com/0x_Anni">@0x_Anni</a> · 3D &amp; interactive</sub><br><sub>0:29 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2121327589990035501">▶ Play</a> · <a href="https://x.com/0x_Anni/status/2121327589990035501">Original post</a></td>
 </tr>
 </tbody>
 </table>

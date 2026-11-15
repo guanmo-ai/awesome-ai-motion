@@ -2,7 +2,7 @@
 
 # Narrative films
 
-191 works. Click a cover to play; works without gallery video open on X.
+198 works. Click a cover to play; works without gallery video open on X.
 
 <table>
 <tbody>
@@ -958,11 +958,41 @@
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116630297005457517"><img src="../assets/covers/2116630297005457517.jpg" width="126" alt="A Halloween Suspense Short in One HTML File"></a></td>
-<td width="50%"></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119848812202369120"><img src="../assets/covers/2119848812202369120.jpg" width="400" alt="A Python-Coded Journey Through Cars, Canyons and Temples"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>A Halloween Suspense Short in One HTML File</strong><br><sub><a href="https://x.com/AIronAgent">@AIronAgent</a> · Narrative films</sub><br><sub>0:29 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2116630297005457517">▶ Play</a> · <a href="https://x.com/AIronAgent/status/2116630297005457517">Original post</a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><strong>A Python-Coded Journey Through Cars, Canyons and Temples</strong><br><sub><a href="https://x.com/iZeykoai">@iZeykoai</a> · Narrative films</sub><br><sub>0:37 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119848812202369120">▶ Play</a> · <a href="https://x.com/iZeykoai/status/2119848812202369120">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119885430627913784"><img src="../assets/covers/2119885430627913784.jpg" width="400" alt="Clawd the Little Wizard Releases a New Model"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119892540950241283"><img src="../assets/covers/2119892540950241283.jpg" width="400" alt="Neurons and the Cosmos Through a Claude Block's Eyes"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Clawd the Little Wizard Releases a New Model</strong><br><sub><a href="https://x.com/other__reality">@other__reality</a> · Narrative films</sub><br><sub>0:26 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119885430627913784">▶ Play</a> · <a href="https://x.com/other__reality/status/2119885430627913784">Original post</a></td>
+<td width="50%" valign="top"><strong>Neurons and the Cosmos Through a Claude Block's Eyes</strong><br><sub><a href="https://x.com/devteamdrew">@devteamdrew</a> · Narrative films</sub><br><sub>0:32 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119892540950241283">▶ Play</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119902302001635455"><img src="../assets/covers/2119902302001635455.jpg" width="225" alt="A Paper-Cut Sun Crosses a Seaside Town"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120008924204310895"><img src="../assets/covers/2120008924204310895.jpg" width="400" alt="Assembly: A Miniature Forest on a Desk"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>A Paper-Cut Sun Crosses a Seaside Town</strong><br><sub><a href="https://x.com/eluchocha">@eluchocha</a> · Narrative films</sub><br><sub>0:38 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2119902302001635455">▶ Play</a> · <a href="https://x.com/eluchocha/status/2119902302001635455">Original post</a></td>
+<td width="50%" valign="top"><strong>Assembly: A Miniature Forest on a Desk</strong><br><sub><a href="https://x.com/j_h_h_3">@j_h_h_3</a> · Narrative films</sub><br><sub>1:00 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120008924204310895">▶ Play</a> · <a href="https://x.com/j_h_h_3/status/2120008924204310895">Original post</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120026164479545578"><img src="../assets/covers/2120026164479545578.jpg" width="400" alt="The Last Bus of Summer"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2121279507390996526"><img src="../assets/covers/2121279507390996526.jpg" width="127" alt="Claude Blocks Build a Rocket to the Moon"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>The Last Bus of Summer</strong><br><sub><a href="https://x.com/TejasThange3">@TejasThange3</a> · Narrative films</sub><br><sub>1:17 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2120026164479545578">▶ Play</a> · <a href="https://x.com/TejasThange3/status/2120026164479545578">Original post</a></td>
+<td width="50%" valign="top"><strong>Claude Blocks Build a Rocket to the Moon</strong><br><sub><a href="https://x.com/TheVRNerd">@TheVRNerd</a> · Narrative films</sub><br><sub>1:31 · Bookmarks — · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2121279507390996526">▶ Play</a> · <a href="https://x.com/TheVRNerd/status/2121279507390996526">Original post</a></td>
 </tr>
 </tbody>
 </table>
